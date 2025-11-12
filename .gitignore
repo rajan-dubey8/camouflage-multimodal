@@ -10,6 +10,7 @@
 *.npz
 *.pkl
 *.onnx
+.env
 
 # Ignore cache and environment folders
 __pycache__/
@@ -19,7 +20,7 @@ venv/
 env/
 .idea/
 .vscode/
-results/
+# results/
 outputs/
 logs/
 checkpoints/
