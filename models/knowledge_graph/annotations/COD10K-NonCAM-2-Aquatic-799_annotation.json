@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Shark",
+  "background_description": "The background consists of deep blue water, typical of an aquarium or ocean environment. There are large, dark, textured rock formations on the left side and in the lower foreground, suggesting a rocky seafloor habitat. The very bottom right shows a light sandy substrate. The water surface is visible at the top, showing ripples and reflections of light.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.7",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The shark exhibits countershading, a common form of color blending camouflage. Its dorsal (upper) side is a darker brownish-grey, which helps it blend with the deeper, darker water or the rocky seafloor when viewed from above. Its ventral (lower) side is significantly lighter, designed to blend with the brighter light filtering down from the surface when viewed from below. This gradient in coloration helps to reduce the shark's apparent three-dimensionality and break up its silhouette in the open water column, making it harder for both prey and predators to detect."
+}

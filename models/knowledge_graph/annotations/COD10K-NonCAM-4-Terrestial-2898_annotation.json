@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The squirrel is positioned on a textured grey rock or stone surface. The background consists of dense vegetation, featuring numerous bare and brown tree branches intertwined with vibrant green and yellowish-brown leaves, creating a dappled effect with areas of deep shadow and sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel exhibits camouflage primarily through color blending. Its reddish-brown and grayish fur coloration closely matches the natural tones of tree bark, dry leaves, and branches found in its typical woodland habitat. While it is somewhat noticeable against the grey rock it currently sits upon, its overall pelage provides effective concealment when moving through foliage and among tree trunks. The variation in fur color helps to break up its outline against the varied background of branches and leaves."
+}

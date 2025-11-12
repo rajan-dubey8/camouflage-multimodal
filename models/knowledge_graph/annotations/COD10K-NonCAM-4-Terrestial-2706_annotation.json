@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras",
+  "background_description": "The background consists of an open savanna grassland. In the immediate foreground, there is lush green grass where the zebras are grazing, transitioning into a muddy brown-grey patch of wet ground. Further back, the landscape is dominated by expansive fields of green and yellowish-green grass, with a blurry group of wildebeest grazing in the middle distance under what appears to be a bright, overcast sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "Zebras possess a form of disruptive pattern camouflage through their distinctive black and white stripes. While these stripes do not blend in terms of color or texture with the immediate green grass or brown mud of the environment in this daylight setting, they serve to break up the outline of the animals. This makes it difficult for predators to distinguish individual zebras within a herd, or to accurately judge their speed and direction, especially at a distance, in low light, or when the animals are moving. The high contrast of the stripes themselves causes them to stand out against the relatively uniform green and brown background, indicating low color and texture similarity with the immediate surroundings. However, the pattern itself is a recognized form of camouflage, designed for visual disruption rather than direct blending with the background's colors or textures in all conditions."
+}

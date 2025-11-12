@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The toad is situated within a dark, irregularly shaped cavity or hollow, likely a knot hole or crevice in a tree trunk. The surrounding environment consists of rough, gnarled tree bark with deep fissures and an uneven, textured surface. The bark predominantly features shades of dark brown, grey, and muted olive green, characteristic of aged wood and possibly some moss or algae. The overall lighting is dim, casting the background into muted tones and creating a deep, dark void behind the toad.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The toad demonstrates excellent camouflage in this image. Its skin coloration, a mottled mix of dark browns, greys, and muted greens, provides a high degree of color matching with the surrounding tree bark and the shadowy interior of the cavity. Furthermore, the rough, warty texture of its skin closely mimics the coarse and irregular surface of the bark, making it difficult to distinguish by texture alone. The toad's strategic placement within the dark hollow leverages shadows to further obscure its form. While its reflective eyes are somewhat noticeable against the dark backdrop, the rest of its body blends remarkably well with the environment, significantly reducing its detectability."
+}

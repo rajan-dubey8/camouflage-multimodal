@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a forest floor covered with an abundance of brown fallen leaves, twigs, and patches of green moss and low-lying vegetation. Numerous out-of-focus green and brown branches and leaves in the foreground create a dense, cluttered environment, further obscuring the view. The lighting is soft and diffused, creating dappled shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird's plumage exhibits an excellent combination of browns, tans, and dark patterns that perfectly match the colors and textures of the dried leaves, twigs, and soil on the forest floor. Its intricate feather patterns mimic the fragmented appearance of the ground cover and dappled light, effectively disrupting its outline and making it blend seamlessly into the environment. The low contrast difference between the bird and its surroundings, coupled with the busy, cluttered background, makes it exceptionally difficult to spot, indicating a highly effective camouflage strategy."
+}

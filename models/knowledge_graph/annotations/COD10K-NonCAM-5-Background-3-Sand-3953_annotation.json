@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Desert sand dunes",
+  "background_description": "The image showcases a vast desert landscape dominated by reddish-orange sand dunes. The sand features intricate wind-formed ripples and shadows, creating a textured surface. Above the horizon, a dramatic sky with a mix of vibrant blue and dark, textured clouds is visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural desert environment with sand dunes and a cloudy sky. There are no visible organisms (animals, insects, fish, etc.) present in the frame. As such, there is no entity that could exhibit camouflage, and therefore, no camouflage is detected."
+}

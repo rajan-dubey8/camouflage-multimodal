@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a calm, reflective body of water, likely a pond or lake. The water surface is predominantly a smooth, light gray, reflecting an overcast sky, with subtle variations in tone and very gentle ripples. There are distinct, small, circular ripples immediately surrounding the toad's head where it breaks the surface.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The toad demonstrates effective camouflage primarily through 'shape disruption' and 'color blending'. Only a small portion of its head, specifically its eyes and the top of its snout, breaks the water surface. This low profile minimizes its visible shape, making it difficult to distinguish from natural elements like floating debris or minor disturbances on the water. The toad's dark grey-brown skin color, while not identical, has a moderate similarity to the subdued, reflective grey tones of the water, especially where shadows or reflections occur. The small ripples created by its head further blur its outline, contributing to the overall concealment. While its bright, reflective eyes are a point of higher contrast, the overall effect is that the toad is well-hidden by blending into its aquatic environment through minimal exposure and harmonious coloration."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Green Iguana",
+  "background_description": "The background consists of a natural forest floor or ground cover, characterized by dry, reddish-brown and brown leaves, pine needles, small twigs, and patches of light brown soil. There are hints of blurry green foliage in the distant background, suggesting lush vegetation. The lighting is dappled, creating areas of sun and shadow.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The green iguana exhibits camouflage primarily through color blending. Its varied green, grayish-green, and darker head coloration allows it to blend with natural foliage and the varied textures of the forest floor, including sparse green plants, dried leaves, and shadowy areas. While its primary green color might not perfectly match the predominantly brown immediate ground litter, its overall mottled scales and rough texture provide medium color and texture similarity with the complex natural environment, helping to disrupt its outline in the dappled light. The bands on its tail also contribute to breaking up its form."
+}

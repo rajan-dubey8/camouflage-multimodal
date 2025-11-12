@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of dry, reddish-brown sandy soil with scattered small rocks, dried twigs, and plant debris. A larger, flat, lighter brown/tan rock surface occupies the foreground and mid-ground, where the gecko is located. Parts of the environment are brightly lit by direct sunlight, while other areas further back are in partial shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The gecko exhibits excellent camouflage in this image. Its body coloration is a dusty grayish-tan with subtle darker patterns, which almost perfectly matches the hue and value of the sunlit sandy rock surface it is resting upon. The fine, granular texture of its skin also closely mimics the rough, grainy surface of the rock and the surrounding loose sand. There is a very low contrast difference between the gecko and its immediate surroundings, preventing it from standing out visually. The subtle patterns on its back further contribute to blending by disrupting its outline against the textured ground. While a small shadow is cast by the gecko, it does not significantly compromise the overall blending effect, making the organism highly inconspicuous within its arid, rocky, and sandy environment."
+}

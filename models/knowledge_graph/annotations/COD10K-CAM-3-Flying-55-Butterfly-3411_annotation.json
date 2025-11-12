@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is resting on a dry, curled, light brown leaf. Directly beneath the leaf, and partially visible, is a vibrant blue flower or object. The broader background consists of blurry dark brown and reddish-brown dried leaves, along with some sparse green foliage and textured, dark ground elements.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly's wings exhibit a complex pattern of dark browns, blacks, and muted tan/cream colors, with a rough, mottled texture. This coloration and texture strongly mimic the appearance of a dry, withered leaf or tree bark. It blends exceptionally well with the dry, light brown leaf it is resting upon and the surrounding natural leaf litter in the background. While there is a vibrant blue object beneath the leaf, which creates a strong contrast, the butterfly's own patterning is highly effective at camouflaging it against the more prevalent natural elements of its environment. The irregular patterns on its wings also contribute to breaking up its outline against a textured background, making it difficult to distinguish."
+}

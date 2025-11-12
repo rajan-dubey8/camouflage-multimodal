@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with shallow reef",
+  "background_description": "The scene features a bright blue sky with sparse white clouds. Below, a vast ocean transitions from deep blue to turquoise over extensive shallow reef areas with visible rock formations and patches of sand and algae. The coastline includes a light sandy beach and green scrub vegetation on the adjacent landmass.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a wide coastal landscape, encompassing the sky, ocean, a sandy beach, and extensive shallow reef areas. There are no discernible animals, insects, or fish present in the image that would be subjects for camouflage detection. Therefore, no camouflage is detected or analyzed."
+}

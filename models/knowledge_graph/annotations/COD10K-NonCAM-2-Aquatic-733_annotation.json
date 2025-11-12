@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sergeant Major fish",
+  "background_description": "The background depicts a shallow aquatic environment, likely a sandy or rocky seabed, covered with some sparse algae or sediment. The water contains visible particles, and light patterns from the surface ripple through the water, casting bright lines on the muted greenish-brown and grey seafloor.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Sergeant Major fish, identifiable by its distinct light body with prominent black and yellow vertical stripes. Its bright and contrasting coloration makes it stand out significantly against the muted, sandy-algae background, indicating no attempt at camouflage."
+}

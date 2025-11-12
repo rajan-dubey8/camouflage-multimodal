@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of calm, murky water, appearing as a gradient of dark brown and grey-green tones, with subtle, blurred reflections of ambient light or distant vegetation. The toad is perched on a dark, wet, irregularly shaped log or branch that is partially submerged in the water, creating a distinct waterline along its base.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "While the toad's dark, bumpy skin coloration and texture closely match the wet, rough log it is sitting on, providing a good degree of color blending and pattern matching, its active vocalization significantly undermines any camouflage. The inflated vocal sac is a much lighter, smooth, and prominent bulbous structure with a distinct red patch underneath, creating a high contrast point that immediately draws the eye. This conspicuous display makes the toad stand out clearly against both the log and the murky water, effectively negating its natural camouflage features in this specific moment."
+}

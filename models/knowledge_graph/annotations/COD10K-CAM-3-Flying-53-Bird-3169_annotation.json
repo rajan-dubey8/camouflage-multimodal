@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a body of murky, dark water reflecting some light and the sky, densely populated by tall, slender reeds or marsh grasses. These reeds are predominantly green at the top and brown/dried closer to the water, forming a thick, vertical pattern that partially obscures the view into the water. The environment is wetland-like, with shadows and varying light conditions within the reeds.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shape disruption / Shadow hiding",
+  "explanation": "The bird, a heron, demonstrates effective camouflage in this image. Its dark gray-blue and white plumage blends reasonably well with the murky, shadowed water and the darker, drier reeds at the base. The most significant factor is the dense cluster of vertical reeds which physically break up the bird's silhouette, making its solid form much harder to distinguish from the surrounding vegetation. This creates a strong effect of shape disruption. The bird is partially submerged, and its dark tones also align with the shadowed areas within the water and among the reeds, contributing to shadow hiding. While its texture is clearly different from the reeds, the combination of color blending with the dark water/shadows and the physical disruption of its shape by the dense plant life makes it camouflaged."
+}

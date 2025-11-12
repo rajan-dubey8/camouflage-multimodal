@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with rocky beach and hills",
+  "background_description": "The foreground features a light grey gravel path curving towards the left and a rocky beach covered with various sizes of grey and brown stones, interspersed with patches of dark brown seaweed. The midground shows a body of water, likely the ocean or a large lake. The background is dominated by large, rolling hills composed of light-colored, possibly sedimentary rock formations with patches of green vegetation, all under a clear blue sky with scattered white clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural coastal landscape featuring a gravel path, a rocky and seaweedy shoreline, a body of water, and distant hills under a blue sky. No animals, insects, or fish are visible in the scene. Therefore, camouflage is not present as there is no organism to observe for camouflaging properties."
+}

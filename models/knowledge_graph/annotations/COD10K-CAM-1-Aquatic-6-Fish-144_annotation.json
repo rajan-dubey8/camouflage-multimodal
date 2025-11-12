@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a sandy seafloor, primarily light beige and greyish-brown, interspersed with numerous darker sand grains, black pebbles, and small white, orange, and iridescent shell fragments. The texture is granular and uneven, reflecting typical sediment composition.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits exceptional camouflage by harmonizing almost perfectly with its sandy surroundings. Its body coloration, a mottled mix of light beige, greyish-brown, and darker speckles, precisely matches the varied hues of the sand grains, pebbles, and shell fragments on the seafloor. The granular texture of its skin further enhances this resemblance, mimicking the tactile quality of the sediment. The fish is partially buried, which effectively disrupts its body outline and merges its form with the irregular surface of the sand, making it extremely difficult to discern from the substrate. The only prominent features that break this impressive visual fusion are its eyes, which stand out with their darker pupils and reflective quality."
+}

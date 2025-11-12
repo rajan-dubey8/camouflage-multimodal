@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a rough, textured rock surface with a mottled appearance. It features a blend of earthy tones including various shades of gray, off-white, dark brown, and prominent patches of rust-orange and duller orange-brown, suggesting the presence of lichens or weathered mineral deposits. The texture is granular and irregular, with subtle undulations.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper exhibits exceptional camouflage against its rocky environment. Its body and wing coloration consist of a complex, mottled pattern of white, dark brown, and rust-orange, which are strikingly similar to the colors present on the background rock (grays, whites, browns, and rust-orange patches). The granular and speckled texture of the grasshopper's exoskeleton and wings also perfectly mimics the rough, irregular texture of the rock, including patterns that resemble lichens or mineral stains. This high degree of color and texture similarity, combined with a low contrast difference, effectively blends the grasshopper into its surroundings, making it very difficult to distinguish its outline and form from the background."
+}

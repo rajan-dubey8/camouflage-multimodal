@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of dark, wet or reflective sand with a fine to medium granular texture. It appears to be a beach environment, likely at the water's edge or recently wet, showing a mix of dark grey, black, and light brown/golden specks, particularly where light reflects off the grains.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The crab demonstrates effective camouflage through color blending and pattern matching. Its carapace and legs feature a mottled pattern of light browns, tans, and dark specks which closely mimic the varied coloration of the sand grains in the background. While the sand is predominantly dark, the presence of numerous lighter, reflective, and brownish particles, especially under direct light, allows the crab's similar hues to blend in. The irregular shape and texture of the crab's shell also contribute to breaking up its outline against the granular sand, making it less distinct from the environment. The overall contrast between the crab and its surroundings is low, preventing it from standing out prominently."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Greater Scaup",
+  "background_description": "The background consists of dark blue-grey water with gentle ripples and waves, creating a textured surface with varying shades of dark blue, grey, and hints of lighter reflections.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Greater Scaup displays a form of camouflage known as countershading, which is a type of color blending. Its dark black head and upper back help it blend with the darker water surface when viewed from above, reducing its silhouette against the depths. The patterned grey back shows moderate color similarity to the water's surface, while the bright white flanks are designed to blend with the brighter sky reflections when viewed from below. In this specific image, the bird is clearly visible against the rippling water, with the white flanks creating a high contrast, but its overall coloration is an evolutionary adaptation for blending into its aquatic environment. The texture of its feathers contrasts significantly with the dynamic texture of the water."
+}

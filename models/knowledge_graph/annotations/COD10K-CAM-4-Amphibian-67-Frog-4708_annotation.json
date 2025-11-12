@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense layer of fallen, dry leaves, predominantly in shades of brown, reddish-brown, and dark ochre. The leaves display various textures, including visible veins, crumpled edges, and smooth, flat surfaces. Some areas are darker, suggesting moisture or shadow, while a few small patches of green vegetation are visible in the blurred background. The overall environment is a forest floor covered in leaf litter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The frog exhibits excellent camouflage by mimicking the appearance of dry, fallen leaves. Its body coloration, a mottled mix of browns and reddish-browns, perfectly matches the dominant hues of the surrounding leaf litter. The skin texture is rough and uneven, with ridges and patterns that closely resemble the veins and contours of decaying leaves. Furthermore, the frog's distinctive angular body shape, particularly the pointed 'horns' above its eyes and the overall flattened profile, strongly mimics the irregular shape and detritus-like quality of the dead leaves. This combination of color blending, texture matching, and structural mimicry makes its outline incredibly difficult to discern, effectively hiding it within its environment."
+}

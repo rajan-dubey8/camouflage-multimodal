@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Longnose Butterflyfish",
+  "background_description": "The background consists of dark, textured coral and rock formations, with some areas appearing to be covered in algae or encrusting organisms, suggesting a reef or rocky seabed environment. The lighting is somewhat dim in the background, contrasting with the brightly lit fish.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a colorful Longnose Butterflyfish with bright yellow, blue, and greenish-white markings. Its vibrant coloration and distinct shape stand out significantly against the darker, muted tones of the coral and rock background, indicating a complete absence of camouflage."
+}

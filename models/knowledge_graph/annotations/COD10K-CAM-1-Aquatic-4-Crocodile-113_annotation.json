@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a still body of water completely covered by a thick layer of bright, light green duckweed or algae, giving it a uniform, mottled texture. In the foreground, there are clumps of larger, darker green aquatic plants (likely water hyacinths) and lush green grass along the bank. The overall environment is wet, swampy, and dominated by various shades of green.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The crocodile exhibits effective camouflage in this image. Its dark olive-green to brownish coloration blends well with the various shades of green present in the swampy environment, particularly the darker tones of the submerged areas and the aquatic plants, despite the brighter green duckweed. Its low profile in the water, with only its eyes, nostrils, and part of its back exposed, provides significant shape disruption against the flat water surface. The thick layer of duckweed also helps break up its outline and visual contrast, making it harder to discern at first glance. While its texture is distinct from the duckweed, the overall mottled and organic nature of the environment helps it merge. The eyes are the most contrasting feature, but the general form is well integrated."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Muscovy duck",
+  "background_description": "The background consists of a murky pond with a dark, reflective water surface showing ripples and scattered fallen brown leaves. Distant objects and reflections are blurred, suggesting an overcast sky and possibly trees on the far bank. In the immediate foreground, there is a dark, smooth wooden or metal barrier bordering the water, next to dark, wet soil or mud.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Muscovy duck, with its stark white and black plumage and prominent red facial caruncles, stands out significantly against the dark, muted, brownish-grey tones of the pond water, barrier, and wet soil. Its colors and textures do not blend with the environment, and there is a high contrast difference between the duck and its surroundings, making it highly visible rather than camouflaged."
+}

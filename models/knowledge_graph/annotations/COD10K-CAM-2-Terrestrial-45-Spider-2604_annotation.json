@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of a vibrant yellow sunflower in a close-up shot. The large, bright yellow petals radiate outwards from a dark, intricate disc floret center, which appears brownish-purple. The petals have subtle striations and are brightly lit, with some areas appearing slightly translucent. A blurry light blue (likely sky) and some desaturated foliage are visible in the far background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage by perfectly matching the bright yellow color of the sunflower petals it rests upon. Its body is a very similar shade of yellow, making it difficult to distinguish from the petal's surface at first glance. While the spider's shape is distinct, the strong color blending significantly reduces its visual contrast against the background, allowing it to blend seamlessly into the flower's environment. This color mimicry is highly effective for concealment."
+}

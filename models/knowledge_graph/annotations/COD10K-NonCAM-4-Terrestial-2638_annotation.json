@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Pot-bellied pig",
+  "background_description": "The background consists of dry, light brown, sandy-colored earth with scattered sparse dry leaves and small debris. There are some subtle shadows indicating uneven ground and direct sunlight.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The pot-bellied pig, which is dark grey to black, stands out prominently against the much lighter, sandy-colored ground. There is a high contrast in both color and brightness between the animal and its environment. The pig's smooth, somewhat bristly texture does not mimic the granular, dusty texture of the ground. Therefore, the animal is highly visible and exhibits no camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a cluttered, granular seafloor composed of various organic detritus, fine sediment, small pebbles, and possibly some algae. It exhibits a mottled array of earthy brown, dark green, and reddish tones, with a highly rough and irregular texture. There are also blurred lighter patches and darker depressions, indicating an uneven and visually 'noisy' environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish is exceptionally camouflaged within its environment. Its body features a complex pattern of mottled yellows, browns, and reddish hues that seamlessly blend with the varied color palette of the detritus-rich seafloor. Crucially, the fish's skin is covered in numerous small, irregular, and often branched protuberances, giving it a highly textured and 'lumpy' appearance. This texture precisely mimics the granular and rough nature of the surrounding sediment and organic debris. The combination of perfect color matching, intricate pattern disruption, and the irregular, debris-like shape effectively breaks up its outline, making it virtually indistinguishable from the background. The low contrast between the organism and its surroundings, coupled with high similarity in both color and texture, contributes to its outstanding concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a dense, multi-layered bed of dried fallen leaves. The leaves vary in color from light tan and yellowish-brown to reddish-brown and dark brown, with some darker shadows and lighter highlights. They are crumpled, fragmented, and overlapping, creating a highly textured and mottled surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The snake demonstrates exceptional camouflage. Its body coloration, featuring a complex pattern of light browns, tans, dark browns, and off-white markings, precisely matches the varied hues of the dried leaf litter. The intricate, blotchy pattern on its scales, combined with the rough, keeled texture of its skin, perfectly mimics the irregular shapes, textures, and shadows found within the fallen leaves. This disruptive coloration breaks up the snake's outline, making it extremely difficult to distinguish from its environment. The low contrast between the snake's pattern and the background further enhances its ability to blend seamlessly."
+}

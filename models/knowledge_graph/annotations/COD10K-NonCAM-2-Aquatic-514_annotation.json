@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tuna",
+  "background_description": "Open pelagic waters of the ocean, characterized by deep blues and greens with varying light penetration from the surface, where this type of large fish typically swims.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a large, silvery-blue tuna with a distinct shape and coloration. The fish is on a light-colored surface, making it stand out significantly. There are no elements suggesting any form of camouflage."
+}

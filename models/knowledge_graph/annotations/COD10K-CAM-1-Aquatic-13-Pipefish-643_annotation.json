@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow underwater rocky reef environment heavily covered in various types of marine algae. This includes light green, flattened, leaf-like algae, darker bushy filamentous algae, and some patches of reddish-brown encrusting algae or coral. There are also areas of sandy or rubbly substrate visible, as well as some yellowish-brown sponge-like structures. The overall texture is highly irregular, lumpy, and organic.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits good camouflage through a combination of color blending and pattern matching. Its light tan body with distinct reddish-brown banding somewhat matches the varied colors present in the rocky, algal-covered substrate, particularly blending with the reddish patches of algae/coral and lighter sandy/rocky areas. The disruptive banding pattern helps to break up its elongated body outline, making it less conspicuous as a single, recognizable shape. While its smooth body texture does not directly mimic the rough, leafy texture of the surrounding algae, its cryptic coloration and patterning make it challenging to spot at first glance against the complex background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a vast, sunlit field of yellowish-green grass covering the foreground and midground. In the far background, there is a dense line of tall, dark green deciduous trees, casting deep shadows and forming a solid visual barrier. The overall lighting is bright, indicating a sunny day.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The human is standing prominently in an open, grassy field. They are wearing a dark t-shirt and light-colored shorts. The dark t-shirt creates a strong contrast against the bright yellowish-green grass and the partially visible sky, while the light shorts are also distinct from the grass. The human's silhouette is clearly defined against both the bright field and the dark treeline in the background. Neither the colors nor the textures of their clothing or skin provide any blending with the natural environment, making them highly visible and not camouflaged."
+}

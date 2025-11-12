@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red-winged Blackbird",
+  "background_description": "The background consists of blurred natural vegetation, predominantly soft green foliage with areas of bright yellow light, likely sunlight filtering through. A vertical light green stalk or reed is visible on the left.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Red-winged Blackbird in flight. This species is characterized by its glossy black plumage and distinctive bright red and yellow patches (epaulets) on its wings. These vibrant colors create a very high contrast against the soft green and yellow background, making the bird highly conspicuous. This coloration serves primarily for display and territorial signaling, rather than for concealment from predators or prey. Therefore, no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense layer of dried, broken straw and grass clippings, creating a coarse, irregular texture. There are various shades of sepia and dark tones, indicating areas of shadow and light amongst the plant debris. The ground appears dry and natural.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly exhibits excellent camouflage against the dried grass background. Its overall sepia-toned coloration closely matches the dominant tones of the straw and dried vegetation, achieving high color (tonal) similarity. The dark spots on its wings effectively mimic the scattered shadows and darker debris within the background, contributing to strong pattern matching. Furthermore, the irregular, slightly jagged edges of the butterfly's wings disrupt its outline, making it blend seamlessly with the chaotic and broken textures of the straw, thus achieving shape disruption. The combination of these factors makes the butterfly difficult to distinguish from its environment."
+}

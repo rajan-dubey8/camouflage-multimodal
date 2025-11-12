@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef section",
+  "background_description": "The background consists of a large, stony brain coral with intricate, convoluted folds and grooves, displaying colors ranging from light brown to tan with hints of bluish-white in the crevices. Adjacent to it on the right is a bushy, feathery coral or sponge with a similar light brown, textured appearance. The overall setting is an underwater environment, likely dim, with dark shadows in the deepest parts.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The image depicts a section of an underwater coral reef, dominated by a large brain coral and an adjacent bushy coral/sponge. While the main subject is the coral environment, a small, translucent shrimp is exceptionally camouflaged on the surface of the brain coral (visible in the bottom right cropped image). The shrimp's body exhibits high color similarity and texture similarity with the coral, appearing semi-transparent and adopting the coral's light brown and whitish tones. The low contrast difference makes the shrimp almost indistinguishable, relying heavily on color blending to evade detection within its coral habitat. Its form also subtly blends with the coral's irregularities."
+}

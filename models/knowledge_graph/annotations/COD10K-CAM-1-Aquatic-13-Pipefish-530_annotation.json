@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of clear shallow water with various marine elements. In the foreground and midground, there are prominent dark reddish-brown branching seaweed or algae, appearing somewhat rigid and stem-like. Further back, the seafloor is visible with lighter-colored rocks, shells, and sand, interspersed with patches of purplish-red encrusting algae or sponges. The water contains small particulate matter, giving a slightly hazy effect.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Mimicry",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image primarily through color blending and structural mimicry. Its elongated, slender body is a reddish-brown color that closely matches the dominant dark red branching algae stems that surround it. The fish's stick-like shape further contributes to its camouflage by mimicking these plant structures, making it difficult to distinguish from the natural vegetation. The low visual contrast between the Pipefish and the adjacent algae allows it to blend seamlessly into its environment, effectively hiding it from potential predators or prey."
+}

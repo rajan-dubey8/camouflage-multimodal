@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Marine Invertebrate",
+  "object_name": "StarFish",
+  "background_description": "The background is an underwater seafloor composed of a mix of light-colored sand and various sizes of dark, coarse rocks and possibly coral fragments. The water above creates dappled sunlight patterns on the substrate, with bright, shifting patches of light interspersed with shadows. The overall water tint is blueish.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The StarFish exhibits good camouflage in this underwater environment. Its body color, a mottled light tan/beige, closely matches the color of the sandy patches and some of the lighter rocks on the seafloor. The rough, granular texture of the starfish also blends well with the uneven, rocky, and sandy substrate. While some darker rocks provide a higher contrast, the overall effect of the dappled sunlight creating shifting patterns of light and shadow on the seafloor effectively breaks up the starfish's outline and helps it blend. The combination of color and texture matching significantly reduces its visibility against its natural habitat."
+}

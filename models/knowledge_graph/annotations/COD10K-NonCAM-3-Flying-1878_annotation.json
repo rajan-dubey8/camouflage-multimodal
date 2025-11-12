@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red-bellied Woodpecker",
+  "background_description": "The bird is perched on a thick tree branch featuring deeply textured, furrowed bark in shades of brown, gray, and hints of reddish-brown. The background behind the branch is a soft blur of green foliage and other lighter tree branches, indicating a natural, woodland environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Red-bellied Woodpecker's vibrant red crown and nape, combined with its distinct black and white barred pattern on its back, create a high contrast against the muted browns of the tree bark and the blurred greens of the foliage. While patterns like these can sometimes contribute to disruptive camouflage in specific lighting or environments, in this particular image, the bird's colors and markings make it highly visible and do not effectively conceal it within its surroundings."
+}

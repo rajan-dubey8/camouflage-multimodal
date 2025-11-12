@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "American Toad",
+  "background_description": "The immediate foreground shows a bright green, ribbed work glove holding the toad. The background consists of a blurred, light beige and brown paved surface, likely interlocking bricks or concrete pavers, suggesting an outdoor, man-made environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an American Toad being held by a green glove. The toad's distinct mottled brown and beige patterns, along with its bumpy texture, stand out significantly against the bright green glove and the blurred paved background, indicating no camouflage is present in this setting."
+}

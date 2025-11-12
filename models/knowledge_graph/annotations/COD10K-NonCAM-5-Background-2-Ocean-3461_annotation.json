@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Dark marine fish",
+  "background_description": "The background consists of dark, irregular rock formations and substrate, with areas of deep shadow and possibly dark algae growth. This creates a mottled, low-light environment behind the prominent, lighter-colored coral in the foreground. Another distinct yellow fish is also visible in the mid-background.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.85,
+  "camouflage_type": "Color blending",
+  "explanation": "A dark-bodied marine fish is visible in the upper-left background of the image. Its deep, dark coloration provides effective color blending camouflage against the similarly dark, shadowed rock formations and substrate of the aquarium environment. The low contrast between the fish and its immediate background makes it difficult to distinguish its form, aiding in concealment from predators or prey. While the coral is the most prominent feature, the dark fish clearly demonstrates camouflage fitting the schema's categories."
+}

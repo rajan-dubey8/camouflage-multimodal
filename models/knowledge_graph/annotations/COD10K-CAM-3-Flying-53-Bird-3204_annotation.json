@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a forest floor covered with dark brown soil, scattered dry leaves in various shades of brown and yellow-brown, green sprouts and small plants, and some thin twigs and dried grass. There are patches of dappled light and shadow, creating a somewhat mottled texture overall.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits effective camouflage through both color blending and pattern matching. Its dorsal side and head are primarily dark brown, closely matching the color of the dark soil, dried leaves, and shadowed areas of the forest floor. The ventral side, particularly the breast, features a lighter background with numerous dark brown spots and streaks. This mottled pattern closely resembles the irregular textures and varying shades of the scattered leaves, twigs, and dappled light/shadows on the ground. While not perfectly invisible, its coloration and patterning significantly break up its outline and allow it to blend well into the busy, varied environment of the forest floor, making it less conspicuous to predators or prey."
+}

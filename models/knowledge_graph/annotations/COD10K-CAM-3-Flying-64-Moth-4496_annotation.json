@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of tree bark, characterized by deep vertical furrows and prominent ridges. The bark displays a range of dark grays and earthy browns, with lighter patches that resemble lichen or worn areas. The texture is rough and irregular, creating a complex visual pattern. Hints of out-of-focus green foliage are visible in the background to the right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth exhibits exceptional camouflage against the tree bark. Its wings are mottled with various shades of gray and brown, interspersed with lighter, irregular patterns that mimic the texture and coloration of the bark, including areas that resemble lichen or worn wood. The intricate patterns on the moth's wings align almost perfectly with the rough, fissured surface of the tree, making it incredibly difficult to distinguish its outline from the surrounding environment. The overall color palette of the moth is nearly identical to the bark, resulting in very low color and luminosity contrast. Furthermore, the moth's resting posture, with its wings folded, contributes to shape disruption, making it appear as an irregular part of the bark rather than a distinct organism. This combination of color blending, pattern matching, and shape disruption creates highly effective crypsis."
+}

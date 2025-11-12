@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Wasp",
+  "background_description": "The background consists of numerous small, densely packed bright yellow flowers with delicate, spiky florets. Behind the flowers, a soft, out-of-focus green blur indicates foliage or distant leaves.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The wasp exhibits distinct yellow and black stripes, which are characteristic of aposematic (warning) coloration rather than camouflage. While the yellow coloration of the wasp's body shares some similarity with the vibrant yellow flowers, the prominent black stripes create a high contrast against the background, making the insect highly visible. The wasp's smooth, segmented body texture also differs significantly from the delicate, spiky texture of the flowers, further reducing any potential for blending in. This color pattern serves to deter predators by signaling potential danger (e.g., stinging ability), not to conceal the organism."
+}

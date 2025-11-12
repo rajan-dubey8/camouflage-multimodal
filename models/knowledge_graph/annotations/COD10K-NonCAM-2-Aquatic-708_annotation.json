@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Copperband Butterflyfish",
+  "background_description": "The aquatic environment consists of a sandy seabed with visible granular texture, surrounded by dark blue rock or coral formations and a blue anemone-like structure on the left. The overall lighting casts a strong blue hue over the scene.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Copperband Butterflyfish with distinct vertical stripes of white/pale blue and yellowish-brown. Its patterned body contrasts significantly with the predominantly blue and sandy background, indicating no camouflage."
+}

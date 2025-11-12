@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coati",
+  "background_description": "The background consists of a light gray, somewhat worn and cracked concrete or stone surface, showing variations in tone and texture typical of a paved or solid ground area.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Coati against a light gray concrete or stone background. The Coati's fur is primarily brown, reddish-brown, and dark striped, with a grayish face and paws. These colors and the furry texture of the animal do not blend or match the uniform, light gray, hard texture of the background. The animal stands out distinctly due to a clear difference in color, pattern, and texture, indicating no camouflage is present in this specific setting. Its natural habitat (forest floor) would typically offer better opportunities for color blending with soil and leaf litter."
+}

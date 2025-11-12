@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus Fish",
+  "background_description": "The background consists of blurry aquatic plants in shades of green and yellow, with some darker, muted areas that might be substrate or other decor. There are visible small particles floating in the water, suggesting an aquarium environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Discus Fish with distinct blue and yellow coloration. Its vibrant colors and sharp outline make it stand out prominently against the blurry, darker aquatic plant background, indicating no camouflage is present or intended."
+}

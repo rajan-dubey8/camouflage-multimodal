@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a dark, murky body of water reflecting the surroundings, surrounded by dense mangrove roots and some leafy vegetation. The roots are gnarled, highly textured, and wet, creating a complex, interwoven network. The environment is heavily shadowed, leading to an overall dark and low-contrast visual tone.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Texture matching / Shadow hiding / Shape disruption",
+  "explanation": "The crocodile is exceptionally well camouflaged within this mangrove environment. Its dark, textured skin blends almost perfectly with the dark, gnarled, and rough mangrove roots both in terms of tonal value (color in grayscale) and surface texture. The crocodile's head is partially submerged in the dark water, which also matches its coloration. The dense shadows cast by the overhead vegetation and the structure of the roots further reduce visibility and contrast, making it very difficult to distinguish the crocodile's outline from the surrounding environment. Its irregular shape, nestled among the roots, also contributes to shape disruption, breaking up its characteristic form. Only the eye stands out slightly due to a subtle reflection, but the overall effect is one of near-perfect concealment."
+}

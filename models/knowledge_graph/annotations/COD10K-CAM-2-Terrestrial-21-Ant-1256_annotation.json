@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The background consists of dried organic matter including crumpled leaves, small twigs, fine fibrous plant material, and textured soil, all rendered in shades of dark brown and sepia tones. The ant is positioned on a prominent, pale, and withered leaf or flower petal that is light brown/off-white in color, contrasting significantly with the darker surroundings.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The ant is dark brown to black in color and is resting on a distinctly light-colored, pale brown/off-white dried petal or leaf. This creates a very high contrast between the ant and its immediate background, making it stand out sharply. While the broader environment contains darker elements that might offer some tonal similarity, the specific placement of the ant on the bright surface negates any potential for camouflage. Its clear silhouette and significant luminance difference make it highly visible."
+}

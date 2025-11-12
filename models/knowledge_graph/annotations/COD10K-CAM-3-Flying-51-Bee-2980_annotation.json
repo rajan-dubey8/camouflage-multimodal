@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The organisms are located within a rolled-up green plant leaf or similar structure, which partially encloses a brown, papery nest. The background visible beyond this structure is a blurry, light-colored, textured surface, possibly a wall or another plant part.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The 'Bees' (which visually resemble wasps) exhibit bright yellow and dark reddish-brown striped patterns on their bodies. This distinct coloration creates a strong contrast against the surrounding green leaf and the brown papery nest they are situated within. Their vivid markings make them highly visible, indicating a lack of camouflage. Such coloration is typically aposematic, serving as a warning to predators rather than for blending into the environment. Consequently, there is low color and texture similarity with the immediate background, resulting in a high contrast difference."
+}

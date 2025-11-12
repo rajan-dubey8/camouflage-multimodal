@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists primarily of two tree trunks with dark brown, rough, and fissured bark texture, covered in some light green moss or lichen in places. Behind the central tree trunk, there are large, dark green leaves from another plant, appearing slightly out of focus. Further in the distance, a blurred brick wall and some green metal fencing with yellow accents are visible, along with more soft green foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly is exceptionally well camouflaged against the tree trunk. Its closed wings display a complex pattern of mottled browns, greys, and light tans that perfectly match the colors of the surrounding bark. The intricate texture and irregular lines on its wings closely mimic the fissured, rough surface of the tree trunk. The overall shape of the butterfly, particularly its wing edges, blends seamlessly with the contours and cracks of the bark, making it incredibly difficult to distinguish from its environment. While distinct 'eyespots' are present on the wings, they are integrated into the bark-like pattern and do not significantly break the camouflage effect from a distance, potentially serving as a form of mimicry when detected. The low contrast and high similarity in both color and texture create a highly effective camouflage."
+}

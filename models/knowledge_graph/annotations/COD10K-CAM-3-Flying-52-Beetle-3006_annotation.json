@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "The background consists of a damp forest floor, rich with fallen leaves in various stages of decomposition (brown, reddish-brown, and some vibrant green). There are also small stones, pebbles, wet soil, and small puddles of water reflecting light. Thin dark twigs and some fresh green plant growth are also visible, contributing to a diverse and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Beetle exhibits excellent camouflage within this image. Its dark, glossy body perfectly matches the color and wet sheen of the surrounding wet fallen leaves, dark soil, and shadows. The beetle's texture, being smooth and somewhat reflective, blends seamlessly with the damp, shiny surfaces of the wet leaf litter and small puddles. Its dark coloration helps it merge with the numerous shadowed areas and dark debris, resulting in a very low contrast against its immediate environment, making it very difficult to distinguish from the background elements."
+}

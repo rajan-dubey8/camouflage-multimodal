@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a dense thicket of tall, vertical green reeds and some dry, brown, linear stalks. These form a cluttered, interwoven pattern with varying depths. Some darker, blurry areas of water are visible between the reeds, suggesting a wetland or marsh environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.2",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Heron's grey-blue and white plumage, along with its distinct dark markings and yellow beak, stands out against the vibrant green and brown hues of the dense reed thicket. While the tall reeds provide significant physical cover, breaking up the bird's outline and obscuring much of its body, its visible head and neck do not exhibit strong color or pattern matching with the surrounding vegetation. The contrast in color and texture makes it discernible despite the partial concealment, indicating it does not actively blend with this specific environment."
+}

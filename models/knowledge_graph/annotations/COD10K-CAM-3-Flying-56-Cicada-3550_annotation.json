@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The cicada is perched on a dark, rough tree branch that appears to be covered with patches of faint green moss or algae. The overall background is very dark and out of focus, suggesting a low-light or nighttime environment, possibly within a forest or dense foliage. A delicate spiderweb with small dew drops is faintly visible in the upper left section of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The cicada's vibrant green body and translucent wings stand out significantly against the dark brown branch and the very dark, almost black background. While some green moss is present on the branch, the cicada's green is much brighter and more extensive, creating a high color contrast. The smooth texture of the cicada's body and the delicate veins of its wings also differ considerably from the rough, irregular texture of the bark. The illumination on the cicada further enhances this contrast, making it highly conspicuous rather than blending into its environment."
+}

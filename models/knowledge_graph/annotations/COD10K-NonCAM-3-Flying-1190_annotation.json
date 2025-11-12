@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Tit",
+  "background_description": "The background consists of a dark brown wooden surface in the foreground, partially covered by a thin layer of white, powdery snow. Above the wooden surface and snow, the upper part of the image shows a uniform, light grey sky, suggesting an overcast or hazy day. The wood has visible grain and scratches.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Great Tit displays distinct yellow underparts, olive-green back, black head with white cheeks, and grey wings, which provide low color and texture similarity to its immediate environment. The dark brown wooden surface, white snow, and light grey sky create a backdrop against which the bird's vibrant plumage and defined shape stand out clearly. There is a moderate contrast between the bird's various colored patches and the background elements, making it easily visible rather than concealed."
+}

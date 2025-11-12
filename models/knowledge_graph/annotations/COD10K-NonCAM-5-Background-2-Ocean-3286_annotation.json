@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small reef fish",
+  "background_description": "The background is a vibrant and diverse coral reef environment. It features various types of hard corals, including intricate branching corals (likely Acropora species), massive corals, and plate-like corals, as well as some soft corals and rocky substrate. The colors are a mix of earthy tones: muted browns, greys, olive greens, and subtle purples, with some lighter sandy patches and darker crevices. The textures are highly varied, ranging from rough and bumpy to intricate branching structures and smoother, more porous surfaces.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The image clearly shows several small, slender yellowish fish navigating among the coral branches. Their muted yellowish-brown coloration provides a medium degree of color similarity with the surrounding brown and greenish branching corals. While their smooth, elongated bodies contrast with the rough, complex textures of the coral, their small size and low contrast against the intricate background help them to be less conspicuous. This camouflage primarily relies on color blending to make them harder to spot by predators or prey within the busy reef environment."
+}

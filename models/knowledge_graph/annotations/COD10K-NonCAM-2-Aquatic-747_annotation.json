@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The background features a blurry aquatic environment with various coral structures in shades of brown and purple, suggesting a coral reef or aquarium setting. The water itself is a dark blue, with a smaller, blurry fish visible in the distance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant orange, white, and black Clownfish. Its distinct coloration makes it stand out prominently against the darker blue water and muted coral background, indicating a complete absence of camouflage."
+}

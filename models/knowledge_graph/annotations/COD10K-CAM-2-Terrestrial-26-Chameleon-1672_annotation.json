@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of a dense, vibrant green bush or shrub with numerous small, glossy leaves and thin, reddish-brown woody branches. The foliage is rich and somewhat cluttered, with parts of the background being out of focus, creating a soft, blurred green backdrop.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The chameleon is positioned within a dense green bush, but its light brown and tan coloration stands out significantly against the vibrant dark green leaves that largely surround it. While its color has some resemblance to the brown branches, it does not effectively blend with the predominant green foliage. Its distinct shape and color create a high contrast boundary with the surrounding leaves, making it easily discernible despite being partially obscured by some foliage. The texture of its scaly skin also differs from the smooth, glossy leaves."
+}

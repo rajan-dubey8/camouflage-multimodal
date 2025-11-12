@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of dry, loose soil, small pebbles, dirt clods, and dry plant debris such as twigs and fragments. The colors are predominantly earthy tones of brown, gray, and dark beige. There is a dark, shadowy hole in the ground near the spider.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits excellent camouflage by blending seamlessly with its environment. Its dark brown and mottled gray coloration, along with the stripes on its cephalothorax and abdomen, closely match the earthy tones of the dry soil, small pebbles, and dried plant debris. The texture of its hairy legs and body is also very similar to the rough, granular texture of the ground. The irregular shape of the spider, with its splayed legs, further aids in breaking up its outline, making it difficult to distinguish from the surrounding debris and dirt clods. Overall, the low contrast difference and strong color and texture similarity contribute to highly effective camouflage."
+}

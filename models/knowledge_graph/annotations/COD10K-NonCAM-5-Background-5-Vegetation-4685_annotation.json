@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Poppy flower",
+  "background_description": "The image is a close-up of a poppy flower's interior, featuring vibrant red petals that form the primary background. In the center, there is a prominent light green, textured seed capsule surrounded by numerous dark, slender stamens tipped with anthers. Shadows create depth and highlight the contours of the petals and reproductive structures.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a poppy flower. According to the provided rules, 'entity_type' is set to 'Organism' only if the image mainly shows an 'animal, insect, or fish'. Since a flower is a plant and not one of these specified organism types, it falls under 'Environment'. As there is no animal, insect, or fish present in the image, no camouflage is applicable or detected."
+}

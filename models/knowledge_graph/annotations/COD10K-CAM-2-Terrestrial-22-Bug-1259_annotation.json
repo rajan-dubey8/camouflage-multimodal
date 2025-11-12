@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bug",
+  "background_description": "The background consists of a tree trunk with deeply furrowed, rough bark. The bark displays a mix of brown, grey, and green hues, suggesting the presence of moss or lichen growth. The texture is highly irregular with vertical ridges and crevices. To the right, there's a blurred, out-of-focus background of light green and white, indicating distant foliage or sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bug, which appears to be a large moth, exhibits excellent camouflage against the tree bark. Its wings display a complex pattern of greens, browns, and pinkish-purples that perfectly mimic the colors and tones of the bark, including areas covered by moss or lichen. The intricate patterns on its wings also replicate the rough, textured appearance of the bark, disrupting the moth's outline and making it blend almost seamlessly with the natural irregularities of the tree trunk. This combination of color blending and pattern matching makes it very difficult to distinguish the organism from its environment."
+}

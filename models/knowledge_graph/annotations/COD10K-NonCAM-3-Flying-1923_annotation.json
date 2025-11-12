@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "The background consists of several variegated ivy leaves, showing distinct patches of light green and white, with some darker green areas. The leaves have visible veins and a soft, slightly blurred texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The beetle, which appears to be a longhorn beetle, has a uniformly dark reddish-brown body with black legs and antennae. This color strongly contrasts with the bright green and white variegated leaves it is resting upon. There is no attempt at color blending or disruptive patterning that would help it merge with its leafy environment. The beetle's smooth, hard shell texture also differs significantly from the organic, veined texture of the leaves, making it highly visible and easily distinguishable from its surroundings."
+}

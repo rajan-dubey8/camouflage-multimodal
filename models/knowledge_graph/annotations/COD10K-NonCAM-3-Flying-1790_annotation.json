@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull on rocky shore",
+  "background_description": "The background consists of a calm body of water with a muted greyish-blue color, showing subtle ripples and reflections. The foreground features a rocky shoreline composed of various small to medium-sized pebbles and stones, predominantly in shades of off-white, light grey, and yellowish-tan, interspersed with some darker organic debris like dried leaves or seaweed.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's plumage, featuring white underparts and light grey to darker grey upperparts with some patterned feathers, closely matches the muted and varied tones of its environment. The white feathers blend with the lighter rocks and pebbles, while the grey feathers on its back and wings harmonize with the darker stones, patches of debris, and the overall greyish hue of the water. This coloration significantly reduces its visibility against the varied but generally monochrome background, making it harder for predators or prey to spot it, which is characteristic of color blending camouflage."
+}

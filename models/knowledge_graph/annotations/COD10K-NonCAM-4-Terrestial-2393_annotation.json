@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Domestic cat",
+  "background_description": "The cat is sitting on a ground covered with small, multi-colored pebbles, primarily in shades of beige, light brown, grey, and darker brown, creating a highly textured and mottled surface.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The domestic cat exhibits a degree of camouflage due to its tabby markings, which feature a combination of browns, greys, and black stripes. These colors and patterns closely resemble the multi-colored pebble ground, which is composed of similar earthy tones. The disruptive pattern of the stripes helps to break up the cat's outline, making it blend more effectively with the busy, mottled texture of the background, thereby reducing its visibility."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "FrogFish",
+  "background_description": "The background consists of an underwater rock or coral reef environment heavily encrusted with various types of algae and possibly sponges. Dominant colors are deep red, purple, and maroon, with patches of lighter pink, grey, and white. The textures are rough, granular, and irregular, typical of encrusting organisms and rocky substrate, with some filamentous structures visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The FrogFish demonstrates exceptional camouflage. Its body coloration, a mottled mix of dark red, maroon, and lighter flecks, perfectly matches the dominant colors of the surrounding coralline algae and encrusted reef. The rough, warty texture of its skin closely mimics the granular and irregular surface textures of the rocky background. Furthermore, the irregular shape of the FrogFish, with its extended fins and lumpy profile, effectively disrupts its outline, making it incredibly difficult to discern from the complex and varied textures of its environment. It truly blends seamlessly with its habitat through a combination of color, pattern, and form."
+}

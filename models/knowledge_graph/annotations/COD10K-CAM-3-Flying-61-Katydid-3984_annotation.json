@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background is a large, vibrant green leaf, possibly a banana leaf, with prominent parallel veins running vertically. The leaf surface is extensively covered with various organic growths, including irregular patches of white, pale green, and brownish lichen or mold. These growths give the leaf a mottled, textured, and slightly irregular appearance, and parts of the surface appear wet or glossy.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Katydid demonstrates exceptional camouflage through a combination of color blending and intricate pattern matching. Its primary green coloration perfectly matches the hue of the large leaf it is resting upon. More critically, the Katydid's wings and body are covered with irregular white speckles that precisely mimic the appearance, distribution, and texture of the lichen and mold patches found naturally on the surrounding leaf surface. This detailed pattern matching effectively breaks up the organism's outline and creates an illusion of being part of the leaf, reducing contrast and making it incredibly difficult to distinguish from its environment."
+}

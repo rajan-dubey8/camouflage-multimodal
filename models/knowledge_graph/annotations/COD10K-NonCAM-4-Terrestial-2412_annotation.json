@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown bear",
+  "background_description": "The background consists of a shallow, rippling body of grey-green water. Beyond the water, there is a riverbank composed of dark grey and black pebbles, sand, and some scattered dark organic debris. Sparse green foliage is visible along the far edges of the frame.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The brown bear's distinct light brown fur color creates a high contrast against the dark grey-green water and the dark pebbly riverbank. Its texture (fur) is also significantly different from the water (ripples) and the ground (rough pebbles). The bear is clearly visible and does not blend into its surroundings, indicating no effective camouflage is present."
+}

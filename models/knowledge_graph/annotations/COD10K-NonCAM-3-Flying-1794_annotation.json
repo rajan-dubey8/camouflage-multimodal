@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The background is an out-of-focus expanse of green foliage, likely trees or bushes, with a soft, blurred texture. It features varying shades of light to medium green, suggesting a natural outdoor environment under ambient light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird, identified as a Tricolored Heron, exhibits plumage primarily composed of bluish-gray, white, and reddish-brown colors. The background consists of heavily blurred green foliage. There is a low color similarity between the bird's plumage and the dominant green tones of the background. Furthermore, the bird's distinct feathered texture does not blend with the soft, indistinct textures of the out-of-focus foliage. The high contrast between the bird's bright white throat/beak and darker body against the mid-tone green background makes it clearly visible, indicating no effective camouflage in this particular scene. While this species typically inhabits wetlands where its coloration might blend with water, shadows, and varied reeds, in the context of this image, it stands out."
+}

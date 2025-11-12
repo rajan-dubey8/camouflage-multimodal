@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of rough, irregular rock formations and soil, predominantly in shades of brown, grey, and muted green due to lichen and sparse vegetation. The texture is highly varied, with granular surfaces, cracks, and some areas covered in fibrous moss-like growth. There are also small green leafy plants interspersed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The birds exhibit exceptional camouflage. Their plumage features a highly intricate, mottled pattern of browns, grays, and speckled whites that precisely matches the colors and complex textures of the rocky, soil-laden, and lichen-covered environment. This pattern effectively breaks up their body outlines, making them appear as extensions of the ground and rocks rather than distinct entities. The color palette of the birds blends seamlessly with the background, and the textural variations on their feathers mimic the rough, granular surface of the rocks and soil. The overall contrast between the birds and their surroundings is very low, making them incredibly difficult to discern, even when looking directly at them."
+}

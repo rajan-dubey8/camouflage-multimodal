@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tilapia",
+  "background_description": "The background consists of murky, greenish-blue water with a significant amount of suspended particles and thin strands of debris or algae. There are no distinct underwater structures like coral reefs, rocks, or sandy beds; the environment appears to be either open water or a contained tank with some sediment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A reddish-brown fish, identified as a Tilapia, is prominently visible against the greenish-blue murky water. Its distinct color and clear outline ensure it stands out significantly from its surroundings, confirming the absence of camouflage."
+}

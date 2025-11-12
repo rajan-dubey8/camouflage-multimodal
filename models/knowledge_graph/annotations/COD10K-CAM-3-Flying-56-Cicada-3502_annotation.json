@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The cicada is positioned on a light brown, rough-textured tree trunk or branch. The bark features various small bumps, cracks, and some darker, possibly mossy or lichen-covered patches. The background to the right is a soft-focus blur of vibrant green foliage, indicating a dense, leafy natural environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The cicada in this image demonstrates effective camouflage through a combination of color blending and pattern matching. Its body and wings display a complex mosaic of green, brown, and black patterns that closely mimic the natural variations, textures, and lichen growth found on the tree bark where it is resting. The greenish hues on its thorax blend with any mossy or greenish patches on the bark, while the mottled browns and blacks integrate with the natural discoloration and shadows. The intricate veining and patterns on its translucent wings also contribute to disrupting its outline, making it difficult to distinguish from the rough surface of the trunk. This allows the cicada to blend seamlessly with its arboreal environment, reducing its visibility to potential predators."
+}

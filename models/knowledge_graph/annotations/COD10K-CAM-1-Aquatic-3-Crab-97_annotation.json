@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background is composed of a crinoid (feather star) with numerous dense, feather-like arms. These arms display a complex pattern of light beige/white segments with distinct reddish-brown and orange bands, creating a highly textured and visually intricate environment. The overall coloration is earthy, dominated by whites, browns, and subtle oranges.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab demonstrates excellent camouflage by perfectly matching the striped pattern and coloration of the crinoid it inhabits. Its body and legs are adorned with prominent dark brown and white stripes that directly mimic the segmented and banded appearance of the crinoid's arms. The overall hue of the crab, consisting of dark browns and whites, harmonizes seamlessly with the light beige, reddish-brown, and orange tones prevalent in the background. While the stripes on the crab are distinct, they contribute to pattern matching rather than creating a stark contrast, helping to break up the crab's silhouette and integrate it into the complex visual texture of the crinoid. Its slender, somewhat spiky legs also blend well with the intricate, feathery structure of the crinoid's arms, making the crab very difficult to discern."
+}

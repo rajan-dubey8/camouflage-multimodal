@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pike",
+  "background_description": "Murky freshwater environment with dark, indistinct shapes of submerged rocks or vegetation in muted green, brown, and dark yellow tones. The water itself is dark blue-grey, suggesting depth and low light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The pike exhibits effective camouflage through a combination of color blending and disruptive patterns. Its greenish-brown body, adorned with irregular yellowish spots and patterns, closely matches the muted, earthy tones of the murky freshwater environment and submerged elements like rocks or decaying vegetation. This coloration helps the fish blend with the background colors. Furthermore, the spotted pattern acts as a disruptive pattern, breaking up the fish's outline and making it harder for predators or prey to discern its shape against the varied and indistinct background. This allows the pike, an ambush predator, to remain hidden while waiting for prey."
+}

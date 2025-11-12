@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Ducks on ice",
+  "background_description": "The background consists of a partially frozen body of water. The upper portion is a smooth, somewhat dull blue ice surface. The lower part shows open water with strong, elongated reflections of bare trees or reeds from the shore, creating a wavy pattern of brown, yellowish, and blue tones. The environment is cool-toned and reflective.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The ducks in the image are clearly visible against the frozen and partially open water. Their distinct plumage, featuring vibrant colors like iridescent green heads, white chests, and dark bodies, contrasts sharply with the blue tones of the ice and the reflected muted browns and blues of the water. The birds' shapes are well-defined and there is no attempt to blend their colors or textures with the environment. One bird is even actively spreading its wings, further highlighting its presence. Therefore, no camouflage is present."
+}

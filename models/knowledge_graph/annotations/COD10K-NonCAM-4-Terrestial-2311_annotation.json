@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion cub",
+  "background_description": "The background consists primarily of reddish-brown dry earth/soil with scattered light-colored dry straw or hay. There is also a white towel on the ground and a dark metal cage partially visible on the left, indicating a managed or enclosed environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion cub displays natural camouflage primarily through its tawny-brown fur, which provides significant color blending with the reddish-brown dry earth and scattered straw in the background. Young lion cubs also have faint spots or rosettes on their fur, which contribute to a degree of disruptive pattern, helping to break up their outline. The high color similarity between the cub's fur and the natural ground elements, combined with a relatively low contrast difference against these elements, allows it to blend in, consistent with its natural adaptations for savanna environments. While artificial elements like the white towel and metal cage are present, the cub's natural coloration is effective against the surrounding earth and dry vegetation."
+}

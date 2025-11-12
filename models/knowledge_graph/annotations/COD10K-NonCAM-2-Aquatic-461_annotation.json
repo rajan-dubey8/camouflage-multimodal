@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Angelfish",
+  "background_description": "The background is a dark, out-of-focus aquatic environment with blurred patches of yellowish-green and dark blue, possibly indicating distant coral or rocks, and faint suspended particles in the water column.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an Angelfish with vibrant blue, purple, and yellow coloration, distinct against the dark, blurry background. There are no features or patterns on the fish that suggest an attempt to blend with its immediate surroundings."
+}

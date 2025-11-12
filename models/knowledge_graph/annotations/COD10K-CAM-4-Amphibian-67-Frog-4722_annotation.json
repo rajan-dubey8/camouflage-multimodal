@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of a vibrant green, broad leaf on which the frog is resting. The leaf surface appears smooth with some subtle variations in light and shadow. Behind the leaf, the environment is out of focus, appearing as dark, blurry green and brown tones, suggesting dense foliage or shadow in the background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits excellent camouflage, primarily through color blending. Its bright green skin perfectly matches the vibrant green hue of the leaf it is perched on, making it very difficult to distinguish from its immediate environment. The smooth texture of the frog's skin also somewhat complements the relatively smooth surface of the leaf, contributing to the blend. Although there is a distinct white stripe running along its side and its eyes create small points of contrast, the overall effect of its main body color merging with the foliage is highly effective, leading to a low overall contrast difference between the organism and its background."
+}

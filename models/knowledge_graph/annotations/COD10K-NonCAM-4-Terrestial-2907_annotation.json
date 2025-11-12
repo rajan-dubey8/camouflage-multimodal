@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bison",
+  "background_description": "The background consists of a dry, open field dominated by dense sagebrush with characteristic grayish-green foliage and slender stems. Interspersed are dry, light brown grasses and sparse woody shrubs. In the further distance, there are hills covered with a mix of similar vegetation and darker green shrubs or trees under bright sunlight.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bison, a large mammal with dark brown to almost black shaggy fur, stands out prominently against the lighter, grayish-green and dry brown hues of the sagebrush and grasses in its environment. Its massive size, distinct dark coloration, and overall silhouette create a high contrast with the background, making it easily visible. There is no significant blending of colors or patterns, nor does it mimic any specific environmental feature. Therefore, it does not exhibit camouflage in this scene."
+}

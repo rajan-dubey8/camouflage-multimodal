@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a rocky intertidal zone, heavily covered in various types of marine algae. The rocks are irregular, rough, and wet, displaying mottled patterns of dark reddish-browns, purplish hues, and patches of darker green algae. There are also lighter tan/white areas, possibly barnacles or bare rock. The texture is varied and granular. The upper background shows blurry, light-colored water.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab's body exhibits a mottled pattern of dark browns, grays, and subtle speckles, which provides reasonable color and texture similarity with the underlying rocky substrate and darker algae. A distinct, raised, greenish-teal structure with clear striations is present on its back. This element strongly resembles a piece of marine algae or seaweed, a common characteristic of decorator crabs. While this green element aims for mimicry or pattern matching with the green algae in the environment, its specific vibrant color and defined shape create a moderate contrast against the overall darker and more varied background, making the crab noticeable upon closer inspection. However, the overall effect is one of camouflage, as the crab's irregular form, combined with its patterned body and the attached element, helps to disrupt its silhouette and blend into the complex, algae-covered environment."
+}

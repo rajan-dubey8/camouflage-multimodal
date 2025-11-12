@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Northern Mockingbird",
+  "background_description": "The bird is perched on a slender woody branch amidst dense foliage. The background consists of blurred green leaves, some vibrant and fresh, others appearing yellowish-green or slightly brown-tinged, suggesting a shrub or tree line.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Northern Mockingbird, with its predominantly grey and white plumage, stands out clearly against the green and brown natural background of leaves and branches. There is a high contrast difference between the bird's body and the foliage, and its colors and textures do not blend with the surrounding environment, making it easily visible rather than camouflaged."
+}

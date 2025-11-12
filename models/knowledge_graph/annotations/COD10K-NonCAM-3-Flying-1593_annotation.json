@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Yellow-headed Caracara",
+  "background_description": "The bird is perched on a dark grey concrete or stone ledge/wall. Behind this, there is a lighter grey, out-of-focus paved or concrete surface, and further in the background, a distinct, blurred bright green grassy area.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Caracara, with its cream-colored head and underparts contrasting sharply with its dark brown/black wings and tail, is highly visible against the background. The background consists of a dark grey concrete perch, a lighter grey paved surface, and a bright green grassy area. The bird's distinct plumage colors and patterns do not match or blend with any of these background elements, resulting in a high contrast difference and making it conspicuous. There is no indication of camouflage, as the bird stands out clearly in the scene."
+}

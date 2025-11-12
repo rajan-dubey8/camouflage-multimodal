@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hyena",
+  "background_description": "The background consists of blurred, warm earthy tones, primarily shades of light brown, tan, and muted yellow, characteristic of dry savanna grass or bare earth. A darker, blurred object, possibly a log or branch, is visible in the lower left.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The hyena exhibits effective camouflage. Its fur features a blend of light brown, tan, and grey with darker stripes and spots (though subtle on this young individual), which closely matches the muted earthy colors of the dry savanna background. The varied coloration and patterns help to break up its outline and blend seamlessly with the patchy light and shadow, as well as the textural irregularities of dry grass and soil in its natural habitat. This reduces its visibility to both prey and potential predators."
+}

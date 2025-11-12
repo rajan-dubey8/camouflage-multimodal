@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of a shallow aquatic environment with a seabed covered in fine light-colored sediment (likely sand or fine gravel) interspersed with patches of vibrant green algae or moss. Scattered small debris like twigs are also visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "Two distinct orange and white goldfish are clearly visible against a contrasting seabed with green algae and light sediment, indicating a complete absence of camouflage. Their bright coloration stands out significantly from the environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras grazing",
+  "background_description": "The background consists of light brown and tan dry earth or sand, interspersed with several large, dark grey to black rocks and boulders. In the deeper background and along the edges, there is dense green foliage and trees, casting some shadows. The scene is brightly lit by sunlight.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebras display a prominent black and white striped pattern, which is a classic example of disruptive coloration. While the high contrast stripes do not blend with the immediate sandy and rocky environment in terms of color or texture, this pattern is a form of camouflage designed to break up the animal's outline, especially when in a herd or during low-light conditions like dawn or dusk. The stripes make it difficult for predators to distinguish individual zebras from a group or to judge their speed and direction. In this bright, static image, the zebras' pattern creates a high contrast against the background, but the pattern itself is a known camouflage mechanism."
+}

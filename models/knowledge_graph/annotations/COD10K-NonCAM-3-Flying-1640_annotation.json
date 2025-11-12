@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Gull in flight",
+  "background_description": "The background consists of a blurry, out-of-focus natural landscape, likely rocky mountains or distant cliffs, predominantly in shades of muted blue-gray, gray, and some lighter patches. The textures are indistinct due to the blur, but suggest rugged, uneven geological formations.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The white gull in flight stands out prominently against the blurry, darker blue-gray and gray background. Its bright white plumage and sharp form create a high contrast with the indistinct background, making it highly visible rather than camouflaged. There is no attempt at color blending, mimicry, or disruptive patterning relative to this specific environment. The bird is clearly isolated and distinct from its surroundings."
+}

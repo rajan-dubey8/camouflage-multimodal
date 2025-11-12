@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dry, rocky, and sandy environment. There are large, light-colored boulders and smaller stones, along with patches of coarse, light brown soil. Sparse green vegetation, appearing as small shrubs or bushes, is scattered around, particularly near the rocks. The lighting is strong, creating distinct areas of sunlight and shadow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The lizard's dark grey body, covered in numerous light spots, presents a high contrast against the predominantly light beige/white rock it is resting on. While the lizard is partially in a shadowed area, its dark coloration and distinct pattern do not blend with the rock's texture or color variations. The lizard's form is clearly outlined against its immediate surroundings, making it easily discernible rather than camouflaged. Its head has a yellowish tint that is also distinct from the rock. There is no effective color blending, pattern matching, or shape disruption occurring in this specific context."
+}

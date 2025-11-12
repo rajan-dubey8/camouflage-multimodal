@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rhinoceros",
+  "background_description": "The background consists of a rough, textured, grey-brown rock wall or artificial rockwork, a dusty, light brown dirt ground with some sparse dry vegetation, and some reddish-brown wooden posts/fencing on the right. Overhanging dark green foliage is visible at the top.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The rhinoceros is a large mammal with a solid light grey-brown hide. While its general coloration offers some mild tonal resemblance to the dusty ground and the grey rock background, its immense size, distinct silhouette, and lack of disruptive patterns or specific mimicry features mean it does not effectively blend into its surroundings. It is easily discernible against the background, indicating no active or effective camouflage."
+}

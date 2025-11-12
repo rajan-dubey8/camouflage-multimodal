@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background is a dense, lush green environment dominated by tall, leafy grass covering the ground. Several tree trunks with mottled, peeling bark (shades of brown, grey, and light tan) are visible, particularly a large one in the left foreground. Further back, more trees and palm-like foliage contribute to a rich, dark green forest or garden setting. The lighting appears soft and diffused, enhancing the green hues.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The cat is pure white, which stands in stark contrast to the deep green grass and the overall dark, earthy tones of its natural environment. There is no color blending, pattern matching, or shape disruption present. The bright white fur makes the cat highly conspicuous and easily detectable against the verdant background, effectively negating any camouflage. Its presence immediately draws the eye due to the significant difference in luminance and hue compared to its surroundings."
+}

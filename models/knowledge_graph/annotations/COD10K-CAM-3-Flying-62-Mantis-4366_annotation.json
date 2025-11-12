@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of several large, vibrant green leaves. The leaves have a smooth texture with subtle veins and natural variations in shading, including darker areas where leaves overlap or are in shadow, creating a lush, tropical-like plant environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The mantis displays excellent camouflage primarily through color blending. Its entire body, from the head to the abdomen and legs, is a bright green, almost perfectly matching the dominant vibrant green color of the leaves it is resting on. This high color similarity significantly reduces its visual contrast against the background. While its segmented body texture and the distinct shape of its head and eyes are still visible upon close inspection, the overall effect is one of seamless integration into the foliage. The slight brown hues on its legs and some abdominal segments also mimic natural variations found in plants, further enhancing its ability to blend in and making it very difficult to spot for both predators and prey."
+}

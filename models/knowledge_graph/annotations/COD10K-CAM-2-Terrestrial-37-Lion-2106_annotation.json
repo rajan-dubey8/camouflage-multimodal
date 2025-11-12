@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a vast expanse of tall, dry, yellowish-green savannah grass. The grass stalks are vertical and somewhat sparse in the foreground and midground, becoming denser further back. In the distant background, there is a line of denser green trees and shrubs under a hazy, light blue sky.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The lion exhibits strong camouflage primarily through color blending. Its tawny, sandy-brown coat closely matches the dry, yellowish-green hues of the tall savannah grass, its natural habitat. This high color similarity significantly reduces the visual contrast between the lion and its surroundings. While the texture of the lion's smooth fur does not match the linear, coarse texture of the grass, the tall grass effectively obscures a significant portion of its body. This physical concealment breaks up the lion's outline and disrupts its perceived shape, making it considerably more difficult to detect against the busy, uniform backdrop of the grassland. The combination of excellent color matching and environmental obscuration results in effective camouflage."
+}

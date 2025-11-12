@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists primarily of a large tree with deeply ridged and textured bark, presenting a range of dark to medium grey tones. There are also branches with fine, feathery foliage (likely acacia) that create complex patterns of light and shadow, particularly in the upper left. The overall environment is natural, likely a woodland or savanna, characterized by varied textures and dappled lighting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Pattern matching / Shape disruption",
+  "explanation": "The leopard exhibits strong camouflage against its arboreal background. Its distinctive rosetted pattern, when viewed in grayscale, creates a visual texture and tonal variation that closely mimics the rough bark of the tree and the dappled light filtering through the overhead foliage. The dark spots effectively blend with shadowed crevices in the bark and the darker patches of the background, while the lighter fur areas integrate with the brighter tones. This disruptive coloration breaks up the leopard's inherent shape, making it difficult for a predator or prey to distinguish its form from the surrounding environment. Although the leopard is looking directly at the viewer, drawing attention to its bright eyes, its body contours are significantly obscured by the pattern matching and tonal similarity with the background."
+}

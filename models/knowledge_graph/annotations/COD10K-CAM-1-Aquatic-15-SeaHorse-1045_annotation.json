@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists primarily of dense, branching soft coral, predominantly reddish-brown to orange in color. The coral branches are covered in numerous small, textured polyps or structures, creating a complex and irregular surface. There are also darker, shadowy areas within the coral and hints of bluish water in the deeper background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The seahorses exhibit strong camouflage through both color blending and pattern matching with their environment. Their bodies are a similar reddish-brown shade to the dominant coral, creating a high color similarity and low contrast difference. Furthermore, the bumpy, irregular texture of the seahorses' skin somewhat mimics the small polyps and structures on the coral branches, contributing to effective pattern matching. Their overall shape and tendency to cling to the coral branches further help them blend into the complex, branching structure, making them difficult to discern at first glance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with mudflats",
+  "background_description": "The scene features a vast expanse of reddish-brown mudflats or sandy shore in the foreground, showing ripple patterns on its surface. Scattered across this ground are bright green-yellow clumps of grass-like vegetation. In the mid-ground, a strip of dark blue water (ocean or large lake) separates the foreground from a distant, hazy skyline. The background consists of a pale, light blue sky and a blurry cityscape/industrial complex on the horizon, including buildings, wind turbines, and red industrial structures emitting white smoke.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural coastal landscape with mudflats, water, and a distant urban/industrial skyline. There are no discernible animals, insects, or fish present within the frame that could be exhibiting camouflage. Therefore, camouflage is not applicable and not detected in this environmental scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense canopy of lush green leaves, varying in shade from bright, sunlit lime green to darker, shadowed forest green. Several brown tree branches crisscross the frame, serving as perches and structural elements. Sunlight filters through the leaves, creating bright hotspots and dappled shadows, contributing to a complex and fragmented visual environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits effective camouflage primarily through color blending. Its body plumage is a soft greenish-grey, which closely matches the lighter, slightly muted green tones of the leaves and the shaded areas within the canopy. The wings are a darker, more vibrant green/teal, perfectly mimicking the richer greens of some of the leaves. The dappled lighting from the sun filtering through the foliage further enhances the camouflage by creating a fragmented light and shadow pattern that helps to break up the bird's outline and integrate it with the busy background of leaves and branches. While not completely invisible, its colors and position make it blend remarkably well with its arboreal environment."
+}

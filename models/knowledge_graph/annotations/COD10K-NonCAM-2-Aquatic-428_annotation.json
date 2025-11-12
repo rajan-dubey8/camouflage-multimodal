@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Arapaima",
+  "background_description": "Dark, murky open water with faint greenish hues suggesting distant vegetation or algae, indicating low visibility. The background is largely undifferentiated and out of focus.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.85",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows the head of a large freshwater fish, likely an Arapaima, against a dark, featureless aquatic background. The fish's dark coloration offers some blending with the environment, but its distinct shape and features make it clearly visible, indicating no active camouflage."
+}

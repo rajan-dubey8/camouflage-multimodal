@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mangrove coastal environment",
+  "background_description": "The image presents a split perspective of a shallow coastal environment. The upper half features a bright blue sky with wispy white clouds, meeting a distant treeline of dense green vegetation. The lower half, seen through clear water, reveals a textured seabed composed of coarse, irregular reddish-brown and whitish sediment, likely coral fragments or coarse sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment: a mangrove coastal area with a young mangrove propagule as a prominent feature. According to the provided rules, the 'Organism' entity_type is specifically for animals, insects, or fish. As a plant, the mangrove propagule does not fit into the available 'object_category' options for organisms. Therefore, the scene is classified as 'Environment'. Since no animal, insect, or fish organism is present and actively demonstrating camouflage, the 'No Camouflage' designation is applied, and related camouflage metrics are set to default values as per the rules."
+}

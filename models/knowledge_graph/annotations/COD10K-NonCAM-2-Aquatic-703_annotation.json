@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus Fish",
+  "background_description": "The background consists of slightly murky, green-tinted water. On the left side, there are several bright green, feathery aquatic plants. The right side and upper background show open water with a uniform green hue.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Discus fish with distinct red and light-colored patterns on its disc-shaped body. Its vibrant coloration and specific patterns stand out significantly against the green aquatic plant and the green water background, indicating no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bug",
+  "background_description": "The background consists of a dark brown, woody branch, likely from a rose bush given the prominent thorns. The branch features several pruned stumps with exposed lighter inner wood (beige to light brown) and a textured, rough bark. The overall lighting is dim, and the far background is a dark, out-of-focus blur with hints of green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.25,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The bug, appearing to be a cicada nymph or a freshly molted cicada, does not effectively blend with its environment in this image. Its body displays prominent pale green and light brown tones, especially on its head and thorax, which stand out significantly against the darker brown and reddish-brown hues of the main branch and its rough bark. While some parts of the branch (like the cut stumps) are lighter, the bug's overall color palette and semi-translucent, smooth texture create a noticeable contrast. The distinct shape and lighter coloration against the darker, textured branch increase its visibility, making it easy to spot rather than blend in."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "The background consists of a blurred, dark underwater environment with mottled green and brown tones, suggesting rocky or coral structures. The textures are somewhat rough and varied, typical of a reef habitat.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The lionfish displays disruptive camouflage. Its prominent white and reddish-brown stripes are designed to break up the outline of its body, making it difficult for predators or prey to recognize its form against the complex, varied background of a coral reef. The spiny, feathery fins further enhance this effect by mimicking the irregular shapes and textures of corals and other reef structures, allowing the fish to blend seamlessly into its environment despite its distinct coloration. While the bright white stripes might seem contrasting, their primary function is pattern disruption rather than direct color matching, creating a 'disrupted' perception of its shape."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of an underwater environment, likely a coral reef or rocky substrate, densely covered with various types of algae, detritus, and small encrusting organisms. Colors range from muted greens and browns to yellowish-white, with varied textures appearing rough and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The GhostPipefish exhibits excellent camouflage. Its body color, which is a mottled olive-green and brown with dark speckles, closely matches the algae, detritus, and encrusting organisms in the background. Its elongated, slender body and prominent, frilly fins are shaped to mimic drifting plant matter or debris, making it incredibly difficult to distinguish from the environment. The low contrast and high similarity in both color and texture contribute significantly to its effective concealment through mimicry and shape disruption."
+}

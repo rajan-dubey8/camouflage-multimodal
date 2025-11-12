@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background depicts a vibrant underwater coral reef ecosystem. It is composed of numerous coral formations, including large plate corals (Acropora species) in shades of brown, beige, and olive green, as well as branching corals and other reef structures. The textures are diverse, ranging from rough and bumpy surfaces to intricate branching patterns. The water is clear, transitioning from a light turquoise near the surface to a deeper blue in the distance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A small reef fish, likely a butterflyfish, is visible in the left-center of the image. Its bright yellow and white coloration provides a high contrast against the surrounding coral reef, which is predominantly composed of muted browns, greens, and beige corals. The fish's distinct shape and coloration make it easily distinguishable from the background, indicating no attempt at camouflage."
+}

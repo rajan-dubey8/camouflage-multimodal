@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of a vibrant, bright yellow-green leaf, appearing somewhat translucent. The leaf shows subtle venation and has finely serrated edges with a reddish-orange tint. Behind the leaf, there is a softer, out-of-focus darker green area.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage primarily through color blending. Its body is a pale, translucent yellow-green, almost perfectly matching the vibrant yellow-green hue of the leaf it is resting upon. The spider's slender form and the slight translucency of its body also help it to blend with the subtle textures and light transmission of the leaf. This significantly reduces any visual contrast in color or form, making the spider very difficult to distinguish from its immediate environment."
+}

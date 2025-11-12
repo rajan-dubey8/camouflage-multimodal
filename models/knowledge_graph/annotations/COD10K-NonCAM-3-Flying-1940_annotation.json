@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a rough, uneven, off-white to light gray concrete or stucco-like surface. It has a speckled appearance with darker gray and brown dirt or texture variations, indicating an inorganic, arid environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The katydid, with its vibrant green body and yellowish-brown legs, stands out distinctly against the pale, speckled, inorganic background. While katydids typically use their green coloration for color blending with foliage, in this specific environment of concrete or a wall, there is no color or texture similarity to aid in camouflage. The high contrast makes the insect easily visible."
+}

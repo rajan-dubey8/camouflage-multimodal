@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The image displays a vibrant underwater coral reef ecosystem. The foreground and midground are filled with diverse coral formations, including large, undulating brain corals in shades of yellow, tan, and light green, as well as more intricate, branched corals. The seabed is a mix of light grey-blue rocky and sandy substrate. In the center-left, a striking red gorgonian coral stands out prominently. The water is clear, with a light blue-green tint in the upper parts of the frame, indicating depth and clarity. Several small, dark fish are visible swimming among the corals.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a rich underwater coral reef environment. While it contains various marine organisms such as corals (which are animals) and small fish, no single organism is presented as the main subject actively exhibiting camouflage. The most prominent individual organism, the red gorgonian coral, is brightly colored and stands out significantly against the surrounding corals and seabed, indicating a lack of camouflage. The small, dark fish visible are not camouflaged to the extent that they are difficult to discern within the busy reef structure. Therefore, the scene is an environment, and camouflage is not a prominent feature of a main subject here."
+}

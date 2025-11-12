@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background is a close-up of a reddish-brown, highly textured surface, possibly a rusty metal or coarse rock. It is characterized by numerous small, irregular, lighter yellowish-orange and greyish-white raised spots or particles densely scattered across the rust-colored base, creating a rough, granular appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The spider does not blend with its environment. Its body is a distinct dark blue-green, which contrasts sharply against the reddish-brown and yellowish background. While its legs are a lighter, somewhat translucent yellowish-brown, they do not match the overall texture or dominant colors of the background. The spider's smooth body texture and defined shape also stand out clearly against the rough, granular surface, making it easily discernible."
+}

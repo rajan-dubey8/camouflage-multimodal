@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wood Stork",
+  "background_description": "The background consists of a clear, uniform bright blue sky, indicating an open aerial environment with no visible clouds or land features.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Wood Stork's plumage, characterized by stark white body feathers and prominent black flight feathers, creates a high contrast against the uniform bright blue sky. Its dark head and legs further stand out. There is no color blending, disruptive patterning, or mimicry applied to help the bird blend with this specific background. Consequently, the bird is highly visible and shows no signs of camouflage in this context."
+}

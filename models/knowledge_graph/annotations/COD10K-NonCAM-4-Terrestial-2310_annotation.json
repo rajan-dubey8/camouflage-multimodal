@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red Fox",
+  "background_description": "A winter landscape covered in fresh white snow, with numerous upright blades of dry, dormant green and brown grass peeking through the snow. The distant background consists of more snow-covered ground and faint vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The red fox's dominant reddish-brown fur creates a high color contrast against the largely white, snow-covered environment. While there are some patches of dry grass that share a similar brown tone to parts of the fox's fur, the overwhelming presence of white snow makes the fox stand out prominently. Its fur texture, while natural, does not mimic the granular snow or thin grass blades. Therefore, the fox does not exhibit effective camouflage in this snowy setting."
+}

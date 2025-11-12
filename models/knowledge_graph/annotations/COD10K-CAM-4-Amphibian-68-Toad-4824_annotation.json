@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The toad is perched on a weathered reddish-brown wooden railing or fence post, which shows prominent white streaks from wear. In the background, there is a large, mottled grey rock surface extensively covered with patches of light grey and greenish-grey lichen, along with scattered dried pine needles. Further to the right and lower, more weathered wooden planks and some green fern-like foliage are visible.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad displays a highly mottled pattern of grey, white, and dark grey, with a rough, textured skin. While it is resting on a reddish-brown wooden plank, its coloration and pattern are an excellent match for the lichen-covered rock present in the immediate background. The light grey and white patches on the toad blend remarkably well with the lichen's appearance on the rock, indicating strong color blending and pattern matching for such a substrate. Although there is a noticeable color contrast against the dominant reddish-brown of the wood, the toad's cryptic pattern and texture are clearly adapted for blending with irregular, mottled surfaces like lichen-covered rocks or tree bark, which are prominent features of the overall environment shown in the image. This suggests an effective camouflage strategy, even if its immediate perch isn't the most optimal for perfect concealment."
+}

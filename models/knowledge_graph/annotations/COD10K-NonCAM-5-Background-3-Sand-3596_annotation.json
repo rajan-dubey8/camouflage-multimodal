@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Desert landscape with sand dunes",
+  "background_description": "The scene features rolling golden-yellow sand dunes with subtle ripples and shadows, indicating wind patterns and the angle of the sun. The sky is a clear, bright blue, fading slightly to a lighter tone near the horizon. In the foreground and mid-ground, there is a prominent piece of weathered, dead wood or a dried-up tree stump partially buried in the sand, casting a distinct shadow. Further in the distance, more sand dunes are visible, along with some sparse, low-lying green shrubs and additional pieces of dead vegetation.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an arid desert environment, characterized by expansive sand dunes, a clear blue sky, and scattered dead wood. There are no visible animals, insects, fish, or any other organisms present in the scene that would exhibit camouflage. Therefore, camouflage is not applicable."
+}

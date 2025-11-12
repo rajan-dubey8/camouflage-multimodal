@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dry, unpaved dirt track in the foreground and midground, leading to tall, dry, yellowish-brown savanna grass with some sparser green patches and a few dark, twiggy shrubs further back. The overall color palette is earthy and muted.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion's tawny-brown coat exhibits high color similarity with the surrounding dry savanna grass and the earthy tones of the dirt road. Its uniform coloration allows it to blend seamlessly with the warm, muted palette of its habitat, making it difficult to distinguish from a distance. The natural textures of its fur also provide a good match for the varied textures of the dry vegetation and soil. The contrast difference between the lion and its environment is low, further enhancing its camouflage, as its outline does not sharply stand out."
+}

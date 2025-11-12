@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a large, vibrant green leaf, likely part of a tropical or sub-tropical plant. It features a prominent central vein running horizontally across the image, along with a complex network of smaller, reticulated veins creating a finely textured surface. There are some subtle variations in light and shadow across the leaf, suggesting natural lighting conditions.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid exhibits excellent camouflage against the green leaf. Its entire body, including its legs and wings, is a vibrant lime green, perfectly matching the hue of the surrounding foliage. This high degree of color similarity makes it incredibly difficult to distinguish the organism from its background. While its smooth body texture is not identical to the leaf's intricate vein network, the Katydid's wings display visible veins that subtly mimic the leaf's structure, contributing to pattern matching. The overall contrast difference between the Katydid and the leaf is very low. The most noticeable features that break the camouflage are its bright red eyes and long, dark antennae, which create small points of contrast. However, the dominant feature is the successful color blending and general shape, which allows the Katydid to merge seamlessly with its environment."
+}

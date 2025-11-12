@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of an aquatic environment within a tank or aquarium, featuring artificial green aquatic plants and some pink/purple decorative elements resembling coral or flora. There are also visible air bubbles and the glass wall of the tank.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows several goldfish with bright orange/gold bodies and some darker fish in the background, all swimming in an aquarium. Their vibrant colors and distinct shapes make them highly visible against the artificial plant background, indicating no camouflage."
+}

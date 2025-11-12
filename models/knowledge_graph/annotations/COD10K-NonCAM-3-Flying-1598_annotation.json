@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Shorebird",
+  "background_description": "The background consists of a dark gravel and pebble shoreline mixed with dried seaweed and dark green/brown algae in the immediate foreground. Behind this is a body of water, likely the sea or a large lake, with shimmering sunlight reflecting off its surface, creating bright bokeh effects. The water color is predominantly dark blue-grey.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits camouflage through color blending. Its plumage, a mix of light grey, brownish-grey, and white, closely matches the muted tones of the shoreline environment, including the dark grey/brown pebbles, dried seaweed, and the dark blue-grey water. While its distinct shape is visible, the coloration helps it blend with the drab, natural elements of the beach. There is limited texture similarity between the bird's feathers and the granular ground or fluid water, which makes the camouflage primarily based on color matching rather than mimetic texture."
+}

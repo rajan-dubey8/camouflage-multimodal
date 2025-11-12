@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater environment, likely a shallow area with a rocky or sediment-covered bottom. It is extensively covered with various shades of green and brownish algae, appearing as a dense, textured growth. There are also darker areas, possibly shadows or deeper recesses, and some lighter spots where the substrate might be exposed or reflecting light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage, blending seamlessly with its underwater environment. Its body is covered in a mottled pattern of dark browns, blacks, and lighter tan/yellowish patches. These colors and patterns closely mimic the varied shades of green and brown algae, and the rough, textured appearance of the rocks and substrate it is resting upon. The disruptive coloration breaks up its outline, making it difficult to distinguish its form from the irregular shapes and textures of the background. The low contrast and high color and texture similarity contribute significantly to its effective concealment."
+}

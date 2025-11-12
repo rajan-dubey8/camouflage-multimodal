@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pigeon",
+  "background_description": "The pigeon is perched on a light gray, angular, and somewhat textured man-made structure, possibly concrete or painted metal, with visible bolts. The background beyond this structure is a very light, uniformly blurred gray/white, suggesting an out-of-focus urban or architectural environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The pigeon exhibits moderate camouflage through color blending. Its predominantly gray plumage, with subtle iridescent neck feathers and darker wing patterns, blends reasonably well with the light gray tones of the concrete-like structure it is perched on and the blurred light gray background. While the bird's form is clearly distinguishable, its coloration reduces its overall contrast against typical urban environments such as concrete buildings, sidewalks, and industrial structures, helping it to avoid detection by predators in such settings. The texture difference between its feathers and the rigid structure is significant, but the color match provides a degree of concealment."
+}

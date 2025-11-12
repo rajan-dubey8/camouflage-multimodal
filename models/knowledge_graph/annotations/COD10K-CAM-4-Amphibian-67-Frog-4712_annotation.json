@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a varied terrestrial environment. The ground is covered with patches of vibrant green moss, light-colored fine sand and small pebbles, and larger light-yellowish rocks partially covered in grey-green and white lichen. Scattered throughout are numerous dry, thin, brown and dark brown plant stems, twigs, and leaf litter. There are also areas of darker soil or matted debris, and a fuzzy green-brown plant visible in the upper left.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The frog exhibits excellent camouflage through a combination of color blending, pattern matching, and disruptive coloration. Its skin features irregular, high-contrast patches of vibrant green, reddish-orange, black, and white/light grey. These colors directly mimic various elements in its immediate environment: the green patches blend with the moss and lichen, the reddish-orange tones resemble dry plant matter and some rock coloration, the black patches align with shadows and dark debris, and the white/light grey areas match the sand, pebbles, and lichen. The irregular, mottled pattern effectively breaks up the frog's outline, making it difficult for a predator to perceive its continuous form against the visually busy, heterogeneous background. This disruptive pattern, coupled with the matching colors and varied textures of the environment, significantly reduces the overall contrast difference between the frog and its surroundings, allowing it to blend seamlessly."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of complex, rough coral and rock formations, predominantly in shades of reddish-brown, dark orange, and yellowish-brown. These structures are heavily textured, appearing porous, encrusted, and irregular, with deep shadows and crevices. Some areas show a lighter, more sandy-colored texture, while others are dark and recessing. A dark sea urchin with prominent spines is visible on the far right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.95",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Fish (specifically a Moray Eel) exhibits excellent camouflage. Its body color, a reddish-brown with subtle darker speckling, closely matches the dominant hues of the surrounding coral and rock formations. The mottled pattern on its skin effectively mimics the rough, irregular, and porous texture of the background, helping to break up its outline. Its elongated, serpentine shape allows it to fit snugly within the natural crevices and contours of the coral, further aiding in concealment. The overall low contrast between the eel's body and its immediate environment makes it challenging to distinguish at first glance, despite its visible eye."
+}

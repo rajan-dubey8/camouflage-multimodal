@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The scene depicts a sky with a mix of fluffy white cumulus clouds, darker gray stratocumulus clouds, and clear blue sky visible in various patches. The clouds vary in density and illumination, with brighter areas where sunlight hits them and darker, shadowed regions.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a sky with clouds. There are no visible organisms (animals, insects, fish, etc.) for which camouflage would be relevant. Therefore, camouflage is not present in this environmental scene."
+}

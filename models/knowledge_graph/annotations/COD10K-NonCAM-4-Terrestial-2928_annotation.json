@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "A dark, uniform, and slightly out-of-focus background, likely an indoor enclosure or wall, lacking natural textures or varied lighting conditions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "Tigers possess a highly effective form of camouflage through their distinctive black stripes on an orange-brown coat. This disruptive pattern is evolved to break up their outline, helping them blend seamlessly with the dappled light and shadows found in their natural habitats, such as forests and tall grass. While the tiger itself has these camouflage features, in this specific image, the uniform dark background does not provide the natural environmental context for these patterns to be effective. Consequently, the tiger's stripes and bright fur create a high contrast against the dark background, making it clearly visible in this particular scene, even though its patterns are inherently designed for concealment elsewhere."
+}

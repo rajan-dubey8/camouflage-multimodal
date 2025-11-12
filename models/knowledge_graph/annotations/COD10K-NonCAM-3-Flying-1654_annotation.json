@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-naped Oriole",
+  "background_description": "The background consists of a dark wire mesh fence with a square pattern, behind which is out-of-focus, vibrant green foliage, appearing as soft blurs of various shades of green. The bird is perched on a dark, textured wooden branch.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bird, a Black-naped Oriole, exhibits striking bright yellow plumage, a distinct black mask across its eyes and nape, and a reddish-pink beak. These vivid colors provide a high contrast against both the dark wire mesh of the cage and the blurry green foliage in the background. The bird is highly visible and does not blend in with its surroundings in terms of color, pattern, or texture. Therefore, no camouflage is present."
+}

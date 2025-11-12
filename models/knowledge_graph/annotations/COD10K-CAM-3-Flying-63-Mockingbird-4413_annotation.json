@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The mockingbird is perched on a weathered, grey-brown wooden fence post. The post has deep vertical grooves and some clusters of green, needle-like foliage. Surrounding the post are numerous thin, dry, bare brown branches and twigs, creating a tangled effect. The distant background consists of a blurred, warm tan or light brown field, likely of dry grass or vegetation.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird is clearly visible against its environment. Although its grey and white plumage shares some desaturated tones with the weathered grey-brown wooden post and the dry branches, its distinct avian shape, feathery texture, and moderate contrast make it easily identifiable. The bird's overall form is not disrupted, and its brightness, especially on the underside, prevents it from blending seamlessly with the surrounding textures and colors of the wood, branches, or the soft tan background field. It does not exhibit effective camouflage in this specific image."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rock Hyrax",
+  "background_description": "The background consists primarily of a large, rough, greyish-tan rock surface with a granular texture. There are patches of green moss growing on the rock. In the upper background, a dark, thick wooden branch or log is visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Rock Hyrax exhibits effective camouflage through color blending. Its dense, greyish-brown fur closely matches the color and tone of the surrounding rock surface, which is also greyish-tan. The slight variations in the fur's color and texture help it blend with the rock's irregular granular surface and the patches of green moss. This reduces its overall contrast and makes its outline less distinct against its natural rocky habitat, aiding in concealment from predators."
+}

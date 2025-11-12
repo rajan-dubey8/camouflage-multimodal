@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tree canopy",
+  "background_description": "The scene depicts a dense canopy of broad, vibrant green leaves viewed from below. Sunlight filters through the leaves, creating areas of bright, translucent yellow-green and casting some leaves into darker green shadow. Thin branches are visible interwoven amongst the foliage, and several patches of clear, light blue sky are visible between gaps in the leaves.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, insect, or animal is visible within the image. The image exclusively shows a natural environment consisting of a tree canopy with green leaves and glimpses of the sky. Therefore, camouflage is not present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is resting on a large, irregularly shaped rock or weathered log. This object has a rough, highly textured surface with deep crevices, bumps, and fractured patterns, exhibiting colors of dark reddish-brown, grey, and hints of bluish-green in shadowed areas. The surface shows varied light and shadow patterns, creating a complex visual environment. In the background, out of focus, is vibrant green grass or foliage, suggesting a sunny outdoor environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard exhibits strong camouflage against the rock it is resting on. Its mottled coloration, comprising shades of brown, grey, and some yellowish-green, closely matches the varied hues and tones present on the rough, textured rock surface. The intricate scaly pattern of the lizard's skin remarkably mimics the fractured, uneven texture of the rock, making its outline less distinct. Furthermore, the interplay of light and shadow on the lizard's body is consistent with the light and shadow patterns on the rock, effectively breaking up its shape and reducing contrast difference. While the background is bright green foliage, the lizard's immediate perch provides excellent concealment through color blending, pattern matching, and shape disruption."
+}

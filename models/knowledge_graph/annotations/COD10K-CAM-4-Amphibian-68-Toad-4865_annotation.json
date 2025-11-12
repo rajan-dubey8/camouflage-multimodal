@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists primarily of a large, irregularly shaped rock with a coarse, pitted texture. The rock displays a mottled gray-brown coloration, heavily adorned with patches of dark brown and lighter, dried moss or lichen, which create diverse textural patterns. Lush green grass with some dried blades grows around the base of the rock and extends into the mid-ground and background, with darker green foliage visible further back. The lighting is natural and somewhat diffused.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits a highly effective camouflage against its rocky, moss-covered environment. Its skin color, a mottled gray-brown with darker patterns, closely matches the various shades of the rock itself and the patches of dried moss and lichen growing on its surface. The warty, irregular texture of the toad's skin also remarkably mimics the rough, porous surface of the rock, further enhancing the blend. The patterns on the toad's back serve to break up its outline, preventing its distinct shape from standing out against the complex background. This combination of color blending and pattern matching results in a very low visual contrast, making the toad exceptionally difficult to spot in its immediate surroundings."
+}

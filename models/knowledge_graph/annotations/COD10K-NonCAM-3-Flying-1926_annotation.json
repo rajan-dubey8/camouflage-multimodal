@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Small insect on leaf",
+  "background_description": "The background consists of blurred green foliage, likely a leaf or stem, with lighter yellowish-green areas suggesting bright lighting. The immediate foreground around the insect shows some fuzzy or hairy textures on the plant surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The insect, which appears to be a small nymph or bug, has a predominantly dark, almost black body and legs. This coloration creates a strong contrast against the vibrant, bright green plant background it is resting on. There is very low color similarity between the insect and its immediate environment. The insect's relatively smooth, hard exoskeleton also differs texturally from the softer, somewhat fuzzy plant surface. Due to the high color and contrast difference, the insect is clearly visible and does not exhibit any effective camouflage patterns or coloration for this specific environment. No evidence of color blending, mimicry, or disruptive patterns is present to aid concealment."
+}

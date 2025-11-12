@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical waterfall landscape",
+  "background_description": "The image features a natural waterfall cascading over tiered, textured rock formations into a murky pond below. The rocks display a variety of colors, including dark greys, mossy greens, and a distinct reddish-brown section on the left. They have a rough, stratified texture. Various green plants and vines are visible, growing on and hanging from the rocks, contributing to a lush, humid environment feel. The water creates splashes and ripples in the pond.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, fish, bird, reptile, amphibian, or arachnid) is visible in the image. The scene exclusively depicts a natural waterfall environment with rocks, water, and plants. Therefore, no camouflage is present or evaluated."
+}

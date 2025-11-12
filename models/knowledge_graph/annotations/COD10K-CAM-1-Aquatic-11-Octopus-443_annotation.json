@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a vibrant and complex coral reef environment. It features various types of stony coral, some with rough, convoluted surfaces in earthy tones of reddish-brown, yellowish-brown, and dark brown. There are also patches of lighter, almost white, branching coral and brain-like coral textures. The overall impression is a dense, highly textured, and variegated underwater rocky habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The octopus exhibits excellent camouflage against the coral reef background. Its body color closely matches the dominant reddish-brown and earthy tones of the surrounding coral and rock formations. Furthermore, its skin texture is remarkably similar to the rough, bumpy, and irregular surfaces of the stony corals, enhancing the blend. The mottled patterns on its skin break up its outline, making it difficult to distinguish its distinct shape from the complex, irregular patterns of the reef. The overall contrast between the octopus and its environment is very low, making it visually integrate almost perfectly."
+}

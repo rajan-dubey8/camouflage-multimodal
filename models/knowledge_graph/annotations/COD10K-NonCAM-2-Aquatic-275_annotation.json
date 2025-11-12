@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Damselfish",
+  "background_description": "The background consists of a clear, uniform blue, indicating either open water or a plain aquarium tank wall, devoid of any discernible features such as coral, rocks, or marine vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Damselfish with a distinct silvery-blue body, prominent scales, and bright yellow-orange coloration on its snout and some fins. This fish is set against a plain, uniform blue background. Its distinct colors and patterns make it stand out significantly from its featureless surroundings, confirming that no camouflage is present."
+}

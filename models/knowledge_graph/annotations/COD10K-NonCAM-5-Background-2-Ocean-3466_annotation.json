@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Bubble Coral",
+  "background_description": "The background consists of a dark blue/green underwater environment with various textured rocks and other marine growths, including some purplish algae and other coral structures. The textures are rough and irregular, with patches of light and shadow, creating a complex and somewhat indistinct backdrop.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The main subject is a Bubble Coral (Plerogyra sinuosa), a marine organism. Its distinct pale, almost translucent, bubble-like polyps and overall bright appearance stand out significantly against the darker, rougher textures and varied colors of the surrounding rocky and algal background. The coral's morphology is part of its natural structure for photosynthesis and protection, not a strategy to blend into the environment to avoid detection by predators or ambush prey. Therefore, no camouflage is present for this organism. While the coral is an organism, it is categorized as 'Environment' for object_category due to its role as a structural component of the marine ecosystem, a necessary selection given the constraints of the provided schema categories for non-vertebrate animals."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ornate Marine Invertebrate",
+  "background_description": "The background consists of a complex underwater environment, likely a rocky seafloor or coral rubble. It features a sandy-gravelly substrate mixed with various small rocks, detritus, and sessile organisms. Colors are predominantly muted browns, grays, and earthy tones, with occasional patches of red-orange (suggesting coralline algae or other growths) and dark shadowed areas. The texture is highly irregular and cluttered.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Mimicry",
+  "explanation": "The organism displays effective camouflage through mimicry of its cluttered marine environment. Its highly branched, feathery, and irregular body shape, combined with intricate textures, makes it closely resemble inert pieces of debris, hydroids, or other sessile growths found on the seabed. While the vibrant red color of its appendages provides some contrast against the overall muted background, the presence of reddish accents in the environment helps to partially blend these colors. The primary camouflage mechanism is the disruption of its outline and the detailed textural resemblance, allowing it to blend seamlessly with the complex and chaotic surrounding environment, thereby making it difficult for predators or prey to identify it as a distinct animal."
+}

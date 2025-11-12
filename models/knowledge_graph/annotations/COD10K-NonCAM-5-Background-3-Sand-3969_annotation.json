@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach",
+  "background_description": "The scene displays a wide expanse of a sandy beach, characterized by light beige to brownish sand. Small dark pebbles and specks of dark debris, possibly seaweed, are scattered across the sand, particularly in the mid-ground. The horizon line separates the beach from a pale, overcast sky filled with soft grey and white clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively features a natural environmental scene, specifically a sandy beach with an overcast sky. There are no visible organisms (animals, insects, fish, etc.) present within the frame. Therefore, camouflage is not applicable and not detected."
+}

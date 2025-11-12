@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Royal Angelfish",
+  "background_description": "A blurred aquatic environment featuring muted brown, green, and dark blue rocky or coral formations, suggesting a natural reef tank or deeper water setting with diffuse lighting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Royal Angelfish with vibrant yellow, blue, and orange stripes. Its distinct and bright coloration creates a strong contrast against the muted, blurred background, making the animal highly visible and confirming the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a rocky hillside, primarily featuring light grey and off-white rocks of various sizes and irregular shapes. Sparse, dry vegetation, including thin grasses and small, low-lying green plants, grows between the rock crevices. The ground is uneven and textured, with visible shadows and darker mineral stains on the rocks.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The snake demonstrates exceptional camouflage against its rocky environment. Its base coloration is a light grey, almost identical to the surrounding rocks, allowing for high color similarity. The snake's dark, irregular blotches and patterns precisely mimic the shadows, cracks, and textural variations found on the stones, contributing to strong pattern matching. The rough, mottled texture of its scales further enhances its blend with the weathered rock surfaces. The coiled posture of the snake also helps to disrupt its distinct shape, making it appear as just another part of the rocky terrain. The overall low contrast difference between the snake and its immediate surroundings makes it very difficult to spot at first glance."
+}

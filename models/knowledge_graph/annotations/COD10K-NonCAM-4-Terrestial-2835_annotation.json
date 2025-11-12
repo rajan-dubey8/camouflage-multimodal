@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Jackal",
+  "background_description": "The background consists of dense, wild vegetation, primarily composed of tall, thin stems of green grass and dry, straw-colored stalks. There are also smaller plants with round, brownish-purple flower buds scattered throughout. The lighting suggests a bright, sunny outdoor environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The jackal exhibits effective camouflage through color blending. Its fur is a mix of sandy browns, light grays, and cream tones, which highly matches the dry grasses, earthy tones, and lighter green foliage prevalent in the background. The texture of its fur also blends well with the varied textures of the natural vegetation. This high color and texture similarity, combined with a low contrast difference against the environment, helps the jackal blend into its surroundings, making it difficult for both prey and predators to detect."
+}

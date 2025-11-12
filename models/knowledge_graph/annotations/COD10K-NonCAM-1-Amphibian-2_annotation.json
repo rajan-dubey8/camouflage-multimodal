@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree Frog",
+  "background_description": "A freshwater pond or stream environment, characterized by dense green aquatic vegetation, such as reeds and lily pads, with murky water and soft, earthy banks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A vibrant green Tree Frog is distinctly visible, resting on a dark, textured fabric. Its bright coloration and smooth skin provide low color and texture similarity, and high contrast against its immediate non-aquatic surroundings, confirming the absence of camouflage."
+}

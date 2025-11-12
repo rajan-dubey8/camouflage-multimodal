@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a natural forest floor or ground area, characterized by dry, reddish-brown to dark brown soil, interspersed with decaying leaves, small stones, and coarse organic matter. The surface is uneven, lumpy, and textured, with various shades of brown and some darker, shadowed depressions.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage. Its entire body, from its overall brown coloration to the mottled and bumpy texture of its skin, perfectly mimics the dry earth and decaying leaves of its environment. The irregular, angular shape of its head and body, especially the projections, effectively breaks up its silhouette, making it incredibly difficult to distinguish from the surrounding debris. The color variations on its skin seamlessly blend with the different shades present in the soil and leaf litter, resulting in very low visual contrast. This combination of color blending, pattern matching, and shape disruption allows the frog to almost disappear into its habitat."
+}

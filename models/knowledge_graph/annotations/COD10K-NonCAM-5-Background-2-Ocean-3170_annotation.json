@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Murky underwater seabed",
+  "background_description": "The background depicts a murky, greenish-brown underwater environment, consistent with a seabed or bottom of a body of water. The substrate appears to be fine sediment, possibly sand or mud, with various scattered natural debris including small shells, pebbles, and irregular clumps of dark, stringy algae or marine plant matter. The water visibility is low, resulting in a soft, diffused lighting and lack of sharp detail.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a murky underwater environment. While there are various natural elements such as sediment, shells, and marine plant matter, there are no clearly discernible animal organisms present that would exhibit camouflage. The scene is simply a natural seabed with its components. Therefore, no camouflage is detected."
+}

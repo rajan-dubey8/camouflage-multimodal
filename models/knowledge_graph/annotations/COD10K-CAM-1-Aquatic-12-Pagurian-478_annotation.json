@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Pagurian",
+  "background_description": "The background consists of a complex underwater reef environment. It features various types of coral and marine growth, primarily in shades of brown, beige, and reddish-pink. There are numerous textured, bushy or 'pom-pom' like brown coral colonies, along with smoother, lighter beige stony corals and rock surfaces. Some areas also show hints of green and yellow marine life. The overall texture is highly irregular, lumpy, and porous, characteristic of a vibrant coral reef.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Pagurian's body, characterized by its vivid orange-red coloration and prominent white spots, stands out significantly against the mottled brown, beige, and reddish-pink backdrop of the reef. While the conch shell it inhabits offers some degree of color blending with the lighter stony corals in the background, the visible appendages of the organism itself are highly conspicuous. There is a high contrast difference in both color and pattern between the Pagurian's body and its environment, preventing effective camouflage. The rough, spiny texture of its legs also differs distinctly from the dominant textures of the surrounding corals and sponges."
+}

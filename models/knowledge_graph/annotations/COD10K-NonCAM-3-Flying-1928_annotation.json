@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists of several bright green, elongated plant stems or leaves, some in sharp focus and others blurred, creating a soft green-grey backdrop. The main stem the dragonfly is perched on is a smooth, vibrant green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly, with its predominantly dark black body and prominent white patches on its wings, stands out sharply against the vibrant green plant stem and the blurry green background. There is a strong color contrast between the insect and its surroundings, and its segmented, chitinous texture does not blend with the smooth plant surfaces. The distinct markings make it easily visible rather than blending in."
+}

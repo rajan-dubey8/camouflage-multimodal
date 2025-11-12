@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-capped Chickadee",
+  "background_description": "The background consists of bare, dark brown tree branches, with a soft, out-of-focus blend of warm orange/yellow and light blue/grey tones from the distant environment, suggesting diffused light during sunrise or sunset.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Black-capped Chickadee is clearly visible, perched on a bare branch. Its distinct black cap and bib, white cheeks, and prominent white belly create a high contrast against the dark brown branches and the soft, warm-toned background. There is no significant color blending, texture matching, or disruptive patterning that would help it merge with its surroundings. Its coloration makes it stand out rather than blend in with this particular environment."
+}

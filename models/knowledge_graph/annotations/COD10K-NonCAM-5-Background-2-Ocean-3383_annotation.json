@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mushroom anemone",
+  "background_description": "The background consists of a bed of irregular, light-colored stony fragments, primarily white and light brown, resembling coral rubble or coarse gravel. Some pieces show porous textures and varying shades, including darker brown or reddish tones.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The organism, a mushroom anemone, exhibits effective camouflage through mimicry and color blending. Its highly irregular, lumpy, and textured surface closely mimics the shape, form, and texture of the surrounding coral rubble and stony fragments. The brownish-green coloration of the anemone blends moderately with the earthy and light brown tones present in the background, reducing its overall contrast. This combination makes it challenging to distinguish the anemone from its rocky substrate, helping it evade predators or ambush prey."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dense forest floor covered extensively with dried brown leaves and fallen twigs. Numerous thin, vertical plant stalks, some with sparse green leaves and others entirely bare, rise from the ground, creating a cluttered visual field. A large fallen log runs horizontally behind the tiger, partially covered by vegetation. The overall environment is dry and woody, with a mix of brown, light green, and earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The tiger exhibits strong camouflage in this image. Its orange-brown fur closely matches the dominant color of the dried leaves and woody debris on the forest floor, providing excellent color blending. The black stripes are crucial for pattern matching and shape disruption, breaking up the tiger's outline and making it harder to discern against the complex, vertically oriented textures of the thin branches and the mottled shadows. The dense foreground vegetation further aids in concealment by physically obscuring parts of the tiger's body, reducing its overall visibility. While visible upon close inspection, its natural patterns and coloration, combined with the environment, make it highly effective at blending in."
+}

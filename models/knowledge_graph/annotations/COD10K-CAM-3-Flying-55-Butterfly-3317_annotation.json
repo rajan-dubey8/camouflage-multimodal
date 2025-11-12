@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense shrub or tree branch, heavily covered in clusters of bright yellow to orange tubular flowers or flower buds. Interspersed among these flowers are dark green, elongated leaves. The overall lighting suggests bright sunlight, creating highlights on the leaves and flowers, and darker, shadowed areas deeper within the foliage, creating a visually busy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly exhibits strong camouflage primarily through color blending. Its vibrant yellow wings with black stripes closely match the numerous bright yellow-orange tubular flowers it is resting upon and surrounded by. This creates a high degree of color similarity, making it challenging to distinguish the butterfly from the floral background at first glance. While the black stripes provide some internal contrast, the overall effect of the yellow coloration against the yellow flowers significantly reduces its visibility. The clustered and intricate texture of the flowers also contributes to pattern matching, helping to break up the butterfly's outline within the complex and visually noisy environment of the blooming plant."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish in anemone",
+  "background_description": "The background depicts a vibrant underwater coral reef environment. It features various stony and soft corals with shades predominantly of greenish-brown, olive green, and some lighter beige and yellow-green tones. The textures are diverse, ranging from lumpy and porous to branching and feathery (from the anemone tentacles). The overall lighting gives a strong green cast characteristic of underwater photography.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The clownfish are brightly colored with prominent orange, white, and black stripes. These colors and patterns stand out significantly against the greenish-brown and yellowish-green coral reef and anemone background. The fish's smooth texture also contrasts with the rough, varied textures of the coral and the soft tentacles of the anemone. There is a high contrast difference between the clownfish and its surroundings, making them easily visible. They do not exhibit any form of color blending, mimicry, or disruptive patterning to conceal themselves; their coloration is designed for recognition, and their primary defense mechanism is the symbiotic relationship with the stinging anemone, not camouflage."
+}

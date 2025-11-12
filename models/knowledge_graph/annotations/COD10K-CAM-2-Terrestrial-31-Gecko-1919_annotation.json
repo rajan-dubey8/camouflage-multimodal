@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of dense, lush green foliage. There are large, prominent leaves with visible veins and water droplets, as well as smaller, lighter green leaves and intertwined vines. Deep, dark shadows are present between the leaves, indicating a shaded, verdant environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The gecko is not camouflaged in this image. Its reddish-brown coloration strongly contrasts with the dominant dark green hues of the surrounding leaves and the deep shadows. While the gecko is nestled among the foliage, its distinct color and scaly texture do not blend with the smooth, green surfaces of the leaves or the overall dark, cool tones of the environment. This high color and tonal contrast makes the gecko easily noticeable."
+}

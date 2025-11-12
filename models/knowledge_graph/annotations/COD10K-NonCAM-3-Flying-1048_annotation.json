@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Cattle Egret",
+  "background_description": "The background is heavily blurred with a strong bokeh effect, featuring dark green and brown tones suggesting dense foliage, possibly trees or shrubs. There is a horizontal, lighter, blurred bar in the mid-background and a dark teal/green horizontal band at the very bottom, likely a railing or perch.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, identified as a Cattle Egret, displays prominent white plumage with a bright yellow-orange head, neck, and beak. It is positioned against a very dark, heavily blurred background consisting of dark green foliage and brown hues. The bright colors of the bird stand in stark contrast to the dark background, making it highly conspicuous and easily detectable. There is no blending of colors or textures with the environment, nor any disruptive patterns or mimicry observed. Therefore, no camouflage is present."
+}

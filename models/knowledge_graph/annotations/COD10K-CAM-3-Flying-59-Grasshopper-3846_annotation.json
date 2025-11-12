@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of dense green foliage, featuring various shades of green leaves, some in sharp focus and others blurred due to shallow depth of field. A large, out-of-focus, yellowish-green object (possibly a fruit or a large leaf) is visible in the upper left, providing a diffuse glow. The grasshopper is nestled amongst sharp green leaves and a brown branch/stem, which is partially obscured.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The grasshopper exhibits highly effective camouflage. Its body, particularly the large hind wings, are an almost perfect match in color (vibrant green) to the surrounding leaves, resulting in high color similarity. Beyond color, its body is flattened and elongated, with visible venation on the wings that mimics the texture and pattern of leaf veins. This morphology, combined with its posture among the foliage, serves as an excellent example of shape disruption, as its outline is broken up to resemble a leaf rather than a distinct insect. The contrast difference with the background is low, making it difficult to discern the creature from the surrounding vegetation. While its eyes and antennae are slightly more discernible, the overall effect is that it blends seamlessly into its environment, making it very hard to spot."
+}

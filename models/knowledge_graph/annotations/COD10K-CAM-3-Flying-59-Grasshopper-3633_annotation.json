@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of lush, vibrant green leaves from a plant, possibly a bush or tree. The leaves are broad, somewhat glossy, and show varying degrees of sunlight exposure; some are brightly illuminated with distinct highlights, while others are in shadow, appearing darker. The texture of the leaves shows subtle venation and smooth surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper exhibits excellent camouflage. Its body color is a near-perfect match to the vibrant green leaves of its environment, achieving high color similarity. Furthermore, its wings display prominent venation that closely mimics the natural vein patterns found on the surrounding leaves, providing high texture similarity and pattern matching. The overall shape of the grasshopper's body, particularly its flattened and elongated form, resembles a leaf, effectively disrupting its outline and making it harder to distinguish from the foliage. Despite the presence of some shadows cast by its legs, the combination of color, texture, and shape mimicry results in a very low contrast difference with the background, making it highly camouflaged."
+}

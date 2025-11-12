@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense, uneven mat of small green aquatic vegetation, likely duckweed, covering the water surface. There are variations in the green shades, from bright lime green to darker olive and moss green. Scattered among the vegetation are a few darker, possibly submerged, debris pieces or muddy patches, and a couple of thin, upright plant stems. The overall texture is granular and slightly bumpy due to the aggregated plant matter.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog is highly camouflaged in this image. Its dorsal coloration, a mix of dark green and olive tones, perfectly matches the various shades of green present in the dense duckweed covering the pond surface. The texture of the frog's skin, especially where it is covered by the duckweed, also blends with the granular, irregular texture of the surrounding vegetation. While its prominent eye provides a point of contrast, the rest of its body merges seamlessly with the environment, making it difficult to discern its full shape. The overall low contrast between the frog's body and the background effectively conceals its presence."
+}

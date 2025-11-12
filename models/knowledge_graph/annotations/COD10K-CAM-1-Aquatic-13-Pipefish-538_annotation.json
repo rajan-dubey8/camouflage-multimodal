@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background is an underwater environment dominated by greenish-brown algae and possibly rocky or sandy substrate. There are various textures, including fine, filamentous algae and thicker, clumped growths. Lighter yellowish patches of what appears to be sand or dead algae are also present. The overall lighting is somewhat dim, with a greenish tint typical of shallow marine waters.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.85,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Pipefish exhibits a degree of camouflage in this image. Its elongated, slender body, a key characteristic of pipefish, serves as a form of shape disruption, allowing it to be potentially mistaken for a piece of plant debris or a broken twig rather than a fish. Its pale, yellowish-white body with thin reddish-brown stripes offers some color blending with the lighter, yellowish patches of sand and algae in the background. However, its overall lighter coloration contrasts moderately with the darker, more dominant green-brown algae, and its smooth texture differs significantly from the rough background. While not perfectly hidden, its natural form and coloration provide a moderate level of concealment in this underwater habitat."
+}

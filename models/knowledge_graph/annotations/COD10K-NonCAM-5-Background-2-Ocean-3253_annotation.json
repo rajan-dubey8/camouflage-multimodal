@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical bay with sailboats and forested hillside",
+  "background_description": "The image features a deep blue ocean with subtle ripples, a lush green hillside densely covered with vegetation on the right, and a bright blue sky with scattered fluffy white clouds above. Several sailboats are anchored in the bay.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organisms (animals, insects, or fish) are visible in the image. The scene primarily depicts a natural environment comprising a bay, sailboats, a forested island or coastline, and the sky. Therefore, there is no subject present for camouflage detection, and no camouflage is observed."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red Fox",
+  "background_description": "The background consists of a snow-covered field with patches of dry, brown grass and subtle ridges. The overall color is white and light grey from the snow, interspersed with muted browns and tans from the exposed vegetation. The texture is a mix of soft snow and spiky dry grass.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Red Fox, with its distinctive reddish-brown fur, is clearly visible against the white, snow-covered field. Its coloration provides a strong contrast with the snowy background, particularly the bright orange-red fur against the white snow and light grey shadows. While foxes may change coat for seasonal camouflage (e.g., Arctic Fox), this particular Red Fox's coat is not adapted for concealment in a snowy winter landscape, making it easily detectable. The texture of its fur also differs significantly from the surrounding snow and sparse dry grass."
+}

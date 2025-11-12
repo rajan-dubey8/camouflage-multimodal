@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface",
+  "background_description": "The image displays a vast expanse of green-turquoise colored water, likely an ocean or large lake, seen from above. The surface has visible ripples and small waves, creating a textured pattern. Sunlight reflects brightly off parts of the water, creating shimmering streaks and patches of white light, especially towards the bottom right, indicating clear water under direct illumination. A small, weathered brown object, possibly a wooden plank or part of a structure, is partially visible at the very bottom edge.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a body of water (ocean or large lake surface) and does not contain any visible organisms (animals, insects, or fish). Therefore, no camouflage is present as there is no subject to exhibit camouflage."
+}

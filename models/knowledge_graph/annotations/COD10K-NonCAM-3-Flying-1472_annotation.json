@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Leaf bug",
+  "background_description": "The immediate foreground consists of a flat, light brown surface, likely wood, with subtle horizontal grain. The background beyond the insect is deeply out-of-focus, forming a smooth gradient from dark brown at the top to a muted ochre brown towards the middle, lacking distinct textures or features.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The insect, characterized by its bright green and yellowish body with striking red accents on its head and dorsal spine, stands out prominently against the contrasting dark brown, blurred background and the light brown foreground surface. While its green coloration might typically serve as camouflage on green foliage, in this specific environment depicted, there is low color and texture similarity, and a high contrast difference between the insect and its immediate surroundings, indicating no effective camouflage."
+}

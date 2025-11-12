@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bat",
+  "background_description": "The background consists primarily of a tree trunk with textured, mottled brown and greenish-grey bark, covered in some moisture or lichen. A vine with dark green leaves grows on the left side. The organism is positioned next to a bright yellow, partially eaten banana with white flesh. The right side of the image is a very dark, almost black, night background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The bat is not effectively camouflaged in this image. It is actively feeding on a bright yellow banana with exposed white flesh, which creates a strong visual contrast and immediately draws attention. While the bat's dark brown fur and black wings might offer some general concealment in a dark, nocturnal environment or against dark bark/shadows, its distinct shape, prominent ears, and especially its direct proximity to and interaction with the high-contrast food source make it clearly visible. There is low similarity in color and texture with the main background (tree bark), and its overall form stands out significantly."
+}

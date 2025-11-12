@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The aquatic environment depicts a vibrant coral reef or aquarium setting. Dominant features include a large cluster of bright green, finger-like structures with pink tips, resembling an anemone or soft coral. Behind it, a yellow, branching coral or sponge formation is visible, along with darker, ribbed coral structures to the left. The water is clear blue, and a textured, dark substrate can be seen at the bottom.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two Clownfish (Amphiprioninae) with their distinctive bright orange bodies and white and black stripes. These vibrant colors sharply contrast with the green anemone and yellow coral surroundings, making them stand out prominently. There is no evidence of camouflage being used; the animals are easily visible."
+}

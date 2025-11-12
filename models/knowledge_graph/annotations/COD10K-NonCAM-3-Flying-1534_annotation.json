@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Whistling duck",
+  "background_description": "The background consists of dark, wet, muddy ground with sparse patches of small green weeds and some dry plant debris like twigs. The colors are predominantly dark brown, grey, and dull green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The whistling duck, with its rusty brown body and darker patterned wings, is visible against the muddy ground. While its brown plumage shares some color tones with the soil, the distinct black and orange patterns on its wings, the prominent white streaked flank feathers, and the bright blue bill and grey feet create sufficient contrast. The overall form and texture of the bird do not blend with the uneven, muddy, and sparsely vegetated ground. Therefore, it is not effectively camouflaged in this scene."
+}

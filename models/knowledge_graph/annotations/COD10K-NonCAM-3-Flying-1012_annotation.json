@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pigeon",
+  "background_description": "The background consists of a textured surface made of numerous dark brown, irregular-shaped wood chips or bark pieces, providing an earthy, fragmented appearance. There are variations in shade due to light and shadow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's distinct grey head, prominent red skin around its eye, and patterned feathers on its neck and body (including white spots) create a high visual contrast against the uniformly dark brown, fragmented wood chip background. While some body feathers have reddish-brown tones similar to the background, the overall coloration and distinct markings prevent effective blending, making the bird clearly visible."
+}

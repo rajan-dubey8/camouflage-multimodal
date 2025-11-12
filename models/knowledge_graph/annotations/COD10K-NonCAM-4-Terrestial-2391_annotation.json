@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Groundhog",
+  "background_description": "A field of vibrant green grass, consisting of numerous individual blades of varying lengths. The immediate foreground shows sharp details of the grass, while the mid-ground and background are increasingly out of focus, creating a soft bokeh effect with lighter green and some indistinct brighter specks, suggesting natural light filtering through or small flowers.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The groundhog exhibits natural camouflage through its fur coloration, which is a blend of brown and grey tones. While the immediate background is bright green grass, the groundhog's colors are adapted to blend with a broader range of its natural habitat, including soil, rocks, and dried vegetation often found within or adjacent to grassy fields. The grizzled texture of its fur also contributes to breaking up its solid form, making its outline less distinct against the varied textures and shades of its environment. Although it doesn't perfectly disappear into the vibrant green, its natural coloring provides a moderate degree of blending, reducing its visibility to predators."
+}

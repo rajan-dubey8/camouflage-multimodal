@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a uniformly soft-focused, vibrant green blur, likely representing distant foliage or grass. In the foreground, the butterfly is perched on a cluster of small yellow florets with some white petals and green stems visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The butterfly displays features of camouflage, primarily through disruptive patterns and a general cryptic coloration for its resting phase, even though it stands out against the immediate bright green background. The underside of its wings is predominantly dull brown/gray with intricate lighter patterns, which would typically offer crypsis against natural substrates like bark, dried leaves, or shadowed areas. However, in this specific image, its muted colors provide a high contrast against the vibrant, blurred green background. Crucially, the presence of distinct eye-spots (ocelli) and slender tail-like appendages on its hindwings are classic examples of disruptive patterns and mimicry, designed to misdirect predators by creating a 'false head' or drawing attention away from vital body parts, thus increasing its chances of survival by diverting attacks to less vulnerable areas."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The dragonfly is perched on a dark, coarse, braided rope or net-like structure. The background behind the rope is an out-of-focus, blurred expanse of desaturated grey and white tones, suggesting a distant, indistinct environment.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The dragonfly exhibits effective camouflage primarily through color blending. Its dark grey-black body and translucent dark wings closely match the dark, coarse, braided rope it is clinging to. While the texture of the insect is smoother than the rope and its head/thorax has a slightly lighter, silvery sheen creating a minor contrast, the overall low contrast and strong tonal similarity make it difficult to spot against its immediate background. The blurred, light grey background further behind the rope does not enhance detection of the dragonfly, maintaining its blended appearance within the scene."
+}

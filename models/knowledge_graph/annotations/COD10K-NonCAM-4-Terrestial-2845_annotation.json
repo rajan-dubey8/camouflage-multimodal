@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Herd of wildebeest and zebras on savanna",
+  "background_description": "The background consists of a vast African savanna grassland, characterized by tall blades of grass ranging in color from vibrant green to dried yellow and brown. Patches of exposed reddish-brown earth and small mounds are visible. The sky is a light, hazy blue with some cloud cover.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "Camouflage is present, primarily exemplified by the zebras within the herd. Their distinct black and white stripes serve as a classic example of disruptive pattern camouflage, making it difficult for predators to distinguish individual animals within a tightly packed or moving herd (known as motion dazzle). This pattern breaks up the outline of individual zebras and creates optical illusions, hindering a predator's ability to single out prey. While wildebeest have a more uniform grey-brown coloration that offers some blending with the darker earth, the dominant camouflage mechanism observed here is the disruptive patterning of the zebras. The stripes do not offer color or texture similarity to the grass or earth; instead, their high contrast pattern is key to their disruptive effect against a varied backdrop and especially within the visual noise of a large group."
+}

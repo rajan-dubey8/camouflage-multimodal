@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black swans in pond",
+  "background_description": "The background consists of murky green-brown water with strong reflections of the sky and surroundings, showing rippling textures. Numerous fallen autumn leaves, mostly yellow and brown, float on the surface. A stone or concrete embankment with a rough, textured surface is visible along the right edge of the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The black swans are not camouflaged in this image. Their dark, uniform black plumage stands in stark contrast to the greenish-brown, reflective water surface and the lighter autumn leaves floating on it. Additionally, their bright red beaks are highly conspicuous against both their own dark feathers and the background. There is no color blending, disruptive patterning, or mimicry that would help them hide in this environment; instead, they are clearly visible and easily distinguishable from their surroundings."
+}

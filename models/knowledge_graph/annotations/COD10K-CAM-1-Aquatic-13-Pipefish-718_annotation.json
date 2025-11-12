@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow underwater seafloor, predominantly covered with sandy sediment, small pebbles, broken shell fragments, and various types of algae and detritus. There are patches of dark green, brownish-red, and lighter sandy areas. Several pieces of elongated, dark, possibly decaying plant matter or debris are scattered across the bottom.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Shape disruption / Mimicry",
+  "explanation": "The Pipefish exhibits strong camouflage by blending effectively with its underwater environment. Its slender, elongated body, which is predominantly dark brown with lighter segmented bands, closely mimics the appearance of dark, decaying plant matter or debris commonly found on the seafloor. The color palette of the Pipefish (dark browns, greys, and some greenish hues) matches well with the various shades of sand, pebbles, and algae in the background. Its somewhat rough, segmented texture further enhances this mimicry, making it difficult to distinguish from inanimate organic detritus. While its outline is discernible upon close inspection, its overall form and coloration disrupt its shape against the varied textures and patterns of the seabed, making it less likely to be perceived as a living organism by predators."
+}

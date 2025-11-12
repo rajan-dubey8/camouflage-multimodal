@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists of a rough, textured tree bark, likely covered in various shades of green moss, lichen, and possibly some darker, decaying organic matter. The overall color palette is earthy, dominated by browns and dark greens, with some lighter patches of bark showing through.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly is resting on a textured tree bark covered with moss and lichen. While its dark brown body color shares some tones with the darker parts of the background, several features make it highly visible. Its bright, reflective green compound eyes, vivid yellow markings on its abdomen and thorax, and distinct white tips on its antennae and abdomen create strong color and luminance contrast against both its own dark body and the earthy background. The translucent wings with dark venation, while allowing some background show-through, still form a clear and distinct shape. The overall distinct silhouette and the contrasting bright elements prevent effective camouflage, making the organism stand out rather than blend in with its environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a prominent, vibrant green leaf in the foreground, serving as the perch for the grasshopper. This leaf has visible veins and some minor irregularities. Behind it, the environment is heavily blurred, displaying various soft shades of green foliage with a prominent, diffuse pink blur in the upper left quadrant, suggesting other plants or flowers in the distance.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits excellent camouflage primarily through color blending. Its entire body is a vivid green, almost perfectly matching the hue of the leaf it is clinging to and the general green tones of the blurred background foliage. This high color similarity results in a very low contrast difference between the organism and its environment, making it difficult to discern visually. While its specific insect shape, visible antennae, and leg structures are distinct upon close inspection, its dominant green coloration allows it to blend seamlessly into a leafy green environment, making it effectively hidden from predators."
+}

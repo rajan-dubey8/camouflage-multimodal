@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a vibrant green plant with numerous small, light green to creamy-white flower buds and stalks in the foreground. Behind this plant, the environment blurs into a soft focus of various shades of green foliage, with some hints of darker green and a touch of reddish-brown/orange in the distant, out-of-focus areas.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The butterfly's light blueish-white wings stand out clearly against the predominantly green environment. Although it is resting on a light-colored flower bud, its specific coloration does not blend seamlessly with the pale green or off-white tones of the buds. The overall contrast between the butterfly's bright color and the surrounding greenery, both the foreground plant and the blurred background, is high, making the butterfly easily discernible. There is no significant color blending, pattern matching, or shape disruption that would suggest effective camouflage in this image."
+}

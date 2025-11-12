@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a dense, intricate network of branching and feathery structures, likely a type of coral or hydroid, predominantly in warm shades of golden-yellow, orange, and light brown. These structures create a busy, complex texture. Behind them, glimpses of a darker, blurred greenish-blue water column are visible, indicating an underwater habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry / Color blending",
+  "explanation": "The Pipefish displays excellent camouflage by perfectly blending with its environment. Its extremely slender, elongated body shape is an almost exact mimicry of the branches of the surrounding golden-yellow coral or hydroid, making it incredibly difficult to distinguish from the background structure (structural mimicry). The translucent, pale yellowish-orange coloration of the pipefish also closely matches the dominant warm hues of the coral, further enhancing its concealment through color blending. This combination of shape mimicry and color similarity results in a very low contrast difference, allowing the fish to disappear into the intricate textures of its habitat."
+}

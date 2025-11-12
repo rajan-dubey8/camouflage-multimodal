@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth cocoon",
+  "background_description": "The background depicts a dense forest environment with a fallen tree branch spanning horizontally. The forest floor is covered with various shades of brown fallen leaves, dark soil, and some green foliage and small plants. The tree branch itself has a light, mottled bark with patches of lichen and moss.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The main subject is identified as a moth cocoon, which is a structure created by an insect (an organism). This cocoon exhibits excellent camouflage through mimicry and color blending. It is expertly constructed using dried leaves and forest debris, making it closely resemble the surrounding dead foliage and bark. The incorporated leaves match the color palette and texture of the background environment, effectively concealing the insect within. While a small white fuzzy patch of the actual cocoon material is visible, the overall shape and outer layer are designed to mimic a cluster of natural debris, thereby achieving a low contrast difference with the surroundings and making it very difficult to spot at first glance."
+}

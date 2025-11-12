@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background consists of dark, murky water heavily rippled, reflecting dry, brownish-yellow reeds or dead grasses along the bank, and potentially some dark branches or roots. The water surface presents an abstract, textured pattern of varying shades of brown, dark grey, and some lighter, blurred reflections.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The duck exhibits good camouflage in this environment. Its plumage, predominantly a mix of earthy browns, greys, and dark brown on the head, closely matches the dominant color palette of the murky water and the reflected dry vegetation. The subtle patterns on the duck's feathers, particularly on its body, help to break up its outline and blend with the irregular, rippled textures and reflections of the water. While the white eye ring provides a small point of contrast, the overall effect is one of blending, making the duck less conspicuous against the natural backdrop. The water's surface also creates visual 'noise' that further helps obscure the duck's form through pattern matching and color blending."
+}

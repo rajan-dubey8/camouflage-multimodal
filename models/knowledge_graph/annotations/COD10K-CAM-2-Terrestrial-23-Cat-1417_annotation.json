@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a large, weathered rock formation or cliff edge, appearing dark brown and grey with rough, irregular textures. Above the rock is an overcast sky, uniform in a muted light beige or grey tone.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The cat's head is visible peeking over the dark rock. While the dark tabby stripes on its forehead and ears share some tonal qualities with the darker rock, the prominent white fur around its muzzle and eyes creates a strong, high contrast against both the dark rock and the lighter, muted sky. The cat's bright yellow eyes are also highly conspicuous. The texture of its fur is clearly distinct from the rough, weathered rock. Therefore, despite using the rock for concealment by hiding most of its body, the visible portion of the cat's face stands out rather than blending with its immediate environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Common Carp",
+  "background_description": "The background depicts a murky freshwater environment with dark, mossy or algae-covered rocks and possibly submerged logs or debris. The water has a greenish-brown tint, and the bottom appears to be sediment or gravel. The overall lighting is subdued, typical of a deep or murky aquatic habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The main fish, a Common Carp, displays effective camouflage through color blending. Its golden-brown to olive-brown scales with darker outlines closely match the murky, greenish-brown tones of the aquatic background, which includes submerged rocks, possibly logs, and sediment. This allows the fish to blend seamlessly with its environment, reducing its visibility to predators and prey. The low contrast difference further aids in breaking up its silhouette, making it harder to discern in the subdued underwater lighting. While not mimicking a specific object, its overall coloration integrates well with the natural irregularities and tones of the riverbed or lake bottom."
+}

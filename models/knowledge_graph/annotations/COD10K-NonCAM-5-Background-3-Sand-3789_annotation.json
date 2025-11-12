@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky beach with seaweed",
+  "background_description": "The image depicts a coastal scene featuring a rocky beach. In the foreground, large rocks are heavily covered with dense, dark green and olive-brown seaweed, with some patches showing reddish rock and lighter green marine growth. The mid-ground reveals sandy areas of the beach, gentle ocean waves breaking on the shore, and more scattered, seaweed-covered rocks. The background consists of a vast expanse of calm ocean with a small, distant rocky island visible on the horizon, all under a cloudy sky with varying shades of light blue and grey.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The scene is purely environmental, consisting of a rocky beach, seaweed, ocean, and sky. Therefore, there is no camouflage present, as camouflage pertains to an organism blending into its environment."
+}

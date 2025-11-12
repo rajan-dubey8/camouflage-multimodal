@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists primarily of a bright, uniform green artificial grass-like material, possibly felt or model scenery. In the upper center, there's a clear plastic container holding dried, stringy moss or lichen, which is a mix of light brown and dull green hues. To the left and upper right are light-colored wooden structures, and some grey rocks are visible in the far upper right. A white paper or tissue is partially visible in the lower right corner.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The bee, with its characteristic black and bright yellow striped pattern and fuzzy body, stands out significantly against the predominantly green artificial grass background. Its distinct warning coloration, which is designed for visibility rather than concealment, creates a high contrast with all elements of its immediate surroundings, including the green grass, the light wood, and the brownish-green dried moss. There is no notable color or texture blending, making the bee highly conspicuous in this environment."
+}

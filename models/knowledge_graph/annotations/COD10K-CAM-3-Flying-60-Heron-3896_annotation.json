@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a dense wall of dry, golden-brown reeds or tall grass lining the edge of a calm body of water. Interspersed within the reeds and above them are numerous bare, leafless trees and shrubs with intricate networks of light greyish-brown branches, some appearing covered in lichen. The water surface reflects muted tones of the sky and the surrounding vegetation, including the golden reeds and blue sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.3",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The heron is clearly visible against its environment. While its predominantly grey plumage shares some tonal qualities with the bare, greyish branches and lichens in the background, it contrasts significantly with the dominant golden-brown of the surrounding reeds, which form its immediate backdrop. Its distinct upright shape, long neck, and lighter chest/neck create a noticeable silhouette that does not merge with the environment. The feathery texture of the bird is also distinctly different from the fine, linear texture of the reeds and the rough texture of the tree bark. Although herons are known to use immobility as a camouflage strategy, in this specific image, the color, texture, and contrast differences prevent it from effectively blending in."
+}

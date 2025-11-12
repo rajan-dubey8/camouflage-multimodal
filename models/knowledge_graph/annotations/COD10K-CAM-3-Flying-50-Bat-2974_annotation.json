@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bat",
+  "background_description": "The background consists of dense, vibrant green foliage with numerous broad leaves, some showing yellowing or slight discoloration. There are small branches, a cluster of dark, round berries, and some light green, unripe fruits scattered throughout the leaves. The lighting is bright and natural, illuminating the leaves and the bat.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Bat is not camouflaged in this image. Its reddish-brown fur and dark leathery wings create a high contrast against the bright green leaves of the tree it is hanging from. The distinct shape of the bat, especially its head and prominent eyes, is clearly visible and not disrupted by the surrounding environment. There is no color blending, pattern matching, or shadow hiding effectively at play to conceal the bat; instead, it stands out visually against the foliage."
+}

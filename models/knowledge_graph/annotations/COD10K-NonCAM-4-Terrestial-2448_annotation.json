@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otters",
+  "background_description": "The otters are positioned on a dark, wet, decaying log or tree stump. The background is blurred, consisting of earthy tones, including browns, greys, and some muted greens, suggesting a natural habitat like a riverbank or forested area with rocks and possibly distant water.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The otters are clearly visible against their background. One otter is standing upright and interacting with a human hand, making it highly conspicuous. Their dark fur, while naturally suited for blending in shadowy aquatic environments, does not provide effective concealment in this specific scene. There is a high contrast between the otters and the lighter, blurred background, and their distinct forms are not hidden by any patterns or mimicry. Thus, no camouflage is present."
+}

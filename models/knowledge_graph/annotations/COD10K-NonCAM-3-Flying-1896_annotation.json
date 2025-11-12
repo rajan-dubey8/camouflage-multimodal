@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The immediate foreground consists of a dark brown wooden railing with visible grain texture. Behind the railing, there is a dense expanse of lush green aquatic vegetation, likely water plants, in various shades of green. Further back, a body of dark water is visible to the left, and taller, blurred green trees and bushes form the distant background under a bright, overcast sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Tricolored Heron is prominently perched on a dark wooden railing. Its distinct plumage, featuring dark blue-grey and purplish tones on the back and neck, with a stark white belly, creates a high contrast against both the brown wooden railing and the predominantly green, blurred background foliage. There is low color and texture similarity between the bird and its immediate surroundings, and a significant contrast difference, indicating that the bird is not camouflaged in this particular scene."
+}

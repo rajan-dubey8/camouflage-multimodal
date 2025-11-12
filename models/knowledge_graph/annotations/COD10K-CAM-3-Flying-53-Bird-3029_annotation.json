@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a shallow marsh or tidal flat, densely covered with varied aquatic vegetation, likely sea grasses or algae. The dominant colors are muted greens, browns, and earthy tones, interspersed with patches of shallow water reflecting light. The texture is irregular, granular, and patchy, creating a visually busy, broken surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits effective camouflage through both color blending and pattern matching. Its plumage, characterized by mottled browns, greys, and white streaks, closely matches the earthy tones, green vegetation, and broken texture of the marshy environment. The irregular streaks and speckles on its feathers mimic the patchy and granular appearance of the plant matter and water surface, making it difficult to discern the bird's outline. The overall low contrast between the bird's body and the immediate background contributes significantly to its ability to blend in, making it an excellent example of camouflage in its natural habitat."
+}

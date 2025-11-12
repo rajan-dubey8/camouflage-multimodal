@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Blue Tiger butterfly",
+  "background_description": "The background consists of dense green foliage with various shades of green leaves and several small clusters of white flower buds. The environment appears natural and lush, with some parts of the background slightly blurred.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's wings feature a striking pattern of black with bright light blue stripes and white spots. These colors and patterns highly contrast with the green leaves and white flower buds of its natural background. Instead of blending in, the butterfly's appearance is designed to be conspicuous, which might serve as a warning to predators (aposematism) or for mating displays, rather than for concealment. Therefore, no camouflage is present."
+}

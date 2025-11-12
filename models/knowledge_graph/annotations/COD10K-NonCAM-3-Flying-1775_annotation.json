@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hummingbird",
+  "background_description": "A heavily blurred natural outdoor environment featuring soft green and yellow tones, likely from foliage, interspersed with lighter, cream-colored, and slightly bluish patches. On the right side, there is a prominent, bright red artificial bird feeder with yellow feeding ports.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The hummingbird's plumage, predominantly muted browns and grays, provides a natural form of color blending camouflage, common among many bird species to help them blend with tree bark, dry leaves, and shadowed areas of their environment. In this specific image, its colors offer a medium similarity with the blurry natural background, which contains similar earthy and natural tones (greens, yellows, and lighter areas). While it's not perfectly concealed and is clearly discernible, especially given its distinct silhouette and proximity to the bright red feeder, its natural coloration does reduce its overall contrast with the general environment compared to a more vibrantly colored animal. The camouflage is based on its inherent cryptic coloration rather than an active attempt to disappear into the immediate, blurred background."
+}

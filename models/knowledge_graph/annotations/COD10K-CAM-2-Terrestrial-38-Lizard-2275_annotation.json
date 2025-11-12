@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of light brown, fine sandy soil. Scattered across the sand are patches of dry, straw-like grass and a few individual green blades. A weathered, reddish-brown wooden plank runs vertically along the right side of the image. In the center, there is a dark, circular burrow opening in the sand.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard is highly camouflaged by being mostly hidden inside a burrow, which is a form of environmental concealment. The visible portion of its body, seen peeking from the burrow opening, displays a light brown/tan coloration that closely matches the sandy soil surrounding the burrow. This strong color similarity makes it difficult to distinguish the lizard from its immediate sandy environment, despite the burrow entrance itself creating a high-contrast shadow. Its texture is smooth, somewhat similar to the fine sand, contributing to the blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The background consists of a dense, naturalistic environment, likely a zoo exhibit, featuring prominent dark brown tree trunks and thick branches. Lush green palm-like foliage is visible in the foreground and midground, with some smaller green leaves scattered. The deeper background features a darker, painted mural depicting a shadowy forest with silhouettes of palm trees and other vegetation, creating a sense of depth. A bright, almost overexposed area on the far left suggests an intense light source or open sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "Both frogmouths in the image demonstrate excellent camouflage. Their mottled grey and brown plumage perfectly matches the colors and textures of the tree bark and branches they are perched on. The bird on the left, leaning against the main tree trunk, blends almost seamlessly, appearing as an extension of the bark due to its coloration and posture which mimics a broken branch or tree knot. The bird on the right also blends very well with its branch, and its patterned feathers closely resemble the rough texture of the wood. The low contrast between the birds and their immediate surroundings, combined with the effective color and pattern matching, makes them very difficult to spot at first glance. This is a classic example of avian camouflage designed to help them evade predators and ambush prey."
+}

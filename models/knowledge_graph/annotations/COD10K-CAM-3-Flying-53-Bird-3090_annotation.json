@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a high-altitude or arctic landscape with significant patches of white snow, interspersed with dark grey and brownish rocks. There is also sparse, reddish-brown, low-lying tundra vegetation growing amidst the snow and rocks, indicating a cold, rugged environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird's plumage exhibits an excellent example of camouflage for its environment. Its predominantly white feathers blend almost perfectly with the patches of snow on the ground. The dark brown and black patterns on its back and head are strategically placed to mimic the irregular shapes and colors of the dark rocks and the reddish-brown tundra vegetation. This combination of color blending and disruptive patterning effectively breaks up the bird's outline, making it very difficult to distinguish from the mottled snowy, rocky, and vegetated background. The contrast difference between the bird and its immediate surroundings is very low due to this effective matching."
+}

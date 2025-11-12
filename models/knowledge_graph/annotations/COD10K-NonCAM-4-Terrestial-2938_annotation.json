@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Jaguar",
+  "background_description": "The background consists of lush green foliage, including broad leaves in the upper half and blades of green grass in the foreground. There are variations in green tones and light, mimicking a dense jungle or forest undergrowth environment with dappled sunlight.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Jaguar's distinctive rosetted coat provides excellent camouflage. The irregular black spots, known as rosettes, on a golden-tan to yellowish-brown background serve as a disruptive pattern. This pattern effectively breaks up the animal's solid outline, making it difficult for prey and predators to perceive its form against the complex backdrop of light and shadow found in its dense jungle and forest habitats. While the base color might not perfectly match the bright green foliage in all lighting, the high-contrast pattern helps it blend into the visual 'noise' of the environment, mimicking the patchy sunlight and shadows filtering through leaves and branches. The texture of the fur, combined with the pattern, contributes to this disruptive effect."
+}

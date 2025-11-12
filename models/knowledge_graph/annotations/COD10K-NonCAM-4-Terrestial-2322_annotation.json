@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Arctic Fox (summer coat)",
+  "background_description": "The background consists of a sparse tundra-like landscape, dominated by patches of muted green mosses and short grasses, interspersed with areas of bare brown soil and scattered grey rocks. The lighting is bright, creating some shadows and highlights across the uneven ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Arctic fox exhibits effective camouflage through color blending. Its grayish-brown and creamy fur, characteristic of its summer coat, closely matches the muted greens, browns, and grays of the mossy, rocky, and earthy tundra environment. This coloration helps reduce its contrast and break up its outline against this specific backdrop, making it less conspicuous to both prey and predators, despite being clearly visible in the foreground."
+}

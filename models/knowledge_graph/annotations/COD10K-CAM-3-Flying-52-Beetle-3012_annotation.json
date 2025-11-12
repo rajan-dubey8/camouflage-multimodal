@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "The beetle is resting on a sturdy tree branch with deeply fissured, textured bark. The bark is mottled gray-brown, with prominent patches of white-gray lichen and vibrant yellow lichen. The background behind the branch consists of out-of-focus green foliage and trees, indicating a natural, wooded environment under bright sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The beetle exhibits excellent camouflage, primarily through color blending and pattern matching. Its mottled gray-brown coloration closely matches the hue of the tree bark and the gray-white lichen growing on it. The rough, textured surface of the beetle's exoskeleton also mimics the rugged, fissured texture of the bark, helping to break up its outline. While there are bright yellow lichen patches nearby, the beetle's body itself integrates seamlessly with the dominant bark and gray lichen tones. The low contrast between the beetle and its immediate surroundings makes it very difficult to distinguish at first glance, indicating effective camouflage for blending into its arboreal environment."
+}

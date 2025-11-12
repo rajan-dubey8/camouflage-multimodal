@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of murky, brownish-green pond water with numerous diffused patches of bright green floating aquatic vegetation (likely duckweed or similar plants), creating a bokeh effect. The water surface shows slight ripples around the animal.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a frog partially submerged in water. Its coloration and texture, while natural for its environment, do not cause it to blend in a way that obscures its outline or makes it difficult to detect, confirming the absence of camouflage."
+}

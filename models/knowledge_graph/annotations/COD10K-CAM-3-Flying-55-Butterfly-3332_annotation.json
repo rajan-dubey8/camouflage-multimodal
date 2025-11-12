@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists primarily of light beige to light brown sandy ground. The sand has a granular texture with varying shades, indicating small stones or darker soil particles mixed in. There are also sparse elements of dried grass or small twigs scattered across the sand, adding to the visual texture and natural debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly is exceptionally well camouflaged against the sandy background. Its closed wings display a mottled pattern of browns, beiges, creams, and dark grey lines, which perfectly mimic the varying shades and granular texture of the sand, including the small stones and debris present. The overall color palette of the butterfly's wings is nearly identical to that of the ground, resulting in high color similarity. The intricate, irregular patterns on its wings effectively break up its outline (shape disruption) and blend seamlessly with the heterogeneous texture of the sand (pattern matching), making it very difficult to distinguish from its surroundings. The contrast difference between the butterfly and the background is remarkably low, further enhancing its concealment. Only its antennae and a slight shadow offer minimal cues to its presence."
+}

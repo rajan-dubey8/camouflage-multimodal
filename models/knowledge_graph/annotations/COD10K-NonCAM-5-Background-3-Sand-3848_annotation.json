@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal seascape",
+  "background_description": "The image features a dramatic black and white coastal landscape. The foreground shows large, dark, rugged rocks partially submerged in water, which appears misty and smooth due to a long exposure. In the mid-ground and background, towering sea stacks with sharp, irregular profiles rise from the calm sea. The sky above is heavily overcast with dark, voluminous clouds, creating a somber and powerful atmosphere. Textures include rough, craggy rock surfaces, the ethereal smoothness of the water, and the soft, diffused patterns of the clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a natural coastal environment with no visible organisms (animals, insects, or fish) present. Therefore, there is no subject for camouflage to be applied to, and no camouflage is detected. The scene itself, rendered in black and white, exhibits strong contrasts between the dark rock formations and the lighter, misty water and sky."
+}

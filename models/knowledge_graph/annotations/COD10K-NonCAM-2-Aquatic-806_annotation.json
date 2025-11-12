@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Orange Cichlid fish",
+  "background_description": "The background consists of blurred dark and medium green aquatic plants, suggesting a freshwater environment like an aquarium. There are subtle bright highlights and dark shadows within the foliage, along with small, indistinct white specks, possibly reflections or detritus, in the water.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The fish is brightly colored with vivid orange and yellow patterns, and reddish fins. This coloration stands out significantly against the dark green and blurred background of aquatic plants. There is a high contrast between the fish's bright body and its environment, making it easily visible and indicating no attempt at camouflage. Its colors are decorative rather than adaptive for blending in."
+}

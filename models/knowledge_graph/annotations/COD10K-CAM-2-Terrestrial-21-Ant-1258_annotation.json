@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The background consists of a close-up view of a forest floor or similar natural ground, composed primarily of dark brown, dried organic matter. This includes small, broken twigs, fragments of dried leaves, and granular soil particles. The texture is rough and varied, with areas of shadow and dim light creating a mottled, earthy appearance. The dominant colors are shades of dark brown, reddish-brown, and some darker greyish-brown tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The ant demonstrates effective camouflage through color blending. Its body is primarily dark reddish-brown to black, which closely matches the predominant earthy tones of the background, consisting of dried leaves, twigs, and soil. This strong color similarity significantly reduces its visual distinction from the environment. The contrast between the ant and its surroundings is low, making it blend in rather than stand out. While the ant's exoskeleton has a somewhat smoother texture compared to the rough background, the overall color and luminance match are strong enough to provide good concealment within this natural habitat."
+}

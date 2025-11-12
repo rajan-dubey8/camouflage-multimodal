@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Forested lake shore",
+  "background_description": "The image displays a natural landscape featuring a body of dark, calm water at the bottom. Above the water, a dense band of tall, green reeds and grass covers the bank, with some patches of drier, brownish grass near the water's edge. Behind the reeds stands a lush forest composed mainly of tall, slender evergreen trees with dark green foliage and visible light grey to brown trunks. The top portion of the image is dominated by a clear, bright blue sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image. The scene solely depicts a natural environment consisting of water, reeds, a forest, and the sky. Therefore, there is no subject for which camouflage can be assessed or identified."
+}

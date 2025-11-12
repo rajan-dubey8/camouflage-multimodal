@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Siamang",
+  "background_description": "Blurred green foliage and trees in a natural outdoor environment, likely a forest or jungle, during rainfall. The primate is perched on a thick, wet, brown-orange tree branch.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Siamang's solid black fur stands in high contrast against the blurred green foliage of the background and the brown tree branch it is perched on. Its dark color does not blend with the lighter, mostly green and brown tones of its environment. Additionally, the visible raindrops on its fur highlight its distinct form, preventing any visual concealment. There are no disruptive patterns, color matching, or mimicry elements present that would suggest camouflage."
+}

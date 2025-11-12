@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists primarily of blurred, dried, yellowish-brown to light brown blades of grass or straw, forming elongated, fibrous textures. There are also a few instances of softer, blurred green vegetation, particularly in the lower foreground, but the dominant background elements are dry and earthy-toned.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Mantis is predominantly a vibrant green color, which creates a strong visual contrast against the majority of the background. The background is largely composed of dried, yellowish-brown grass and straw. While mantises often utilize color blending on green foliage, in this specific environment of predominantly dry, dead vegetation, its vivid green coloration makes it highly conspicuous. The smooth, segmented body of the Mantis also does not blend in texture with the fibrous, linear appearance of the dried grass stalks."
+}

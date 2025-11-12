@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Green Magpie",
+  "background_description": "The background consists of dark, out-of-focus green foliage or a painted green wall, providing a blurred, soft backdrop. A prominent brown, textured tree branch extends horizontally, on which the bird is perched. In the deeper background, another blurry brown structure, possibly a birdhouse or feeder, is visible amidst more branches.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Green Magpie, with its strikingly vibrant turquoise-green plumage, bright orange beak, and distinct black eye mask, stands out prominently against the darker, muted green background and brown branches. While green coloration can be a form of color blending camouflage in specific environments, the bird's particular shade is much brighter and more saturated than its immediate surroundings, creating a high contrast difference. Its smooth, soft feather texture also differs significantly from the rough bark of the branch and the blurry texture of the distant foliage. Therefore, in this captured scene, the bird is highly visible and does not exhibit effective camouflage."
+}

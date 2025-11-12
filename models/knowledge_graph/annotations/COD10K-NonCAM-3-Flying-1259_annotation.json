@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Scrub-Jay",
+  "background_description": "The background features a natural outdoor environment with out-of-focus green foliage, consistent with shrubs or trees, and some lighter brown/tan areas, possibly dry vegetation or ground. The overall impression is a blurry, lush natural setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird, identified as a Scrub-Jay, is clearly visible and not camouflaged. Its distinct blue and light gray plumage stands out sharply against the predominantly green and blurry natural background. There is a high contrast in both color and texture between the bird and its surroundings, particularly as it is perched on a human hand, further emphasizing its lack of concealment. Its coloration does not blend, mimic, or disrupt its outline to match the environment."
+}

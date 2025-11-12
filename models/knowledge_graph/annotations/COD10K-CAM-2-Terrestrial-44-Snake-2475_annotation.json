@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a dense scattering of natural debris, including various sizes of dead wood branches, twigs, pieces of bark, dried leaves, and other organic matter. The dominant colors are muted browns, greys, and dark greens, creating a highly textured and irregular surface. There's a prominent, lighter-colored tree stump or log in the foreground with rough, vertical striations, around which the snake is partially coiled.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The snake demonstrates excellent camouflage in this image. Its scales exhibit a mottled pattern of dark greys, browns, and olive greens, which closely match the varied colors of the surrounding dead wood, bark, and dried plant debris. The irregular texture of its scales also blends reasonably well with the rough surfaces of the wood. Furthermore, the snake's body is coiled around and positioned amongst the branches and a tree stump, which helps to disrupt its overall shape and outline, making it less distinct from the jumbled background. The low contrast between the snake and its immediate environment means it does not stand out visually, requiring careful observation to spot."
+}

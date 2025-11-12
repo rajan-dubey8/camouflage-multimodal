@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Humpback Unicornfish",
+  "background_description": "A vibrant coral reef ecosystem with clear blue water. The foreground and midground feature dense formations of branching hard corals, primarily in shades of purplish-blue and greenish-blue. Scattered in the background and around the corals are numerous smaller, colorful reef fish.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Humpback Unicornfish, identifiable by its distinct body shape, bluish-grey coloration, and yellow accents on its fins. It is swimming in an open coral reef environment. The fish's colors and patterns, especially the bright yellow markings, do not blend with the surrounding corals or water, indicating a clear absence of camouflage. Its form and color stand out distinctly against the background."
+}

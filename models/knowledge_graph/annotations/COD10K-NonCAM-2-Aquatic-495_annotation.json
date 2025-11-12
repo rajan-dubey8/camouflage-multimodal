@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Snapper",
+  "background_description": "A diverse tropical coral reef with rocky formations and sandy patches, representative of a typical snapper habitat.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a snapper fish, identifiable by its distinct reddish head, large eye, and spotted silvery body. While the fish is currently displayed on ice, not in its natural aquatic environment, its inherent coloration and patterns would offer a medium level of blending within a complex coral reef or rocky seabed habitat, rather than active camouflage."
+}

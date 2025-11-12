@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Snow leopard",
+  "background_description": "The snow leopard is resting on large, rough-textured rocks that are predominantly covered in vibrant green moss and some lighter grey patches. The background consists of a deep, shadowy, dark opening or recess, likely a cave entrance or heavily shaded rock face, with indistinct dark rock formations.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The snow leopard exhibits natural camouflage primarily through its disruptive pattern and color blending. Its light grey fur with dark rosettes is adapted to break up its outline against rocky and snowy mountain environments, its typical habitat. In this image, the snow leopard is resting on moss-covered rocks, which provides a contrast to its fur, reducing the effectiveness of its color blending compared to its ideal environment. However, the intricate dark rosettes still function as a disruptive pattern, helping to obscure its overall shape by breaking up its outline. The contrast between the animal's lighter fur and the dark background, as well as the green moss, is relatively high, making it visible, but its fur pattern is still a clear form of camouflage."
+}

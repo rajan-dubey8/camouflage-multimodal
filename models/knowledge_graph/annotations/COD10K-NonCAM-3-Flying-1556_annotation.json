@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Starling",
+  "background_description": "The background consists of a uniformly soft-focus, muted green area, likely distant foliage or grass. In the mid-ground/foreground, there are light green leafy branches with some small yellow-green buds, and a wooden perch structure.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The starling's dark, iridescent plumage with purplish and greenish hues, along with its distinct speckled pattern, stands out clearly against the soft green background and the brighter green leaves. There is no significant blending of colors or textures between the bird and its surroundings. The contrast in both color and brightness makes the bird highly conspicuous, indicating an absence of camouflage."
+}

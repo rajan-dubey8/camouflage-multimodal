@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The organism is situated on a rough, textured piece of bark or decaying wood. The bark exhibits a variety of natural colors, primarily reddish-brown, dark brown, and grey, with irregular cracks, ridges, and patches of lighter grey or white material, possibly lichen or dust. The background behind the bark is out of focus, appearing as a blurry mix of light tan/brown and subtle green hues, indicative of dried vegetation or distant ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits strong camouflage, primarily through color blending and texture matching with its bark environment. Its body, especially the abdomen and cephalothorax, features a blend of light brown and tan colors that closely match the lighter, weathered, and dusty grey-brown areas of the bark. The darker brown segments of its legs also align with the deeper, shadowed crevices and darker tones of the wood. The spider's slightly textured and somewhat fuzzy exoskeleton further mimics the rough, irregular surface of the bark, making it difficult to discern its outline. The overall low contrast between the spider and its surroundings contributes significantly to its crypsis, allowing it to blend seamlessly into the substrate."
+}

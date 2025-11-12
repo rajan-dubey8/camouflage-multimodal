@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Scorpion",
+  "background_description": "The background is a rough, textured rock face, predominantly reddish-orange to sandy orange in color, typical of a desert environment. It appears to be sandstone, with natural irregularities, undulations, and a granular surface texture.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The scorpion exhibits camouflage primarily through color blending. Its yellowish-orange legs, tail, and pincers closely match the reddish-orange hues of the sandstone rock it rests upon. This strong color similarity helps it blend seamlessly with its desert environment. While its central body is a darker grey, creating a moderate contrast, the dominant coloration of its appendages significantly contributes to its concealment. The texture of the scorpion is smoother and segmented compared to the granular rock, resulting in a low texture similarity, but the color match is highly effective."
+}

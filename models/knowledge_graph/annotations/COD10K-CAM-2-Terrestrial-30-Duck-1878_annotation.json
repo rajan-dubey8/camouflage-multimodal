@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background features dark, rippled water with reflections of the sky and surrounding foliage. A large, dark, weathered tree trunk or log, heavily covered in green moss and some white lichen, extends horizontally into the water, serving as a perch for the duck. Several thin, dark branches crisscross the scene, some in front of and some behind the log and the duck. Dark lily pads are visible floating on the water in the lower-left corner.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The duck exhibits effective camouflage primarily through color blending. Its dark brown and grey plumage closely matches the dark, moss-covered log it is perched upon, as well as the dark reflections in the surrounding water. The overall dark tone of the duck helps it to merge with the shadowed and darker areas of the environment. Furthermore, the crisscrossing branches partially disrupt the duck's outline, making its shape less immediately discernible against the complex background. While its texture is clearly different from the rough bark and moss, and some lighter feather patches create minor contrast, the dominant dark colors and the placement amidst natural debris allow the duck to blend in well rather than stand out."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The organism is positioned on a slender green plant stem, which has small, bright green, unfurling leaves or buds along its length. The stem itself has a slightly textured, possibly hairy surface. The remainder of the background is a deep, uniform black, indicating either a dark environment or a very shallow depth of field, effectively blurring out distant elements.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Mimicry / Shape disruption",
+  "explanation": "The Katydid exhibits remarkable camouflage, primarily through color blending and mimicry. Its bright green coloration, with subtle yellowish tones, precisely matches the green of the plant stem and the surrounding young leaves on which it rests. Beyond color, the Katydid's body shape, particularly its wings and modified legs, are intricately designed to resemble plant foliage, showcasing excellent mimicry and shape disruption. The textures on its body also echo the natural veins and irregularities found on leaves. While the stark black background creates a noticeable outline, the organism blends exceptionally well with the actual plant material it is trying to emulate, making it very difficult to spot if one were focusing on the vegetation."
+}

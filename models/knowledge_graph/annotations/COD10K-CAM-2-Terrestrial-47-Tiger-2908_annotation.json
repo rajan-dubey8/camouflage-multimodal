@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of dense, dry undergrowth with numerous thin, vertical plant stems and small green leaves. The ground is covered with a thick layer of dry, brownish-gray fallen leaves and some darker dirt patches, forming a narrow, irregular path where the tiger is walking. There are areas of dappled light and shadow.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.68",
+  "confidence": "0.95",
+  "camouflage_type": "Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The tiger's orange and black striped coat provides effective camouflage in this environment. The dark stripes align well with the vertical stems of the dense undergrowth and the shadows cast by the foliage, helping to break up the tiger's outline (shape disruption). While the orange fur is distinct, its reddish-brown tones can blend with the dry leaves and earthy tones on the ground, especially in the shaded areas where the tiger is positioned. The combination of pattern matching with the vertical lines of the environment and shadow hiding makes the tiger less conspicuous, requiring closer inspection to fully discern it from the cluttered background."
+}

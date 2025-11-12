@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a rough, uneven ground surface, likely asphalt or concrete, embedded with numerous small pebbles, gravel, and dirt. Its color palette is dominated by various shades of grey, brown, and beige, with darker patches and lighter, sandy-colored stones. Several dried, slender wooden twigs or pieces of dried leaves are scattered across the surface, some partially obscuring the view of the ground. The lighting appears diffuse, creating soft shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits effective camouflage through strong color blending and pattern matching. Its body, a dull brownish-tan, closely matches the color of the dried twigs and many of the lighter pebbles and dirt patches on the ground. Crucially, the numerous spiderlings clinging to its back create a bumpy, mottled texture and a dark greyish-brown coloration that remarkably mimics the surrounding small stones and gravel. This combination of colors and textures allows the spider, particularly with its offspring, to blend seamlessly into the rough, granular surface of the ground. The presence of dried twigs further aids in breaking up its outline, making it difficult to spot at first glance due to the low contrast difference between the organism and its environment."
+}

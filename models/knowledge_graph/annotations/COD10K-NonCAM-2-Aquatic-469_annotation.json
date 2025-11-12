@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of clear water, typical of an aquarium environment. There is a blurred, dark brown object to the left, likely an artificial rock or decoration, and a soft blue hue further in the background, possibly from a background sticker or distant light. The water surface shows slight ripples.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright orange and white goldfish, which stands out prominently against the clear aquarium water and blurred background elements. Its vibrant coloration provides no visual blending with its immediate surroundings, confirming the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of very soft, out-of-focus vegetation, primarily appearing as muted pinkish-brown, beige, and cream feathery textures with hints of blurred green in the deeper background. The chameleon is perched on a thin, dry, furry-looking stem that is also mostly beige/light brown.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The chameleon exhibits effective camouflage primarily through excellent color blending. Its body color, a light beige/tan with subtle pinkish undertones, almost perfectly matches the dominant hues of the dry, feathery vegetation it is perched on and surrounded by. The overall luminance and chrominance values of the chameleon are very similar to its immediate environment, resulting in low contrast difference. While its skin texture is granular and differs from the fine, furry hairs of the plant, the strong color match and the soft-focus background significantly reduce its visibility, making it blend seamlessly into the scene."
+}

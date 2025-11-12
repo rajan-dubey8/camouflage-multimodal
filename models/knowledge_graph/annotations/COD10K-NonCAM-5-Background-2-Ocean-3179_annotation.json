@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small reef fish",
+  "background_description": "The background consists of a vibrant and complex coral reef environment. Dominant features include large formations of bright yellow, leafy or convoluted hard coral, intermingled with sections of rough, bumpy, and porous red coral. There are also areas of more muted brown, green, and grayish rock or sediment, providing a highly textured and colorful underwater landscape.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The small fish present in the image is bright blue with distinct black spots. This coloration stands in stark contrast to the predominantly yellow, red, and muted tones of the surrounding coral reef. There is no visual attempt for the fish to blend with the background's colors or irregular textures, making it highly conspicuous rather than camouflaged."
+}

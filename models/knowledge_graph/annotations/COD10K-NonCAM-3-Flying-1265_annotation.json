@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Brown Flycatcher",
+  "background_description": "The background consists of a soft, out-of-focus bokeh with light blue, muted green, and pale brown hues, suggesting distant foliage or sky seen through sparse trees. The immediate foreground features a textured, light brown tree branch where the bird is perched.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits effective camouflage through color blending. Its plumage, a blend of muted browns, greys, and a lighter belly, closely matches the natural tones of the tree branch it is perched on and the overall soft, natural colors of the blurred background. This high color similarity and low contrast difference help the bird blend seamlessly into its arboreal environment, making it less conspicuous to both predators and prey. While the bird's feather texture doesn't perfectly mimic the bark texture, its uniform and subdued appearance contributes to its overall crypsis."
+}

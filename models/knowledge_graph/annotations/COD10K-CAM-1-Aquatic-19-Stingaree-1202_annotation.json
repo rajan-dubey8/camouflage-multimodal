@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background depicts an underwater seafloor environment. It consists predominantly of sandy patches, interspersed with numerous small shell fragments, pebbles, and organic detritus. Towards the upper right, there is a section covered in dark reddish-brown and green algae, possibly growing on rock or coral, with visible empty shell halves and a spiny red sea urchin. The lighting suggests a relatively shallow depth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Stingaree demonstrates excellent camouflage in this image. Its dorsal surface is largely covered with sand, perfectly mimicking the texture and light greyish-beige color of the surrounding sandy seafloor. The uncovered parts of its body also match the general drab, mottled tones of the sediment and detritus. Its flat, disc-like shape allows it to lie flush with the bottom, disrupting its outline and making it blend seamlessly with the topography. The combination of its natural coloration, its ability to cover itself with sand, and its flattened form results in a very low contrast against the background, making it extremely difficult to distinguish from its environment."
+}

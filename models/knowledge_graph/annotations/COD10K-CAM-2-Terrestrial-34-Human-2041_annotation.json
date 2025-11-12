@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a vibrant red/orange fabric or wallpaper featuring an intricate, repeating black floral or damask-style pattern with swirling vines and leaves. The fabric shows some natural folds and creases, indicating it is likely draped.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Human is exceptionally well camouflaged against the background. Their entire body, including a head covering, is clothed in fabric identical to the background. This results in perfect color blending and pattern matching between the organism and its environment. The intricate black damask pattern on the red/orange base effectively disrupts the human's shape and silhouette, making it very difficult to distinguish the body's contours from the background. The only features that slightly break the camouflage are the human's visible eyes and the stylized black and red face paint, which, while using the same colors, highlights the facial structure and introduces some local contrast."
+}

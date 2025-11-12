@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a patchy ground covered with sparse green grass, dry brown leaves, and exposed soil. Strong shadows are cast by several tree trunks and their foliage, creating areas of varying light intensity across the ground. In the mid-ground, a paved road is visible, with further trees and distant structures under bright sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shadow hiding",
+  "explanation": "The small bird is effectively camouflaged by its dark, dull-colored plumage, which closely matches the tones of the shadowed ground, fallen leaves, and exposed soil where it is located. Its position within a deep shadow cast by a tree significantly aids its concealment, as its dark color blends seamlessly with the darker environment, reducing visual contrast. While its small, rounded shape can be discerned upon very close inspection, the overall effect of color matching and shadow hiding makes it blend in well with the cluttered and varied textures of the ground, making it difficult to spot at first glance."
+}

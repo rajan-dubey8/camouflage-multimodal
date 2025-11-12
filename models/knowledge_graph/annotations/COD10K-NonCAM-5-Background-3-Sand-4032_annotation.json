@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tidal flat sand ripples",
+  "background_description": "The image displays a sandy or muddy tidal flat, characterized by extensive, wavy ripple patterns formed by water and currents. The surface is predominantly light grey to off-white, with darker grey shadows emphasizing the troughs of the ripples. This creates a strong textural effect and significant visual depth. Parts of the surface appear wet and reflective, especially on the ripple crests, suggesting a glossy sheen under bright daylight. A few human footprints are faintly visible on the lower left side of the frame.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, fish) is visible within the image. The scene exclusively depicts an environmental landscape of a tidal flat with sand ripples. Therefore, there is no subject present to exhibit camouflage against the background. As per the rules, if no organism is visible, camouflage is not present, and related scores and types are set to 'None' or '0.0'."
+}

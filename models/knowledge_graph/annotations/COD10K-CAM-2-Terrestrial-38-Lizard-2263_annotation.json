@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of two main types of walls. To the left and surrounding the opening where the lizard is, there are light beige/tan ceramic tiles with dark grout lines and small brown speckles. To the right, there's a wall made of reddish-brown bricks with a highly textured, wavy pattern, separated by dark grout. The lizard is emerging from a dark, rectangular opening, possibly a vent or a small window, framed by weathered grey metal. The immediate background for the lizard's head is the dark, shadowed interior of this opening.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The lizard's light-colored head is clearly visible against the very dark, shadowed interior of the opening from which it is emerging. This creates a high contrast, making its shape and presence easily detectable. While its light beige/cream coloration shares some tones with the lighter wall tiles to its left, its immediate visual background is the deep shadow, which prevents any effective color or pattern blending. Its distinct outline is not disrupted, and there is no significant texture matching with the surrounding surfaces."
+}

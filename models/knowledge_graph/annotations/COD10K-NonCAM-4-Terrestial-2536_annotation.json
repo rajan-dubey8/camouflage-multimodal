@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Lions",
+  "background_description": "The background consists of a dry savanna environment with sparse, faded green and straw-colored grass growing from light brown to greyish soil. There are scattered dry twigs and patches of bare ground, creating a muted, earthy color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The three African lions exhibit effective camouflage through color blending. Their tawny, yellowish-brown fur closely matches the dominant dry, earthy tones of the savanna environment, including the light brown soil and sparse, faded grass. This high color similarity significantly reduces their visual contrast with the background, making them harder for prey or other animals to spot. While their smooth fur texture is not identical to the rugged ground, the overall muted color and lack of sharp contrast allow them to blend seamlessly into their natural habitat, aiding in both hunting and concealment when they are lying still."
+}

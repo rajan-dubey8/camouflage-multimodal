@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists primarily of a vibrant purple flower, likely a bellflower (Campanula), with smooth, soft-textured petals. Behind the flower, there is a soft, out-of-focus green blur, indicating foliage or distant greenery.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bee's coloration, characterized by segments of dark brown/black and yellowish-brown fur, stands out significantly against the bright purple petals of the flower it is resting on and the green background. There is a clear visual distinction between the insect and its surroundings. The purpose of the bee's presence on the flower is for pollination, not concealment, and its colors do not mimic or blend with the floral environment. Therefore, no camouflage is present."
+}

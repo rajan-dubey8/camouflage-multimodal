@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Foxface Rabbitfish",
+  "background_description": "The background consists of blurred aquatic rock or coral structures, possibly covered with small polyps or algae, displaying muted shades of dark purple, brown, and green, suggesting a reef environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Foxface Rabbitfish, easily identifiable by its vibrant yellow body and distinctive black-and-white face mask. Its bright coloration stands out significantly against the darker, blurred background, indicating no camouflage is present."
+}

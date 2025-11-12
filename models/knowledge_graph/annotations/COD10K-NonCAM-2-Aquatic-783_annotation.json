@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background consists of a dark, blurry underwater environment, likely a rocky or reef habitat. It features muted dark brown, reddish, and greenish tones with indistinct textures, possibly including marine growth, rocks, and debris. A patch of red sponge or algae is visible in the upper right background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The fish exhibits excellent camouflage through a combination of disruptive patterning and color blending. Its body is covered in reddish-brown and whitish stripes and irregular markings that closely match the varied textures and colors of the rocky, mottled underwater background. This disruptive pattern effectively breaks up the fish's outline, making it difficult to perceive as a distinct entity against the complex environment. The overall coloration, predominantly warm browns and reds, blends seamlessly with the background's hues, further enhancing its ability to hide from predators or prey."
+}

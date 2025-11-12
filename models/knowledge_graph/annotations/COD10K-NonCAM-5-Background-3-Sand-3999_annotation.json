@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand dunes",
+  "background_description": "The image features an aerial or high-angle view of a desert landscape dominated by sand dunes. The dunes exhibit distinct ripples and undulating forms, with areas of bright golden-yellow sand illuminated by sunlight and deeper orange-brown tones in the shadowed troughs and slopes. The texture appears granular and fine, characteristic of sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a natural desert environment with sand dunes. There are no organisms (animals, insects, fish, etc.) visible within the frame. As camouflage is a strategy employed by organisms to blend with their surroundings, its presence cannot be assessed without an organism. Therefore, camouflage is explicitly marked as not present."
+}

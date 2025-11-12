@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Cygnet",
+  "background_description": "The background consists of dark green water, likely a pond or lake, with ripples, reflections, and some floating organic debris or foam on the surface. The water appears murky in parts.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The cygnet (baby swan) is predominantly light grey/white, which creates a very high contrast against the dark green water of its environment. Its bright plumage makes it stand out distinctly rather than blending in with its surroundings. Therefore, no camouflage is present."
+}

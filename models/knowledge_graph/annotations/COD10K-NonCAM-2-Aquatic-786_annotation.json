@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of dark, muted tones, appearing as a blurry underwater environment. There are indistinct dark green and brown areas, possibly representing rocks or submerged elements, creating a low-light setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The goldfish exhibits vivid orange/red and white coloration, which stands in stark contrast to the dark, murky background. Its bright colors and distinct patterns make it highly visible and easily identifiable against its environment. There is no attempt at color blending, disruptive patterning, or mimicry to conceal itself. Therefore, no camouflage is present."
+}

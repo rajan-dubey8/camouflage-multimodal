@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red fox",
+  "background_description": "The background consists of ground covered in vibrant green moss and patches of dry soil. Behind the fox, there are numerous leafless, dry bushes with thin branches, showing muted brown and grey tones, along with some sparse, taller dry vegetation.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The red fox exhibits color blending camouflage. Its reddish-brown fur provides a degree of color similarity with the dry bushes and patches of soil in the background, typical for blending into various natural environments like forests, scrubland, and open fields, which often contain dry vegetation. While the fox's bright reddish coat and white chest create some contrast against the vivid green moss in the foreground, its overall coloration is well-adapted for natural habitats that include varying shades of brown, red, and dry vegetation. The countershading (darker back, lighter belly) and the black 'stockings' on its legs also contribute to breaking up its outline, aiding in concealment within dappled light and shadow."
+}

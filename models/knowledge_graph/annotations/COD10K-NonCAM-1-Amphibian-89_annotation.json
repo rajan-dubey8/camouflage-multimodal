@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The animal is situated on a rough, earthy, reddish-brown rock or muddy surface. The immediate background behind the toad is very dark, almost black, suggesting a deep shadow or an unlit area. A larger, similarly textured rock formation is partially visible on the left side of the frame. No explicit body of water is visible in the immediate surroundings.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a toad with a distinct warty texture and mottled brown and yellow coloration. It is well-lit and stands out against the dark background. Its natural patterns and colors provide some resemblance to the rocky substrate, but it is not camouflaged as it is easily discernible."
+}

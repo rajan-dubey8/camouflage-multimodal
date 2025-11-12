@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Roseate Spoonbill",
+  "background_description": "The background consists primarily of a clear, bright blue sky. In the lower part of the frame, there is a weathered, rough-textured brown tree stump where the bird is perched.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Roseate Spoonbill, with its distinctive pink plumage, is highly visible against the clear blue sky and the dark brown tree stump. There is a strong contrast in color, lightness, and texture between the bird and its surroundings, indicating no attempt at camouflage. Its shape and colors make it stand out rather than blend in."
+}

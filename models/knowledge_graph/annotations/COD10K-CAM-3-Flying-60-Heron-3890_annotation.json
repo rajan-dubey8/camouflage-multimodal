@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The heron is perched on a network of tree branches. To its left, a thick, light-colored tree trunk with vertical striations is partially visible. To its right, several thinner, dark-brown branches extend, adorned with small, vibrant green leaves. The background is a dense, out-of-focus mass of bright green foliage, with varying light levels indicating dappled sunlight filtering through.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.68,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Heron exhibits effective camouflage in this image. Its plumage, consisting of mottled brown, grey, and white, blends reasonably well with the varied brown tones of the tree branches and trunk, as well as the dappled light and shadow created by the surrounding foliage. The variegated pattern on its feathers helps to break up its outline (pattern matching/shape disruption) against the complex background textures of bark and leaves. While its white belly creates some contrast, its overall coloration allows it to merge with the natural environment, making it less conspicuous than if it were uniformly colored or brightly patterned. The intricate network of branches also contributes to breaking up its shape, preventing it from standing out sharply against the background."
+}

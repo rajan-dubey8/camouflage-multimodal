@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Golden Tetra",
+  "background_description": "The background consists of dark, deep open water, appearing mostly black with very subtle hints of dark blue and green in the lower right corner, suggesting a featureless aquatic environment, possibly an aquarium setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a fish with bright, reflective golden and silver scales against a dark, uniform background. Its vibrant coloration and distinct outline make it stand out prominently, indicating the complete absence of camouflage."
+}

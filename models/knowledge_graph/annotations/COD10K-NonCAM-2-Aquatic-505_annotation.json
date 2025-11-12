@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a dark, blurry aquatic environment, likely a rocky or sandy seabed, characterized by muted blue and grey tones. There are some indistinct lighter patches suggesting varied substrate or distant features in dimly lit water.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Pipefish with its distinctive elongated body, long snout, and textured skin. Although its dark coloration shares some tones with the dim background, its form, prominent eye, and speckled pattern make it clearly visible and distinguishable from its surroundings, indicating no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Cane Toad",
+  "background_description": "A dark, rocky ground composed of various sized pebbles and stones. The stones are predominantly grey and blue-grey, with some lighter white rocks and hints of darker brown or black. The environment appears to be a natural setting like a riverbank, pond edge, or damp rocky area, dimly lit.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Cane Toad (an amphibian) resting on a rocky ground. Its mottled brown and yellow-brown coloration, while natural for its species, does not provide effective camouflage against the predominantly grey and blue-grey pebbles. The animal is distinctively visible and well-defined, standing out from its surroundings, confirming the absence of camouflage."
+}

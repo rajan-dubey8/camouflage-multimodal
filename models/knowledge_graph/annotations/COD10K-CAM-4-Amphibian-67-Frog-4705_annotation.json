@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a murky water body almost entirely covered by a dense layer of small, bright green duckweed leaves, interspersed with darker, stringy green algae and submerged aquatic plants. A thin, light brown wooden stick floats horizontally in the upper section. The environment is characterized by varying shades of green, from light chartreuse to deep olive, with occasional dark brown patches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog exhibits excellent camouflage by blending almost seamlessly with its aquatic environment. Its skin coloration, a mottled mix of olive-green, brown, and some lighter green patches, closely matches the various shades of green from the duckweed and underlying algae, as well as the brown elements in the water. The irregular patterns on its skin further mimic the patchy and textured appearance of the dense vegetation. While its prominent eyes and a somewhat brighter green on its head are discernible upon close inspection, the overall effect of the cluttered and visually 'noisy' background created by the duckweed effectively breaks up the frog's outline (shape disruption), making it very difficult to distinguish from its surroundings at first glance. The contrast between the frog and its immediate environment is low, enhancing its concealment."
+}

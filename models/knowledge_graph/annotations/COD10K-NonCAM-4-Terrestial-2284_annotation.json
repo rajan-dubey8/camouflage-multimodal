@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elephant",
+  "background_description": "The background consists of a dark, textured concrete wall with visible cracks and possibly some dirt or moss. Below the wall, there are several large, light brown/grey rocks and a patch of lighter, possibly sandy or dirt ground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The elephant's large size and dark gray-brown skin, along with its prominent white tusks, stand out significantly against the dark concrete wall and the lighter rocks and ground. While elephants' coloration can offer some blending in certain natural environments (like dusty savannas or forests), in this particular setting, likely an enclosure, the animal is highly visible and shows no active attempt at camouflage. There is a high contrast between the elephant and its immediate surroundings, and no patterns or colors on its skin match the background closely enough to suggest camouflage."
+}

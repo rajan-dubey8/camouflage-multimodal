@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of deeply furrowed tree bark, exhibiting a rough, irregular texture with prominent ridges and crevices. The colors of the bark are predominantly various shades of brown and grey, interspersed with patches of greenish-grey from lichen or moss.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits exceptional camouflage against the tree bark. Its plumage features a complex pattern of mottled browns, greys, and yellowish-white, which precisely matches the dominant colors and intricate textures of the deeply furrowed bark. The fine, irregular feather patterns effectively disrupt the bird's outline, making it blend seamlessly with the natural irregularities, ridges, and crevices of the tree trunk, including the patches of lichen. The overall low contrast between the bird's body and its immediate environment further enhances its concealment, making it very difficult to distinguish from the bark at first glance."
+}

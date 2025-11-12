@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cichlid",
+  "background_description": "The background consists of dark blue open water with large, textured rocks or rock formations partially covered in greenish-yellow algae or moss, creating an aquatic rocky habitat.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a silvery-blue Cichlid fish with distinctive long fin rays. Its bright, reflective scales and light coloration stand out prominently against the dark blue water and darker, textured rocks in the background, confirming the absence of camouflage."
+}

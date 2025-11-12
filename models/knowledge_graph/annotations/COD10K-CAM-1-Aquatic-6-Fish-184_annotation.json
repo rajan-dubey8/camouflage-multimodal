@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a complex underwater environment, primarily dominated by various coral formations and rocky surfaces. The colors are predominantly mottled greens and browns, with some lighter sandy patches and darker crevices. The textures are irregular, rough, and organic, featuring both smooth and bumpy coral structures, some appearing encrusted with algae.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Fish is highly camouflaged in this image. Its body color closely matches the mottled green and brown tones of the surrounding coral and rocky substrate, providing excellent color blending. The irregular patterns and splotches on its skin remarkably mimic the uneven, textured surfaces of the background, contributing to strong pattern matching. The fish's shape, while distinct upon close inspection, is somewhat irregular and blends into the nooks and crannies of the coral, causing a degree of shape disruption against the similarly irregular environment. The overall contrast between the fish and its immediate surroundings is low, making it difficult to discern its outline at a glance. Even the prominent dark spot on its side doesn't immediately give away its identity, as it could be mistaken for a shadow or a feature on the rock. This combination of factors makes the fish blend exceptionally well with its environment."
+}

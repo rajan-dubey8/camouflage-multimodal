@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Domestic cat",
+  "background_description": "The cat is resting on a light brown, plush upholstered surface, which appears to be part of a cat tree. To its right, a scratching post covered in light brown, woven sisal rope is visible. The background consists of a muted teal or light green painted wall, with some wooden beams or shelves visible in the upper right.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The domestic cat has distinct white and dark brown tabby fur patterns. While the brown fur shares some general coloration with the beige cat tree and sisal rope, its overall patterns and the prominent white areas create a high contrast against the background elements. The cat is clearly visible and not blending into its indoor environment; therefore, no camouflage is present."
+}

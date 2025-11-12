@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Springbok",
+  "background_description": "The background consists of dry, reddish-brown soil with sparse patches of green and yellow-green grass and low-lying shrubs. Further back, there are larger, denser green bushes and trees, characteristic of a savanna or semi-desert grassland environment. The lighting is bright and even.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Springbok displays effective camouflage adapted to its grassland environment. Its light tan-brown dorsal coat blends well with the dry grasses and reddish soil, providing a degree of color blending. The distinct white underside and facial markings, combined with the prominent dark reddish-brown stripe running horizontally along its flank, serve as a form of disruptive pattern. This disruptive coloration breaks up the animal's silhouette, making it harder for predators to discern its true shape, especially in varied light conditions or against a cluttered background. While the tan offers color similarity, the strong contrasting stripe and countershading contribute significantly to breaking visual continuity. The texture of its smooth fur has low similarity to the rougher vegetation and soil textures."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Stormy ocean with waves",
+  "background_description": "The scene depicts a turbulent ocean with large, breaking waves producing a lot of white foam. The water appears dark and choppy. Above the horizon, a dark, overcast sky filled with heavy storm clouds dominates the upper half of the image. A narrow strip of orange-yellow light is visible along the horizon line, possibly indicating a sunset or sunrise breaking through the clouds. A small navigational buoy is faintly visible in the mid-ground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environment: a stormy ocean with waves under an overcast sky. There are no visible organisms (animals, insects, or fish) present in the frame. Therefore, the concept of camouflage does not apply."
+}

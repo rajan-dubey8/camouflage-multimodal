@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Gannets",
+  "background_description": "The background consists of a large body of water, likely the ocean, displaying various shades of muted blue. The water surface appears relatively calm with subtle ripples and texture variations, suggesting a slight movement but no strong waves. A faint, slightly darker horizon line is visible at the very bottom edge of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The two gannets are predominantly bright white with distinct black wingtips. They are flying against a muted blue ocean background. Their bright plumage creates a strong contrast with the darker background, making them highly visible and easily discernible. There is no blending of colors or textures between the birds and their immediate environment. While gannets may exhibit counter-illumination against a bright sky when viewed from below, in this context against the ocean, they stand out significantly."
+}

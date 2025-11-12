@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The ducks are situated in a nest or resting area composed of a dense mat of dried, broken reeds, twigs, and plant debris. This material displays various shades of brown, tan, and earthy tones, with a rough and varied texture. Behind the immediate nest area, tall, vibrant green reeds and grasses stand upright, forming a dense background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The ducks exhibit effective camouflage through a combination of color blending and pattern matching. Their mottled brown and tan plumage closely matches the dried reeds, twigs, and plant debris that form their nest, creating high color similarity. The intricate, broken patterns on their feathers also mimic the varied textures and irregular shapes of the surrounding nest material, contributing to high texture similarity. This pattern disruption helps to break up the birds' outlines, making them less distinct against the busy background. While a small iridescent blue patch (speculum) is visible on their wings, it is largely obscured and does not significantly compromise the overall low contrast with the immediate environment, allowing the ducks to blend effectively with their surroundings."
+}

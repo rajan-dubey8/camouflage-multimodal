@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Anthias",
+  "background_description": "The background consists of dark blue open water, with blurred soft coral or rock structures in shades of purple and pink in the upper and mid-background. There are also out-of-focus bright blue and white elements in the deeper background, suggesting a diverse aquatic environment like a coral reef or a well-decorated aquarium. Small specks are visible in the water column.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features a vibrant orange and red Anthias fish swimming in open water. Its bright coloration stands out significantly against the dark blue water and blurred background corals, indicating a clear lack of camouflage. The fish is highly visible."
+}

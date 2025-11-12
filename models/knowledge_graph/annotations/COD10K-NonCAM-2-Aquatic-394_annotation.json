@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Convict Cichlid",
+  "background_description": "The aquatic environment consists of an aquarium with a solid vibrant blue background. The bottom is covered with dark grey and light-colored small gravel or pebbles. Numerous small air bubbles are dispersed throughout the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Convict Cichlid, identifiable by its distinct black and white vertical stripes. The fish stands out prominently against the plain blue background and gravel, exhibiting no color or texture resemblance to its immediate surroundings, hence no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense marshland environment. The foreground and mid-ground are dominated by tall, slender, vibrant green reeds and grasses, with some areas showing drier, yellowish-brown hues, particularly towards the ground level and in patchy sections. There are also darker, possibly wet soil or shallow water visible between the plant stems. The scene is brightly lit, creating varied highlights and shadows among the vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage within this marsh environment. Its plumage features a complex pattern of streaky browns, tans, creams, and blacks, which remarkably blends with the varied colors of the dry reeds, dead grasses, and underlying earth. The strong vertical streaking on its body and head is a prime example of pattern matching, mimicking the vertical lines and textures of the surrounding reeds and vegetation. This intricate patterning also serves as shape disruption, effectively breaking up the bird's solid outline and making it blend seamlessly with the visually busy, linear background. While there are vibrant green reeds in the immediate foreground, the bird's natural coloration and pattern skillfully integrate with the more muted tones and textures found deeper within the marsh, making it exceptionally difficult to spot."
+}

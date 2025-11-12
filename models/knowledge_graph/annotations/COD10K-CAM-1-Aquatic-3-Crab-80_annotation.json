@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of dark, gnarled mangrove roots, heavily covered in what appears to be algae or mud, rising from shallow, murky water. Sunlight filters through, creating dappled light and shadows on the water's surface and the sandy bottom. The immediate foreground is light-colored, granular sand partially submerged in clear, shallow water with ripples.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The crab's dark green/brown carapace, which appears covered in sediment or algae, blends effectively with the dark, algal-covered mangrove roots and the murky water it inhabits. Its position under the shadow of the roots further enhances its concealment. This aspect of its coloration and texture provides good color blending and pattern matching with its immediate environment. However, its prominent, bright blue/purple claws contrast significantly with the lighter sandy bottom and the water, making them quite noticeable and thereby reducing the overall effectiveness of its camouflage as an entire organism. Despite the visibility of its claws, the main body's strong resemblance to its surroundings offers a substantial degree of concealment from potential predators."
+}

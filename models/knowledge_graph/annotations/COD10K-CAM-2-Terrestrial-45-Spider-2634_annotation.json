@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a rough, uneven, and granular surface, likely a rock or dried earth. It exhibits varying shades of light brown, grey, and darker grey/black patches, with a coarse, irregular texture that suggests natural weathering, debris, or lichen growth. There's a subtle depth change in the middle ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits excellent camouflage by blending seamlessly with its rocky, textured environment. Its body coloration, a mottled mix of greys and browns, perfectly matches the varying hues of the background rock, demonstrating high color similarity. Furthermore, the spider's rough, irregular texture and patterned body mimic the granular and uneven surface of the stone, contributing to high texture similarity and pattern matching. The spider's somewhat angular and irregular outline also helps with shape disruption, making it difficult to discern its form against the similarly textured and patterned background. As a result, there is a low contrast difference between the spider and its surroundings, making it very challenging to spot."
+}

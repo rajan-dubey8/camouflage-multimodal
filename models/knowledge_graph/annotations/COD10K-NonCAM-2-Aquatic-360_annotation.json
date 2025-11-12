@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lemon Damselfish",
+  "background_description": "The background features a vibrant coral reef environment with various coral types. On the left and bottom, there are clusters of purple, bumpy stony corals. To the right, branching brown corals with light blue tips are visible. In the mid-background, bright green soft corals or algae are present, all set against a dark, clear water backdrop.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant yellow Lemon Damselfish with a paler belly and bright yellow fins swimming against a diverse coral reef. Its distinct bright coloration and smooth texture make it highly visible and confirm the absence of any camouflage against the textured, multi-colored coral background."
+}

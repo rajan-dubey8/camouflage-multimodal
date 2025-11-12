@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background consists of a vast, open savanna landscape. In the foreground, there are patches of dry, golden-brown grass mixed with some greener vegetation and low-lying bushes. Further back, the terrain transitions into rolling plains and distant mountains that appear hazy and light blueish-grey under a bright sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The giraffe possesses a natural disruptive pattern camouflage characterized by irregular brown patches against a lighter tan or cream background. This patterning is designed to break up its outline and help it blend with the dappled light and shadow found in its native savanna habitats, particularly among acacia trees and sparse vegetation. In this specific image, while the giraffe's colors (browns and tans) share some similarity with the dry grass and earthy tones in the foreground, its distinctive pattern and towering presence make it moderately visible against the generally lighter, more uniform background of distant plains and hazy mountains. The camouflage is present but not maximally effective in this wide, open, bright setting."
+}

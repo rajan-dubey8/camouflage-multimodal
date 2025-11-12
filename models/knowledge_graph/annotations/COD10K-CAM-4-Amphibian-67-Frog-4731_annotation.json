@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of shallow, murky brown water with a significant amount of greenish-brown algae or detritus clumps and scattered fine sediment or small pebbles on the bottom. The overall environment is earthy, textured, and appears somewhat stagnant, with varied brown, green, and grayish tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog demonstrates strong camouflage by blending effectively with its muddy, algae-filled environment. Its dorsal coloration is a mottled brown with darker irregular spots, which closely matches the color palette of the murky water, submerged sediment, and the various greenish-brown detritus clumps. This high color similarity makes the frog's body difficult to differentiate from its surroundings. The spotted pattern on its back acts as disruptive coloration, breaking up its solid outline and mimicking the irregular textures and shadows found in the environment. The contrast difference between the frog's body and the background is low, further enhancing its concealment. Although its eyes are distinct, the overall body shape and coloration seamlessly integrate with the natural clutter, making it challenging to spot at first glance."
+}

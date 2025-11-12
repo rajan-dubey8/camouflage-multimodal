@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of the rugged, deeply fissured, and flaky bark of a tree, displaying various shades of dark brown, reddish-brown, and lighter tan/grayish-brown. The bark has a highly textured and uneven surface with pronounced ridges and crevices. To the right, there is a blurry, out-of-focus background, transitioning from a warm yellowish-orange at the top, likely distant sunlit ground or foliage, to a darker, desaturated gray-blue at the bottom, suggesting shadowed ground or another distant element.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada exuviae exhibit effective camouflage through strong color blending. Their light tan to yellowish-brown coloration closely matches the sun-bleached and reddish-brown flaky patches on the tree bark, making them blend remarkably well with these specific areas. While the general roughness of the exuviae contributes to some textural similarity with the bark, their distinct insect-like shape and more uniform texture compared to the highly irregular and deeply creased bark prevent perfect visual disappearance. Despite the recognizable form, the excellent color match significantly reduces their overall visibility against the natural background, requiring a closer look to discern them."
+}

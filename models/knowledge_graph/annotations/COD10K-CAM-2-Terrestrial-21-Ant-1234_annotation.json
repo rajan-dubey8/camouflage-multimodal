@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The background consists of granular soil or sand, varying in shades from dark grey to light brown, with many small reflective specks. There are several pieces of dark, irregular organic detritus or pebbles scattered throughout. Parts of the ground are in shadow, creating dark, diffuse areas, while other areas are illuminated by direct light, highlighting the sand grains. A green blade of grass or plant stem is visible on the right side.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shadow hiding",
+  "explanation": "The ant exhibits camouflage primarily through color blending and effective use of shadows. Its head, abdomen, and legs are dark brown to black, matching the color of the shadowed areas, dark soil, and the pieces of detritus in the environment. This dark coloration significantly reduces its contrast against these background elements. While the ant's thorax is a reddish-brown, providing a slight color difference, it is not a high-contrast element against the varied natural hues of the ground, which include browns, greys, and blacks. The uneven lighting and the granular, textured nature of the sand, along with the scattered detritus, further contribute to breaking up the ant's outline and preventing it from standing out sharply. The ant's small size also inherently aids in its concealment within this complex background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "People climbing a sand dune",
+  "background_description": "The image features a large, steep sand dune with a finely textured surface, appearing in monochrome. A distinct trail of human footprints creates deep shadows leading up the dune. The sky above is partially cloudy, creating a dramatic backdrop to the dune's crest.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image shows a group of people at the distant top of a sand dune. They are rendered as dark, high-contrast silhouettes against the lighter sky and dune surface, making them easily distinguishable. There is no visual attempt for them to blend into the sandy environment through color, pattern, or form. Their distinct shapes and lack of integration with the background textures confirm the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dark, deeply textured tree trunk (likely a palm tree) to the right, and blurred green foliage in the upper left, suggesting a leafy outdoor environment. The bird is perched on a rectangular, light gray metallic feeder or platform attached to the tree.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bird is a vibrant, bright yellow, which creates a stark visual contrast against the dark, rough bark of the tree trunk and the muted gray metallic feeder. Its prominent color does not blend with the surrounding environment's colors or textures (dark brown/black tree bark, gray metal, or blurred green foliage), making it highly conspicuous rather than camouflaged. There are no patterns or forms that suggest mimicry or disruptive coloration."
+}

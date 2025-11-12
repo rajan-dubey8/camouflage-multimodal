@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The grasshopper is positioned centrally on a prominent, large, vibrant green leaf with visible veins and slight surface irregularities. The immediate background behind the leaf is composed of blurred, darker green foliage, indicating a dense, natural vegetative environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper demonstrates effective camouflage primarily through color blending. Its body is a bright green, very closely matching the color of the leaf it is resting on. This high color similarity creates a low contrast difference between the organism and its immediate environment, making it difficult to spot at first glance. While the texture of the grasshopper's body is slightly different from the leaf's veins, the overall green hue and lack of stark outlines allow it to blend well into the foliage."
+}

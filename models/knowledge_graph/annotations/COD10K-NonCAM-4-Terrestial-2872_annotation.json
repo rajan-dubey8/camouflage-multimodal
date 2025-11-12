@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of dark, out-of-focus rocky or earthy textures in shades of gray and brown, suggesting a natural, possibly shadowed, environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The leopard's coat features a classic disruptive pattern of black rosettes on a tawny background. This pattern effectively breaks up the animal's silhouette, making it difficult to distinguish from its natural environment of dappled light, shadows, and varied textures like rocks and vegetation. The tawny base color also provides color blending with the earthy tones present in many natural habitats, further aiding its concealment."
+}

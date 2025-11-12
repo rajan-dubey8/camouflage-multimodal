@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a textured underwater environment, featuring various shades of brown, green, and gray rocky formations and coral structures. There are lighter sandy patches and darker crevices, creating a mottled and irregular pattern.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The pipefish exhibits camouflage primarily through disruptive patterns. Its slender body is marked with longitudinal reddish-brown and white stripes, which help to break up its distinct outline against the complex and varied textures of the rocky coral background. While the fish's smooth texture does not perfectly match the rough background, its coloration provides medium color blending with the brown and reddish tones present in the environment. The stripes create internal contrast, making it harder for predators to discern the fish's continuous form, thereby improving its concealment."
+}

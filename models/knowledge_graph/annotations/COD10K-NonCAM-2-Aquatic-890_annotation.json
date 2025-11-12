@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi fish",
+  "background_description": "The background consists of clear water with a bed of various small, rounded river pebbles in shades of grey, white, brown, and reddish-brown, along with a few larger light-colored rocks. The water surface shows some reflections and bubbles.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish in the image, primarily bright orange and golden koi, are highly conspicuous against the background. Their vibrant colors stand out strongly against the muted, multi-colored pebbles and rocks on the aquarium floor. There is no resemblance in color or texture between the fish and their surroundings, leading to a high visual contrast and indicating a complete absence of camouflage. These ornamental fish are bred for their striking appearance, not for blending into an environment."
+}

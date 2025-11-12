@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of dense green foliage, primarily leaves and some visible branches from a tree. The leaves vary in shade of green, with some exhibiting yellowish veins, and are in various stages of focus, with some blurred leaves in the foreground and background creating depth. The light appears dappled, creating areas of highlight and shadow among the leaves.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The bird's olive-green plumage on its back and belly exhibits good color blending with the various shades of green and yellowish-green leaves that dominate the background. This primary color match helps the bird integrate visually into its environment. While its distinct black and white head markings and striped wing patterns create areas of higher contrast, the dense array of surrounding leaves partially obscures the bird's body and breaks up its overall silhouette, contributing to shape disruption. The bird is not perfectly hidden, but its coloration and the natural concealment provided by the foliage allow it to blend effectively rather than standing out starkly."
+}

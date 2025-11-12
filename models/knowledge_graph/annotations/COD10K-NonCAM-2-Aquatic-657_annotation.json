@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Parrotfish",
+  "background_description": "The background depicts a vibrant coral reef ecosystem. It features various types of hard and soft corals, with textures ranging from lumpy formations to leafy structures, predominantly in shades of green, brown, and some reddish hues. The water is clear, displaying bright blue at the surface fading to deeper blues, with sunlight filtering through creating shafts of light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrantly colored Parrotfish with distinct patterns of blue, pink, orange, and green scales. It stands out prominently against the coral reef background due to its striking coloration and is not attempting to blend in with its surroundings. Therefore, there is no camouflage present."
+}

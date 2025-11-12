@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is resting on a large, rounded, organic object, possibly a fruit or seed pod, covered in mottled patches of green moss or lichen and some lighter whitish-yellow areas. The background behind the mantis is out of focus, showing blurred areas of deep green foliage and brownish hues, suggesting a dense, natural environment like a forest understory.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The mantis exhibits outstanding camouflage primarily through mimicry of plant parts. Its head and pronotum are flattened and shaped exactly like a fresh, vibrant green leaf, while its wings display a combination of bright green, yellowish-brown, and dark mottled patterns, strongly resembling a decaying or diseased leaf with distinct veins and markings. This combination of colors and patterns blends seamlessly with the surrounding environment, particularly the lichen-covered surface it rests upon which shares similar green, white, and yellowish tones. The leaf-like shape of its body parts also contributes to shape disruption, making it incredibly difficult to distinguish from the foliage, thus providing excellent concealment from predators and potential prey."
+}

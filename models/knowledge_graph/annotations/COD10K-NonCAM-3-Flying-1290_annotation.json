@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Royal Terns",
+  "background_description": "The background consists of a sandy beach surface, light beige in color, mixed with numerous small, light grey and brownish pebbles and larger rocks. The environment appears bright and open, characteristic of a sunny coastal area.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Royal Terns in the image are not camouflaged. While their light grey and white plumage shares some tonal similarities with the sandy background, their overall shape, prominent black crests, and bright orange beaks create a significant contrast against the environment. Their distinct features and defined outlines make them clearly visible rather than blending in with the surroundings. There is no evidence of disruptive patterns, mimicry, or strong color blending designed to conceal them from predators or prey in this specific context."
+}

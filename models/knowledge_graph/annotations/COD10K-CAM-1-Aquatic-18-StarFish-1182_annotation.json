@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Marine Invertebrate",
+  "object_name": "StarFish",
+  "background_description": "The background consists of shallow, clear water over a rocky or gravelly seabed. The seabed is a mix of muted browns, greys, and some lighter patches from shell fragments. Numerous vibrant purple sea urchins are scattered across the substrate. The surface of the water is rippled, creating strong refractive and reflective patterns that distort the appearance of objects beneath it, presenting a busy, vertically striped, and fragmented visual texture.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The StarFish exhibits a moderate level of camouflage, primarily due to the optical distortion caused by the rippling water surface. While the starfish's reddish-purple color is distinct from the predominant brown-grey of the rocks, it blends somewhat with the many purple sea urchins present in the environment, which share a similar color family. The most significant factor contributing to its camouflage is the 'Shape disruption' created by the water. The refractions and reflections on the water's surface break up the starfish's distinctive outline and surface texture, making it difficult to discern its true shape and edges. This fragmented appearance causes its body to blend with the chaotic, striped patterns of light and shadow created by the water over the seabed, thereby increasing its 'texture_similarity' with the busy background and reducing its overall 'contrast_difference' by fragmenting its form."
+}

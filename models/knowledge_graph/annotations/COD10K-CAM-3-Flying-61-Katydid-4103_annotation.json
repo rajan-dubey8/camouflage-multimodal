@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of rough, reddish-brown tree bark with prominent vertical grooves and cracks. Scattered across the bark are irregular patches of pale blue-green and white lichens, varying in size and density. There are also areas of vibrant green moss, particularly along the left edge of the image, adding further textural variation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Katydid demonstrates exceptional camouflage by perfectly mimicking the lichen patches on the tree bark. Its body and legs are patterned with a mottled mix of light grey/white and dark markings that precisely match the color, texture, and irregular shapes of the pale lichens. This pattern allows the organism to blend seamlessly with the complex visual environment of the bark and lichen, making it very difficult to distinguish from its surroundings. The low contrast difference further enhances its concealment."
+}

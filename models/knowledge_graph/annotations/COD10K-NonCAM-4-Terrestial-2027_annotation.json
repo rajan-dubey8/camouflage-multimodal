@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of a blurry natural environment, displaying muted earthy tones of greens and browns, indicative of vegetation or a riverbank. The otter is resting on a prominent, dark brown wooden log or branch, which has a rough, textured surface with some lighter worn patches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The otter displays camouflage primarily through color blending. Its dark brown, wet fur closely matches the deep brown of the wooden log it is sitting on and harmonizes with the overall earthy, subdued color palette of its natural background. This cryptic coloration is a natural adaptation that helps otters blend into their aquatic and riparian habitats, typically among rocks, logs, and muddy riverbanks. While the otter is clearly visible and well-lit in this specific photograph, its natural coat intrinsically contributes to camouflage by reducing its visual distinctiveness against common environmental elements, even if it is not actively trying to hide at this moment."
+}

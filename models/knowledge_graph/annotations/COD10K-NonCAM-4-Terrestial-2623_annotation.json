@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown Bear",
+  "background_description": "The background consists of murky, dark river water, with a visible line of lighter slush or thin ice in the mid-ground. The distant shore features a bank with bare earth, rocks, and sparse, dried-up vegetation such as grasses and small shrubs, predominantly in muted brown, gray, and dark green tones. The overall lighting is soft and diffused, creating a somewhat subdued palette.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The brown bear's fur coloration provides a degree of natural camouflage through color blending with its environment. The bear's brown fur shares similar muted earthy tones with the muddy river water, the distant riverbanks, and the sparse, dried vegetation. While the bear's large size and distinct silhouette prevent it from being completely hidden, its natural coloring helps it to somewhat blend into the overall brown and gray palette of its habitat, reducing its stark contrast against the background. This is a form of color blending, rather than disruptive patterns or mimicry, allowing for some level of concealment in its natural surroundings."
+}

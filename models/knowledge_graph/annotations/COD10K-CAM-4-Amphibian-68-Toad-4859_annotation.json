@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a wet, uneven surface primarily made of yellowish-brown concrete or packed earth mixed with small pebbles, some rusty reddish-brown patches, and scattered dry grass blades. There is also a darker section of wet gravel and soil at the bottom left. The toad is situated on the lighter, yellowish-brown section of the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its mottled greenish-brown and yellowish coloration, along with dark spots, very closely matches the speckled, textured, and slightly rusty yellowish-brown ground it is resting upon. The rough, bumpy texture of the toad's skin also blends seamlessly with the irregular surface of the pebbles and concrete. There is low contrast between the toad and its immediate surroundings, making its outline difficult to discern and allowing it to merge effectively with the environmental textures and colors."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cichlid",
+  "background_description": "The background consists of a clear aquatic environment with a vibrant plain blue wall on the left and bottom, likely an aquarium glass or painted background. On the right side, there is a dark, cylindrical or rectangular object, possibly a piece of aquarium equipment like a filter housing or tubing. The water appears clean and transparent.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a light-colored Cichlid fish with distinct scales and fins. The fish is highly visible against the plain blue background and dark aquarium equipment, exhibiting no patterns, colors, or textures that would help it blend into its surroundings. Therefore, no camouflage is present."
+}

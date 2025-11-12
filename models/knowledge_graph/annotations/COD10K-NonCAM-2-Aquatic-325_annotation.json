@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Copperband Butterflyfish",
+  "background_description": "The background depicts a vibrant and diverse coral reef ecosystem, featuring various corals in shades of blue, green, and brown, with some darker rocky areas. Several other brightly colored fish (orange, purple) are visible in the blurry distance, indicating a lively aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Copperband Butterflyfish with prominent yellow and white striped patterns. Its bright coloration and distinct shape stand out significantly against the darker, more textured coral reef background and other distant fish, confirming the absence of camouflage."
+}

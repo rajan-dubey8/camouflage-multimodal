@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Macaw",
+  "background_description": "The background consists of blurred natural elements, primarily out-of-focus tree branches with muted brown and grey tones, along with soft green foliage. The bird is perched on a thick, gnarled branch with a rough, textured bark.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Macaw exhibits vibrant green, red, and orange plumage. While the green color might offer some degree of blending within dense green foliage, the prominent red on its head and bright orange patches on its wings create a strong contrast against the muted browns and soft greens of the natural background. The bird's colors are highly conspicuous, making it stand out rather than blend in with its environment. This coloration is typical for macaws, often used for species recognition and display, not camouflage."
+}

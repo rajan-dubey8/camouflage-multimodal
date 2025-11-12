@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Polar bear",
+  "background_description": "The background features prominent, large, jagged grey rocks with rough and uneven textures, showing various shades of grey and some darker, possibly damp, areas. To the left of the front bear, there is a body of dark green-blue water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two polar bears with their distinctive off-white to cream-colored fur. While polar bears possess natural color blending camouflage highly effective in snowy and icy Arctic environments, in this particular scene, the background is composed of dark grey rocks and dark greenish water. There is a strong contrast between the light fur of the bears and the dark, rough textures and colors of their immediate surroundings, making them highly visible. Therefore, their natural camouflage is not effective in this non-native habitat."
+}

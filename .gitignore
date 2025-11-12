@@ -1,0 +1,28 @@
+# Ignore large model/data files
+*.pt
+*.pth
+*.bin
+*.h5
+*.zip
+*.ta
+*.tar.gz
+*.npy
+*.npz
+*.pkl
+*.onnx
+
+# Ignore cache and environment folders
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+results/
+outputs/
+logs/
+checkpoints/
+dataset/
+huggingface/
+cache/

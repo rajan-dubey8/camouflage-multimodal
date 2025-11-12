@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists of a field of dry, golden-yellow stubble from recently harvested crops. In the mid-ground and background, there are taller, standing dry stalks and grasses, maintaining the same overall straw-like color. The environment is dense with vertical linear textures created by the cut and standing vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit exhibits strong camouflage due to a high degree of color similarity with its environment. Its brownish-tan fur perfectly matches the golden-yellow and straw-like tones of the dry stubble and taller grasses. The texture of its fur, while not identical, is also somewhat compatible with the linear, somewhat 'hairy' texture of the dried vegetation, contributing to visual blending. Furthermore, the rabbit is partially obscured by the surrounding stubble, which helps to disrupt its overall shape and reduce a clear outline against the background. The low contrast between the rabbit's body and the shadows within the dense vegetation further enhances its concealment, making it blend seamlessly into the environment and difficult to spot at first glance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal beach at sunset",
+  "background_description": "The scene depicts a wet sandy beach at sunset, with patterns left by receding waves. The sand reflects the pink and orange hues of the sky near the horizon, gradually transitioning to cooler grey-blue further down. The ocean stretches into the mid-ground with soft, blurred waves, appearing calm and reflecting the muted sky. In the distance, a dark, tree-covered landmass or island is visible against the pastel pink and orange gradient of the sunset sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural coastal environment with no visible animals, insects, or any other organisms present. Therefore, there is no subject for camouflage to be applied to or detected."
+}

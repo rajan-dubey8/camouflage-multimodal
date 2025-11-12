@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird drawing",
+  "background_description": "The background is a plain, light-colored (white or off-white) paper surface, largely uniform except for a small textured patch of ground directly beneath the bird's feet, rendered with pen strokes. There is an artist's signature in the bottom right corner.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image is a black and white drawing of a small bird. The bird is depicted in distinct dark pen strokes against a plain, light-colored background (paper). There is no natural environment for the bird to blend into, and its dark rendering creates a high contrast with the background, making it easily visible and not camouflaged. The primary subject is an artistic rendition, not an organism in a natural environment attempting to conceal itself."
+}

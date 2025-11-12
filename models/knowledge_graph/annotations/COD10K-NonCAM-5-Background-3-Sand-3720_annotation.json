@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tidal beach landscape",
+  "background_description": "The image presents a wide panoramic view of a coastal tidal flat at low tide under a dramatic and expansive sky. The foreground consists of wet, textured brown and grey sand and mudflats, reflecting the sky in numerous shallow pools and channels left by the receding water. These patterns create a sense of depth and movement across the vast expanse. In the midground, the calm ocean stretches to the horizon, meeting distant landmasses that appear as dark, undulating hills on either side. The sky above is filled with a dynamic array of clouds, ranging from bright white cirrus streaks and wisps to darker, heavier grey cumulus formations, with patches of clear blue sky visible at the upper right. The overall lighting suggests either early morning or late afternoon, with soft, diffused light illuminating the scene and creating strong contrasts.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a vast coastal landscape, including a tidal beach, ocean, and sky, which are natural environmental elements. While a very small human figure can be discerned in the far distance on the beach, it is an incidental element and not the main subject of the image. The human figure does not exhibit any form of camouflage; it appears as a dark silhouette against the brighter background, indicating a high contrast and making it easily visible. Therefore, the image is assessed as an environment with no active camouflage present on its main subjects."
+}

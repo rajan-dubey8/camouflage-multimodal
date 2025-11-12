@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seabird",
+  "background_description": "The background consists of a vast, overcast sky, predominantly light grey with some darker cloud formations. Below the sky is a hazy distant landmass or urban outline. The mid-ground features a body of water with gentle waves, exhibiting shades of blue and turquoise, with white foam from breaking waves. The foreground shows a rocky and sandy intertidal zone, with exposed pale rocks and wet sand/mud, dotted with darker, algae-covered rocks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "A single white seabird is flying against an overcast, light grey sky. Despite the overall muted tones of the environment, the bird is clearly distinguishable due to its distinct shape and brighter white plumage contrasting with the background. There are no patterns, textures, or specific colorations on the bird that mimic the clouds or other elements of the sky, nor is it attempting to blend into the sea or shoreline from this aerial perspective. Therefore, no active camouflage is present; the bird is simply a visible element in its natural habitat."
+}

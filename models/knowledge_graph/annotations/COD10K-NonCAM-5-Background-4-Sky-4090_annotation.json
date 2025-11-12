@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The background consists of a sky filled with a dense array of dark grey, medium grey, and lighter grey clouds, suggesting an overcast or heavily clouded day. The clouds have soft, diffused textures with varying densities, some appearing thin and streaky while others are thicker and more voluminous. A faint white contrail is visible in the middle-left of the image.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features a sky with various cloud formations and no discernable organisms. As such, the concept of biological camouflage is not applicable."
+}

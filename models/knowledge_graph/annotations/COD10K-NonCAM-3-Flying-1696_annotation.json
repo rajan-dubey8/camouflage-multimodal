@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red-faced mousebird",
+  "background_description": "The background consists of dense, blurred green foliage and branches. There are bright green leaves in the foreground and midground, with darker green and bluish-green areas further in the background, suggesting a natural, vegetated environment like a forest or thicket. A weathered, textured tree branch is visible in the mid-ground where the bird is perched.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird is clearly visible against the green foliage. While its greyish-brown body color shares some hues with the tree branch it is perched on, its prominent bright red face, distinct crest, and very long, slender tail create significant contrast with the predominantly green and blurred background. The overall shape and distinctive features make the bird stand out rather than blend in, indicating the absence of camouflage. Its coloration and tail are more likely for signaling or display rather than concealment."
+}

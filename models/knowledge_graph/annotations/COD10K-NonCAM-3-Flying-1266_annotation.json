@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Fly",
+  "background_description": "The background consists of a textured, rough wooden surface with visible grain patterns. It is predominantly dark brown with areas of lighter brown and slight reddish undertones, and exhibits some specular reflections from its uneven texture, suggesting a somewhat polished or damp surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fly's body is a prominent metallic green, which contrasts sharply with the dark brown wooden background. There is no similarity in color or texture between the insect and its surroundings. The fly's smooth, iridescent texture does not blend with the rough wood grain, and its distinct shape and shadow further highlight its presence, indicating a complete lack of camouflage in this environment."
+}

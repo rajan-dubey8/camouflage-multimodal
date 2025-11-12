@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal sunset with rocky shore",
+  "background_description": "The foreground features a rugged, reddish-brown rocky coastline with various fissures and crevices, some holding small tide pools reflecting the sky. Patches of dark, matted seaweed or moss cover parts of the rock. The midground consists of the ocean surface, reflecting the warm hues of the setting sun near the horizon and transitioning to deeper blue further out. The background includes a distant landmass or island silhouette against the horizon. The sky is a dramatic gradient, from deep blue overhead, transitioning through vibrant oranges, yellows, and reds near the horizon, with striking wispy clouds illuminated by the sun.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural coastal environment at sunset and does not contain any visible animals, insects, or fish. Therefore, no organism is present for camouflage to be evaluated against the background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is resting on a textured, rocky surface. The surface is heavily mottled with various types of lichens, featuring shades of light gray, white, dark gray, and dark brown. There are also scattered fragments of dried vegetation, possibly twigs or leaves, and some patches of pale green moss or lichen. The overall background is uneven and offers a complex visual pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage against its rocky, lichen-covered background. The closed wings display a complex pattern of browns, grays, and whites that perfectly match the varied colors and textures of the lichens and dried debris on the rock. The intricate, irregular patterns on its wings break up its outline, making it extremely difficult to distinguish the organism from the natural irregularities of the stone surface. The color palette of the butterfly blends almost seamlessly with the environment, resulting in a very low contrast difference and strong visual integration."
+}

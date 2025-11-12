@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Parrot",
+  "background_description": "The background is highly blurred, displaying soft green and brownish hues with bokeh effects, strongly suggesting dense foliage, leaves, or a treed environment typical of a rainforest or aviary setting. The colors are muted and provide a natural backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The parrot's primary body color is a vibrant green, which serves as effective camouflage in its natural habitat of lush, green foliage, as indicated by the blurred green background. This color blending helps the parrot disappear amidst leaves and branches, making it harder for predators to spot. While the blue and yellow markings on its head offer some contrast, the dominant green plumage provides significant concealment through color matching with its environment. The texture of its feathers does not directly mimic leaves, but the overall green coloration is a strong camouflage mechanism."
+}

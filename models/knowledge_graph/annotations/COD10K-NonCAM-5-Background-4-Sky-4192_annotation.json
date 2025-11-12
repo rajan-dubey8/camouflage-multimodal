@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mountain landscape with traditional gazebo",
+  "background_description": "The scene features a vibrant blue sky filled with scattered white and grey cumulus clouds, indicating a clear day. In the mid-ground, rolling green mountains are covered in dense vegetation, appearing somewhat hazy in the distance. The foreground shows closer hillsides with lush green trees and shrubs, a wooden fence or railing, and a traditional-style gazebo with a dark roof nestled among the trees on a peak.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an outdoor natural environment comprising a sky, mountains, and vegetation, along with a man-made gazebo and railing. There are no visible animals, insects, or fish present in the scene. As no organism is detected, the concept of camouflage does not apply."
+}

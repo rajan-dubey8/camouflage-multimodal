@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Wild boart piglet",
+  "background_description": "The background consists of dark, wet, and lumpy mud with scattered small rocks, dried leaves, and twigs. The overall color palette is muted browns, grays, and dark earth tones, creating a highly textured and uneven surface. There are some faint green patches and lighter colored stones visible amidst the dark mud.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The wild boart piglet exhibits effective camouflage against the muddy, earthy background. Its fur is a mix of dark brown and lighter tan stripes, which highly resembles the varying colors and textures of the wet mud, scattered debris, and shadows in its environment. The striped pattern helps to break up the piglet's outline (disruptive coloration), making it harder for predators to distinguish its shape from the uneven ground. Both its coloration and fur texture blend seamlessly with the irregular, lumpy, and coarse nature of the muddy forest floor, resulting in low contrast and high color and texture similarity."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "FrogFish",
+  "background_description": "The background consists of a vibrant coral reef, featuring a complex matrix of brown, reddish, and greenish corals, sponges, and rock formations. The textures are rough, irregular, and mottled. In the upper left and middle left, there is clear blue ocean water with ripples visible on the surface, indicating shallow depth or proximity to the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The FrogFish is exceptionally well camouflaged in this image. Its mottled brown and grey coloration, with subtle hints of yellow and red, perfectly matches the various encrusting corals and rocks that make up its immediate surroundings. The irregular, bumpy texture of its skin mimics the porous and rough surfaces of the reef. Furthermore, its body shape is highly irregular, featuring lobes and projections that break up its outline, making it difficult to distinguish from the coral formations. It effectively mimics a piece of coral or sponge, allowing it to blend seamlessly into the complex reef structure, reducing color, texture, and contrast differences with its environment."
+}

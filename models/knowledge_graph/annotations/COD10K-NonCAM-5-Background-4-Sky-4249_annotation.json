@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with clouds",
+  "background_description": "The scene depicts a sky filled with a mix of bright white and dark grey clouds. A strong light source, likely the sun, is partially obscured by clouds, creating a bright flare and illuminating some cloud edges, while casting large areas of other clouds into shadow. The sky visible between the clouds is a light blue-grey.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible in the image. The image solely depicts an environmental scene of a sky with clouds and sunlight. Therefore, there is no camouflage present."
+}

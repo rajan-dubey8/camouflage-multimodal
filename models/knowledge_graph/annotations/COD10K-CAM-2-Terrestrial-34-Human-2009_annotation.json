@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a dense, natural woodland or bushland environment. It features various shades of green foliage from shrubs and trees, numerous thin, bare branches and twigs, and patches of small white flowers on a prominent bush in the foreground. The ground is covered with dry leaves, sparse grass, and dirt. In the mid-ground, taller trees with lighter bark are visible, along with a partially obscured wire fence-like structure.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The human is wearing a highly effective ghillie suit, which provides excellent camouflage in this dense woodland environment. The suit incorporates various shades of green and brown that perfectly match the surrounding foliage, branches, and ground cover. Its highly textured design mimics the irregular patterns of natural vegetation, effectively breaking up the human silhouette and making it almost indistinguishable from the background. The small white elements on the suit further enhance the blending by matching the white flowers on the adjacent bush. This combination of color blending, pattern matching, and shape disruption results in a very high degree of camouflage, making the individual very difficult to spot."
+}

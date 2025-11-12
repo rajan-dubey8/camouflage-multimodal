@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of reddish-brown sandy soil, typical of an arid or desert environment. It is interspersed with dry leaves, small twigs, and other organic debris. Prominent shadows are cast across the ground, likely from the blurry foreground vegetation, creating a complex pattern of light and dark areas and adding to the textural variation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The lizard exhibits excellent camouflage through a combination of color blending, pattern matching, and shadow hiding. Its body is a reddish-brown hue that very closely matches the color of the sandy soil and the dry debris on the ground. The subtle, granular texture and patterns on the lizard's skin further blend with the rough, mottled appearance of the terrain, making its outline less distinct. Crucially, the lizard is positioned within a complex pattern of light and shadows, and shadows cast by the blurry foreground vegetation fall directly onto its body. This strategic placement and the interplay of light and shadow effectively disrupt its shape and prevent it from standing out against the varied background, making it very difficult for a predator to spot."
+}

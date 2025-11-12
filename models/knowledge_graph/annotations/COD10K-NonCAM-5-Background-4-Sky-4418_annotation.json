@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with cirrus clouds and tree tops",
+  "background_description": "The scene predominantly features a bright blue sky, with elongated, wispy white cirrus clouds stretching across the upper and middle portions. These clouds have a feathery, diffuse texture. In the lower left and right corners, the dark green foliage of tree tops is visible, partially silhouetted against the bright sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene consisting of a blue sky, cirrus clouds, and the tops of trees. No organism (animal, insect, or fish) is visible in the frame, thus the concept of camouflage does not apply."
+}

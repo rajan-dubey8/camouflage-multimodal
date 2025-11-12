@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Cattle Egret",
+  "background_description": "The background is heavily out-of-focus, presenting a soft, blurred wash of warm, earthy tones. It primarily consists of light to medium browns and muted tans, with subtle hints of yellowish-green, suggesting dried vegetation or bare earth under sunlight. A darker, vertical, blurred shape, possibly a tree trunk or branch, is visible on the far right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Cattle Egret, with its bright white plumage and yellowish bill and eye, stands out significantly against the blurred, warm brown and tan background. There is a high contrast in both color and brightness between the bird and its surroundings. The feathery texture of the bird also contrasts with the smooth, out-of-focus background. Therefore, the bird is highly visible and shows no signs of camouflage in this environment."
+}

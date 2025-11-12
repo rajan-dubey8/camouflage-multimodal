@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Grey bird on perch",
+  "background_description": "The background features highly blurred green and golden-yellow bokeh lights, indicative of distant foliage or trees illuminated by sunlight. The bird is perched on a curved, smooth, light grey surface, likely a metallic or plastic fixture, which is also well-lit.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird is highly conspicuous in the image. Its light grey and white plumage, brightly illuminated by direct light, creates a strong contrast against both the blurred, dark green and golden-yellow background foliage and the lighter grey perch. There is no significant blending of colors or textures with its immediate environment. The bird's silhouette is clearly defined, indicating a lack of camouflage strategy in this particular scene."
+}

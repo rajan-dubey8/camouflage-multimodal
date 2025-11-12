@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Paper Kite butterfly",
+  "background_description": "The background consists of a dense cluster of small, vibrant yellow flowers with subtle green centers and underlying green foliage, creating a bright and busy floral pattern. Behind the flowers, a dark, blurry, indistinct surface (possibly a wall or pot) is visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Paper Kite butterfly is clearly visible against its surroundings. Its striking black and white patterns, with subtle pale yellow tinges, create a high contrast against the bright yellow flowers and the darker, blurry background. There is no significant blending of colors or textures between the butterfly and its environment. Its coloration is more prominent than blending, suggesting it's not employing camouflage in this context."
+}

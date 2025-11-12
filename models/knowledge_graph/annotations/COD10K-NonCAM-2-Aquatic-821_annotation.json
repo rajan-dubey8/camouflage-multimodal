@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Anemonefish",
+  "background_description": "The background is dominated by the vibrant, warm hues of a sea anemone, primarily in shades of orange and reddish-orange. The anemone's tentacles are densely packed, appearing soft, wavy, and slightly translucent, creating a rich, textured underwater environment with subtle variations in light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The two anemonefish demonstrate effective camouflage primarily through color blending. Their bodies are a vibrant orange-pink, which very closely matches the dominant orange and reddish-orange coloration of the host sea anemone they are nestled within. This high color similarity makes them blend seamlessly with their surroundings. While the fish themselves have a smooth texture compared to the anemone's textured tentacles, their position deep within the anemone's structure provides physical concealment, and their matching coloration reduces contrast, making them difficult to distinguish from the environment by predators."
+}

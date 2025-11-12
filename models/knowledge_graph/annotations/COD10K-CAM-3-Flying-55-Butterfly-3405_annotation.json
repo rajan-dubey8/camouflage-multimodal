@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a dried, curled-up brown leaf with visible veins and irregular edges. The immediate surroundings include other similarly dried leaves or stems. The background is softly blurred, showing muted tones of green and brownish-yellow, suggesting further foliage or natural ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly demonstrates effective camouflage against its environment. Its wings, particularly the underside which is visible, are a complex pattern of browns, tans, and darker mottled spots and stripes. These colors and patterns closely mimic the dried brown leaf it is resting on, blending seamlessly with its texture and hue. The irregular edges and patterns on the wings also contribute to shape disruption, making it difficult to distinguish the outline of the butterfly from the natural irregularities of the dead leaf. While there are some distinct darker markings and an eyespot, these are integrated into the overall cryptic pattern, helping to break up its form rather than revealing it. The overall effect is that the butterfly appears to be part of the dead foliage, making it hard to spot."
+}

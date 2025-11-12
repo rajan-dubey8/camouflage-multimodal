@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of an uneven sandy seabed with scattered small rocks, detritus, and a larger irregular coral or rock formation covered in algae/sediment. There are variations in lighting, with bright sandy patches and darker, shadowed areas, some showing a bluish tint from the water. The overall texture is granular and irregular.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Shrimp is not camouflaged in this image. Its body displays prominent, vivid red and white striped patterns on its abdomen and distinct red markings on its head and appendages. These colors create a high contrast against the muted, granular sandy seabed and rocky substrate, making the organism easily discernible. While parts of its body are translucent, this transparency is insufficient to overcome the striking visibility of its patterned areas, which do not blend with the surrounding environment's colors or textures."
+}

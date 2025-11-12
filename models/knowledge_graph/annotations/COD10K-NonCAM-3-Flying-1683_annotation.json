@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Wasp",
+  "background_description": "The insect is resting on a large, vibrant green leaf with prominent veins. The leaf surface appears slightly textured and glossy in places, with varying shades of green due to lighting and shadows, suggesting a natural outdoor environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect, which appears to be a type of wasp, exhibits striking black and yellow stripes. This coloration is a classic example of aposematism (warning coloration), designed to make the organism highly visible and signal potential danger or unpalatability to predators. These bright colors contrast sharply with the green leaf background, making the insect stand out rather than blend in. Therefore, no camouflage is present; instead, it uses its coloration for defense through deterrence."
+}

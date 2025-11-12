@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Zoanthid coral polyps",
+  "background_description": "The background consists of other smaller, less distinct coral polyps and rocky substrate, some with hints of purple/pink calcareous algae. The main cluster of zoanthids is surrounded by similar marine life forms, with darker, blurry areas of water and deeper reef in the furthest background, providing contrast to the brightly lit foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features a cluster of Zoanthid coral polyps. While their vibrant neon green tentacles and teal centers are striking, their coloration is consistent with the rich and diverse color palette found in a coral reef environment. These sessile organisms utilize camouflage through color blending and textural similarity. Their complex, clustered form and intricate textures blend seamlessly with the surrounding reef structures, making them appear as a natural, integrated component of the visually noisy and complex marine habitat rather than a distinct, isolated target. This helps them avoid detection by predators within their ecosystem. Although individually bright, their appearance contributes to the overall visual complexity of the reef, making it harder for predators to distinguish them from the myriad of other living and non-living elements."
+}

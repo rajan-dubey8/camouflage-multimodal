@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape",
+  "background_description": "The image features a serene coastal landscape with a clear blue sky and scattered white cumulus clouds overhead. Below the sky, the horizon meets a calm, light blue-green ocean, with a small rocky island visible in the far distance. To the left, a rugged rocky coastline is densely covered by dark green coniferous trees, forming a forest. The midground consists of the clear, tranquil ocean water, and the foreground is a light beige sandy beach with gentle, small waves washing ashore.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural coastal landscape comprising a sandy beach, the ocean, a rocky forested coastline, and the sky. No animals, insects, or fish are visible within the scene. Therefore, there is no organism present for which to assess camouflage."
+}

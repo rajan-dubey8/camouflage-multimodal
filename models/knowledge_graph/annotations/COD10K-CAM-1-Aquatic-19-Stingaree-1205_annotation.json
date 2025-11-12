@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background is an underwater environment consisting primarily of a light-colored sandy seafloor with subtle ripples, interspersed with various types of coral formations. The coral ranges in texture from branched to more solid, mounded structures, appearing in shades of dull brown, grey, and beige. Sunlight penetrates the clear water, creating dappled lighting and shadows across the sandy bottom and coral.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Stingaree, despite its flattened body shape which allows it to lie low on the substrate, does not blend effectively with its environment in this image. Its most prominent feature is the bright blue spots across its tan/orange-brown body. These spots create a high contrast against both the Stingaree's own coloration and the muted tones of the sandy seafloor and coral, making it visually distinct. While its base color shares some general hue with parts of the sand, the striking blue pattern prevents any significant blending. These blue spots are characteristic of certain stingaree species (like the Bluespotted ribbontail ray) and are often considered a warning (aposematic) coloration rather than a camouflage adaptation, indicating its venomous tail spine. Therefore, it stands out visually rather than blending in."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of an aquarium environment with numerous tall, narrow, blade-like aquatic plants, resembling seagrass or kelp fronds, in various shades of green, brown, and reddish-brown. The substrate is composed of white and dark speckled pebbles. The water is clear, and the deeper background is a blurry blue wall or water column, with some muted rocks visible.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.7",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The seahorses in the image exhibit effective camouflage, primarily through color blending and shape disruption. Their bodies, ranging from reddish-brown to a lighter mottled beige, often closely match the brown and reddish hues of the aquatic plant stalks they inhabit. The vertical orientation of many seahorses allows them to visually merge with the upright lines of the plants, making their distinct animal shape less obvious, which is a form of shape disruption. While some individuals, especially the one with prominent white spots and purplish tones, show moderate contrast against the background, their overall strategy of mimicking the surrounding flora in color and form helps them blend significantly within this dense, plant-rich environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Polar bear",
+  "background_description": "The background consists of a large, rough-textured grey rock wall. In the mid-ground, there is a dark brown, wet, and weathered log with visible wood grain. The ground immediately beneath the bear and log appears to be light grey concrete or ice with some rough patches.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "While polar bears are naturally camouflaged in snowy, icy environments, in this particular image, the bear's light, off-white fur contrasts sharply with the dominant dark grey rocks and the dark brown log. Its presence is clearly visible, making camouflage ineffective in this specific setting."
+}

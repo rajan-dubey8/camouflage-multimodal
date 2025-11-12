@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a dry, arid environment characterized by a dense scattering of various sized rocks and pebbles embedded in light brown, sandy soil. The rocks display a wide range of colors including off-white, cream, light beige, various shades of brown, reddish-brown, and dark grey. The textures vary from smooth, rounded stones to rough, coarse, and cracked surfaces, with fine sand filling the gaps between them. The overall impression is one of a natural, rocky desert or wadi floor.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The snake is exceptionally well camouflaged in this environment. Its body coloration, a mottled pattern of light tan/beige and darker brown/grey patches, perfectly matches the dominant colors of the sandy ground and the various rocks. The pattern on its skin mimics the irregular shapes and textures of the pebbles and small stones. Furthermore, the snake is coiled, which helps to disrupt its characteristic linear shape, making it harder to distinguish from the surrounding jumble of rocks. The low contrast difference between the snake's markings and the background further enhances its blending, making it very difficult to spot at first glance."
+}

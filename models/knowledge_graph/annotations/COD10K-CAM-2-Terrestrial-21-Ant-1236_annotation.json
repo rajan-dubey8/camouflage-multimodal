@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The ant is situated on a vibrant, deep pink/magenta flower petal, which is covered in numerous small, lighter pink speckles. The petals have distinct serrated edges. In the center of the flower, a prominent white, curly pistil or stamen is visible. The background consists of blurred green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The ant is clearly visible on the flower petal. Its reddish-brown/orange body color contrasts sharply with the vibrant deep pink of the flower, making it stand out rather than blend in. There is no similarity in color, texture, or pattern between the ant and its immediate environment that would suggest camouflage. The contrast difference is high, ensuring the ant is easily detectable."
+}

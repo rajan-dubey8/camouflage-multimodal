@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background consists of a weathered, greyish-brown log with visible cracks and a rough texture, which the duck is standing on. Behind the log is murky, olive-green water with a slightly rippled surface, suggesting a pond or slow-moving river. The lighting is diffused, casting soft shadows.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The duck displays effective natural camouflage. Its plumage, consisting of mottled browns, beiges, and dark greys, provides good color blending with the earthy tones of the weathered log and the murky olive-green water. The varied patterns on its feathers also contribute to a disruptive pattern, helping to break up its silhouette and make it less distinguishable against the complex textures of its natural environment, such as dappled light, mud, or vegetation. While its form is clearly visible in this static shot, the overall color palette and feather patterning are well-suited for concealment in typical pond or river bank habitats."
+}

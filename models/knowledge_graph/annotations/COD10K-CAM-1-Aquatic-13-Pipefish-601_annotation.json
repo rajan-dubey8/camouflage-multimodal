@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of dark, murky water with numerous submerged, elongated aquatic plant stems or detritus. These plant structures are thin, stringy, and have colors ranging from dark green to brownish-yellow, often appearing slightly fuzzy or textured due to algal growth or sediment. The overall lighting is dim, creating a subdued and somewhat indistinct environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage by mimicking the surrounding submerged aquatic vegetation. Its elongated, slender body shape is highly similar to the linear plant stems and detritus in the background, allowing it to blend in morphologically. The coloration, which ranges from greenish-brown to yellowish-brown, perfectly matches the varying hues of the plant material and algae-covered stems. This high degree of color similarity, combined with its stick-like form, allows the pipefish to blend seamlessly, making it very difficult for predators to distinguish it from the environment. The subtle patterns on its body further aid in breaking up its outline, contributing to effective shape disruption and very low contrast with the environment."
+}

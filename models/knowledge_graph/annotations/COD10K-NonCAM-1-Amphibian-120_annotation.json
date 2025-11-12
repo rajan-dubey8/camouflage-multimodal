@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of shallow, murky water with a muddy and rocky bottom. The colors are predominantly dark browns, olive greens, and grayish tones, suggesting a natural pond or puddle environment with sediment and possibly some submerged plant matter or algae. Irregular textures are visible on the bottom.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits strong camouflage through color blending and texture matching. Its skin, a mottled mix of dull browns, grays, and olive tones, perfectly harmonizes with the colors of the muddy, rocky, and somewhat algae-covered bottom of the shallow water. The bumpy and irregular texture of the frog's skin also helps it blend seamlessly with the natural, uneven surfaces of its aquatic environment, significantly reducing its contrast against the background and making it difficult for predators or prey to spot."
+}

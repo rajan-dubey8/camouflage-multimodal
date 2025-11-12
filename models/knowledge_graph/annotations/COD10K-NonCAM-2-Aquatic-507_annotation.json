@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi Fish",
+  "background_description": "The background consists of blurred aquatic elements, primarily muted green and dark brown vegetation or algae, with some indistinct shapes that could be rocks or substrate. The water appears clear, reflecting some light on the surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant yellow Koi fish with distinct black markings. Its bright coloration stands out significantly against the darker, blurred aquatic plant background, indicating no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background features a thick tree trunk heavily covered in various shades of green and yellowish moss and some white/grey lichen patches. To the left, there are large, vibrant green leaves and slender green stems. The far background consists of blurred green foliage, indicative of a dense forest environment with diffused lighting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Katydid exhibits excellent camouflage by perfectly blending with the moss and lichen on the tree trunk. Its body and wings are mottled with greens, yellows, and browns that precisely match the dominant colors of the moss and bark. Furthermore, its textured surface mimics the uneven, fuzzy texture of the moss and lichen, obscuring its outline and preventing it from standing out. The low contrast between the insect and its substrate makes it extremely difficult to detect, appearing as just another part of the tree's surface."
+}

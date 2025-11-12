@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "ClownFish",
+  "background_description": "The background consists primarily of a large, dense anemone with numerous light yellowish-beige, cylindrical tentacles that have slightly lighter, almost translucent blueish tips. Behind the anemone, there are some rocky coral structures with a brownish-green hue, and the upper background transitions into murky blue ocean water with suspended particles.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The ClownFish is clearly visible in the upper right portion of the image, swimming above the main anemone. Its distinct light orange/pink body with a prominent white vertical stripe behind its eye creates a high contrast against both the yellowish-beige tentacles of the anemone and the darker blue water background. There is no color matching between the fish and its immediate surroundings, nor is there any texture similarity (smooth fish body versus the highly textured, tentacled anemone). The fish's outline is sharp and stands out, making it easily detectable. While Clownfish have a symbiotic relationship with anemones for protection, in this particular visual context, the fish is not camouflaged but rather conspicuous."
+}

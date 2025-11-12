@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a wire fence with weathered wooden posts in the midground, with long, green and brown grasses and some heather-like vegetation in the immediate foreground. Beyond the fence, a paved road is visible, followed by gently sloping hills covered in short, sparse, muted green and brown vegetation. In the far distance, there are two distinct stone structures – a tall, slender cross-like monument on a hill to the left, and a larger, blocky ruin or building on a hill to the right. The sky is overcast and pale grey. The overall atmosphere is dim and misty.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The owl is clearly visible, perched prominently on a wooden fence post in the midground. Its light-colored, mottled plumage, while containing some earthy tones (browns, greys, whites), creates a noticeable contrast against the darker, weathered grey-brown fence post it is perched on. The owl's distinct shape, upright posture, and prominent yellow eyes further draw attention. It does not effectively blend with its immediate surroundings or the distant landscape in terms of color, pattern, or texture, making it easily detectable."
+}

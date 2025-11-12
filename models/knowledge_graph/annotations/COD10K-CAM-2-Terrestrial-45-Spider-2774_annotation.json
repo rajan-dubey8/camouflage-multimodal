@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a dry, textured surface, possibly a leaf, bark, or ground, exhibiting a range of light tan to dusty brown hues. It has a granular and slightly fibrous appearance, with subtle darker specks and faint, irregular linear patterns that add to its rough texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits exceptional camouflage. Its body and legs are almost perfectly matched in color to the surrounding dusty brown background, making it extremely difficult to distinguish. The spider's flattened body and hairy texture seamlessly blend with the granular and fibrous texture of the surface it rests upon. Its splayed-out leg posture and irregular shape further disrupt its outline, preventing it from standing out as a distinct organism. The overall effect is a very low contrast difference between the spider and its environment, making it virtually invisible at first glance."
+}

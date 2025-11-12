@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of dry, light brown, tan, and yellowish straw-like grass and twigs, some in sharp focus and others blurred, creating a textured mat. There are also darker shadows and hints of darker soil/detritus underneath.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage. Its body coloration, a mix of light tan, beige, and brown with darker stripes, almost perfectly matches the dry, straw-like grass and twigs of its environment. The subtle patterns and textures on its exoskeleton, particularly on its wings, mimic the fibrous lines and striations of the dried plant matter. This strong color and texture similarity, combined with a low contrast difference between the organism and its surroundings, makes it very difficult to spot. The grasshopper appears to be a natural extension of the dry foliage, effectively blending in."
+}

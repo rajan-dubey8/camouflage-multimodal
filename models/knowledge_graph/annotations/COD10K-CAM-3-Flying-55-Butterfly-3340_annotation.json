@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense arrangement of variegated plant leaves. These leaves are characterized by a vibrant green center with distinct creamy white or pale yellow margins, creating a mottled and patchy pattern. The foliage appears healthy and well-lit, with sunlight creating both bright highlights and subtle shadows, adding depth and variation to the texture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly demonstrates effective camouflage primarily through color blending. Its wings display a pale green-yellow hue which closely matches the lighter green areas and the creamy white/pale yellow margins of the variegated leaves it is resting on. This color matching allows it to seamlessly integrate into the complex and mottled color palette of the foliage. While its shape is still somewhat discernible upon close inspection, the overall low contrast between the butterfly and the background makes it difficult to spot at a glance. The linear patterns on its wings, while not identical, do not starkly contrast with the natural textures of the leaves."
+}

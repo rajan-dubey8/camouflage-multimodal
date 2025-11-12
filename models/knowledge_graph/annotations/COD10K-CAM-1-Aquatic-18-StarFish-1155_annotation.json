@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Invertebrate",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a rugged intertidal zone at sunset, featuring dark, irregular rocks covered in patches of vibrant green algae and some lighter sandy areas. Shallow pools of clear water reflect the orange and yellow light of the setting sun and the cloudy sky. The ocean is visible in the distance with faint outlines of sailboats.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The StarFish is not camouflaged in this image. Its vibrant, deep reddish-brown color with bright red tips and prominent knobby texture stands out significantly against the predominantly dark brown, grey, and green hues of the surrounding rocks and algae. While the background rocks are rough, the StarFish's distinct five-pointed shape and its specific bumpy texture are easily distinguishable. The high color and luminance contrast make it very visible, drawing the eye directly to it rather than allowing it to blend into the environment."
+}

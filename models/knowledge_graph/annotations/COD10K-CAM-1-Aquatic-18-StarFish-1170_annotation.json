@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a rocky shore or tidal pool environment during twilight (dusk or dawn). The immediate foreground features dark, irregularly shaped rocks and a shallow tidal pool. The water in the pool appears dark purplish-blue, reflecting the muted light of the sky. The ground and rocks are dark, with granular and rugged textures. In the mid-ground, there are more dark, indistinct rocky formations, and in the far background, silhouettes of mountains or cliffs are visible against a faint, low sun on the horizon, creating a predominantly dark and cool-toned atmosphere.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The StarFish is clearly visible submerged in the shallow tidal pool. Its distinct reddish-orange/brown coloration provides a noticeable contrast against the dark, purplish-blue water and the surrounding dark rocks and seabed, especially under the dim twilight conditions. While the water and low light slightly mute its vibrancy, its characteristic shape and color do not blend with the immediate environment. The texture of the StarFish is also distinctly different from the rough, irregular rocks. There is no disruptive coloration, pattern matching, or mimicry evident that would help it conceal itself; instead, it stands out against the muted, cool-toned background."
+}

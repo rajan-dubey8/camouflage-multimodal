@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The background consists of blurred, light-colored rocky or coral formations, possibly with some soft anemone tentacles, suggesting a reef environment or aquarium setting. The water itself appears clear with a bluish tint.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features multiple bright orange Clownfish with distinct white and black stripes. Their vibrant colors make them highly visible and stand out against the muted, blurry background, clearly indicating no camouflage."
+}

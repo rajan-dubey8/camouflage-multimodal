@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The scene displays a vibrant underwater coral reef ecosystem. Numerous coral formations are visible, including large, intricate brain corals with distinctive maze-like patterns, various branching corals, and other textured reef structures. The water is clear, appearing turquoise-blue due to light filtering from the surface, creating sunbeams and showing some suspended particles. The seabed in the background consists of lighter sandy patches amidst the coral. The overall color palette for the corals ranges from muted greens and browns to some darker, possibly purplish hues, against the brighter water and sandy floor.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural underwater coral reef environment. There are no discernible animals, insects, or fish present in the scene that are exhibiting camouflage. The primary subjects are the coral formations and the water itself, which are components of the environment, not organisms hiding within it."
+}

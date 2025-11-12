@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goatfish",
+  "background_description": "The background consists of deep blue-grey open water, typical of an aquarium or marine enclosure. Visible in the blurred distance are light-colored, rectangular artificial structures with a fine grid pattern, suggesting man-made elements within the environment. Small particulate matter is scattered throughout the water column.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.85",
+  "camouflage_type": "None",
+  "explanation": "The visible aquatic animal is a fish, likely a Goatfish, characterized by its pale body and prominent bright yellow fins and tail. Its vibrant coloration provides a high contrast against the dark blue-grey water and artificial background structures, making it clearly visible and indicating an absence of camouflage."
+}

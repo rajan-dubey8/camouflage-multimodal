@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background is a vibrant underwater reef environment, rich with various marine life. It features prominent reddish-orange sponges or corals, mottled brown and green algae-covered rocks, and patches of pink and purple encrusting organisms. There are also visible anenome-like polyps and a light-colored bivalve shell towards the bottom right. The overall texture is highly irregular and complex, creating a visually noisy environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Shrimp exhibits camouflage through a combination of color blending, pattern matching, and some degree of shape disruption. Its body has translucent areas interspersed with intricate reddish-brown and white patterns that somewhat mimic the complex visual noise and color palette of the surrounding coral reef. The reddish tones blend with the dominant reddish-orange sponges and other encrusting organisms. The internal patterns help to break up its solid outline, creating a form of shape disruption. While its distinct form and bright blue eyes prevent perfect invisibility, these features allow it to blend reasonably well into the busy, textured environment, making it harder for predators to distinguish it from the background."
+}

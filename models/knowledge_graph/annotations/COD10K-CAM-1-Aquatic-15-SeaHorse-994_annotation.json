@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorse is situated in an underwater environment, clinging to a vertical pole or stalk heavily encrusted with various marine growths. These growths include light brown, bulbous sponges at the top, patchy white barnacles, and intricate, dark brown algal or hydroid structures that cover much of the pole. The overall background is murky, with muted browns, greens, and grays, and the seabed visible in the lower left appears sandy or silty.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The seahorse exhibits exceptional camouflage, blending almost perfectly with its environment. Its mottled brown and tan coloration closely matches the encrusted pole, sponges, and marine detritus it is clinging to. Crucially, the seahorse's rough, spiky body texture and numerous small, frilly appendages mimic the irregular surfaces and branching structures of the surrounding sponges and algal growth. This strong visual resemblance makes it incredibly difficult to distinguish the seahorse from the background, effectively breaking up its silhouette and creating very low contrast. This is a clear case of mimicry, where the seahorse appears to be part of the sessile marine life."
+}

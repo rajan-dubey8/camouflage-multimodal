@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists of dry savanna grassland with varying shades of brown, beige, and some muted green from sparse vegetation. It appears blurred due to a shallow depth of field, suggesting a soft, indistinct texture of dry grass and distant foliage under a bright sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.65,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebra's distinctive black and white stripes serve as a form of disruptive camouflage. While the high-contrast pattern does not match the colors or textures of the dry savanna directly, it is designed to break up the animal's silhouette, especially when observed in a herd. This 'dazzle' effect makes it difficult for predators to distinguish individual zebras, assess their numbers, or judge their movement and direction. The strong visual contrast within the stripes, though making the animal conspicuous against a uniform background in daylight, is part of its complex anti-predator strategy, particularly effective in low light or within a moving group."
+}

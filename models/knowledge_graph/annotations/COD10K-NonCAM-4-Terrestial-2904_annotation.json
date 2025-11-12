@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal",
+  "background_description": "The background consists of clear, rippling turquoise-green water. The water's surface reflects sunlight, creating bright highlights and showing subtle movement patterns.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seal's light gray/white coloration with dark spots creates a strong visual contrast against the surrounding turquoise-green water. Its head, being predominantly light, stands out clearly above and just below the water's surface. There are no patterns or color schemes that effectively blend the animal with the water's color or texture, nor does it exhibit disruptive patterns or mimicry to break up its outline. Therefore, it is not camouflaged in this scene."
+}

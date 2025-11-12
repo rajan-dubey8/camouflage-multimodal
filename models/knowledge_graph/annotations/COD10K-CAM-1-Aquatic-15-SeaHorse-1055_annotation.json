@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a vibrant blue open water. The immediate environment for the seahorse is a branch of orange-red coral, likely a gorgonian, characterized by a rough, textured surface with numerous small, star-shaped patterns or polyps.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The SeaHorse demonstrates exceptional camouflage against the coral branch it is clinging to. Its body color, a reddish-orange with lighter patches, almost perfectly matches the vibrant orange-red hue of the coral. Furthermore, its skin is covered in numerous small, raised tubercles and bumps, which remarkably mimic the rough, textured surface and star-shaped patterns of the coral's polyps. This combination of color blending and pattern matching makes the seahorse incredibly difficult to distinguish from its immediate environment, providing very low visual contrast between the organism and the coral."
+}

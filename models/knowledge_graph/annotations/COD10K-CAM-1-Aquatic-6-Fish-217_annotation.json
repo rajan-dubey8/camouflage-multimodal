@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater coral reef environment. It features a varied substrate of light-colored sand patches intermingled with numerous irregular coral formations and rubble. The coral ranges in color from light white/grey (possibly dead or bleached) to darker browns and some subtle purple/pink hues. The textures are rough, porous, and granular, characteristic of a reef floor. The water above is a clear, light teal-blue.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The organism, identified as a Fish per the prompt (though visually resembling a nudibranch), is not camouflaged in this image. Its body displays a striking pattern of bright yellow, bold black, and thin white stripes, with additional reddish-orange elements on its rhinophores and gills. This vibrant coloration creates a very high contrast against the muted and irregular browns, grays, and whites of the surrounding coral rubble and sand. There is no similarity in color or pattern between the organism and its environment. Its distinct, smooth shape also stands out rather than blending with the rough textures of the reef. The organism is highly conspicuous, indicating a lack of camouflage, likely employing aposematic (warning) coloration instead."
+}

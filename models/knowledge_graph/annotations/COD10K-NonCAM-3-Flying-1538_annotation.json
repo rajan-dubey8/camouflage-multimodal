@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Tit",
+  "background_description": "The background is a heavily blurred woodland scene, presenting soft, out-of-focus tones of warm brown, yellow, and muted green, suggestive of distant foliage and branches. A rough, dark brown tree stump or branch is partially visible on the left side of the foreground, providing a slightly clearer texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Great Tit is highly visible against the blurred natural background. Its distinctive plumage, characterized by a bright yellow breast, stark black and white head markings, and blue-gray back and wings, creates a strong contrast with the muted, warm colors of the out-of-focus environment. There is no significant color blending, texture matching, or disruptive patterning that would help the bird conceal itself. The bird's form and colors stand out clearly, indicating an absence of camouflage in this particular scene."
+}

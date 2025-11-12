@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Unicornfish",
+  "background_description": "The background consists of numerous branched, textured structures resembling soft corals or gorgonians, predominantly in shades of light brown and yellowish-brown. These structures are somewhat out of focus and densely arranged. The water appears clear with some faint suspended particulates.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features a vibrant yellow Unicornfish with a prominent snout. Its bright, distinct coloration creates a high contrast against the duller, light brown and yellowish-brown branched coral background, confirming the absence of camouflage. The fish's smooth body texture also differs significantly from the rough texture of the surrounding coral."
+}

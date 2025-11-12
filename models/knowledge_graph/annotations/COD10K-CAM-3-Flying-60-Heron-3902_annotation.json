@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of dense forest foliage, primarily dark green pine needles and lighter green deciduous leaves on numerous intertwining branches. There are also visible brown tree trunks and thicker branches, creating a complex, dappled environment with areas of shadow and sunlight. A blurred, lighter background (possibly sky or distant structures) is visible through gaps in the foliage, particularly to the upper left.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.3",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The Heron is not camouflaged in this image. While it is surrounded by dense foliage that could offer some concealment, the bird itself stands out clearly. Its gray-blue plumage, long white neck, and prominent orange beak create a distinct outline and color contrast against the predominantly green leaves and brown branches. The bird's vertical posture and overall size make it easily identifiable, despite the busy background. There is some color blending between its darker plumage and the shadowed tree bark, but this is insufficient to render it truly hidden. The overall visual effect is that of a bird perched conspicuously in a tree."
+}

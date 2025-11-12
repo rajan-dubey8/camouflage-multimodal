@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Forest line under cloudy sky",
+  "background_description": "The scene displays a dynamic sky with a mix of large, dark grey storm clouds, interspersed with patches of bright white cumulus clouds and clear blue sky. Below the horizon, a dense line of trees is visible, predominantly dark green conifers with pointed tops, and some lighter, possibly deciduous trees with bare branches, extending across the lower portion of the image.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image primarily depicts a natural environment consisting of a forest line under a cloudy sky. As there is no subject present that could be employing camouflage, camouflage is not applicable to this scene."
+}

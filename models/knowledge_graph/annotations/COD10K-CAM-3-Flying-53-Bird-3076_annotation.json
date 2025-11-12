@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background is composed of a dense canopy of eucalyptus-like leaves and slender brown branches. The leaves are predominantly various shades of dull green to olive-green, with some patches of lighter yellowish-green. There are also visible patches of bright white sky peeking through the foliage, suggesting an overcast day or backlighting.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's primary plumage is a vibrant green, which blends effectively with the surrounding green leaves of the tree. This 'color blending' makes it less conspicuous within the foliage. However, its black head, bright orange beak, and colorful markings (yellow/red/blue) on its neck and chest create distinct contrasting elements that stand out against the green background and the white sky patches visible through the leaves. While the green body provides good camouflage, the noticeable head and beak reduce the overall effectiveness. The bird's inverted position and partial concealment by leaves also contribute to 'shape disruption', making it harder to immediately identify its form."
+}

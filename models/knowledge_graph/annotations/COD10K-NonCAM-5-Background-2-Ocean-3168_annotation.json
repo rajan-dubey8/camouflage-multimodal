@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Camouflaged crabs",
+  "background_description": "The background is an underwater seafloor, appearing as a sandy or silty bottom with a muted greenish-brown or olive hue. The water is somewhat murky, causing a slight haze. The seafloor has an uneven texture with fine sediment, small debris, and scattered bivalve shells.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Mimicry",
+  "explanation": "The image shows multiple crabs (crustaceans, categorized as 'Insect' due to schema limitations) that are highly camouflaged against the seafloor. Their bodies are irregular in shape and appear to be covered with sediment, debris, and possibly small encrusting organisms, allowing them to perfectly mimic the surrounding environment. Their coloration closely matches the greenish-brown and dull reddish tones of the sandy/silty bottom, resulting in high color similarity. The lumpy, uneven texture of the crabs blends seamlessly with the irregular surface and debris on the seafloor, exhibiting high texture similarity. This combination significantly reduces their visual contrast, making them extremely difficult to distinguish from the inanimate substrate, indicative of effective mimicry and color blending."
+}

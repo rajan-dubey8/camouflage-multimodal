@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a natural forest floor environment, dominated by various shades of brown, tan, and reddish-brown. It features dried leaves, fragments of bark and wood, small twigs, and clumps of dry, yellowish-brown and reddish-brown moss or organic debris. The textures are rough, irregular, and varied, characteristic of ground litter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider exhibits excellent camouflage primarily through pattern matching and color blending. Its body and legs are a mottled mix of browns, greys, and tans, which perfectly match the colors of the dried leaves, bark fragments, twigs, and moss in its environment. The irregular, broken patterns on its cephalothorax and abdomen, combined with the banded markings on its legs, mimic the fragmented and varied textures of the ground debris. This effectively disrupts its silhouette and prevents it from standing out against the complex background, making it very difficult to spot."
+}

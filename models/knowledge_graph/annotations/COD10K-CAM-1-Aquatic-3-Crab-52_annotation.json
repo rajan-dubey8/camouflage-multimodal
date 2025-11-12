@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a rough, uneven, and wet rocky surface. It displays a variety of dark tones including deep brown, reddish-brown, and dark gray-green, suggesting mineral composition and possibly algae or small marine growths like barnacles. Numerous small, bright reflections from water droplets create a bokeh effect, adding to the visual complexity and breaking up the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The crab demonstrates effective camouflage through a combination of color blending, pattern matching, and shape disruption. Its carapace and legs are covered in an irregular, mottled pattern of black, dark brown, cream, and yellowish-grey. These colors closely match the varied dark, wet, and reddish tones of the rocky substrate, which also features lighter mineral deposits or encrusting organisms. The irregular splotches and stripes on the crab's body and legs closely mimic the patchy, textured appearance of the rock, breaking up its distinct outline. The rough, granular texture of the crab's shell and legs further blends with the uneven surface of the rock, which appears to be covered in small barnacles or algae. The internal high-contrast patterns on the crab itself also contribute to shape disruption, making it difficult to distinguish as a single, coherent organism against the visually busy and similarly patterned background."
+}

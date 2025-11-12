@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of tall, dense grass, a mix of dry, yellowish-brown blades and greener stalks. The ground beneath is uneven, creating variations in light and shadow, contributing to a highly textured and dappled appearance. There are no prominent large objects or uniform surfaces, just a chaotic array of grass.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The leopard exhibits excellent camouflage in this environment. Its tawny base color closely matches the dry, yellowish-brown grass, providing strong color blending. The distinctive rosetted pattern (spots) acts as superb pattern matching, mimicking the dappled light and shadows, and the irregular textures of the dense grass. These patterns effectively break up the leopard's outline, making its shape difficult to discern against the complex background. The combination of color and pattern disrupts its form, allowing it to blend seamlessly into the grassy surroundings, making it challenging for prey or predators to detect."
+}

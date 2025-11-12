@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Spotted Rabbitfish",
+  "background_description": "The background consists of a blurry, dark aquatic environment with various textured rocks, possibly some coral structures, and hints of green algae. There are lighter, amorphous white shapes, potentially part of a larger coral or rock formation, scattered in the mid-ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Spotted Rabbitfish with distinctive bright blue and orange-yellow polka-dot patterns. Its vibrant coloration and patterned skin stand out significantly against the darker, less distinct background, confirming the absence of camouflage."
+}

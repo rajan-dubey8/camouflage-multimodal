@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk",
+  "background_description": "The foreground consists of a vibrant green grassy field, well-lit by sunlight. In the mid-ground, the terrain transitions to rolling hills covered in drier, browner grass and sparse vegetation. The distant background features hazy, muted grey-green mountains under a bright, clear sky, indicating an open, natural landscape.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The elk is clearly visible and stands out prominently against the bright green grass in the foreground and the lighter, hazy background mountains. Its body color, which is a mix of light tan/brown and darker brown on the neck/mane, does not blend effectively with the vibrant green of the immediate surroundings or the muted tones of the distant landscape. The animal's outline is sharp and distinct, making it easily detectable."
+}

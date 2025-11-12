@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of weathered, vertically oriented wooden planks. The wood shows a distinct grain pattern with varying shades of dark brown, grey, and lighter tan, creating a textured and somewhat rough surface with visible streaks and lines.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Cicada exhibits effective camouflage against the weathered wooden background. Its body features a mottled pattern of greens, browns, and grays which closely mimic the color variations and tones present in the wood grain. The intricate texture of its exoskeleton and the dark venation and spots on its translucent wings further contribute to blending by disrupting its outline and matching the linear patterns and dark streaks of the wooden surface. The overall effect is a reduced contrast and a visual integration with the environment, making the Cicada difficult to spot at a glance."
+}

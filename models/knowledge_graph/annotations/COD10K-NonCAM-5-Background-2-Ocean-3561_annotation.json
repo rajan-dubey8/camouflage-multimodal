@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean beach scene",
+  "background_description": "The image features a tranquil ocean scene under an overcast sky. The foreground shows a strip of light brown sand, transitioning into shallow, clear water with gentle ripples. A white breaking wave spans the mid-ground, beyond which the ocean extends to the horizon, appearing deep blue-gray with patches of dark kelp or seaweed floating on the surface. The sky is a uniform, pale grey.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, animal, insect, or fish is visible within the image. The scene exclusively depicts a natural environment comprising an ocean, beach, and sky. Therefore, there is no camouflage present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of out-of-focus green foliage, forming a soft blur of various shades of green. There are also hints of other white and yellow flowers, similarly blurred, and some visible green stems.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly features prominent dark brown wings with bright blue stripes and distinct white spots. These colors create a high contrast against the predominantly soft-focused green foliage background and the white flower it is perched on. There is no significant color blending or texture matching with the immediate environment. The vibrant and contrasting patterns make the butterfly highly visible rather than concealed, indicating the absence of camouflage in this scene."
+}

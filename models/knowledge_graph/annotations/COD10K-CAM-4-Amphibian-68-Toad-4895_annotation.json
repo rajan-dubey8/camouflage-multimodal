@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dense layer of fallen, dried leaves in various shades of brown, ranging from reddish-brown to dark, almost black-brown. Interspersed are small patches of vibrant green leaves, lighter decaying green leaves, thin dry twigs, and visible dark, moist soil. A dark, tubular object is partially visible in the upper right corner. The overall environment is a cluttered forest floor or garden bed rich in organic detritus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The toads in the image demonstrate excellent camouflage. Their dark brown to greyish-brown coloration remarkably matches the tones of the damp, darker brown fallen leaves and the shadowed soil in their immediate vicinity. The rough, warty texture of their skin also effectively mimics the irregular and coarse surfaces of the leaf litter and small twigs. This combination of color and texture similarity, along with their low contrast against the cluttered, naturally patterned background, makes them very difficult to discern at first glance. They are also clustered in a somewhat shaded spot, which further aids their concealment by blending into the darker areas of the environment."
+}

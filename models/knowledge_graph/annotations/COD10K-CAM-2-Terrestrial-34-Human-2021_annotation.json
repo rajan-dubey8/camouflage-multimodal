@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background is a large wall covered in a vibrant and intricate graffiti mural. The mural features a dynamic composition of abstract, geometric, and organic shapes, rendered in bold colors including various shades of blue, orange, red, and yellow, often outlined in black. The patterns are complex and energetic, creating a busy and visually stimulating environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The human is clearly visible and does not blend with the environment. They are wearing a dark blue jacket and a dark blue cap, which creates a distinct, uniform block of color and a clear silhouette against the highly varied and colorful graffiti mural. Although blue tones are present in the mural, the human's solid color and defined form contrast strongly with the mural's fragmented patterns, diverse hues (including bright oranges, reds, and yellows), and complex lines. There is no evidence of color matching, pattern disruption, or mimicry to integrate with the background. The human stands out due to significant contrast in color, texture, and overall form."
+}

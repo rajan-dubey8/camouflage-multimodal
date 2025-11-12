@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a rough, mottled grey-brown surface, likely concrete or weathered rock. It has a granular texture with small pebbles or aggregates visible, and several hairline cracks traverse the surface, particularly noticeable near the bottom left.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage against the rough, grey-brown surface. Its body coloration, a mottled grey and brown, almost perfectly matches the hue and value of the background. Furthermore, the granular, somewhat uneven texture of the grasshopper's exoskeleton, especially on its wings, remarkably mimics the coarse, aggregate texture of the concrete or rock it rests upon. The contrast difference between the grasshopper and its environment is very low, making it difficult to discern its outline clearly. The shadow cast beneath its body is natural and does not disrupt the camouflage, instead grounding the insect within the scene."
+}

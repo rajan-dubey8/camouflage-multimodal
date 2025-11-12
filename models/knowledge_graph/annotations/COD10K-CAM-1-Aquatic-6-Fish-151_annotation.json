@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background is a complex underwater environment filled with various marine growths. It features dense patches of brownish-purple and dark algae, intermingled with lighter, stringy, filamentous yellowish-brown algae, and some lighter, possibly calcified or sponge-like structures that appear white to translucent. The overall texture is highly irregular, branched, and cluttered, creating a visually noisy and intricate setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits outstanding camouflage, blending almost perfectly with its intricate marine environment. Its body coloration, a mix of browns, purplish-browns, and yellowish-browns, precisely matches the diverse hues of the surrounding algae and substrate. Crucially, its highly irregular, spiky, and branched body texture, including its fins and protrusions, directly mimics the complex patterns and textures of the dense marine vegetation. This combination of color blending, pattern matching, and an inherently disruptive body shape effectively breaks up the fish's outline, making it extremely difficult to distinguish from the background clutter and resulting in very low contrast."
+}

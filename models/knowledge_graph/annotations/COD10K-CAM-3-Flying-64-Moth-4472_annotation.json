@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a rough, natural surface, likely bark or a dried leaf/rock. It exhibits various shades of brown, reddish-brown, and yellowish-brown, with mottled patterns, small specks, and visible cracks, indicating an aged or weathered appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth demonstrates excellent camouflage by perfectly blending with its environment. Its wings display a range of brown, reddish-brown, and beige tones that precisely match the colors of the textured background. The intricate patterns and irregular wavy lines on the moth's wings mimic the natural textures, cracks, and mottled appearance of the surface it rests upon. The fuzzy texture of the moth's body and wings also contributes to this illusion, preventing a clear outline. This combination of color blending and pattern matching results in a very low contrast difference, making the moth incredibly difficult to discern at first glance."
+}

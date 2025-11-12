@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusk",
+  "object_name": "Slug",
+  "background_description": "The background consists of a dark, almost black abyss, but the immediate environment around the slug is a complex marine growth, likely a hydroid or coral, with intricate branching structures. The dominant colors are various shades of orange, reddish-brown, and brown, interspersed with bright yellow, stalk-like polyps that have fine radiating filaments. There are also subtle granular textures and areas of white or light-colored detritus on the marine growth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The slug exhibits excellent camouflage against the marine growth it inhabits. Its body is covered in a mottled pattern of brown, dark brown, and cream-colored spots and streaks, which closely match the dominant orange, reddish-brown, and brown hues of the background hydroid or coral structure. The irregular shape of its body and the presence of numerous cerata (finger-like appendages) further disrupt its outline, making it difficult to distinguish from the textured and branching features of its environment. This combination of color matching, pattern matching, and shape disruption effectively conceals the slug, lowering its contrast and blending its form with the complex background."
+}

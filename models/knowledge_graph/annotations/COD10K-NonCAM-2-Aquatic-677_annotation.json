@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "The background depicts an underwater environment, likely a coral reef or rocky seabed, covered with various types of algae and soft corals in shades of green, brown, and hints of red. The water itself appears dark blue in the deeper background, suggesting an open water area behind the reef.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Lionfish with its distinctive striped patterns and ornate fins. Its bright, high-contrast coloration makes it highly visible against the muted tones of the reef background, indicating a complete absence of camouflage."
+}

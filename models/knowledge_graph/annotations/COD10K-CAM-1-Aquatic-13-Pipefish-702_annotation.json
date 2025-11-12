@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a complex marine substrate, likely a rocky or coral reef environment, densely covered with various encrusting organisms such as red and brown algae, small corals, and detritus. The texture is rough, uneven, and granular, with a multitude of colors including dark browns, reddish-purples, some yellowish-green patches, and lighter sandy or rock surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits excellent camouflage against its complex marine background. Its elongated body is covered in a mottled pattern of browns, reddish-purples, yellows, and white, which precisely mimic the diverse colors present in the surrounding rocks, corals, and algae. The irregular speckling and patches on its skin break up its outline and create a texture that closely resembles the rough, granular surface of the substrate. This combination of color matching and pattern disruption results in a very low contrast difference between the Pipefish and its environment, making it exceedingly difficult to discern, blending seamlessly with the seafloor."
+}

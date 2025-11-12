@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background depicts a dry, arid environment characterized by sparse, straw-colored grasses and small, light green and dried-up shrubs. The ground consists of light brown, grey, and reddish gravelly soil mixed with small stones and pebbles. The vegetation further in the background appears blurred, suggesting more dry foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The rabbit exhibits strong camouflage due to its coat coloration and pattern, which closely mimic its dry, arid environment. Its mottled grey, brown, and white fur blends exceptionally well with the straw-colored grasses and the light brown/grey gravelly soil. The fur's grizzled pattern helps to break up its outline, making it less distinct from the varied textures of the ground and sparse vegetation, which is a form of pattern matching. While its dark eyes and the inner pinkish-brown of its ears offer some contrast, the overall body's luminance and hue are very similar to its surroundings, resulting in low contrast difference. Its prone position further aids in reducing its silhouette, enhancing its blend with the ground cover."
+}

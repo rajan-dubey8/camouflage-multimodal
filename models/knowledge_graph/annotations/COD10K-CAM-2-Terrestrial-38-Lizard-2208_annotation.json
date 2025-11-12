@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a rough, weathered concrete or stone surface, possibly a wall or slab. It features a mottled texture with varying shades of light grey, beige, and tan, interspersed with darker flecks and small embedded aggregates. There are also visible cracks and an uneven surface. In the upper left background, there's a blurry green wire fence and some indistinct green and brown vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage against the rough concrete surface. Its skin coloration, a mottled mix of grey, tan, and dark brown/black patterns, very closely matches the hues and speckled texture of the background. The irregular, broken patterns on its body effectively mimic the cracks, shadows, and embedded aggregate of the concrete, significantly disrupting its outline and making it blend seamlessly with its immediate surroundings. Both color and texture similarity are high, resulting in a low contrast difference, which makes the lizard remarkably difficult to spot."
+}

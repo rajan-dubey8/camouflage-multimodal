@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of dense, textured green foliage, resembling conifer or mossy plant growth, with varying levels of focus. There's a prominent brown, dried, veined leaf directly beneath the Katydid. The deeper background is blurred, showing darker green and some muted brown tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid demonstrates significant camouflage through color blending. Its vibrant green body and wings closely match the dominant live green foliage in the environment, helping it to disappear amongst the healthy plant growth. The insect's shape is also somewhat leaf-like, contributing to a form of mimicry. However, its immediate position on a contrasting brown, dried leaf makes it stand out more than if it were perched directly on a green surface. The texture of its wings, while somewhat leaf-like, does not perfectly match the finer, needle-like texture of some of the surrounding foliage. Despite these minor discrepancies, the overall effect is that the Katydid is well-adapted to blend into a green, leafy habitat."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a dense cluster of various marine growths, likely algae, hydroids, and bryozoans, attached to a substrate. These growths display intricate, branched, and filamentous textures in shades of light brown, greenish-brown, and reddish-brown. The deeper background appears to be a sandy or rocky seabed, out of focus, suggesting a shallow marine environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The SeaHorse demonstrates exemplary camouflage. Its body is intricately covered in numerous dermal appendages that perfectly mimic the filamentous and branched structures of the surrounding marine vegetation (algae/hydroids). The coloration of the SeaHorse, a blend of muted browns, greens, and reddish tones, aligns almost perfectly with the diverse color palette of its immediate environment. This combination of shape-mimicry, matching textures, and color blending effectively disrupts its outline and reduces its contrast with the background, making it extremely difficult to distinguish the organism from the natural growth. Its eye is also relatively small and blends into the overall texture, further enhancing its concealment. This is a classic example of disruptive coloration and mimicry."
+}

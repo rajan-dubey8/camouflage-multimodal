@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Impala fawn",
+  "background_description": "The background consists predominantly of dry, tall, yellowish-brown grasses interspersed with some patches of greener, denser foliage in the mid-ground. The ground beneath the grass appears to be dry, light-colored soil.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Impala fawn exhibits camouflage primarily through color blending. Its reddish-brown to tan coat closely matches the dominant dry, yellowish-brown grasses in the background. This strong color similarity helps the fawn blend into its savannah environment, making it less conspicuous to predators when it remains still. Although the smooth texture of its fur differs from the rougher texture of the surrounding grass, the effective color match provides a significant degree of concealment in this habitat."
+}

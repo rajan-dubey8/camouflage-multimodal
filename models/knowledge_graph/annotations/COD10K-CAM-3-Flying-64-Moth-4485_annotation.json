@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a dense layer of dry, fallen leaves, primarily oak leaves, intermingled with numerous brown pine needles, small twigs, and bits of forest floor debris. The colors are various shades of brown, tan, and reddish-brown, with some darker earthy patches and a few twigs showing greyish lichen.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth demonstrates excellent camouflage primarily through color blending and pattern matching. Its wings are a mottled reddish-brown and tan, closely matching the dominant colors of the dry leaves and pine needles on the forest floor. The irregular patterns and subtle variations in color on its wings, including the wavy lines, help it mimic the varied textures and shapes of the leaf litter and debris. While the large eyespots are a high-contrast feature often associated with startle defense rather than pure concealment, the overall body and wing coloration effectively break up its outline and allow it to blend seamlessly with the detritus. A predator would likely overlook it as just another piece of fallen foliage until very close inspection or movement."
+}

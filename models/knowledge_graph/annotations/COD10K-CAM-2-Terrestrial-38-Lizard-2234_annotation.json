@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of weathered wooden planks and a sawn wooden post. The wood exhibits varying shades of brown, gray, and some lighter, almost bleached, areas, with prominent vertical grain lines and rough, somewhat fragmented textures. There is also a dark, metallic object (possibly part of a hinge or bracket) at the top of the image, contrasting sharply with the wood. A dark opening or shadow is visible to the left.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard demonstrates effective camouflage primarily through color blending. Its skin is a muted brownish-gray, closely matching the weathered tones of the wooden post and planks it is clinging to. The subtle speckles on its body also blend with the natural imperfections and varying hues of the wood's texture. The contrast difference between the lizard's body and the immediate wooden background is low, making its outline less distinct and harder to perceive. While its texture isn't identical to wood grain, its slightly rough and irregular surface is sufficiently similar to the aged wood to prevent it from standing out. The overall effect is that the lizard merges very well with its wooden environment."
+}

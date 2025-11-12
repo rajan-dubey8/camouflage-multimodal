@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists primarily of a vibrant orange, porous, and encrusting sponge or coral formation, heavily mottled with patches of dark green and brown algal growth, detritus, and rocky substrate. There are also darker crevices and shadowed areas, giving the environment a complex and varied texture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.8",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits excellent camouflage due to its banded coloration of reddish-orange and yellow. The dominant reddish-orange bands closely match the vibrant orange hue of the large encrusting sponge/coral formation in the background. The alternating yellow bands create a disruptive pattern that effectively breaks up the outline of its long, slender body, making it challenging to perceive as a continuous entity. This disruptive coloration, combined with the strong color match to the environment's primary features, allows the pipefish to blend seamlessly with the complex, textured underwater habitat, enhancing its concealment from predators and prey."
+}

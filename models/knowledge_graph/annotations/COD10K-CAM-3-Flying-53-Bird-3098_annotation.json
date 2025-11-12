@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of sparse, low-lying tundra-like vegetation with patches of green grass and moss, interspersed with brown soil, small rocks, and areas of dry, light-colored vegetation or lichen. There are also small white or light yellow flowers scattered across the ground, creating a varied and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits excellent camouflage against its natural habitat. Its plumage is a mottled pattern of dark grey, black, and white, which perfectly mimics the varied colors and textures of the ground. The background is a mix of dark soil, green vegetation, brown rocks, and patches of white/light-colored dry plants or lichen. The bird's speckles blend seamlessly with these elements, breaking up its outline and making it very difficult to distinguish from the surrounding environment. Both color and texture similarities are high, resulting in a very low contrast difference, which enhances its ability to remain unseen."
+}

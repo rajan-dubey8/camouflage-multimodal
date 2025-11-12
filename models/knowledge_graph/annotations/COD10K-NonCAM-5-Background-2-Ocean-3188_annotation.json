@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background consists of a vibrant and diverse coral reef environment. It features various types of corals, including brain corals, plate corals, and branching corals, displaying a wide range of colors such as greens, creams, whites, purples, and browns. The textures are highly varied, from the intricate patterns of hard corals to the softer, feathery polyps of soft corals and the rough surfaces of underlying rocks and sand.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, slender reef fish is visible within the intricate coral environment. Its body possesses a purplish-brown coloration, which closely matches the darker, shadowed areas and certain purplish corals and rocks in the background. While the fish has a small, noticeable magenta marking, its overall body tone allows it to blend moderately well with the dominant colors of its immediate surroundings, making it less conspicuous against the complex reef structure. The camouflage relies primarily on color matching rather than mimicking specific shapes or textures, as its smooth body contrasts with the rough coral."
+}

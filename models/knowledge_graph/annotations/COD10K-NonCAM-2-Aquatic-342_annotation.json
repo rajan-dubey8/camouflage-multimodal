@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pacific Blue Tang",
+  "background_description": "The background consists of deep blue water, showing visible particulate matter and scratches on what appears to be aquarium glass. Blurred, muted brown and purple coral or rock structures are visible towards the bottom and left side of the frame.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a Pacific Blue Tang with striking blue and yellow coloration. Its vibrant colors and distinct shape make it highly conspicuous against the dark aquatic background and blurred coral structures, confirming that no camouflage is present."
+}

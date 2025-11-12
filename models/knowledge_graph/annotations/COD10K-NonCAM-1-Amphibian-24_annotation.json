@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Cane Toad",
+  "background_description": "A rough, textured concrete surface, possibly forming a bank or edge of an aquatic environment, with a dark, blurry background of sparse vegetation and damp soil suggesting proximity to water.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Cane Toad (Rhinella marina) resting on a concrete surface. Its natural earthy brown coloration and bumpy skin provide a medium natural resemblance to the rough texture and color of the concrete, but it is distinctly visible against both the concrete and the darker, out-of-focus background. No active camouflage behavior or patterns are observed, confirming the absence of camouflage."
+}

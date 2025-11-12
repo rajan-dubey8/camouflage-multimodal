@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pelican",
+  "background_description": "The background consists of a uniformly light blue, slightly out-of-focus body of water, likely a lake or ocean, appearing smooth with minimal texture or detail.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The pelican, with its predominantly bright white plumage and yellowish beak pouch, stands out clearly against the light blue water background. There is a significant contrast in both color and texture between the bird and its surroundings. The pelican's coloration does not serve to blend it into this specific environment, making it easily discernible rather than camouflaged."
+}

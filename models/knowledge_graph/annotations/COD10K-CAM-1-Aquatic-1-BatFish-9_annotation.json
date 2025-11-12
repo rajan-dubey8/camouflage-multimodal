@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "BatFish",
+  "background_description": "The background consists of an underwater seabed, predominantly covered in fine sediment, small irregular pebbles, scattered shells, and patches of greenish-brown algae or detritus. The overall texture is rough and mottled, with varying shades of dull green, grey, and brown.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The BatFish demonstrates highly effective camouflage. Its body coloration, which is a mottled pattern of dull green, grey, and brown, closely matches the hues of the sediment, pebbles, and algae on the seabed. Furthermore, the fish's highly textured and irregular skin, covered in bumps, ridges, and a net-like pattern, perfectly mimics the rough, uneven surface of its environment. This pattern matching and color blending significantly reduce the contrast between the organism and its surroundings. The flattened and broad shape of the BatFish also contributes to its camouflage by disrupting its typical fish outline, making it appear less like a distinct animal and more like an extension of the seafloor, such as a rock or clump of debris. All these elements combined make the BatFish exceptionally difficult to spot."
+}

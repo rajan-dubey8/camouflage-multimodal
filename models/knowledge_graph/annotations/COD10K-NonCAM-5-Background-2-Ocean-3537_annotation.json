@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Marine mammal",
+  "background_description": "The background consists of the ocean surface and the sky during sunset. The sky is dominated by a bright, warm golden-orange hue, with the sun a radiant, slightly hazy circle on the upper left. The ocean surface reflects the sun's light, creating a shimmering vertical path of intense golden-yellow light on the water. Beyond this reflection, the water surface is a more subdued golden-orange with gentle ripples and waves, transitioning to slightly darker tones in the foreground. There are faint horizontal cloud bands visible in the mid-upper sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A marine mammal (likely a dolphin or porpoise, indicated by a dorsal fin breaking the surface) is visible in the distance. It appears as a dark silhouette against the bright, luminous golden-orange of the sunset ocean and sky. Due to being strongly backlit by the setting sun, the animal exhibits high contrast with its brightly lit surroundings, making it clearly discernible. Therefore, no effective camouflage is present; instead, the lighting conditions make the animal stand out."
+}

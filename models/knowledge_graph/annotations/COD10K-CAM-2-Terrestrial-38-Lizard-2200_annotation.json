@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of tangled, gnarled tree roots and bark, displaying a dominant color palette of warm reddish-orange and dark brown. The wood has a very rough, textured, and weathered appearance with visible grain, cracks, and some darker, almost charred sections. The lighting casts a strong amber glow over the entire scene, enhancing the reddish hues. A small patch of dark green moss is visible in a shadowed crevice.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizards exhibit strong camouflage primarily through color blending. Their bodies are a reddish-brown to orange-brown, which almost perfectly matches the warm, amber-toned tree roots and bark they are nestled among. While their skin is smoother than the rough, gnarled texture of the wood (resulting in low texture similarity), their coloration allows them to blend remarkably well with the dominant hues of their environment. They are also partially hidden within the crevices of the wood, further aiding their concealment. The overall effect makes them quite difficult to spot at first glance, indicating effective camouflage."
+}

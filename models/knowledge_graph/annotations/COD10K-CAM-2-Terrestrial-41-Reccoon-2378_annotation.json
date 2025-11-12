@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Reccoon",
+  "background_description": "The background consists of a dense coniferous tree canopy with numerous interweaving dark brown branches and clusters of vibrant green pine needles. Patches of a bright, overcast sky are visible through the gaps in the foliage, especially in the upper and side portions of the image. The tree trunks and branches exhibit a textured, rough bark.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.9",
+  "camouflage_type": "Shadow hiding",
+  "explanation": "The Reccoon exhibits moderate camouflage primarily due to its position within the dense tree canopy, which offers significant physical obstruction and shadow hiding. Its dark grey-brown fur somewhat blends with the shadowed areas of the tree branches and bark, reducing its overall visibility. However, its distinctive black and white facial mask creates a higher contrast and draws attention upon closer inspection. The complex network of branches and pine needles effectively breaks up the Reccoon's silhouette, making it less conspicuous at first glance, but its fur texture and some color elements do not perfectly match the environment."
+}

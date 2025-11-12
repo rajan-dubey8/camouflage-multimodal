@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists primarily of a dense growth of vibrant yellowish-green marine algae or coral, characterized by thick, finger-like fronds and a textured, clustered appearance. Behind this dense vegetation, the environment appears dark, almost black, suggesting deep water or a shaded area.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage by blending seamlessly with its immediate environment. Its body features a base color of yellowish-green to light brown, which closely matches the dominant color of the surrounding marine algae. Furthermore, the fish's body is adorned with intricate mottled and striped patterns in darker brown and reddish-brown tones. These patterns highly resemble the varied textures, shadows, and natural irregularities of the dense algae fronds, making its outline difficult to discern. The fish's placement within the thick vegetation, combined with its matching colors and patterns, significantly reduces its contrast with the background, effectively disrupting its shape and making it very difficult to spot."
+}

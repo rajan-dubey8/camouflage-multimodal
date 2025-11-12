@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Egrets",
+  "background_description": "The background consists of blurred dark green foliage from trees or dense shrubs, interwoven with numerous thin, bare brown branches creating a dense, twiggy texture, especially in the midground and foreground where a nest might be located. There are also some sparse green stalks or grasses visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image features two Great Egrets, which are predominantly brilliant white. Their pristine white plumage provides a stark contrast against the dark green foliage and brown, bare branches of their natural habitat in the background. This high contrast makes the birds highly visible and easily detectable, indicating a complete absence of camouflage. While there appears to be another darker bird nestled among the branches (possibly an Anhinga), the prominent subjects, the egrets, are not camouflaged. Their white color is more indicative of sexual display or signaling rather than concealment in this environment."
+}

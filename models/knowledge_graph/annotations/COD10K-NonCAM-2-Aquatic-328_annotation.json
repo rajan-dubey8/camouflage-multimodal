@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of blurred aquatic flora, predominantly green and dark brown hues, suggesting an aquarium environment with plant growth or algae. A faint light-colored structure, possibly a rock or decor, is visible at the bottom left. A clear water surface line is visible across the top of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright orange goldfish with flowing fins, standing out distinctly against the darker, blurred green and brown aquarium background. There is no visual indication of camouflage as its vibrant color and form do not blend with the surroundings."
+}

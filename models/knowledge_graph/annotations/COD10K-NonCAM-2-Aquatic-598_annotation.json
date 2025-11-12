@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Golden Damselfish",
+  "background_description": "The background depicts a vibrant underwater coral reef environment. There are various types of coral structures, including stony corals with textured surfaces and some soft, anemone-like corals. The water is a deep blue, with sunlight filtering from above, and several smaller, darker fish are visible in the mid-ground and distant background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright yellow fish, identified as a Golden Damselfish, swimming against a dark blue coral reef. Its vivid coloration creates a stark contrast with the surrounding environment, making it highly conspicuous and demonstrating a complete absence of camouflage."
+}

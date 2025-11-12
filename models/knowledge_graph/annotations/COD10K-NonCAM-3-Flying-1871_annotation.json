@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Turkey Vulture",
+  "background_description": "The background consists primarily of a bright, clear blue sky on the left and upper portions of the image. On the right, there is a large section of a modern building's facade, characterized by dark, reflective glass panels arranged in a grid pattern by thin, dark frames.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Turkey Vulture is clearly visible against both the bright blue sky and the dark, reflective surface of the building. Its dark plumage creates a high contrast silhouette against the lighter sky, and while it shares a dark tone with the building's glass, its distinct shape, feathered texture, and reflective properties of the building itself prevent any blending. There is no color matching, disruptive pattern, or mimicry that would allow the bird to conceal itself in this environment. Therefore, no camouflage is present."
+}

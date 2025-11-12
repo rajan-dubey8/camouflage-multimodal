@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Capuchin monkey",
+  "background_description": "A tropical forest environment with blurred green foliage in the foreground and background, suggesting dense canopy and undergrowth. There are also visible brown branches and dried plant material, with dappled light filtering through.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The capuchin monkey exhibits a degree of camouflage through color blending. Its reddish-brown and dark fur tones align well with the natural colors of a forest environment, such as tree bark, shadows, and dried foliage. While it is sitting on a vibrant green branch that provides some contrast, its overall coloring helps it merge into the background's earthy and woody tones, particularly the brown and darker areas of the trees and branches visible in the image. This allows for partial concealment within its natural habitat, making it less conspicuous to predators or prey, although it is still clearly visible in this specific lighting and pose."
+}

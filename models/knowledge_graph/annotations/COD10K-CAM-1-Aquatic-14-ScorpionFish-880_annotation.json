@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background is an underwater seabed, primarily composed of coarse brown sand, gravel, and scattered fragments of white and darker shells. There are also larger, dark rocks or debris, possibly covered in sediment or algae, particularly in the upper left section. The overall environment features earthy browns, greens, and grays with varying textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The ScorpionFish exhibits excellent camouflage in this image. Its mottled brownish-green coloration, speckled with darker and lighter patches, almost perfectly matches the sandy, gravelly, and rocky seabed. The fish's skin is rough and textured, with numerous bumps, spines, and dermal cirri, which convincingly mimic the irregular surfaces and detritus of the surrounding environment. This textural similarity, combined with its highly irregular body shape and splayed, fringed fins, actively disrupts its outline, making it extremely difficult to distinguish from the background. The low contrast between the fish and its surroundings further enhances its concealment, allowing it to blend seamlessly and appear as just another part of the seabed debris."
+}

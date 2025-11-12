@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "LeafySeaDragon",
+  "background_description": "The background consists of a diverse underwater environment. Dominantly, there are various types of marine vegetation, including large fronds of reddish-brown and lighter brown seaweed or algae, with some taller, blurred green seagrass or kelp visible further back on the right. The seabed is composed of light-colored, small gravel or pebbles. The water behind the main vegetation appears dark blue.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Leafy Sea Dragon exhibits excellent camouflage through mimicry and shape disruption. Its body is adorned with numerous leaf-like appendages that perfectly mimic the surrounding marine vegetation, specifically the reddish-brown seaweed visible in the background. While the organism's main body has distinct dark purplish-brown colors with contrasting yellow and blue markings that might slightly stand out in isolation, the overall effect of its frilly, undulating appendages breaks up its outline and form. These appendages share similar colors (reddish-brown) and a textured, fluid appearance with the background seaweed, making it incredibly difficult to distinguish the creature from its environment. This specialized morphology allows it to blend seamlessly into kelp beds and seagrass meadows, protecting it from predators and aiding in hunting."
+}

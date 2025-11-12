@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of an underwater environment with numerous submerged aquatic plant stems or seagrass blades. Some stems are thin and green, while others are thicker, dark brown, and appear to be covered in algae or sediment, giving them a rough, textured, almost bristly appearance. The water itself has a greenish-blue tint, and the deeper background is blurred, suggesting a sandy bottom or distant vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Shape disruption / Color blending / Pattern matching / Mimicry",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image. Its elongated, slender body is perfectly shaped to mimic the surrounding plant stems or seagrass blades. Its coloration, a muted blend of greenish-browns with speckled patterns, closely matches the algae-covered, textured appearance of the thicker stems, making it very difficult to distinguish from the vegetation. The vertical orientation of the fish further enhances this mimicry, causing its outline to merge with the linear forms of the plants. The overall effect is that the Pipefish appears to be just another part of the aquatic flora, demonstrating highly effective crypsis through both shape and pattern resemblance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an aquatic environment featuring a dark, textured rock or substrate wall, interspersed with numerous light brown, gnarled roots or branches. There are also some green leaves visible in the upper and right portions of the image, suggesting aquatic plants. The lighting creates varying areas of highlights and shadows across the roots and the background wall, adding to the visual complexity.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching / Shape disruption / Color blending",
+  "explanation": "The fish in this image exhibit a high degree of camouflage through a combination of color blending, pattern matching, and shape disruption. Their bodies are mottled with a light brown/tan base color and darker, irregular vertical bands or blotches. This coloration closely matches the variegated tones of the gnarled roots and the shadowed areas of the background. The irregular patterns on their bodies effectively break up their outline, preventing a predator from easily discerning their form against the visually cluttered environment of intertwining roots. This disruption of shape, combined with color and texture similarity to the surrounding branches and substrate, makes them very difficult to spot at first glance."
+}

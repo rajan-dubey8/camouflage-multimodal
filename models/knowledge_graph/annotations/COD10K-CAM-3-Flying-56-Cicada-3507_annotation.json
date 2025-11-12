@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The cicada is perched on a surface of rugged tree bark, characterized by deeply textured, flaky layers and ridges. The bark displays a muted palette of dark browns, greys, and some reddish-brown undertones, with varying light and shadow creating a complex visual pattern. In the upper background, there is a blurry section of light blue sky, and a further blurred, lighter-toned, possibly distant rock or vegetation mass, completely out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Cicada demonstrates strong camouflage against the tree bark. Its body and wing coloration, composed of dark greys, browns, and intricate patterns, closely mimic the mottled hues and textures of the surrounding bark. The translucent wings with dark venation blend seamlessly with the shadows and varied surfaces of the tree, effectively disrupting the cicada's overall shape and making its outline less discernible. The low contrast difference between the insect and its immediate substrate, combined with excellent color and texture matching, ensures it blends remarkably well into its environment, making it challenging for a predator to spot."
+}

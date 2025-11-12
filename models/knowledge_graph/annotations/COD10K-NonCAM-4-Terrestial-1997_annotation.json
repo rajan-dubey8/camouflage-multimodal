@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human woman",
+  "background_description": "The background consists of two main elements: on the left, a vibrant, blurred expanse of swirling red, orange, yellow, and purple colors, likely from a flowing piece of fabric. On the right, a darker, textured surface resembling rough rock or tree bark with shades of dark brown and gray.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The subject, a human woman, is clearly visible and prominently featured in the image. Her skin tone, dark hair, and attire (including a dark top and an ornamental necklace) create a strong contrast against both the bright, blurred colorful background on the left and the dark, textured background on the right. There is no attempt at blending with the environment, mimicry, or disruptive patterning. The subject is intentionally highlighted, indicating no camouflage is present."
+}

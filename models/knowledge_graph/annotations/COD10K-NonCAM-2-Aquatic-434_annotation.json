@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Angelfish",
+  "background_description": "The background consists of a dark, deep blue aquatic environment. In the upper left and behind the fish, there is a large, textured coral structure with numerous small, bright blue and turquoise polyps. The lower part of the background shows darker rocky or coral substrate with muted blue and purple tones, characteristic of a coral reef environment under limited light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A brightly colored Angelfish with distinct orange wavy stripes over a blue-purple body is clearly visible. Its vibrant coloration provides a strong contrast against the darker coral and water background, indicating a complete absence of camouflage."
+}

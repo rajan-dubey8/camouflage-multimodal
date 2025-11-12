@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a wide expanse of calm, light-blue water in the foreground and midground, reflecting the sky. Scattered across the midground water are small, dark brown land patches with sparse green vegetation, and a significant piece of light-brown driftwood. Further back, a strip of vibrant green grassy land transitions into a dense line of diverse trees, featuring both light-barked and dark-foliaged specimens, extending across the horizon under a clear, pale blue sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Mimicry",
+  "explanation": "The crocodile is largely submerged, presenting a dark, low-profile silhouette against the light blue water. Its dark coloration blends effectively with the shadows and darker reflections on the water's surface, as well as with the dark hues of the small land patches and submerged elements. From a distance, its elongated, bumpy form could easily be mistaken for a floating log or natural debris, especially given the actual driftwood visible in the midground. The low contrast difference between the crocodile and its immediate aquatic environment further enhances its concealment, making it difficult to distinguish without close inspection."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a vibrant red-orange gorgonian coral, characterized by a branching, uneven structure. Its surface is rough and covered with numerous small, light-colored (white to pale orange) bulbous polyps or bumps, creating a highly textured appearance. The overall environment appears to be an underwater coral reef setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The SeaHorse in this image demonstrates exceptional camouflage. Its body coloration, a mottled red-orange with distinct white, warty protrusions, perfectly matches the colors and pattern of the gorgonian coral it is inhabiting. The seahorse's unique body morphology, with its bumpy, irregular texture, directly mimics the polyps and surface structure of the coral, making it incredibly difficult to distinguish from its environment. The combination of exact color matching, detailed pattern mimicry, and a disruptive shape that blends with the coral's structure results in nearly perfect concealment, a classic example of mimicry."
+}

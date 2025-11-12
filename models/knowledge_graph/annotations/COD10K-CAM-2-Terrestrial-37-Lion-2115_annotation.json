@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dry, arid savanna landscape under bright sunlight. The foreground and midground are dominated by vast stretches of golden-brown, sun-bleached dry grass, interspersed with numerous dark, irregularly shaped volcanic rocks and boulders. Several sparse trees and bushes, some with green leaves and others with more yellowish-brown foliage, are present, particularly around the large rock where the lions are resting. In the far distance, hazy blue-green mountains or forested hills are visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The lions' tawny, sandy-brown fur provides an exceptionally high degree of color similarity with the dominant golden-brown hues of the dry savanna grass and sandy patches. They are resting near a large dark rock and within sparse bushes, which helps to break up their outlines and utilize existing shadows, further enhancing their concealment. The combination of their natural coloration matching the environment and their strategic positioning makes them very difficult to spot at first glance, demonstrating effective camouflage through color blending."
+}

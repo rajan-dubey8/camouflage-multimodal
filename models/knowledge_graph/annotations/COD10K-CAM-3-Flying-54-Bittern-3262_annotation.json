@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense growth of dry, straw-colored reeds and tall grasses, intermingled with some patches of greener vegetation. The ground is partially visible as darker, possibly wet or shadowed areas beneath the foliage. The overall environment is highly textured with prominent vertical lines and a complex, earthy color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bitterns in this image demonstrate exceptional camouflage, blending almost perfectly with their reedy and grassy environment. Their intricate plumage, featuring various shades of brown, tan, black, and white, precisely matches the colors of the dry vegetation and the shadowed ground. The complex patterns of stripes and speckles on their feathers mimic the linear and variegated textures of the reeds and grass, effectively disrupting their body outlines and making them appear as an extension of the background. This combination of color blending, pattern matching, and shape disruption results in extremely low contrast, making the birds very difficult to detect visually."
+}

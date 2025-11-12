@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical beach",
+  "background_description": "The scene features a wide expanse of fine white sand, leading into clear, shallow turquoise ocean water. The water further out is a deeper blue, bordered by a distant horizon. A vibrant blue sky with scattered wispy white clouds dominates the upper portion. On the left, lush green foliage from trees provides shade over some beach umbrellas and hammocks. The overall impression is one of a bright, sunny, tropical environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a tropical beach environment. There are no visible animals, insects, or fish present that would be attempting to camouflage themselves within this scene. The primary elements are natural landscape features (sand, water, sky, trees) and some man-made beach furniture, none of which exhibit camouflage. Therefore, no camouflage is detected."
+}

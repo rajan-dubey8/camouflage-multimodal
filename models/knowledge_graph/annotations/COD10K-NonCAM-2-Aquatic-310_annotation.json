@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pufferfish",
+  "background_description": "The background consists of dark, murky aquatic environment with visible suspended particulate matter. Blurred, yellowish-green elements are visible in the upper background, possibly indicating distant plant life or algae.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Pufferfish with distinct yellow-green coloration and intricate dark patterns on its body. Its bright colors and sharp contrast against the dark, murky background ensure it stands out, indicating a complete absence of camouflage."
+}

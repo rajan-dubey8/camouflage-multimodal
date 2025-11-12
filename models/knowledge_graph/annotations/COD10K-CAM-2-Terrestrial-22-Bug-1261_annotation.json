@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bug",
+  "background_description": "The background consists of tree bark with a rugged, textured surface. It features deep, irregular vertical grooves and cracks, interspersed with lighter, mottled patches of greyish-green lichen or algae, dark brown tones within the crevices, and areas of lighter, weathered bark. The overall impression is a highly varied and irregular pattern of browns, greens, and off-whites.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bug exhibits excellent camouflage against the tree bark. Its body coloration, a mosaic of greens, browns, and off-white speckles, precisely matches the varied hues of the bark, including its lichen growth and weathered patches. The irregular, mottled patterns on the bug's dorsal surface mimic the rough texture, cracks, and varied appearance of the bark, making it incredibly difficult to distinguish its form. Furthermore, its irregular shape and patterned edges help to disrupt its outline, preventing it from standing out as a distinct object. The low contrast between the bug and its immediate surroundings significantly contributes to its effective concealment."
+}

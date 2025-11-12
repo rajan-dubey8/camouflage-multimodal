@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hedgehog",
+  "background_description": "The background consists primarily of vibrant green short grass with scattered autumnal leaves in shades of brown and orange, along with a few small brown twigs. The lighting suggests an outdoor natural environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The hedgehog is not camouflaged in this environment. Its body, covered in dark brown and gray spines and fur, contrasts significantly with the dominant bright green grass background. While there are some scattered brown leaves and twigs that share similar earthy tones with the hedgehog, these are not extensive enough to provide effective concealment. The hedgehog's distinct spiny texture also stands out against the smooth appearance of the grass, further reducing any potential for camouflage."
+}

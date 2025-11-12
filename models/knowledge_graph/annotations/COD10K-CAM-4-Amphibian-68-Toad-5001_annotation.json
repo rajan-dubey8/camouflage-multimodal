@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists primarily of dark, wet wood chips or mulch, interspersed with some small twigs, leaves, and a few small green plants. To the left is a reddish-brown brick wall, and a grey concrete structure forms a border in the foreground and along the top. The ground is damp and shadowed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.98,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A toad is visible, blending remarkably well with the dark, wet wood chips and debris on the ground. Its mottled, dark brown and grey coloration closely matches the colors of the mulch, and its rough, bumpy skin texture mimics the irregular textures of the wood pieces, making it difficult to distinguish from the surrounding environment. The low contrast between the toad and its immediate background contributes significantly to its effective camouflage, allowing it to hide from predators or prey."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef shark",
+  "background_description": "The background consists of a vibrant and diverse coral reef with various types of hard and soft corals in shades of light beige, white, green, brown, and some purple/red hues, creating a highly textured and irregular seabed. Above the reef is clear, blue ocean water with sunlight filtering through from the surface.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The shark exhibits countershading, a form of color blending camouflage. Its dorsal side is dark grey/blue, blending with the deeper, less illuminated water when viewed from above. Its ventral side is lighter, almost white, which helps it blend with the brighter surface light when viewed from below. This strategy minimizes its silhouette and makes it harder to detect in the open water column by both prey and predators. While its smooth texture and specific colors do not directly mimic the complex patterns and textures of the coral reef immediately beneath it, the countershading is highly effective for its environment as an open-water swimmer."
+}

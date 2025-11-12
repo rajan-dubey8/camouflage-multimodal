@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a dense, intricate network of bare deciduous tree branches, predominantly shades of brown and dark grey, set against a clear, bright blue sky. Several large stick nests are visible among the branches, each containing a heron.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The herons, with their distinct grey-blue plumage and solid forms, stand out against the background. While there are grey tones in the branches and blue in the sky, the herons' specific coloration does not closely match the predominant brown and dark grey of the bare branches. There is a high contrast between the birds' large, solid bodies and the intricate, open structure of the branches, especially where they are silhouetted against the bright blue sky. Their smooth feathered texture also contrasts significantly with the rough bark of the branches and the messy texture of the stick nests, making them easily discernible."
+}

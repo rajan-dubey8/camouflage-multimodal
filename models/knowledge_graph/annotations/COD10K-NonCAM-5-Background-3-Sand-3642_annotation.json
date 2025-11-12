@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky ground surface",
+  "background_description": "The image displays a close-up of a weathered, rocky ground surface. It features irregular, layered rock formations with a mottled appearance, blending shades of gray, white, and rusty brown, indicative of mineral deposits or oxidation. The surface is highly textured, with pitted areas, rough patches, and some smoother, eroded sections. Numerous holes and crevices expose a more granular, lighter gray material underneath. The overall scene suggests an arid or geologically active environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural geological formation consisting of weathered rocks and rough ground. There are no identifiable animals, insects, or fish present in the frame, nor in any of the provided crop images. Since no organism is visible, the concept of camouflage does not apply. The scene itself exhibits high contrast due to varied lighting, shadows in crevices, and distinct color variations across the rock formations."
+}

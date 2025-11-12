@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flatfish",
+  "background_description": "The underwater scene features a light beige sandy seafloor interspersed with large, irregular coral formations. These corals display various textures, from bumpy to branching, and colors including dark browns, greens, and some yellow/orange patches. The water above is a clear, deep blue with some light reflections on the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "A flatfish is present on the sandy seafloor, exhibiting highly effective camouflage. Its body coloration almost perfectly matches the light beige of the sand, resulting in high color similarity. The flat, wide shape of the fish also contributes to high texture similarity by blending seamlessly with the smooth, granular texture of the seabed. This combination creates a very low contrast difference between the fish and its immediate background, making it extremely difficult to discern its outline and features, thus providing excellent concealment from both predators and prey."
+}

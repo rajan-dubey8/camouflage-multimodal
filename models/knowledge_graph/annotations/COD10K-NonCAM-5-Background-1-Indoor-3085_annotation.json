@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Hotel room interior",
+  "background_description": "The background consists of a hotel room interior. The walls are light beige with a decorative gold-toned border near the ceiling. The floor is covered with a dark green carpet featuring a subtle, flecked texture. A bed with a dark brown wooden headboard, white linen, and a brown-orange quilted throw blanket occupies a significant portion. There are dark brown wooden nightstands, a dresser, and a desk. The window is adorned with sheer white inner curtains and opaque dark brown outer curtains. A white air conditioning unit is located beneath the window. Surfaces include painted drywall, wood, various fabrics (cotton, quilted material), and a textured carpet.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an interior hotel room environment. There are no visible animals, insects, or any form of organism within the frame. Therefore, there is no subject present that could exhibit camouflage, leading to a classification of 'No Camouflage'."
+}

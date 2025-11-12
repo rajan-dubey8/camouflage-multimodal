@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a dense layer of forest floor litter, primarily composed of dry, crumpled leaves in various shades of brown, reddish-brown, and golden-brown. Interspersed among the leaves are numerous dry twigs, small sticks, and a few pale, dried blades of grass, creating a highly textured and irregular surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider demonstrates exceptional camouflage in this image. Its body and legs are a near-perfect match in color to the dry, fallen leaves and twigs on the forest floor, primarily muted browns and reddish-browns. The spider's flattened posture and slightly textured exoskeleton also mimic the crumpled and veined appearance of the surrounding leaf litter, contributing to high texture similarity. The contrast between the spider and its immediate background is very low, making its outline extremely difficult to discern. Its legs are spread out, further disrupting its shape and allowing it to blend seamlessly with the irregular patterns of sticks and leaf edges, making it almost invisible to a casual observer."
+}

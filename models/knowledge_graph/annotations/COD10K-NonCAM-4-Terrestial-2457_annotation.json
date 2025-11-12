@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gorilla",
+  "background_description": "The background consists of light brown and sandy earthy tones, with a textured tree trunk visible on the right side and a vertical light-colored fabric or canvas structure further right. The overall environment appears somewhat muted and natural, possibly an enclosure.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The gorilla's dark fur and prominent features create a high contrast against the lighter, earthy-toned background, making it highly visible. There is no attempt at color blending, mimicry, or disruptive patterning with the immediate environment. The gorilla stands out clearly and is not camouflaged."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk",
+  "background_description": "The background consists of a sloping, dry grassland hill. The foreground and mid-ground are dominated by golden-brown, dry tall grasses, while the upper slope features drier, browner earth with sparse patches of darker scrub and small rocks. The overall palette is muted browns, golds, and hints of olive green.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The elk are clearly visible against the dry grassland background. While their tan and brown coats share some color similarities with the dry grass and earth, providing a 'medium' color similarity, their distinct shapes, size, and outlines create enough contrast against the relatively uniform background, especially their darker manes and legs, to make them easily distinguishable. There is no significant texture mimicry, and they do not blend effectively into the environment to be considered camouflaged in this specific scene."
+}

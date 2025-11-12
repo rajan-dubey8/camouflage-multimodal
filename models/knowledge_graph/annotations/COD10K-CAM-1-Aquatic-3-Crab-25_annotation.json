@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of two main elements: the lower portion features a dark, granular seabed composed of fine sand mixed with small rocks and detritus, creating an uneven, textured surface with varying shades of dark grey and brown. The upper portion is dominated by a large, yellowish-cream coral formation, likely a brain coral, characterized by prominent vertical ridges and a somewhat fuzzy, porous texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The crab's primary body coloration and mottled patterns provide a very low degree of blending with the varied texture of the sandy seabed. However, the organism is highly conspicuous due to the brightly colored symbiotic or defensive items it is carrying: a vivid red anemone-like organism and a prominent white, spiky organism. These items create strong color and luminance contrast against both the dark sandy seabed and the yellowish coral, causing the crab to stand out significantly. Its overall outline is clearly discernible, and the stark, high-contrast colors of its carried 'decorations' negate any potential camouflage its natural body patterns might offer."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The ScorpionFish is resting on a complex, textured underwater substrate, likely coral or rock formations. The immediate environment around the fish displays various shades of brown, red, orange, and some white, with a rough, irregular surface. To the right of the fish, there is a distinct pale, ribbed coral or shell structure. The upper portion of the image is a solid, dark black, suggesting deep water or an out-of-focus, dark background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The ScorpionFish exhibits excellent camouflage in this image. Its mottled coloration, featuring shades of red, orange, brown, and white, perfectly blends with the colors of the coral and rocky substrate it is resting upon. The fish's highly irregular and textured body, covered in spines, frills, and bumps, mimics the rough and uneven surface of its environment. This disruptive coloration and shape disruption break up its outline, making it extremely difficult to distinguish the fish from the surrounding background. The overall contrast between the fish and its immediate environment is very low, reinforcing its concealment through a combination of color and texture matching."
+}

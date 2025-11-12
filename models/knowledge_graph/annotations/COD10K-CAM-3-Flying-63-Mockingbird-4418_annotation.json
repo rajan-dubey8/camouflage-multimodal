@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of dark, rough, porous volcanic rock interspersed with a dense scattering of dry, greyish-brown, gnarled twigs, branches, and woody debris. The overall environment appears arid and desolate, dominated by muted tones of dark grey, black, and light brown.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Mockingbird demonstrates good camouflage against its environment. Its plumage, consisting of various shades of grey, white, and dark streaking, closely matches the color palette of the volcanic rock and the dry, weathered branches. The mottled and streaked patterns on its feathers effectively break up its solid form, disrupting its outline against the irregular shapes and textures of the background debris. This combination of color blending and pattern matching allows the bird to integrate well into the arid, rocky landscape, making it less conspicuous despite its presence on a prominent rock."
+}

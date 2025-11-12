@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists primarily of a dark, textured greyish-brown concrete or rocky surface, with a small amount of shallow standing water visible around the toad's feet. In the upper part of the background, there is a prominent, dark blue, ridged object, possibly a plastic container or wall.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad with its distinctive warty skin and mottled grey and brown coloration. While its natural colors offer some blending with the ground, it is clearly visible and not actively camouflaged within the context of the dataset rules."
+}

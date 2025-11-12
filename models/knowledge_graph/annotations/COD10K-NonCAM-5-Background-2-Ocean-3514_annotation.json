@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The underwater scene features a vibrant coral reef, with a prominent large, flat, yellowish-green table coral dominating the foreground and mid-ground. The seabed consists of light sandy patches interspersed with darker coral rubble, rocks, and various smaller coral growths. The water has a clear blue-green tint, and there are areas of shadow cast by the large coral structure.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.85,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, dark reef fish is visible in the lower-left portion of the image. Its dark pigmentation provides a degree of color blending with the shadowed areas beneath the large coral and among the darker coral rubble on the reef floor. While it stands out against the lighter sandy patches, its overall dark tone helps it to somewhat disappear into the varied and often shadowy textures of the underwater environment, indicating a medium level of camouflage through color matching."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bat",
+  "background_description": "The background consists of a tree trunk with rough, textured, grey-brown bark, featuring cracks and irregularities. Behind the trunk, there is a deeply blurred, dark green to grey out-of-focus background, suggesting dense foliage or a shaded, distant environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The two bats exhibit excellent camouflage against the tree trunk. Their mottled grey-brown fur closely matches the color palette of the bark, allowing for effective color blending. Crucially, the shaggy, uneven texture of their fur perfectly mimics the rough, cracked, and irregular surface of the tree bark, making them extremely difficult to distinguish by texture alone. The overall contrast between the bats and their immediate surroundings is very low, as their shapes are effectively disrupted and integrated into the visual noise of the bark. Only their small, dark eyes offer a slight point of differentiation, but the bodies themselves are exceptionally well-hidden."
+}

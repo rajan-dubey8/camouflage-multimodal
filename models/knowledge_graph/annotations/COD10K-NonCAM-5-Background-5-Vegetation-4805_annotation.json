@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi fish",
+  "background_description": "The background consists of a serene garden scene featuring a pond, a dark wooden bridge, and a variety of trees and shrubs displaying lush green, vibrant yellow, and warm orange-red autumn foliage. The pond's water reflects the surrounding greenery and sky, appearing dark and slightly murky. Moss-covered rocks and ferns line the edges of the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The organism, a bright orange Koi fish, is highly visible in the dark, reflective green-brown water of the pond. Its vibrant coloration creates a strong contrast with the muted tones of its aquatic environment, making it conspicuously stand out rather than blend in. There are no patterns, textures, or colorations on the fish that would aid in concealment against this background."
+}

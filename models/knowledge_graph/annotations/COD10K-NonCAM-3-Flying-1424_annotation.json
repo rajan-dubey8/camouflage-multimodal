@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small perching bird",
+  "background_description": "The background consists of an out-of-focus field of light brown and tan dry grasses or wispy vegetation, creating a soft, blurred texture. In the foreground and mid-ground, there are sharp, slender green plant stems with small yellow flower buds.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits camouflage primarily through color blending and countershading. Its dark brown upper body and tail closely match the muted, dry brown tones of the out-of-focus grassy background, allowing it to merge visually with its surroundings. The lighter underparts provide countershading, which helps to flatten its 3D appearance by mitigating shadows and making its form less conspicuous. While the bird is perched on distinct green stems, its overall coloration significantly reduces its visibility against the broader natural environment, particularly the dominant background hues."
+}

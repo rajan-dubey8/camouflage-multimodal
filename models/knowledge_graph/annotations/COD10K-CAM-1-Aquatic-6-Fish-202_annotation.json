@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a vibrant and complex coral reef ecosystem. It features various hard and soft corals, sponges, and marine growths, displaying a range of colors including deep reds, oranges, yellows, browns, and some muted purples. The textures are highly irregular, rough, and porous, with numerous crevices, shadows, and areas of fine filamentous structures, such as the feathery arms of crinoids.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching / Shape disruption / Color blending",
+  "explanation": "The fish, appearing to be a moray eel, exhibits camouflage primarily through pattern matching and shape disruption. Its head and anterior body are an olive-yellow with small dark spots, which offers a medium degree of color similarity to some of the yellowish-brown and algal growths in the reef environment. The posterior body features a more pronounced disruptive pattern of large black spots on a light, almost white background. While this high-contrast pattern could make it visible against open water, it serves to break up the fish's elongated, serpentine outline against the highly textured and mottled background of the coral reef, making it more difficult to perceive as a continuous shape amidst the visual 'noise' of the environment. The fish's coiling posture further contributes to shape disruption. Although not perfectly hidden in this specific shot, the patterns and coloration are clear adaptations for blending into such a complex, varied habitat."
+}

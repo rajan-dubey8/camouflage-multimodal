@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "Clear, uniform bright blue sky with a dark, flat, possibly metallic or wooden surface at the bottom where the bird is perched.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's dark plumage, primarily blackish-brown with some lighter, mottled feathering on its underside, creates a strong visual contrast against the bright, uniform blue sky. Its silhouette is sharply defined, and there are no colors, patterns, or textures on the bird that attempt to blend or mimic its immediate background (sky or perch). Therefore, no camouflage is present."
+}

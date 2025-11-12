@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "Dark, deep aquatic environment with a soft gradient of dark green to dark blue, lacking specific structures like coral, rocks, or sand. Appears to be open water or a deep, plain aquarium background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Lionfish with highly distinctive red, white, and brown striped patterns and elaborate, spiny fins. Its vibrant and complex appearance stands out prominently against the uniform, dark aquatic background, confirming the absence of camouflage."
+}

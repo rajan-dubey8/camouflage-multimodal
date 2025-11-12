@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Weedy Seadragon",
+  "background_description": "The background is a uniform deep blue, suggesting open water or a clear aquarium environment. There are no visible rocks, coral, or aquatic plants, indicating a simple, unobstructed aquatic setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Weedy Seadragon with its distinctive body shape, spotted patterns, and leaf-like appendages. Its purple, yellow, and white coloration stands out against the plain deep blue background, confirming there is no camouflage present in this specific environmental context."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of lush green tropical foliage, mostly out of focus, creating a bokeh effect with bright circular highlights. The bird is perched on a large, vibrant green leaf or stem.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird's prominent orange-brown chest and belly, dark black head and wings, and a distinct white crown create a strong visual contrast against the predominantly green, out-of-focus foliage of the background. There is no blending of colors or patterns with the surrounding environment, nor does the bird mimic any natural elements. Its vibrant coloration ensures it stands out clearly rather than blending in."
+}

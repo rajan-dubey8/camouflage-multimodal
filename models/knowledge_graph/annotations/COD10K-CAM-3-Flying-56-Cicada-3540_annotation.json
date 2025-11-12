@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a light-colored tree trunk, likely eucalyptus given its pale, smooth-looking bark with some texture. Surrounding the trunk are numerous long, slender green leaves, typical of eucalyptus foliage, creating a dappled effect. Patches of bright blue sky are visible through the leaves.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.3",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The cicadas in this image are not effectively camouflaged. Their reddish-brown bodies stand out clearly against the very pale, almost white, tree trunk they are resting on. This creates a high contrast in both color and brightness, making them easily discernible. While their wings are somewhat transparent, which offers a minor degree of visual disruption, the overall shape and darker coloration of their bodies prevent them from blending with the light background. The texture of the cicadas also differs significantly from the rough yet pale bark."
+}

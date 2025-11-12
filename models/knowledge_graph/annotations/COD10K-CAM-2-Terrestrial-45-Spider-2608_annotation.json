@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of fine-grained sand, predominantly light in color with a mix of translucent white, off-white, and light brown or tan grains. There are also darker, smaller specks scattered throughout. The surface is uneven, creating a granular texture with subtle shadows among the individual sand particles.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits excellent camouflage. Its body coloration, a mottled pattern of light grey, white, and darker specks, perfectly matches the varying hues and granular texture of the sand grains. The overall brightness of the spider is very similar to the surrounding sand, resulting in low contrast. Furthermore, the spider's irregular outline and the way its legs splay out with a textured appearance contribute to its pattern matching, making it very difficult to distinguish from the granular background. This combination of color blending and pattern matching effectively breaks up its form, allowing it to merge seamlessly with its environment."
+}

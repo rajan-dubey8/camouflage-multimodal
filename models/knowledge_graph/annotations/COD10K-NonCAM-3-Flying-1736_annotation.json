@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Hoverfly",
+  "background_description": "A vibrant green leaf with visible venation serves as the immediate perch for the insect. The background consists of blurred green foliage and darker, out-of-focus areas suggesting deeper vegetation and shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The insect, identified as a hoverfly, is clearly visible against the bright green leaf it rests upon. Its body, characterized by shades of dark brown, yellowish-tan, and black, creates a high contrast with the vibrant green background. Both the color and texture similarities between the insect and the leaf are low, indicating no effective visual blending or disruptive pattern camouflage for this specific immediate environment. While hoverflies are known for Batesian mimicry of bees or wasps, this strategy is not about blending into the environmental background in this scene but rather mimicking a dangerous organism."
+}

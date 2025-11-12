@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a canvas or similar flat surface painted with thick, textured diagonal stripes of bright red, vibrant blue, and a narrow stripe of bright yellow. The brushstrokes are visible, giving the surface a distinct texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The human hand is exceptionally camouflaged against the background. It is painted with the exact same vibrant red and blue diagonal stripes, and in the same thick, textured style, as the background surface. The patterns on the hand align perfectly with the background, effectively disrupting the natural outline and form of the hand. The color and texture similarities are extremely high, making it difficult to distinguish the hand from the painted background at first glance. The only slight differentiation comes from the three-dimensional nature of the hand creating subtle shadows and contours, but the strong pattern and color matching largely negate this."
+}

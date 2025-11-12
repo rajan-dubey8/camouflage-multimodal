@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The animal is positioned within a smooth, uniformly bright orange artificial container or bucket, which shows visible water droplets on its surface. There are no natural aquatic features such as plants, rocks, or seabed visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad, identifiable by its warty skin and mottled brown-and-tan coloration, positioned against a plain, bright orange artificial background. The toad's distinct appearance and the stark contrast with its surroundings indicate a complete absence of camouflage."
+}

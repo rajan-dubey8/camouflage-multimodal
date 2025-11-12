@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background depicts an underwater rock formation, likely a cave or crevice, with an irregular and highly textured surface. It is covered with various marine growths including corals, sponges, and algae, presenting a palette of muted browns, greens, oranges, and some dark purple accents. The environment is dim, with significant areas of deep shadow, especially towards the interior of the cave.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish, clearly visible on the right side of the cave opening (appearing to be a Harlequin Filefish), has a distinct pattern of bright white/yellow spots on a dark body, with vibrant yellow fins. This coloration and pattern create a high contrast against the predominantly dark, muted, and highly textured background of the marine cave. The rough, irregular surfaces and varied organic growths of the environment do not match the fish's relatively smooth body texture or its striking pattern. As a result, the fish's outline and vibrant markings are very conspicuous, making it stand out rather than blend into its surroundings."
+}

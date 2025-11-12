@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a vibrant coral reef environment. The most prominent feature is a dark reddish-brown branching coral, possibly a gorgonian or stony coral, which the seahorse is clinging to. This coral has a distinct bumpy or porous texture from its polyps. To the right, there's a large, frilly, yellow coral or sponge structure. The surrounding areas show other varied coral formations, rocky substrate, and some greenish-brown algae or detritus, creating a complex and textured underwater scene.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse demonstrates excellent camouflage by closely mimicking its immediate environment. Its reddish-brown coloration is a near-perfect match for the branching coral it is holding onto, creating high color similarity. Furthermore, the seahorse's body is covered in irregular dermal appendages and has a rough, textured surface that closely resembles the bumpy, polyp-covered texture of the coral, leading to high texture similarity. The irregular shape of the seahorse also helps to disrupt its outline against the busy and complex coral background, making it very difficult to distinguish from the surrounding coral structures. This combination of color blending, pattern matching, and shape disruption renders the seahorse highly camouflaged."
+}

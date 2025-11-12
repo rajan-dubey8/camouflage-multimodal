@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of loose, reddish-brown and lighter tan soil, mixed with a significant amount of dry organic matter such as straw-like plant fibers, small twigs, and coarse detritus. The ground surface is uneven and textured, featuring granular soil clumps and scattered dried vegetation, creating a complex, mottled pattern of earthy tones and shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The spider exhibits excellent camouflage primarily through color blending and pattern matching. Its cephalothorax and legs are mottled shades of brown, tan, and gray, which very closely match the surrounding soil and dry plant debris. This color resemblance makes it difficult to distinguish the spider from its immediate environment. The granular texture of its body and legs also helps it blend with the rough, particulate nature of the soil and detritus. The overall contrast between the spider's body and the background is low, further enhancing its concealment. It is also nestled within a depression, utilizing shadow hiding to break up its outline. While the white egg sac it carries is a contrasting element, the spider's own body is highly adapted for blending into this specific substrate, allowing it to hide effectively from predators or prey."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Minnow",
+  "background_description": "Clear open water, likely shallow or near the surface, characterized by strong, vibrant rainbow-colored light refractions creating dynamic patterns. The general water color appears light blue to turquoise, with no visible seabed features, rocks, or vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a slender fish, identifiable as a minnow, swimming in transparent water. Its grayish-silver body stands out distinctly against the colorful and shifting light refractions in the background. There are no features on the fish or in its immediate environment to suggest any form of camouflage."
+}

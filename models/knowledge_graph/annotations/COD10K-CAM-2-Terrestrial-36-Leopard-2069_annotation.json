@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of large, rugged rock formations. The rocks are predominantly light grey, with various shades of grey, off-white, and hints of brown. They exhibit irregular textures, cracks, and crevices, creating a mottled and uneven surface.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Leopard, specifically a Snow Leopard, displays exceptional camouflage in this image. Its thick fur, characterized by a light greyish-white base coat and distinct dark grey to black rosettes and spots, blends seamlessly with the light-colored, rocky environment. The overall coloration of the leopard closely matches the various shades of grey and off-white present in the rocks. The irregular patterns of its coat effectively break up the animal's silhouette, disrupting its shape and making it difficult for a predator or prey to distinguish its form from the mottled texture and shadows of the rocky background. This combination of color blending and pattern matching results in very low contrast between the leopard and its surroundings, significantly enhancing its concealment."
+}

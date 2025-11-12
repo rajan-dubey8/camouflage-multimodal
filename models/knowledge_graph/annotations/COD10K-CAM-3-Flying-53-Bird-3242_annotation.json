@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense thicket of predominantly dry, reedy vegetation and some scattered green grass blades. It features numerous vertical dried stems, along with horizontal and curved elements of withered foliage, creating a highly textured and mottled environment. The ground is covered with similar plant debris, exhibiting a palette of browns, tans, and faded greens.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits excellent camouflage, blending seamlessly with its reedy environment. Its plumage features a complex pattern of browns, tans, creams, and dark streaky markings that perfectly match the colors and textures of the dry grass and plant stems. The bird's streaky patterns visually merge with the vertical and horizontal lines of the surrounding vegetation, effectively disrupting its outline and making it very difficult to distinguish from the background. There is very low contrast between the bird and its environment, and its intricate patterns contribute to shape disruption, preventing it from appearing as a solid, identifiable form."
+}

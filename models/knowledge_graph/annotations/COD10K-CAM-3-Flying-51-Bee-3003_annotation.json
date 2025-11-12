@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background is a close-up view of a sunflower. On the left side, there is the textured, granular center of the flower, composed of numerous small florets with visible yellow anthers and pollen, interspersed with darker, possibly shadow areas. Towards the right, the background transitions to bright, smooth yellow petals radiating outwards, showing some subtle ridges and folds.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bee is clearly visible and stands out against the sunflower. While the bee's fuzzy body has some yellowish-orange hues that share a medium color similarity with the yellow petals and pollen, its distinct black stripes on the abdomen create a strong contrast against the bright background. The bee's fuzzy texture is also distinct from both the granular center and the smooth petals of the flower, resulting in low texture similarity. Its overall shape and prominent markings ensure a high contrast difference, making it easily discernible rather than camouflaged."
+}

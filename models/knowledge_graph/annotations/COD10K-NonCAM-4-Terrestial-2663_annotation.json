@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Buffalo herd",
+  "background_description": "An expansive, slightly undulating grassland characterized by lush, vibrant light green grass. Scattered throughout the field are occasional patches of denser, slightly darker green shrubs or bushes. The overall environment appears natural and open, typical of an African savanna or prairie.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a large herd of African buffalo. These animals are uniformly dark, appearing almost black or very dark grey. They are situated on a background of bright green grassland, which creates a very high contrast between their bodies and the environment. Their large size and solid dark coloration make them stand out significantly against the lighter green vegetation. There are no patterns, disruptive markings, or colorations on their bodies that would allow them to blend into the surrounding grass or shrubs. Therefore, they exhibit no camouflage in this scene."
+}

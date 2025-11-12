@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a sandy seafloor mixed with small pebbles and grains of various sizes. The colors range from light beige to grey and darker brown specks. In the lower-left foreground, there are several elongated, light brownish-orange, tubular structures, likely tentacles of a soft coral or anemone. The overall texture is granular and uneven.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The shrimp exhibits effective camouflage primarily through its semi-translucent body, which allows the colors and light patterns of the sandy, pebbled seafloor to show through. This transparency creates a high degree of color similarity with the background. Additionally, the small reddish-brown spots scattered across its body contribute to pattern matching with the tiny grains and detritus on the substrate. While parts of its legs and tail fan have distinct white and purple/red markings, their small size and the overall transparency of the body ensure a low contrast difference with the environment. The fine antennae are also very difficult to spot, further enhancing its blending. The combination of transparency (color blending) and subtle pattern disruption makes the shrimp very difficult to distinguish from its surroundings."
+}

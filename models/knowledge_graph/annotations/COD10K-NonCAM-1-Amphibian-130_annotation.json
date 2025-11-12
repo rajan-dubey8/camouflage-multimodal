@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The frog is resting on a dark, granular surface composed of small grey and brown gravel, interspersed with numerous dried orange-brown pine needles and a few green blades of grass.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits strong camouflage through color blending. Its dorsal coloration is a mottled mix of browns and reddish-orange tones, with some yellowish-green on its sides and legs. These colors closely match the dark grey/brown gravel and, more significantly, the abundant orange-brown pine needles scattered across the ground. The texture of its skin, while not perfectly mimicking the gravel, contributes to the overall blending by breaking up its outline against the visually busy background. The low contrast difference between the frog and its surroundings further enhances its ability to blend in, making it difficult to distinguish from the forest floor debris."
+}

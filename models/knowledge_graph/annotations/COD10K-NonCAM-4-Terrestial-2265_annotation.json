@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The background is out of focus, consisting of dark, muted tones likely from tree bark or shadowy ground cover, interspersed with lighter granular elements that appear to be scattered seeds or small stones on the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel exhibits camouflage through color blending. Its grey and brownish fur closely matches the earthy, natural tones present in the background, specifically blending well with the tree bark, soil, and shadowy areas typical of its habitat. While the foreground has some lighter seeds, the overall coloration of the squirrel helps it to merge with the muted, natural environment, reducing its visibility. The texture of its fur also provides a medium similarity to the somewhat rough and granular background elements."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of dense, tall grasses with varying shades of green, yellow-green, and straw-brown. The vegetation appears somewhat dry in places and provides a complex, vertically oriented texture with natural shadows and highlights between the individual blades. The grass completely surrounds the organism, partially obscuring it.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Heron (which visually appears to be a pheasant hen) demonstrates excellent camouflage. Its plumage features a complex pattern of mottled browns, beiges, and darker streaks that remarkably mimic the colors and textures of the surrounding tall, dry, and green grasses. The varied tones in its feathers perfectly blend with the natural light and shadow play within the dense vegetation, achieving high color similarity. The intricate patterns on its body also effectively break up its outline, making it difficult to distinguish its form from the textured background, resulting in high texture similarity and low contrast difference. This combination allows the bird to blend almost seamlessly into its environment."
+}

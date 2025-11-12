@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of calm blue water with subtle ripples, stretching into the distance. In the foreground, there are dense patches of tall, slender reeds and grasses emerging from the water. These reeds are a mix of vibrant green and dried brown stalks, creating a vertical texture. Further back, more blurred vegetation is visible above the water line.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Heron is largely camouflaged by the dense vertical reeds in the foreground. Its body is almost entirely obscured by the vegetation, which effectively breaks up its outline and blends its form with the environment. While the Heron's head and neck are visible peeking above the reeds, its muted grey and white coloration does not create a strong contrast against the natural browns and greens of the reeds or the blue of the water. The vertical lines of the reeds act as a strong element of shape disruption, making it difficult to discern the full form of the bird at first glance, despite the clear visibility of its head and beak."
+}

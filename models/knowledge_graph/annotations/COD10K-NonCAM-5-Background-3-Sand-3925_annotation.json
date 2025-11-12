@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Dune grass landscape",
+  "background_description": "The image captures a vibrant scene of tall dune grass, showcasing a blend of lush green and sun-bleached golden-brown blades. The grass forms dense clumps, filling the majority of the foreground and midground with varying textures from fine wisps to thicker stalks. In the upper right quadrant, a clear and intense blue sky is visible, providing a stark color contrast to the natural tones of the grass. The lighting suggests a bright, sunny day.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural landscape composed of tall dune grass against a clear blue sky. There are no visible animals, insects, or other organisms present within the frame. Since no organism is detected, the concept of camouflage is not applicable to this scene. Therefore, camouflage presence is explicitly marked as 'No Camouflage', and all related similarity and score metrics are set to default values indicating its absence."
+}

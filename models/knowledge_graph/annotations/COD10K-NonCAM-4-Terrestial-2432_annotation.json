@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Culpeo",
+  "background_description": "The background consists of dry, arid terrain, primarily composed of light brown to tan soil mixed with numerous small, light-colored pebbles and scattered larger rocks. There are sparse patches of dull green vegetation visible in the foreground. The overall environmental color palette is muted browns, grays, and tans.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The culpeo exhibits effective camouflage through color blending. Its fur features a mix of grizzled gray, sandy tan, and reddish-brown tones, which closely mimic the colors of the dry, rocky, and dusty environment. The varied patterning and natural coloration allow the animal to seamlessly integrate with the background, reducing its visual contrast and making it less discernible against the arid landscape. The coarse texture of its fur also blends well with the granular ground, enhancing its cryptic effect."
+}

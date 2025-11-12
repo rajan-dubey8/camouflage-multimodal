@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists of a dense arrangement of dry, yellowish-brown grasses and some scattered patches of greener vegetation. Numerous bare, thorny branches, varying in thickness and color from reddish-brown to grey, crisscross the scene, forming a natural screen. A prominent greyish-brown tree trunk with textured bark is visible behind the rabbit, partially obscured by the branches. The overall environment suggests a sparse, possibly wintery or early spring, undergrowth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit exhibits excellent camouflage through color blending. Its mottled brown and grey fur precisely matches the colors of the dry grasses, bare branches, and earthy tones of the surrounding environment. This natural coloration allows it to merge seamlessly with the visual palette of its habitat. Additionally, the network of thin branches in the foreground and around the rabbit helps to disrupt its outline and break up its shape, further enhancing its concealment. The texture of its fur, though detailed up close, contributes to the overall visual 'noise' of the scene, making it difficult to distinguish from the rough textures of the vegetation. The low contrast between the rabbit and its surroundings, combined with the visual obstruction, makes it very well camouflaged."
+}

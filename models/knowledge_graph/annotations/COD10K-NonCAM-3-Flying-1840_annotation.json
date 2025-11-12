@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Egret",
+  "background_description": "The bird is perched on a dense layer of vibrant green foliage and dark branches in the foreground. The background is a deeply blurred mass of dark green and brown foliage with numerous bright, out-of-focus bokeh lights, indicating sunlight filtering through distant trees.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Egret is brilliant white, standing out dramatically against the dark green and brown natural background. Its stark white plumage provides no color blending with the surrounding foliage, nor does its smooth feathery texture mimic any rough plant textures. There is a high contrast between the bird and its environment, making it clearly visible and easily detectable. Therefore, no camouflage is present."
+}

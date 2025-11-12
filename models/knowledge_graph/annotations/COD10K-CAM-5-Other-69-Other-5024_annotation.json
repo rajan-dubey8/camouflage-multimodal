@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Black bear",
+  "background_description": "A dense coniferous forest featuring tall pine and fir trees with dark green needles. The mid-ground and foreground are filled with a thick undergrowth of various green leafy bushes and smaller plants, illuminated by natural daylight which creates a mix of sunlit areas and deep shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The black bear is clearly visible in the dense forest environment. Its solid black fur provides very little camouflage against the predominantly green foliage and varying shades of natural light and shadow in the background. While partially obscured by foreground bushes, its dark coloration creates a high contrast with the surrounding vibrant green leaves and the overall forest palette, making its form distinctly visible rather than blending in with its surroundings."
+}

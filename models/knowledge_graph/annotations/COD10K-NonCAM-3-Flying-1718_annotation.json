@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists of dark, murky water reflecting the overhead scene, and a dense thicket of tangled, dark, leafless branches and twigs along the bank. Some sparse green foliage is visible at the top left, and marine growth adheres to submerged branches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The Great Blue Heron demonstrates effective camouflage primarily through color blending. Its dark blue-grey and brown plumage closely matches the muted, dark tones of the murky water and the shadowed, tangled branches of its wetland habitat. The low contrast between the bird's body and the dark background makes it challenging to distinguish, particularly when it stands motionless. While the feather texture is distinct from wood or water, the overall muted coloration and the irregular silhouette, combined with the complex, natural background, help to break up its outline and integrate it visually into its surroundings, aiding in ambush hunting and predator avoidance."
+}

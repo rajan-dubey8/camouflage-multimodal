@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a rough, granular surface resembling concrete or a weathered rock. It is composed of various small pebbles and grit in shades of grey, white, brown, and dark earthy tones, interspersed with patches of darker dirt or moss. The overall texture is highly irregular and mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth exhibits exceptional camouflage, blending almost perfectly with its environment. Its wings display a complex pattern of light grey, white, various shades of brown, and dark streaks that meticulously mimic the colors and textures of the granular concrete/rock surface. The irregular blotches and stripes on the moth's wings effectively break up its outline, making it extremely difficult to distinguish its form from the heterogeneous background of pebbles, grit, and dirt. Both color and texture similarity are very high, and the contrast difference between the moth and its surroundings is remarkably low, contributing to a highly successful visual deception."
+}

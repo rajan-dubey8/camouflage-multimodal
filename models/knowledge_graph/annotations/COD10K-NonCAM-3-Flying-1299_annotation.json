@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Magpie-Jay",
+  "background_description": "The background consists of a thick, dark brown, textured tree branch on which the bird is perched. Behind and around the branch, there are blurred green leaves and lighter brown branches, typical of a forest or garden environment. To the right of the bird, there is a rough, half-coconut shell serving as a feeder, resting on the main branch.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage features stark contrasts with prominent black, white, and dark grey-brown feathers, along with a bright yellow eye. These bold markings, particularly the white nape and underparts, do not blend with the dark brown tree branches or the green foliage. The high contrast difference makes the bird highly visible against its surroundings, indicating a clear lack of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lions",
+  "background_description": "The background consists of dry, sandy-brown earth with scattered small rocks and pieces of wood/twigs. There are also large, blurred logs or tree trunks in the mid-ground and background, all contributing to an overall earthy, muted color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lions' tawny, sandy-brown fur color closely matches the dry earth and logs in their environment. This high color similarity and low contrast between the animals and their background allows them to blend in effectively with their natural savanna habitat. While their fur texture is distinct from the granular earth, the overall color and light absorption create a strong visual blend, making them harder to spot from a distance. This is a classic example of color blending camouflage, aiding them in hunting and hiding from potential threats."
+}

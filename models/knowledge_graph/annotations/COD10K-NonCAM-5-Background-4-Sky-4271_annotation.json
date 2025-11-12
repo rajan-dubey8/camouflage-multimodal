@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image shows a sky filled with a dense cover of cumulus and stratocumulus clouds. The clouds vary in color from bright white, indicating direct sunlight, to various shades of light and dark grey, suggesting shadow and thickness. Small patches of light blue sky are visible in the gaps between the clouds, particularly towards the bottom center. The textures are soft, diffuse, and amorphous, typical of a cloudy day.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an environmental scene, specifically a cloudy sky. There are no visible organisms (animals, insects, fish, birds, etc.) present in the frame. Camouflage is a biological phenomenon used by organisms to blend into their surroundings or mimic other objects for protection or predation. Since no living creature is visible, the concept of camouflage does not apply to this image."
+}

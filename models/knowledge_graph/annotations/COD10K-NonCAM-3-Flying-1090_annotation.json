@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Juvenile Gull",
+  "background_description": "The bird is standing on a textured, reddish-brown rock surface in the foreground. The background is a blurry, desaturated dark grayish-blue, indicative of a body of water (likely ocean or lake) under a bright sky. A dark, cylindrical object (possibly a railing or post) is partially visible on the far right.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The juvenile gull exhibits camouflage through its mottled plumage, which features shades of light brown, grey, and white. This coloration provides medium color similarity to common coastal environments like sandy beaches, rocky shores, and even urban concrete, allowing it to blend with varied backgrounds. The complex pattern on its feathers acts as a disruptive pattern, breaking up the bird's outline and making it harder for predators or prey to discern its form against a busy, heterogeneous background. While its feathery texture is distinct from the rough rock and smooth water (low texture similarity), the overall effect of the coloring and pattern contributes to effective concealment in its natural habitat. The contrast is medium, as the lighter bird stands out somewhat against the darker water, but the disruptive pattern helps mitigate a sharp outline."
+}

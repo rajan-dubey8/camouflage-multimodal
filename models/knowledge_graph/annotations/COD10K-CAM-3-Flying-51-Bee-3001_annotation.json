@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists primarily of the vibrant yellow, highly textured disk florets of a sunflower. These florets are tightly packed and form an intricate pattern. To the left, there are blurred, out-of-focus yellow areas (likely sunflower petals) and a darker, soft-focus background, possibly foliage or sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The bee, with its distinct yellow and black striped abdomen, fuzzy thorax, and clear wings, is highly visible against the bright yellow, textured sunflower disk. Although its body carries a yellowish hue from pollen and some body segments are yellow, the strong contrasting black stripes and its unique form create a high contrast difference with the background. The texture of the bee's hairy body is also distinctly different from the intricate, tubular florets of the sunflower. Bees are typically not camouflaged; their coloration can often serve as an aposematic warning."
+}

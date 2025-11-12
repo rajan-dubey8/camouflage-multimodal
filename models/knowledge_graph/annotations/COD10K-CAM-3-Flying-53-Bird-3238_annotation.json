@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense field of closely packed, vertical, thin, dried brown and tan stalks or reeds, likely from a harvested crop or marsh vegetation. There are also some sparse green shoots interspersed among the dried stalks. The ground beneath the stalks appears to be dark, possibly muddy soil or shallow water, visible in patches.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits excellent camouflage against its environment. Its plumage features mottled browns and tans with streaky patterns that closely match the dominant colors and vertical textures of the dried stalks and reeds. The bird's body shape is effectively disrupted by the dense, upright vegetation, making it blend seamlessly with the linear elements of the background. Its coloration and patterns minimize contrast with the surroundings, making it very difficult to spot at first glance and only discernible upon close examination, indicative of highly effective natural camouflage."
+}

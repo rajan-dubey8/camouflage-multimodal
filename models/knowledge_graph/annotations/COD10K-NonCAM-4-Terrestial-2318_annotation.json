@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Golden-mantled Ground Squirrel",
+  "background_description": "The background consists of dark grey to black angular rocks and gravel of varying sizes, providing a coarse, uneven texture. Scattered among the rocks are small patches of sparse green vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.35",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The Golden-mantled Ground Squirrel possesses natural camouflage, primarily through color blending with earthy tones. Its fur is a mix of grizzled grey-brown with distinctive golden-brown patches and stripes. However, in this specific image, the squirrel is situated on a background of predominantly dark grey to black angular rocks. While the greyish tones of its fur offer some degree of blending, the overall warmer brown hues and distinct stripes, combined with the soft fur texture, contrast moderately with the hard, dark, uniform rocky environment. The color and texture similarities are low, and there is a medium contrast difference, making the squirrel moderately visible against this particular background. Therefore, camouflage is present as an inherent trait, but its effectiveness in this specific scene is limited."
+}

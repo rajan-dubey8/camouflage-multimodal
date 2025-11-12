@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The grasshopper is perched vertically on a slender, dark brown plant stem which appears somewhat ribbed. Surrounding the grasshopper are clusters of dark brown, fuzzy seed heads or dried flowers on thinner green stems. The background consists of blurred green foliage and a diffuse pink/purple shape, possibly a distant flower.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The grasshopper's pale blue-green body stands in stark contrast to the dark brown stem it is clinging to and the dark, fuzzy seed heads surrounding it. While grasshoppers commonly use color blending with green vegetation, its current position against the dark brown elements creates a high color and luminance contrast, making it quite prominent. There is no effective pattern matching or shape disruption to aid in blending, and its smooth body texture does not match the rougher textures of its immediate perch. Therefore, in this specific image, the grasshopper is not camouflaged and is clearly visible."
+}

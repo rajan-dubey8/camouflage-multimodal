@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a dense growth of tall, slender green reeds or marsh grasses. The lighting is relatively even, but the density of the foliage creates natural variations in light and shadow among the vertical stalks, contributing to a complex, linearly textured environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Heron exhibits excellent camouflage by blending seamlessly with its environment of dense green reeds. Its plumage features vertical streaks of brown, beige, and dark brown, which strongly mimic the linear pattern and texture of the surrounding tall grasses. The bird's posture, with its neck extended upwards and body held vertically, is a key element of its camouflage, effectively disrupting its typical bird shape and making it appear as part of the vertical vegetation. While the dominant background color is green, the heron's earthy tones and striped pattern align with the natural variations in color (e.g., dry stalks, shadows) found within a reed bed. This combination of shape disruption, pattern matching, and effective reduction of contrast makes the heron remarkably difficult to detect."
+}

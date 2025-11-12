@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background features a prominent, rough-textured yellow concrete curb that occupies a significant portion of the left side of the image. This curb shows wear, dirt, and some lighter scuff marks, with a darker asphalt or ground visible in the upper left. To the right of the curb, there is a dense cluster of green leafy plants with some small, light-colored buds, growing along the base of the curb.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The mantis is primarily brown with a distinct green stripe along its back. It is positioned on a bright, faded yellow concrete curb. The brown color of the mantis creates a strong contrast against the vibrant yellow background, making it stand out significantly. While the green stripe might offer some minor color blending if it were entirely within the green foliage, its overall body shape and dominant brown coloration are highly conspicuous against the concrete. The textures of the mantis's smooth exoskeleton also do not match the rough, gritty surface of the curb or the leafy texture of the plants. Therefore, the organism is not effectively camouflaged in this specific environment, exhibiting high contrast and low similarity in both color and texture."
+}

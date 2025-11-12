@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mollusk",
+  "object_name": "Nudibranch",
+  "background_description": "The background consists of a complex coral reef or rocky seabed with various textures and colors, including shades of brown, red, some green algae, and blurred yellow/green structures in the deeper background. The surface the nudibranch is on appears encrusted.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant nudibranch with striking blue, yellow, black, and orange colors. These bright, contrasting colors and distinct patterns make it stand out prominently against the muted and textured coral/rock background, indicating no camouflage is present. The animal is easily observable."
+}

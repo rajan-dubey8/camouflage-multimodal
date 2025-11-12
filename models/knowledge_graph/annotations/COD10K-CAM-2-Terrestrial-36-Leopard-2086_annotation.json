@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of a large, dark grey-brown rocky outcrop or boulder. The rock surface shows some rough textures, patches of lighter lichen, and sparse dry vegetation. Above the rock, there is a bright, overcast white sky. Green foliage from trees and bushes frames the left and right sides of the image, partially obscuring parts of the rock.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The leopard's distinct yellowish-tan fur with dark rosettes stands out clearly against the dark grey-brown rock and the bright, overcast white sky. While leopards typically utilize their spotted pattern for camouflage in dappled sunlight and dense vegetation, the immediate environment in this image – an exposed, dark rock with minimal concealing elements around the animal itself – does not provide sufficient color, texture, or pattern match for effective blending. The high contrast between the leopard's light-colored fur and the dark rock makes it easily discernible."
+}

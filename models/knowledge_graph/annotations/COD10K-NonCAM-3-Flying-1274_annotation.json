@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Kingfisher",
+  "background_description": "The background is a soft, blurry wash of warm yellow-brown hues, possibly distant foliage or earth, with a slightly textured appearance. The bird is perched on a distinct, rough-textured brown tree branch.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The kingfisher's vibrant blue and pristine white plumage creates a very strong contrast against the warm, earthy yellow-brown background and the brown tree branch it is perched upon. Its bright colors make it stand out prominently in this environment, indicating no camouflage is present for this specific setting. There is a high color and luminance difference between the bird and its surroundings."
+}

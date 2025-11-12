@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical beach with sailboats",
+  "background_description": "The scene features a bright white sandy beach with visible tire tracks, leading to calm, shallow turquoise-blue ocean water under a clear blue sky with sparse white clouds. Lush green foliage and several tall palm trees are present on the right side of the image. Multiple small recreational sailboats with vibrant red, yellow, and blue sails are lined up along the water's edge on the sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a tropical beach environment with no visible living organisms (animals, insects, or fish). The objects present are natural elements like sand, water, sky, palm trees, and plants, as well as man-made objects such as sailboats and a wooden sign. Since there are no organisms present, the concept of camouflage does not apply."
+}

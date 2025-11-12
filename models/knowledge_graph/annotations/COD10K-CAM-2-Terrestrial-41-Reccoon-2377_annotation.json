@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Reccoon",
+  "background_description": "The organism is situated within a dense network of tree branches. There is a large, light-colored, out-of-focus tree trunk/branch in the foreground on the left. Behind the raccoon and in the mid-ground, there are numerous thinner, darker branches and some thicker, gnarled branches with rough, textured bark in varying shades of grey and brown. The background appears to be an overcast sky or distant foliage, visible through the sparse branches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The raccoon exhibits effective camouflage in this image primarily through color blending and concealment within the dense arboreal environment. Its grey-brown fur tones closely match the various shades of the tree bark and branches, allowing it to merge with the background. The characteristic dark mask around its eyes and darker fur patches help it to blend into the shadows and intricate patterns of the tree, utilizing pattern matching and shadow hiding. Furthermore, the numerous branches physically obscure much of the raccoon's body, breaking up its recognizable shape (shape disruption) and making it harder to discern at first glance. The overall low light conditions of the scene also contribute to its ability to remain inconspicuous against the cluttered background."
+}

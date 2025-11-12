@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Streaky brown bird on reed",
+  "background_description": "The background consists of a soft, out-of-focus green expanse, likely dense foliage or marsh grasses, providing a smooth texture and a light, uniform color. The bird is perched on a vertical, dark brown, textured stalk, possibly a cattail or similar aquatic plant.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird's dark brown and streaky plumage, although natural, creates a high contrast against the bright, soft green, out-of-focus background. While its legs and the lower part of its body are similar in color and texture to the dark brown reed it's perched on, the main body of the bird stands out prominently against the dominant green. There is no effective color blending, disruptive patterning, or mimicry that allows the bird to blend into this particular background."
+}

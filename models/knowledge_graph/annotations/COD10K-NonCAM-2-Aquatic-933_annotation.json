@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Threadfin Butterflyfish",
+  "background_description": "The background consists of a uniform deep blue aquatic environment, likely open water or an aquarium tank. It lacks distinct textures or features, appearing smooth and somewhat blurry.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits striking and highly contrasting patterns (vivid lime green/yellow on its posterior half, bright blue/white on its anterior, with dark vertical stripes and an eye stripe) that stand out significantly against the uniform deep blue background. These colors and patterns do not blend with the surrounding water; instead, they make the fish highly visible. Therefore, no camouflage is present in this image."
+}

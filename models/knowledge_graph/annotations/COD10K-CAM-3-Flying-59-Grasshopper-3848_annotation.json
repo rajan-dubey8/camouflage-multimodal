@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a gravelly surface composed of numerous small, irregularly shaped pebbles and stones, predominantly in shades of grey, dark grey, and some lighter grey. Interspersed among the gravel are patches of dark soil, small green sprout-like plants with tiny leaves, and a few dried brown leaves. The overall texture is rough and varied.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Grasshopper exhibits excellent camouflage against its environment. Its body color is a mottled grey-brown with patches of green, closely mimicking the colors of the surrounding grey pebbles, dark soil, and small green plants. The irregular, bumpy texture of its exoskeleton also blends seamlessly with the rough, varied surfaces of the gravel. Furthermore, the patchy coloration helps to disrupt its outline, making it difficult to distinguish its distinct shape from the cluttered background of stones and plant matter. The low contrast between the organism and its surroundings, combined with the matching colors and textures, makes it incredibly hard to spot at first glance."
+}

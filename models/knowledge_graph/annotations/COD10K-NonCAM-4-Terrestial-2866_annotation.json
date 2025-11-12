@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Moorhen",
+  "background_description": "Calm water surface with reflections of the sky, creating light blue-grey tones. There are subtle ripples across the water, and in some areas, particularly towards the right, the water appears murkier greenish-brown, possibly due to submerged vegetation or algae. The bird's reflection is visible below it.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, a moorhen, is clearly visible in the image. Its dark plumage (black head, dark grey neck, dark brown body) contrasts significantly with the brighter, reflective areas of the water. Key features such as its prominent red frontal shield, red and yellow beak, and visible white undertail feathers are conspicuous and designed for signaling or display rather than concealment. The bird's outline is sharp against the water, indicating it is not attempting to blend into its environment through color or texture."
+}

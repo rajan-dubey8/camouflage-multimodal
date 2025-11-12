@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The image is a close-up of a tiger's face, showing its distinctive orange-brown fur with prominent black stripes and white markings around the eyes and muzzle. While there is no explicit environmental background in the image, the tiger's markings are adapted to blend into the dappled light, shadows, and vertical elements of tall grasses or dense forest undergrowth in its natural habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The tiger's prominent orange and black stripes are a classic example of disruptive camouflage. This pattern works by breaking up the animal's clear outline, making it difficult for prey to recognize its form against the complex background of its natural habitat. The high contrast between the orange and black segments mimics the play of light and shadow found in jungles and tall grasslands, allowing the tiger to blend seamlessly into its surroundings and ambush prey effectively."
+}

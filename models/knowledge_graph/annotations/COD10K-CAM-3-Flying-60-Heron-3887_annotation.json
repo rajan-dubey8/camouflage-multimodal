@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The heron is standing on a large, weathered, grey and dark brown fallen log, partially submerged in dark water. The background consists of dense foliage, including patches of green leaves, numerous dried brown pine needles on tangled branches, and sparse green pine needles. Many thin, bare, greyish-white twigs and branches intertwine around the log and the heron's legs, creating a visually complex and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Heron exhibits good camouflage against its complex natural environment. Its grey-blue plumage closely matches the weathered grey and dark brown tones of the fallen log it stands upon, as well as the numerous bare, greyish-white twigs and branches surrounding it. The streaky texture of its feathers provides a level of pattern matching with the linear elements of the branches and bark. While its long neck and head are somewhat distinct, the overall busy background of tangled branches, dried leaves, and varied foliage helps to break up its outline, making it less conspicuous. The combination of color blending and the chaotic visual environment contributes significantly to its concealment."
+}

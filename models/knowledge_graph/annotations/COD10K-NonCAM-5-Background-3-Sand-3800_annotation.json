@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal landscape",
+  "background_description": "The image displays a vibrant coastal scene under a bright blue sky with scattered white clouds. The vast, deep blue ocean occupies the left and central portions, with white-capped waves breaking onto the shore. On the right, a large, rugged cliff face, composed of various shades of brown and gray rock, descends into the water, with some green foliage visible on its summit. The foreground is dominated by numerous dark, irregular rocks covered in brown and dark green seaweed, partially submerged in the clear, shallow water near the sandy beach. A distant, forested landmass or island can be seen on the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image. The scene exclusively portrays a natural environment consisting of a rocky coastline, ocean, sky, and distant land. Therefore, there is no subject for camouflage to be present or evaluated against."
+}

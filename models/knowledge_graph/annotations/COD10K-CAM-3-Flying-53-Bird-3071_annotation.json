@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The bird is perched on a thick, dry, gnarled tree branch. The environment is dominated by a dense network of similar bare, greyish-brown tree branches, some adorned with small patches of light green epiphytic plants and dried fibrous material. Patches of clear, light blue sky are visible through the gaps in the branches, particularly in the upper and right portions of the image. The overall impression is a dry, arboreal setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits strong camouflage through a combination of color blending and pattern matching. Its plumage is a mottled greyish-brown, which almost perfectly matches the color tones and shades of the dry, weathered tree branches it is surrounded by. The scaly pattern of its feathers mimics the rough texture and irregular patterns found on the bark and dried plant matter on the branches, further aiding its concealment. The low contrast between the bird and its immediate arboreal background makes it very difficult to spot, as its form and outline are effectively disrupted and integrated into the visual clutter of the branches. The bird's light underside and darker back also suggest some countershading, further helping it blend with the varying light conditions in the canopy."
+}

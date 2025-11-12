@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bat",
+  "background_description": "The background is primarily composed of the textured, deeply fissured bark of a tree. The bark exhibits a mottled pattern with varying shades of grey, dark brown, and lighter tan/beige tones, along with numerous cracks, ridges, and crevices that create a complex, irregular surface. There is a slight blur of dark green foliage with a yellow light source visible in the lower left portion of the image.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bat demonstrates excellent camouflage in this image. Its fur coloration, a blend of mottled grays, browns, and lighter beige tones, very closely matches the diverse hues and variegated patterns present in the tree bark. The rough texture of the bat's fur, combined with its irregular shape as it clings to the bark, allows it to blend seamlessly with the deeply fissured and textured surface of the tree. The overall contrast between the bat and its environment is remarkably low, making it very difficult to distinguish the organism's outline from the complex background. This combination of color matching, texture similarity, and shape disruption effectively conceals the bat."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a finely granulated sandy surface, predominantly greyish-brown with specks of darker and lighter grains, giving it a uniform, textured appearance. There are no distinct features, just a consistent sandy ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The crab exhibits excellent camouflage. Its body coloration, which is a pale, translucent greyish-white with subtle dark speckles, perfectly matches the hue and granular texture of the surrounding sand. The crab's semi-transparent nature further aids in its concealment, allowing the background's texture to influence its apparent form and breaking up its distinct outline. This combination results in very low contrast and high similarity in both color and texture with the environment, making the crab incredibly difficult to spot against the sandy background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bald Eagle",
+  "background_description": "The background is a uniformly dark, out-of-focus area, appearing black or very dark brown. It lacks any discernible texture or environmental features.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Bald Eagle, an organism known for its distinctive bright white head and tail (not fully visible here, but the head is prominent) and vibrant yellow beak. Against the dark, uniform, and out-of-focus background, the eagle's bright white feathers and yellow beak create a very high contrast, making it highly conspicuous rather than camouflaged. There is no attempt at color blending, disruptive patterning, or mimicry with the immediate surroundings shown in the photograph."
+}

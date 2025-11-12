@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Long-legged fly",
+  "background_description": "The background consists of vibrant green plant foliage, with a prominent broad green leaf in the foreground featuring distinct parallel veins and a water droplet on its surface. The area behind the leaf is a soft, out-of-focus gradient of various shades of green, suggesting more distant vegetation.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.45,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The insect, a long-legged fly, exhibits some degree of camouflage through color blending. Its prominent compound eyes are a bright green, closely matching the vibrant green of the surrounding foliage. Its body is a pale greenish-white, which contributes to blending into a generally green environment. However, against the specific dark green, textured leaf it is perched on, its pale body creates a moderate contrast, making it relatively visible upon close inspection. The slender legs and overall shape, while aiding in inconspicuousness on thin stems, do not perfectly mimic the broad leaf's texture. Thus, while color adaptation is present, it is not highly effective in completely concealing the insect in this particular close-up context."
+}

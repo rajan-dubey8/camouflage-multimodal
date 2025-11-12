@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Fulmar",
+  "background_description": "The background consists of a large, dark, textured rock surface with visible rough patches and small crevices, upon which the bird is perched. Behind the bird, the background is blurred and indistinct, appearing as a dark, mottled mass, possibly more distant rocks or water.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Fulmar exhibits a moderate degree of camouflage through color blending. Its plumage, consisting of muted grays and whites, particularly the darker gray feathers on its back and wings, blends reasonably well with the dark, textured rock it is resting on. While the lighter head and underparts create some contrast against the very dark rock, the overall drab coloration is typical for seabirds in rocky, coastal environments, aiding in reducing conspicuousness to predators or prey. The soft, feathery texture of the bird contrasts with the rough, hard texture of the rock, reducing texture similarity, but the grayscale color palette provides a decent level of blending."
+}

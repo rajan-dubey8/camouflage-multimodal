@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with a lighthouse",
+  "background_description": "The image captures a vibrant coastal scene under a clear blue sky with scattered white clouds. In the foreground, tranquil turquoise-blue ocean waters transition to a pristine white sandy beach. Moving inland, the landscape consists of a dry, low-lying plain with sparse light green vegetation and scattered darker green bushes. A prominent lighthouse with a white tower and a reddish-pink base and roof stands on this plain.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organisms (animals, insects, or fish) are visible anywhere in the image. The image depicts a natural coastal environment with a man-made structure (lighthouse). Therefore, there is no entity present to exhibit camouflage, and the concepts of color/texture similarity and contrast for camouflage detection are not applicable."
+}

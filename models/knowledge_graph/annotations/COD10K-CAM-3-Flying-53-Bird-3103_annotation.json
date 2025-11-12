@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of a tree trunk and branches with rough, textured bark in various shades of gray, brown, and off-white, suggesting lichen growth or weathered wood. Some out-of-focus green foliage is visible behind the tree.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits exceptional camouflage. Its plumage coloration, a mottled mix of grays, browns, and whites, perfectly matches the variegated tones and patterns of the tree bark, including areas that resemble lichen or natural discoloration. The rough, shaggy texture of its feathers also closely mimics the uneven surface of the bark. Furthermore, its rigid, upright posture with closed eyes disrupts its avian shape, making it appear indistinguishable from a broken branch or a natural part of the tree, thereby blending seamlessly into its environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Silver dollar fish",
+  "background_description": "The background consists of dark, murky freshwater with submerged elements like rocks or decaying wood covered in dark green/brown algae and detritus. A brighter blue hue is visible towards the top, suggesting the water's surface or a light source.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The silver dollar fish is brightly colored with reflective, silvery-yellow scales, making it highly conspicuous against the dark, textured background of submerged rocks and algae. Its smooth, shiny surface and light coloration create a strong contrast with the rough, dark, and uneven textures and colors of its immediate surroundings. While silvery scales can provide effective mirror-like camouflage in open, well-lit water by reflecting the ambient light, in this specific dark and cluttered environment, the fish is easily detectable and does not blend in."
+}

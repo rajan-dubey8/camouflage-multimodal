@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dry, dusty, light-brown or tan-colored ground, likely a dirt or gravel path. It is composed of fine soil particles interspersed with numerous small to medium-sized grey and dark grey pebbles and stones. The surface shows minor textural variations and shadows from the individual stones, creating a mottled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper is exceptionally well camouflaged against the dusty, pebbly ground. Its body coloration is a mottled blend of light browns and greys that almost perfectly matches the dominant sandy tones and the scattered pebbles of the environment. The texture of its exoskeleton appears rough and granular, mimicking the texture of the surrounding dirt and small stones. Furthermore, its elongated and somewhat irregular shape helps to disrupt its outline, making it appear like a piece of debris or a larger stone rather than a distinct organism. This combination of color blending, pattern matching, and shape disruption results in a very low contrast difference between the grasshopper and its background, making it extremely difficult to spot."
+}

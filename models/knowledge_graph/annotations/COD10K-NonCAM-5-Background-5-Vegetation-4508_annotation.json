@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical rainforest landscape",
+  "background_description": "A dense, lush tropical rainforest with various shades of green foliage, broad leaves, and tall trees dominating the foreground and mid-ground. The distant background features misty mountains under an overcast, light gray sky. A small, lighter green clearing or stream is visible in the lower mid-ground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a tropical rainforest landscape. No animals, insects, or any other organisms are discernible within the frame, either clearly or camouflaged. Therefore, camouflage presence is not applicable, and all related metrics reflect its absence."
+}

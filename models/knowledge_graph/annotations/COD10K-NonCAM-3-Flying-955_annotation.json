@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists primarily of blurred dark reddish-brown soil or earth with small indistinct debris, along with out-of-focus green foliage and a few small, light pinkish-white flowers on a thin stem. The overall background is muted in color.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's vibrant yellow, white, and black patterns create a high contrast against the muted brown soil and green foliage in the background. Its coloration is striking and makes it stand out, indicating that it is not utilizing camouflage for concealment. The patterns appear to be for display or warning rather than blending in with the environment."
+}

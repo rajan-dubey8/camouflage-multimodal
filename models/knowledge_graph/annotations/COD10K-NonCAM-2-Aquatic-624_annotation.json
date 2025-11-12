@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Common Roach",
+  "background_description": "The background consists of murky, greenish-brown freshwater with some floating particles and reflections on the surface, suggesting a pond or slow-moving river environment. Submerged detritus or faint aquatic vegetation may be present.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Common Roach with a golden-brown body and distinct reddish fins. Its colors provide some natural blending with the murky water, but it stands out due to its form, distinct scales, and bright fin coloration. There are no patterns or behaviors indicating active camouflage."
+}

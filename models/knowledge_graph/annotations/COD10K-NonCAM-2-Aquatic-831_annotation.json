@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clown Triggerfish",
+  "background_description": "The background is a blurred, uniform deep blue aquatic environment, suggesting deep water or an aquarium setting. It lacks distinct textures or features, appearing smooth.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits highly conspicuous and contrasting coloration, featuring bold black, bright yellow with black spots, prominent white patches on its underside, and vivid purple/pink fins. These colors and patterns stand out significantly against the uniform deep blue background, making the fish easily visible. This pattern is characteristic of aposematism or display, rather than camouflage for concealment."
+}

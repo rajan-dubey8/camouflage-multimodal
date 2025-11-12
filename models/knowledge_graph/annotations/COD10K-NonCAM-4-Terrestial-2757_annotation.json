@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bontebok",
+  "background_description": "The background consists of an open grassland environment with numerous clumps of tall, dry, brownish-red grass interspersed with shorter, lighter brown and straw-colored dry grass. The ground is visible in parts, showing dry soil and sparse vegetation. The overall landscape is arid or semi-arid with muted earthy tones.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Bontebok is clearly visible against the dry grassland background. Its distinctive coloration, featuring a dark brown body, a prominent white blaze on its face, and a large white patch on its hindquarters, creates a high contrast with the muted brown and tan hues of the surrounding grass and soil. The animal's markings are designed for display and species recognition rather than concealment in this particular environment, causing it to stand out significantly. There is no evidence of color blending, disruptive patterns, or mimicry that would aid in camouflage."
+}

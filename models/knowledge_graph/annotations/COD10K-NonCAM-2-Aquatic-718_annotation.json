@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Shark",
+  "background_description": "The background consists of deep, uniform blue open water, likely an aquarium tank or deep ocean, with some minor particulate matter visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a shark with its characteristic grey back and white belly swimming in open blue water. The animal is distinctly visible against the background, demonstrating no active camouflage."
+}

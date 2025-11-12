@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of a dense network of dried, brown, curled leaves and slender brown branches. There is a blurred green foliage visible in the deeper background, suggesting a humid forest or shrub environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The gecko exhibits exceptional camouflage, specifically through mimicry of a dead leaf. Its body shape is remarkably adapted to resemble a curled, withered leaf, complete with an irregular, serrated outline. The coloration of the gecko perfectly matches the various shades of brown, tan, and dark speckles found on the surrounding dried foliage. Furthermore, its skin texture mimics the prominent veins and crumpled surface of the dead leaves, making it almost impossible to distinguish from the environment. The overall contrast between the gecko and the actual leaves is extremely low, and its placement within the cluster of dried leaves further enhances its disguise, making it blend seamlessly."
+}

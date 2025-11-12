@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Typical freshwater amphibian habitat, characterized by shallow water with muddy or sandy substrate, potentially containing aquatic vegetation and detritus, common in ponds, marshes, or slow-moving streams.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad, an amphibian, being held in a human hand. Its dark, warty skin stands out distinctly against the lighter, smooth skin of the hand, indicating no camouflage in the immediate environment. The animal is easily visible and not concealed."
+}

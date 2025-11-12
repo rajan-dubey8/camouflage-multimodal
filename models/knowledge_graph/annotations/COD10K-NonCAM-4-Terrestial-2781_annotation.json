@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The squirrel is on a forest floor covered with dry brown and orange fallen leaves, dark soil, small twigs, and sparse patches of green grass. The distant background is out of focus, showing blurred green foliage and brown earth tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel exhibits natural camouflage through color blending. Its grey-brown fur on its back and tail closely matches the earthy tones of the dry fallen leaves, soil, and twigs on the forest floor. While its belly is lighter, the dominant colors of its fur integrate well with the background's browns, grays, and subtle greens. The texture of its fur, particularly the bushy tail, also contributes to breaking up its outline against the similarly textured ground cover, making it less conspicuous to predators and prey. The low contrast difference further aids in its concealment within this natural habitat."
+}

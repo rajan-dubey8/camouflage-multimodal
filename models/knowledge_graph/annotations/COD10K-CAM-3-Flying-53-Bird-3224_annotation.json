@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The environment is a shallow, muddy river or pond bank. It features dark brown soil, numerous smooth, rounded pebbles and larger stones in shades of brown, grey, and white, sparse green low-lying vegetation and aquatic plants in the water, and some dried twigs and roots. There is also a distinct reddish-brown mound of earth on the right side. The water is murky brown with ripples reflecting the sky, with small green plants growing within it.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching / Color blending / Shape disruption",
+  "explanation": "The birds (likely snipes) exhibit excellent camouflage against the muddy, rocky, and vegetated bank. Their plumage, characterized by mottled browns, blacks, and buffs with intricate streaky patterns, perfectly matches the variegated colors and textures of the soil, pebbles, dried twigs, and sparse vegetation. The intricate patterns on their feathers effectively disrupt their outlines, making them blend seamlessly into the cluttered and irregular background. The low overall contrast between the birds and their immediate surroundings significantly enhances their concealment, making them very difficult to spot without careful examination."
+}

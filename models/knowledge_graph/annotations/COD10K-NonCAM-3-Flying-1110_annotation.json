@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Spotted Dove",
+  "background_description": "The background is a uniformly blurred, bright green, lacking distinct textures or features, suggesting out-of-focus foliage or distant vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Spotted Dove's plumage, characterized by shades of gray and brown on the head and neck, and a distinctive black and white spotted pattern on the lower neck and chest, does not blend with the plain, bright green, out-of-focus background. There is a strong color and pattern contrast between the bird and its surroundings, making it highly visible rather than camouflaged in this specific environmental context."
+}

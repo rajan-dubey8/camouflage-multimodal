@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Cattle Egret",
+  "background_description": "The background consists of dense, short, vibrant green aquatic or semi-aquatic vegetation in the foreground and mid-ground, transitioning to taller, linear green reeds and darker water further back. The lighting suggests a bright, sunny environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.0",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The Cattle Egret, predominantly white with a yellow bill and hints of yellowish plumage on its head, stands out significantly against the lush, green vegetation and dark water background. Its bright white color provides a strong contrast in both hue and luminosity against the green and dark environment. There is no attempt at color blending or disruptive patterning, and the bird's smooth feathery texture does not mimic the rougher, linear textures of the surrounding plants, making it clearly visible rather than camouflaged."
+}

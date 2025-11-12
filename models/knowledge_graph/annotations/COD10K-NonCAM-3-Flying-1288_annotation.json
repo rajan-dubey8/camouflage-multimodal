@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Glowworm beetle",
+  "background_description": "The background consists primarily of a vibrant green leaf, exhibiting fine veins and a slightly textured surface. To the right, a fuzzy, green stem with visible hairs is present. The areas behind the leaf and stem are dark and out of focus, suggesting dense foliage or shadow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The insect, a glowworm beetle (likely a larva or female), is predominantly dark black/brown with a reddish-orange pronotum (the plate covering its neck). This dark coloration and distinct reddish feature stand in stark contrast to the bright, vibrant green of the leaf and stem it is resting upon. There is no significant color blending or disruptive patterning that would help it merge with the green foliage. Its texture is also smooth/slightly segmented, unlike the veined leaf or hairy stem. Therefore, it is clearly visible and not camouflaged in this environment."
+}

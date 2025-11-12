@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Murky underwater seabed",
+  "background_description": "The image displays a murky underwater environment with a predominant greenish-brown hue. The seabed consists of fine sediment, likely sand or mud, with small scattered debris such as shells or pebbles visible across the surface. There are also darker, indistinct patches that could be submerged plant matter or detritus, and a cluster of yellowish, lumpy growth resembling algae or sponge in the upper right quadrant.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts an underwater environment, primarily showing a murky seabed composed of sediment, scattered debris, and some indistinct plant-like or algal growth. There is no clearly identifiable animal, insect, or fish present as the main subject to assess for camouflage. Therefore, camouflage is not applicable."
+}

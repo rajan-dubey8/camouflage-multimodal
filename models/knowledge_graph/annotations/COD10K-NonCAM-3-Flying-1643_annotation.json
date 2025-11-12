@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Cormorant",
+  "background_description": "Softly blurred green background, likely dense foliage or vegetation, providing a uniform, out-of-focus backdrop. There are no distinct textures or patterns visible in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a dark-plumaged cormorant with noticeable blue eyes and orange facial skin, set against a brightly blurred green background. The bird's deep grey/black feathers and distinct silhouette create a high contrast with the much lighter and uniform green environment. There is no visual blending in terms of color or texture; the cormorant stands out prominently, indicating an absence of camouflage. Its dark color does not match the bright green, and its feathered texture is distinct from the smooth, out-of-focus background."
+}

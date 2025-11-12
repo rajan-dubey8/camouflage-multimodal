@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Common Toads",
+  "background_description": "The background consists primarily of dry, light brown to tan grass blades and stalks, interspersed with some darker brown fallen leaves and small patches of green moss or low-growing vegetation. The overall texture is rough and varied, characteristic of a forest floor or grassy area with detritus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.92,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The toads exhibit excellent camouflage through color blending and texture matching. Their warty, mottled skin features shades of brown, olive green, and dark speckles that perfectly mimic the dry grass, fallen leaves, and patches of moss in their environment. The bumpy texture of their skin also blends seamlessly with the irregular and rough textures of the surrounding detritus. This strong resemblance in both color and texture significantly reduces their contrast with the background, making them very difficult to spot and effectively camouflaged against potential predators."
+}

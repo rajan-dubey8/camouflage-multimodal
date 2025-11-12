@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Dried grass field under sunny sky",
+  "background_description": "The scene features a clear, bright blue sky with a radiating sun in the upper right. The foreground and midground are dominated by tall, dried-out grasses or reeds with light, feathery seed heads, displaying colors of brown, tan, and faded yellow. The texture is wispy and brittle. A distant urban outline and some bare tree branches are faintly visible on the horizon to the right.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": "0.0",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image primarily depicts a natural environment consisting of dried grasses and a bright sky. Therefore, there is no camouflage to evaluate."
+}

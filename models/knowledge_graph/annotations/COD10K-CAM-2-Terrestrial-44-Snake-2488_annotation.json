@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of vibrant green plant leaves and a thick, smooth green plant stem around which the snake is coiled. Much of the background beyond the immediate foliage is very dark, almost black, suggesting dense vegetation or night-time conditions.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The snake demonstrates effective camouflage primarily through color blending. Its upper body, especially the head and neck, is a vivid green that closely matches the bright green plant stem and leaves it is resting on. This allows it to blend seamlessly with the foliage. The snake's slender, coiled body also contributes to camouflage by resembling a vine or a natural part of the plant structure, which is a form of shape disruption. While some parts of its body show a transition to brownish-green scales, these still harmonize with the natural variations in a plant's coloration, especially in varying light conditions. The low contrast between its green scales and the surrounding environment makes it challenging to spot, despite the direct lighting on the subject."
+}

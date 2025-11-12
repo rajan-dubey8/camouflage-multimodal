@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown Bear",
+  "background_description": "The bear is resting on a sunlit, light-colored, textured surface, likely sand or worn rock. Behind its body, the background transitions to darker, heavily shadowed rock formations with a rugged, irregular texture. There are hints of green vegetation peeking through in some dark areas.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The brown fur of the bear provides some degree of color blending with the natural rocky and earthy tones of its habitat, especially in the darker, shadowed background areas. The shaggy texture of its fur also shares some ruggedness with the natural rock formations, contributing to textural similarity. However, the direct sunlight creates strong highlights on the bear's fur and the bright foreground, increasing the contrast and making the bear clearly visible against these lighter elements. While the bear's natural coloration is an adaptation for color blending within its environment, the specific lighting conditions here result in a partial, rather than complete, camouflage effect."
+}

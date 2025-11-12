@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Banded fish",
+  "background_description": "The background consists of a diverse coral reef on the left side, featuring various types of hard and soft corals in shades of brown, yellow, green, and light beige. The coral structures display intricate, rough, and bumpy textures. The right side of the image is dominated by deep blue ocean water, appearing increasingly dark with depth, indicating an open water environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The small fish visible in the bottom right corner has distinct black and white stripes. This pattern creates a high visual contrast against both the complex, multi-colored, and textured coral reef background and the uniform deep blue open water. The fish's coloration and smooth body texture do not blend with the surrounding environment's colors or textures, thus it is not camouflaged."
+}

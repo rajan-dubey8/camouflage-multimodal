@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a branch of an oak tree. The immediate background consists of several oak leaves in various stages, predominantly showing reddish-brown and some green hues, suggesting either new growth or autumn coloration. An unripe acorn is also visible on the branch. The distant background is a dark, out-of-focus blur of green and dark tones, indicating dense foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The butterfly exhibits excellent camouflage, primarily through mimicry of a dead or dried leaf. Its wings' underside displays mottled reddish-brown and brown patterns that closely match the reddish-brown coloration of the surrounding young oak leaves and the overall woody tones of the branch. The highly irregular, jagged edges of its wings are a key feature, breaking up its body outline and making it blend seamlessly with the natural, often tattered shapes of leaves. The intricate patterns and subtle variations in color on its wings further contribute to the illusion of a textured, natural object rather than a living insect, making it very difficult to distinguish from its environment."
+}

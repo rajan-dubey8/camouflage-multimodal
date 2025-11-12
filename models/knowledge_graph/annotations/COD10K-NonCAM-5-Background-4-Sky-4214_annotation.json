@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "River scene with docked boats and rocky shore",
+  "background_description": "The scene depicts a wide river under an overcast, light grey sky. In the foreground, there's a rocky shoreline composed of various sizes of light grey and brownish stones. Several passenger or cargo boats are docked close to the shore, their hulls painted in blues, greens, and some with orange sections. The river water is calm, reflecting the sky and boat colors, appearing dull blue-green. A distant, faint landmass or tree line is visible across the river.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively displays an environmental scene comprising a river, a rocky shoreline, several docked boats, and an overcast sky. There are no visible organisms (animals, insects, or fish) present in the image. Therefore, the concept of camouflage does not apply."
+}

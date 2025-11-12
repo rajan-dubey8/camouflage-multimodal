@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird",
+  "background_description": "The background consists of bare, brown tree branches, some autumn-colored leaves in shades of red, orange, and yellow-brown, and a prominent bright red fruit (possibly a persimmon) that appears partially eaten. The distant background shows blurred green and brown foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The small bird is primarily olive-green, a color typically associated with blending into green foliage. However, in this specific image, it is perched on bare brown branches next to a vibrant red fruit and prominent autumn-colored leaves. Its green coloration creates a distinct contrast against these immediate background elements, especially the bright red fruit, making it easily visible and not effectively camouflaged within this particular environment."
+}

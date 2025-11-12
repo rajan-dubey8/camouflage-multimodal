@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a sandy beach composed of numerous small, rounded pebbles and grit of varying sizes, ranging from fine sand grains to small stones. The colors of the pebbles include shades of beige, light brown, white, grey, and pale orange/reddish hues. There are also scattered fragments of white shells and some larger, smoother white objects resembling worn shell or coral pieces. The overall texture is rough and granular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab demonstrates excellent camouflage against its pebbly beach environment. Its carapace exhibits a mottled pattern of white, reddish-orange, and light brown, which very closely matches the color variations of the surrounding sand, pebbles, and shell fragments. The irregular texture of the crab's body also blends well with the rough, granular texture of the background. Furthermore, the disruptive coloration and pattern help to break up the crab's outline, making it difficult to distinguish its distinct shape from the similarly colored and textured background elements. The low contrast difference between the crab and its surroundings contributes significantly to its successful concealment."
+}

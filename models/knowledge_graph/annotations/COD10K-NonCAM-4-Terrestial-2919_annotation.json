@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Mountain Goat",
+  "background_description": "The background consists of large, irregular, dark grey and brownish-grey rocks with varied textures, including smooth and rough surfaces, suggesting a natural rocky habitat or enclosure. There is bright green grass in the immediate foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The mountain goat exhibits effective camouflage primarily through color blending. Its brownish-grey fur coat closely matches the dominant greyish-brown and dark grey tones of the rocky background, making it blend well with its environment. The shaggy texture of its fur also provides a medium textural similarity to the rough and uneven surfaces of the rocks. The contrast difference between the animal and its rocky surroundings is low, which significantly aids in its concealment against predators or during hunting, by allowing it to melt into the rugged terrain."
+}

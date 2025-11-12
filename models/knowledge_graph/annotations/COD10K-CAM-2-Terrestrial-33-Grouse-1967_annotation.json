@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Grouse",
+  "background_description": "The background consists of a rocky, sparsely vegetated alpine or tundra environment. There are large grey rocks with patches of green, low-lying mosses and other small plants. Scattered among the vegetation are some dried grasses, reddish shoots, and small yellow flowers. The ground is a mix of dark soil, shadowed areas, and lighter rock surfaces, creating a mottled and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Grouse is highly camouflaged in this image. Its plumage features a dense, disruptive pattern of black, dark brown, and speckled light cream/tan colors. This complex pattern and color palette closely mimic the variegated hues and textures of its surroundings, including the dark soil, shadowed areas, grey and brown rocks, and the mottled green and dried vegetation. The intricate patterning breaks up the bird's natural outline, making it extremely difficult to distinguish its form from the similarly textured and colored background. The overall contrast between the bird and its immediate environment is low, facilitating excellent blending."
+}

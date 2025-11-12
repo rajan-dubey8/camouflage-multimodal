@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a rocky outcrop, characterized by rough, textured, grey-to-dark-grey stones with varied surfaces and some crevices. Interspersed with the rocks are sparse, woody branches with small green leaves and some patches of dry, straw-like vegetation, hinting at a dry, possibly Mediterranean-like environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage against the rocky background. Its dark grey and mottled skin coloration closely matches the hue and tonal variations of the grey rocks it is resting on. Furthermore, the rough, textured scales of the lizard mimic the uneven, weathered surface of the stone, creating a strong pattern match. The low contrast difference between the lizard's body and the rock, combined with its blend of colors and textures, makes it incredibly difficult to spot, suggesting an effective use of both color blending and pattern matching for concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a shallow water environment, likely a seabed or intertidal zone, covering a substrate composed of a dense, heterogeneous mix of small, irregular pebbles, gravel, and fragmented shells. The colors of the substrate vary widely, including light cream, white, various shades of brown, grey, reddish-brown, and some darker grey/black stones. The water appears clear, allowing for a detailed view of the seabed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The crab exhibits highly effective camouflage, blending seamlessly with its immediate environment. Its carapace and slender legs are patterned with a mottled mix of light beige, off-white, and brownish-grey, which precisely matches the dominant colors and varied textures of the surrounding pebbles, gravel, and broken shell fragments on the seabed. This excellent color blending and intricate pattern matching make its body and particularly its thin, irregularly shaped legs extremely difficult to distinguish from the background substrate. The low visual contrast and the way its patterns disrupt its outline contribute significantly to its concealment, making it very hard for a predator to spot."
+}

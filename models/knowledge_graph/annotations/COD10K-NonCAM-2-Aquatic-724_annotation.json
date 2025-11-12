@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Leafy Seadragon",
+  "background_description": "The background consists of dark, murky water at the top, transitioning to a textured, gravelly or sandy seabed at the bottom. There are some faint, dark, out-of-focus structures or plants in the mid-ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Leafy Seadragon, an aquatic fish known for its leaf-like appendages. The animal is distinctly visible against the dark background and sandy seabed, and despite its natural mimicry, it is not concealed or blended to the point of camouflage within the context of this non-camouflaged dataset."
+}

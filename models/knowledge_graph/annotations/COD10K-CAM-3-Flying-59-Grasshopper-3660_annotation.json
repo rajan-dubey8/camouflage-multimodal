@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of large, light-colored, rocky terrain with a rough, textured surface. There are also areas of dry soil, small twigs, dried leaves, and other organic debris scattered around the rocks, particularly in the lower right and background. The scene is illuminated by sunlight, creating distinct shadows, including one cast by the grasshopper itself.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The grasshopper exhibits excellent camouflage against the rocky background. Its coloration is a mottled grey-brown, which almost perfectly matches the hue and value of the sunlit parts of the rock. The insect's textured body and wing patterns mimic the rough, irregular surface of the stone, making it difficult to distinguish its form from the natural cracks and indentations of the rock. While the shadow it casts does provide some outline, the shadow itself helps integrate the creature into the uneven terrain, making it appear as just another bump or depression on the rock. The angular shape of the grasshopper also disrupts its outline, resembling fragments of the rock rather than a distinct organism. This combination of color, pattern, and shape blending results in very effective crypsis."
+}

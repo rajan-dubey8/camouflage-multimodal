@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists primarily of a weathered red brick wall with gray mortar lines. A vertical gray pipe runs alongside the figure. In the blurred background, another brick building with a reddish tiled roof and windows is visible, suggesting an urban or architectural environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The human figure, a sculpture integrated into a brick wall, exhibits strong camouflage. Its body, hat, and coat are meticulously crafted to replicate the reddish-brown color, rough texture, and distinct pattern of the surrounding bricks and gray mortar. This artistic integration causes the figure's silhouette to be disrupted and its form to blend seamlessly with the architectural structure. Although the face features a distinct bluish-gray color and some of the sculpture's 'mortar' lines are lighter than the actual wall's, the overall effect is a high degree of visual concealment, making it an excellent example of deliberate environmental blending through color and pattern matching."
+}

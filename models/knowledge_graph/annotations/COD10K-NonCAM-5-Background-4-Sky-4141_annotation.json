@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mountainous landscape with Great Wall",
+  "background_description": "The image features a vast natural landscape dominated by rolling green mountains covered in dense vegetation, indicative of forested terrain. Scattered throughout the mountains are patches of lighter, exposed rock. A section of a man-made structure, resembling the Great Wall, with a watchtower, traverses one of the mountain ridges. Above the mountains is a bright blue sky with numerous white, fluffy cumulus clouds of varying sizes and densities.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an outdoor mountainous landscape with a clear sky and clouds. There are no visible organisms (animals, insects, or fish) present in the scene. Therefore, there is no subject for camouflage to be evaluated against the environment, and no camouflage is detected."
+}

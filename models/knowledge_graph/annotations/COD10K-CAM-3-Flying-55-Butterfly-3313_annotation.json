@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a plant branch covered with numerous leaves of varying sizes. The leaves display a rich palette of colors, predominantly deep reddish-brown, vibrant red, and orange, with some patches of green, suggesting a plant with autumnal foliage or a specific species like a croton. Many leaves appear glossy or wet, reflecting light. Small green buds or berries are visible along the stem. The background is moderately blurred, emphasizing the butterfly.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The butterfly's wings are prominently marked with striking black and vivid, bright red stripes and circular spots. While the surrounding plant features various shades of red, reddish-brown, and orange leaves, the red on the butterfly is significantly more intense and vibrant, creating a strong visual contrast. The stark black areas of its wings also stand out against the generally lighter and more varied earthy tones of the foliage. The bold patterns and high-contrast coloration make the butterfly easily noticeable and do not allow it to blend into its environment, suggesting its colors may serve as a warning (aposematism) rather than for concealment."
+}

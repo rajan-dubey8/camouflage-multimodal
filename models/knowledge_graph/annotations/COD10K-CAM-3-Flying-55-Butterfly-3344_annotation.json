@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of various green and yellow-green leaves, some in sharp focus in the foreground, and others blurred into a bokeh effect in the mid-ground and background. Sunlight appears to be filtering through the foliage, creating bright spots. The overall environment is lush and verdant, typical of a leafy plant or tree.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Butterfly exhibits exceptional camouflage through mimicry. Its wings, when closed, are perfectly shaped, colored, and textured to resemble a green leaf. The light green/yellow-green coloration matches the surrounding foliage almost identically. The distinct 'veins' on its wings further enhance the leaf-like appearance, and a small brown spot on the wing mimics a blemish or natural imperfection often found on leaves. The irregular, slightly 'nibbled' edge of the wing also contributes to the illusion of a natural leaf. This combination of color, texture, and shape makes it incredibly difficult to distinguish the butterfly from the actual leaves in its environment, demonstrating a very high level of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a seabed covered densely with small, irregularly shaped pebbles and coarse sand grains. The coloration of the substrate is a mixture of light beige, off-white, light grey, various shades of brown, and occasional darker specks. The texture is rough and granular, with slight variations in light and shadow creating depth among the individual pebbles.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The flounders in the image demonstrate excellent camouflage. Their flat bodies lie flush with the pebbled seabed, eliminating any significant shadows or three-dimensional profile that would give them away. Their skin exhibits a mottled pattern composed of light browns, beiges, greys, and specks of darker pigment, which precisely matches the varied coloration of the surrounding pebbles and sand. Furthermore, the texture of their skin appears granular and speckled, mimicking the rough, composite texture of the substrate. This combination of color blending, pattern matching, and their flat, shape-disrupting form makes them incredibly difficult to distinguish from the environment, effectively breaking up their outline and reducing visual contrast."
+}

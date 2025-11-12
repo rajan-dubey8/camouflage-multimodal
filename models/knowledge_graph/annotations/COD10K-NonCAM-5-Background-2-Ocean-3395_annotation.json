@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The image features an underwater coral reef scene with clear, vibrant blue ocean water in the upper-left, transitioning to a dense coral formation on the right and bottom. The reef comprises various coral types, including light beige/white stony corals with fine branching or plate-like structures, yellowish-green corals with bumpy surfaces, and a prominent pink/purple brain-like coral with a convoluted texture. The underlying reef structure is rocky and somewhat mottled, with areas of shadow and varying shades of brown and grey.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image predominantly displays an underwater coral reef environment. No distinct animal organism (such as a fish, crab, or other marine creature) is visibly present and attempting to conceal itself through camouflage against the coral structures or the water. The corals themselves are organisms, but the scene as a whole is an environment, and no creature is using camouflage within it."
+}

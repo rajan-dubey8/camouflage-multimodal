@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Dark-eyed Junco",
+  "background_description": "The background consists of a blurry, muted light brownish-beige tone, likely distant trees or ground in a winter setting. Snowflakes are visibly falling throughout the scene. The bird is perched on a weathered, rough wooden log or stump that is partially covered with fresh white snow.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Dark-eyed Junco exhibits color blending camouflage. Its dark gray upper plumage and head blend well with the muted, somewhat darker tones of the weathered wooden stump it's perched on, as well as the ambiguous, blurry brownish-beige background. The white underparts effectively blend with the snow covering the stump and the falling snowflakes, providing countershading that reduces the bird's perceived three-dimensionality against the lighter elements of its snowy environment. While the bird is clearly visible, its coloration helps it to integrate into the overall desaturated and varied tones of a winter landscape, reducing its conspicuousness to predators and prey alike."
+}

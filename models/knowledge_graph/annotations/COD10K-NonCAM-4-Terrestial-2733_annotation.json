@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background consists of out-of-focus green and brown foliage, likely trees or bushes, creating a dappled effect with blurred light and shadow patches. There are hints of bright sky at the top, suggesting an outdoor, natural savanna or bushland environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The giraffe exhibits camouflage through its distinctive spotted pattern and coloration. The warm brown and tan hues of its fur closely match the dry vegetation, tree bark, and earthy tones commonly found in its natural savanna habitat. The irregular, high-contrast spots serve as a disruptive pattern, breaking up the giraffe's large outline and making it harder for predators to distinguish its shape against the dappled light and shadow created by trees and foliage. While the background in this image is blurry, the principle of its camouflage still applies, demonstrating how its natural patterning is designed for blending into varied environments."
+}

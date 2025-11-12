@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Coral reef with fish",
+  "background_description": "A vibrant underwater coral reef featuring diverse hard corals, including branching, plate-like, and table corals, in various shades of brown, green, purple, and blue. The water is clear, transitioning from bright blue near the surface to a deeper hue, with sunlight dappling the water's surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "A small fish with distinct black and white stripes is clearly visible swimming above the coral reef. Its sharp, high-contrast coloration and smooth texture do not blend with the varied, often muted colors and rough textures of the surrounding coral structures. The fish stands out prominently against the background rather than being concealed, indicating no effective camouflage in this scene."
+}

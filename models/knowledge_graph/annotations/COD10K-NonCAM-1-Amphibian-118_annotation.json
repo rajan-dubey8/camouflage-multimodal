@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree frog",
+  "background_description": "The background consists of a thick, moss-covered branch or stem in the foreground, displaying various shades of green, brown, and dark organic matter. The textures are rough and irregular, with small plant growths and sporophytes visible. The deeper background is dark, almost black, suggesting a dense forest environment or night-time conditions, with only faint, blurry hints of green.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The tree frog displays effective camouflage primarily through its color blending and texture matching. Its mottled reddish-brown skin with a granular, bumpy texture closely resembles the rough, organic surface of the moss-covered branch it is resting on, as well as the bark, soil, or dried vegetation commonly found in its habitat. While its color isn't a perfect match for the vibrant green moss in the immediate vicinity, the earthy tones allow it to blend with the varied browns and greens of a forest floor or tree bark. The high texture similarity helps break up its outline, making it less discernible against the irregular surface of the branch. The contrast difference is medium as the frog is relatively well-lit against a darker background, but its form is softened by its textured skin and the similarly textured perch."
+}

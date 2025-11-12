@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of an old, weathered brick wall made of reddish-brown to brownish-orange bricks. The mortar lines are visible, and some bricks show signs of wear, chipping, and variations in color and texture. The upper left portion of the image shows a bright, plain white sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The cicada is dark, almost black, and sits prominently on a light reddish-brown brick wall. Its dark coloration creates a high contrast against the lighter background, making it easily visible. The smooth, somewhat glossy texture of the cicada also does not match the rough, porous texture of the bricks. Its distinct shape is not broken up or disguised by any patterns or features of the wall. Therefore, the cicada does not blend with its environment and exhibits no discernible camouflage in this image."
+}

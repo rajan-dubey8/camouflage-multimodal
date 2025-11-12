@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical river forest",
+  "background_description": "The scene shows a dense tropical jungle spanning the banks of a river under an overcast sky. The vegetation is extremely lush, comprising various types of tall trees, abundant vines, and thick undergrowth, all in multiple shades of deep and vibrant green. The textures are rich and organic, depicting intricate foliage, tree trunks, and tangled plant structures. The sky above is uniformly dark grey, indicating overcast or possibly stormy weather. The lower part of the image features the surface of a river, appearing dark and somewhat murky brown or green, with subtle ripples.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily displays a natural environment consisting of a tropical river and a dense, lush forest. No visible organisms (animals, insects, or fish) could be identified after a thorough scan of the main image and its detailed crops. Therefore, no camouflage is present as there is no camouflaged entity to assess."
+}

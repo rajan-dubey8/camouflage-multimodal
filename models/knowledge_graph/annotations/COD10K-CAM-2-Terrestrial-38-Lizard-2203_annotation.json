@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of lush green foliage. In the foreground, there are sharply focused vibrant green leaves with visible veins and slightly serrated edges, attached to reddish-brown stems. Further back, the leaves and vegetation are out of focus, creating a soft, blurred backdrop of various shades of green, with some hints of darker, possibly brown, areas. The lizard is perched on a slender, textured brown branch.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard demonstrates excellent camouflage through color blending. Its entire body is a vibrant shade of green that very closely matches the color of the surrounding leaves and foliage. This high color similarity makes it incredibly difficult to distinguish the lizard from its environment at first glance. While its scaled texture differs from the smooth texture of the leaves, the overwhelming color match and low contrast difference effectively conceal its presence. Its positioning on a branch within the dense green vegetation further enhances its ability to blend in, making its distinct reptilian shape less obvious against the complex natural backdrop."
+}

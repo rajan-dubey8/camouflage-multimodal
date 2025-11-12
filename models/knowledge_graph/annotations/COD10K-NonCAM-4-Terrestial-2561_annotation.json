@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gazelle",
+  "background_description": "The background consists primarily of dry, reddish-brown sand or dirt. There are sparse patches of green vegetation and some lighter, possibly rocky or concrete, areas in the blurred distance. The ground texture is granular and uneven.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The gazelle exhibits effective camouflage through color blending. Its tan-brown fur closely matches the dominant reddish-brown color of the sandy and dirt environment, making it blend in visually. While the texture of its smooth fur differs from the granular ground (low texture similarity), the high color similarity and low overall contrast with the background significantly reduce its visibility, aiding in avoiding detection by predators."
+}

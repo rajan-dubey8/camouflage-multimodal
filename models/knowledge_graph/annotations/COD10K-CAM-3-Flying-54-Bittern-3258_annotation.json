@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense growth of tall, slender wetland grasses or reeds, primarily in shades of golden-brown and light brown, with some interspersed green stems, suggesting a mix of dry and live vegetation. These reeds are growing out of shallow water, which shows reflections of the vegetation and a bright, hazy, light grey or white sky above. The upper portion of the background is a soft, desaturated, light sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage in this environment. Its plumage is a complex pattern of browns, beiges, and darker vertical streaks, which closely matches the colors and textures of the surrounding golden-brown and light brown reeds. This provides a high degree of color similarity. The vertical streaking on the bird's body and neck effectively mimics the vertical lines of the reeds, making it difficult to discern its outline and contributing to pattern matching and shape disruption. While the bird is visible in the frame, its inherent coloration and patterning are perfectly adapted to blend with such wetland vegetation, significantly reducing its contrast against the background and making it less conspicuous to predators or prey."
+}

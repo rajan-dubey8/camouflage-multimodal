@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a large, rough rock surface. The rock exhibits varying shades of dark gray and brownish-gray, with irregular textures, cracks, and crevices. The surface is uneven and mottled, showing natural wear and weathering.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad displays excellent camouflage against the rough rock surface. Its mottled brown and gray coloration perfectly matches the varying shades and tones of the rock, resulting in a high degree of color similarity. The toad's bumpy and irregular skin texture also closely mimics the rough, uneven texture of the stone, contributing to a high texture similarity. Furthermore, the overall contrast between the toad and its immediate environment is very low, making its outline difficult to discern. The irregular shape of the toad also helps disrupt its form against the uneven rock. This combination of color blending, pattern matching, and shape disruption allows the toad to disappear almost seamlessly into its rocky habitat, making it very difficult for a predator to spot."
+}

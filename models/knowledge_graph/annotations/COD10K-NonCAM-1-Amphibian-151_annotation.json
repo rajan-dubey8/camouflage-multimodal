@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of an earthy, rough-textured surface, likely soil or a tree stump, with shades of brown, grey, and subtle hints of mossy green. It appears uneven and naturally textured, slightly out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The toad exhibits strong camouflage through color blending and texture matching. Its mottled dark brown, grey, and olive-green skin tones closely match the earthy hues of the ground it rests upon. The bumpy, warty texture of its skin further mimics the rough, irregular surface of the background, making it difficult to distinguish. This high similarity in both color and texture, along with a low contrast difference, effectively hides the toad in its environment, characteristic of effective crypsis."
+}

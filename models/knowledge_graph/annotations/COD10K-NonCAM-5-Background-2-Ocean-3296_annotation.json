@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small reef fish",
+  "background_description": "The underwater environment features a sandy seafloor interspersed with rocks and coral formations, heavily covered in green and brown algae, creating a mottled and textured background with varying shades of green, brown, and light sand. There are also darker, spiky sea urchins present.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The small reef fish exhibits color blending camouflage. Its greenish-yellow coloration allows it to somewhat merge with the green algae and textured surface of the rock it is resting on, helping it to avoid detection in the underwater environment. While its color similarity to the background is medium, its smooth texture contrasts with the rough, irregular background, resulting in a medium overall contrast difference and limiting the effectiveness of its camouflage. The sea urchins are dark and blend with the shadows and darker areas of the seafloor, but their distinct spiky form makes them somewhat noticeable."
+}

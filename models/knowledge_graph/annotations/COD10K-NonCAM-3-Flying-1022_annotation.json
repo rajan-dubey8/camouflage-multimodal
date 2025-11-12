@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Stink bug",
+  "background_description": "The background consists of an off-white to light gray, somewhat textured surface, possibly a wall or synthetic material, with subtle imperfections and darker specks. A blurred, vibrant teal or blue line, possibly a wire or string, is visible on the right side.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.3,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The stink bug possesses natural camouflaging features, specifically a disruptive pattern of mottled brown, black, and reddish-brown coloration that breaks up its outline. This pattern is typically effective for blending into natural environments like tree bark or dried leaves. However, in this specific image, the insect is positioned against a light, off-white background which strongly contrasts with its dark patterns. While the organism inherently has camouflage, its effectiveness is low in this particular setting due to the significant color and contrast difference with the background."
+}

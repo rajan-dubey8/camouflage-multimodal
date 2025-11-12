@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "StickInsect",
+  "background_description": "The background consists of a main sturdy tree branch covered with small green leaves in the upper portion, suggesting a live plant. Below and around the branch, there is a blurred, out-of-focus environment composed primarily of dry, light brown/yellow grasses and possibly distant dried vegetation, indicating a natural, possibly arid or late-season setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The stick insects exhibit exceptional mimicry, flawlessly resembling the twigs and branches of their environment. The darker stick insect's body is mottled grey-brown, virtually indistinguishable in color and texture from the main branch it is clinging to. Its elongated, cylindrical shape and segmented legs perfectly imitate the irregular contours of woody plant material. The lighter, yellowish-brown stick insect also blends remarkably well, resembling a drier, thinner twig or the dried grasses in the blurred background. This combination of matching shape, color, and surface texture makes them incredibly difficult to detect, providing highly effective concealment from predators."
+}

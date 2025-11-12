@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Damselfish",
+  "background_description": "The background consists of clear blue open water, with blurred coral structures or rocks visible in the lower half of the image. The coral appears to have beige and brownish tones, providing a habitat. Another fish with vibrant purple and yellow markings is partially visible in the bottom right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A small, silvery-grey fish with a yellowish tint on its belly and fins is clearly visible against the blue water and coral background. Its coloration does not blend with the surroundings, indicating a complete absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with airplane",
+  "background_description": "The foreground features a sandy beach, varying in texture from fine to slightly gravelly, with subtle ripples and small patches of green vegetation. The midground is dominated by the ocean, characterized by blue-green waters and gentle white-capped waves approaching the shore. In the distant background, hazy, layered mountains in muted blue-grey tones rise under a sky that transitions from a pale, warm orange-yellow near the horizon to a lighter, clearer hue higher up.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a coastal landscape with a man-made object, an airplane, prominently displayed on the sandy beach. There are no animals, insects, or fish (organisms) visible in the image. According to the specified rules, if no organism is present, camouflage detection is not applicable. The airplane itself is white with red markings, making it stand out significantly against the brown tones of the sand, the blue of the ocean, and the pale sky and mountains, demonstrating a high contrast difference with its surroundings rather than blending in."
+}

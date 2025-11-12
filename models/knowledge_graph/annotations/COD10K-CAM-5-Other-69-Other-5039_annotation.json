@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gorilla",
+  "background_description": "The background consists of dense, dark jungle foliage with various leaves, branches, and tree trunks partially visible. The overall environment appears cluttered with natural elements, creating a visually complex and dark setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The gorilla is camouflaged by the dense jungle foliage. The branches and leaves in the foreground and background create a strong disruptive pattern, effectively breaking up the gorilla's outline and making it difficult to distinguish from the surrounding vegetation. While the image is monochromatic, the high tonal similarity between the gorilla's dark fur and the dark shadows and foliage in the background contributes significantly to its concealment. The visual clutter from the overlapping leaves and branches further enhances this effect, making it challenging to spot the animal immediately."
+}

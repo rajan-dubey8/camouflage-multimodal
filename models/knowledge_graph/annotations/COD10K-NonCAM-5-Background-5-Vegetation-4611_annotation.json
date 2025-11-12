@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lush forest landscape",
+  "background_description": "The image captures a dense, lush tropical forest canopy under an overcast sky. The treeline dominates the lower two-thirds of the frame, showing a rich variety of green foliage, from dark emerald to lighter lime, with varying textures of leaves and branches. Some lighter-colored tree trunks or dead branches are visible contrasting against the green. The upper third of the image is filled with a uniform, light grey cloudy sky, indicating an overcast day.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment, specifically a dense forest canopy under a cloudy sky. There are no discernible animals, insects, or other organisms visible within the frame that could be exhibiting camouflage. Therefore, the concept of camouflage is not applicable, and no camouflage is detected."
+}

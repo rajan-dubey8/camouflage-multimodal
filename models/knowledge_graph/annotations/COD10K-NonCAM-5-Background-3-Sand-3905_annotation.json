@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach",
+  "background_description": "The scene depicts a sandy surface, likely a beach or riverbed, characterized primarily by light beige to off-white fine-grained sand. Intricate patterns of darker, grayish-purple material, possibly wet sand or heavier minerals, streak across the lighter sand, creating flowing, undulating lines and patches. The texture varies, with some areas appearing smooth and others showing subtle ripples and grooves. A few scattered, smooth, dark grey pebbles are visible on the sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image or any of the provided crops. The image exclusively displays an environmental scene consisting of sand with natural patterns and a few pebbles, therefore no camouflage is present."
+}

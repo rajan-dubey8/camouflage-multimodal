@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The cicada is perched on a textured, woody branch. The branch has a rough, somewhat flaky bark-like appearance with a mottled pattern of various shades of brown, grey, and hints of lighter, possibly lichen-covered, patches. The background behind the branch is heavily blurred, appearing as a soft, light, out-of-focus greyish-blue wash, suggesting a distant sky or foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Cicada demonstrates excellent camouflage in this image. Its body coloration, which consists of mottled greys, browns, and lighter specks, perfectly mimics the hues and patterns found on the bark of the branch it is resting on. The intricate texture of its exoskeleton, particularly on the thorax and abdomen, closely resembles the rough and irregular surface of the wood. This high degree of color and texture similarity, coupled with the low contrast between the organism and its immediate environment, makes it very difficult to distinguish the cicada from the branch, effectively concealing it from potential predators. The transparent wings with dark veins also blend relatively well with the linear patterns often found on bark."
+}

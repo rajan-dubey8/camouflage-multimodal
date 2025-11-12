@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists of a vast, open savanna landscape with dry, yellowish-brown grass and sparse, bare shrubs or small trees towards the horizon. Above, the sky is partly cloudy, featuring light blue and white/grey cumulus clouds.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features a zebra, an organism known for its distinctive black and white stripes. These stripes are a classic example of disruptive pattern camouflage. While the zebra stands out clearly against the bright sky and dry grassland in this particular scene, its stripes function to break up its body outline, making it difficult for predators (especially at a distance or within a herd) to discern individual animals or their true size and movement. The color similarity between the zebra's stripes and the environment is low, and the texture similarity is also low. The contrast difference between the zebra's stripes and its immediate background is high, which in some conditions (like dappled light or a moving herd) can contribute to the disruptive effect. Although not perfectly blended in this static, bright image, the zebra's pattern is an evolutionary adaptation for camouflage."
+}

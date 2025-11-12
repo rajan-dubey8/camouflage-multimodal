@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists primarily of light brown to yellowish-white sand, with scattered darker patches of sediment, small pebbles, and some strands of green and dark brown aquatic vegetation or algae, particularly on the right side of the image.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Flounder exhibits excellent camouflage in this image. Its dorsal surface perfectly matches the sandy substrate in both color and texture. The base color of the fish is a light, sandy beige, mirroring the dominant background color. Furthermore, it has irregular dark brown spots and flecks that mimic small stones, debris, or shaded areas within the sand. The small, light blue-ringed spots scattered across its body add to the disruptive coloration, breaking up its outline and creating a pattern that blends with the varied texture of the seafloor. The overall effect is a seamless integration with its environment, making it very difficult to distinguish from the surrounding sand and minor debris."
+}

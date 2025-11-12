@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Baltimore Oriole",
+  "background_description": "The background features a rustic, reddish-brown wooden bird feeder with visible grain and two small glass cups containing food. Behind the feeder, the environment is a soft, out-of-focus blur of muted green and blue tones, suggesting distant foliage or natural scenery.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Baltimore Oriole displays striking black and bright orange plumage, which stands out prominently against the reddish-brown wooden bird feeder and the blurred, muted green-blue natural background. These vibrant colors are designed for display and communication rather than for concealment, resulting in a high contrast with its surroundings. Therefore, no camouflage is present in this scene."
+}

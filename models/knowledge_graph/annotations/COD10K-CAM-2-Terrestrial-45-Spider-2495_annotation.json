@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of rough tree bark, characterized by deep furrows, ridges, and various textures. The bark displays a complex palette of colors, including light to dark browns, yellowish-green patches (likely moss or lichen), and some lighter, almost white, irregular spots. The surface is uneven and visually fragmented.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits outstanding camouflage by almost perfectly mimicking its tree bark environment. Its body and legs are covered in a highly variegated pattern of greens, browns, and grays that precisely match the colors of the bark, including the lichen and moss growing on it. The intricate textures on the spider's exoskeleton, with its bumps and ridges, blend seamlessly with the rough, irregular surface of the bark, making it incredibly difficult to discern where the organism ends and the tree begins. The spider's splayed posture and irregular shape further contribute to 'shape disruption,' breaking up its outline and preventing it from standing out as a distinct entity against the complex background. The overall effect is a remarkably low contrast difference, rendering the spider virtually invisible."
+}

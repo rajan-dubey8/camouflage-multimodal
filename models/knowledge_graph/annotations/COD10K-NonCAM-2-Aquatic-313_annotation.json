@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Spotted Scat",
+  "background_description": "The background consists of a uniform light green plastic bucket or container. The surface is smooth with some faint circular indentations from the container's bottom. It's an artificial environment, not a natural aquatic habitat.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Spotted Scat fish with a dark grey body covered in prominent black spots and yellowish fins. It is placed in a bright, uniform light green plastic container, which is an artificial environment. The fish stands out distinctly against this background, confirming that no camouflage is present in relation to its surroundings."
+}

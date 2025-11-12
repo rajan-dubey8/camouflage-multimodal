@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a body of water completely covered by a dense layer of small, bright green aquatic plants, likely duckweed. Scattered among the green plants are some darker, brownish plant debris. The overall texture of the water surface is granular and irregular due to the plant coverage, with a uniform, vibrant green color dominant.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The crocodile is exceptionally well camouflaged in this image. Its head and upper body are almost entirely covered by the same bright green aquatic plants (duckweed) that dominate the water's surface. This natural accumulation of plant matter on its rough skin perfectly matches the color and texture of the surrounding environment. The granular appearance of the duckweed on its head blends seamlessly with the duckweed-covered water, effectively disrupting its outline and making it very difficult to distinguish from the background. The only discernible feature is its eye, which still shows natural coloration that doesn't overtly stand out. The overall contrast between the crocodile and its environment is very low."
+}

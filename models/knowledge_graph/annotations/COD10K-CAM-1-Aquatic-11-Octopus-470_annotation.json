@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The underwater environment consists of a rocky seafloor, heavily textured with irregular formations, some appearing to be coral and others encrusted with greenish-brown algae and fine detritus. Lighter sandy or gravel patches are visible between the larger rocks. The water is clear but contains suspended particulate matter, and the overall lighting casts a blue-green tint from the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending, Pattern matching",
+  "explanation": "The Octopus exhibits strong camouflage by skillfully matching both the color and texture of its surroundings. Its skin displays a mottled pattern of reddish-browns, pale beiges, and hints of green, which closely mimics the algae-covered rocks and sandy patches on the seafloor. Furthermore, the octopus has adapted its skin texture to appear rough and bumpy, effectively blending with the irregular, encrusted surfaces of the coral and rocks. While its overall form is still discernible due to its size, the high similarity in color and texture significantly reduces its visibility, making it blend well into the complex underwater environment, characteristic of active camouflage in cephalopods."
+}

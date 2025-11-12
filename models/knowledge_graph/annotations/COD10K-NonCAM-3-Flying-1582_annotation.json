@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Prothonotary Warbler",
+  "background_description": "The bird is perched on a textured, weathered wooden branch or stump. The background is a highly blurred natural environment, showing soft green hues of distant foliage and lighter, almost white, out-of-focus areas, suggesting bright light or open sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's vibrant yellow plumage creates a high contrast against the muted green and light tones of the blurred background. Its bright coloration is not designed for blending into this environment, but rather is characteristic of its species, likely serving purposes such as attracting mates or territorial display. Therefore, no camouflage is present."
+}

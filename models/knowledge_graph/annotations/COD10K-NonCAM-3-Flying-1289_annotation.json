@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Magpie-Robin",
+  "background_description": "The background consists primarily of bare tree branches, light brown to reddish-brown in color, with some visible texture and faint patterns typical of bark. Behind these branches, a clear, light blue sky is visible, suggesting an open outdoor environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird exhibits stark black and white plumage, creating a high contrast against both the brown branches it is perched on and the blue sky behind it. Its distinct coloration does not blend with the colors or textures of its immediate environment. There are no patterns or color gradients that mimic the bark, leaves, or sky, making the bird highly visible. Therefore, no camouflage is present."
+}

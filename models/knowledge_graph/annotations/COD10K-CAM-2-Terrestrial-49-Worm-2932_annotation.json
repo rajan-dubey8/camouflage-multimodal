@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of various green leaves, some in sharp focus revealing veins and slightly chewed edges, while others are blurred into a soft, gradient of lighter to darker green foliage in the distance. The organism is positioned on the underside of a bright green leaf.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The organism, identified as a 'Worm' (which appears to be a caterpillar), exhibits excellent camouflage primarily through color blending. Its body is a vibrant lime green, almost perfectly matching the exact hue and brightness of the surrounding leaves, especially the leaf it is resting upon. This high color similarity results in a very low contrast difference, making the organism blend seamlessly into its leafy environment and very difficult to spot at first glance. While its texture is slightly different from the smooth leaf surface, the overwhelming color match makes it effectively concealed."
+}

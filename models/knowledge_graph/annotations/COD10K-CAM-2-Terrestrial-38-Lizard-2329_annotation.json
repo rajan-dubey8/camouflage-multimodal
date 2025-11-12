@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background environment is dominated by a rocky landscape. The rocks exhibit varied textures, ranging from smooth patches to rough, granular surfaces, and appear to be covered in patches of lichen or moss, giving them a mottled appearance. Colors include shades of dark brown, gray, greenish-gray, and lighter yellowish-tan, with some brighter white streaks or mineral deposits. The lighting creates natural highlights and shadows across the uneven surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage in this image. Its body coloration, which is a light brownish-tan with intricate patterns of darker speckles and lines, almost perfectly matches the hues and textures of the light yellowish-tan rock it is resting upon. The pattern on its skin helps to break up its outline, making it blend seamlessly with the granular and mottled surface of the rock. The contrast difference between the lizard and its immediate background is very low, making it difficult to distinguish the organism from the rocky environment without close inspection. This effective blending of both color and pattern makes the lizard highly inconspicuous."
+}

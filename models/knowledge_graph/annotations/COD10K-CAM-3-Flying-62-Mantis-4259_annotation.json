@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a textured, light grey concrete or rock surface. Various dried and some green plant leaves and thin stems are growing along this surface, particularly in the mid-ground where the organism is located. The background shows varying degrees of focus, with the immediate area around the mantis being moderately sharp, while areas further away and closer to the foreground are blurred.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The Mantis exhibits exceptional camouflage through mimicry. Its body coloration is a brownish-grey, perfectly matching the dried leaves and stems it is positioned among. Its body shape is highly adapted to resemble dead or dried plant material, with various protrusions and angles that break up its outline and make it indistinguishable from the surrounding foliage. The texture of the Mantis's exoskeleton also blends seamlessly with the rough textures of the dried leaves and the granular concrete surface. The contrast difference between the Mantis and its immediate environment is very low, making it extremely difficult to discern the organism at first glance, effectively concealing it from predators or prey."
+}

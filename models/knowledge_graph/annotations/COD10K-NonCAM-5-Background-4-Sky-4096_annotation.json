@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban nightscape with mosque minaret",
+  "background_description": "The sky is dominated by dense, dark blue-grey clouds, creating a somber and deep blue atmosphere. Artificial light from streetlamps and illuminated buildings contrast with the dark background.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts an urban environment at night, featuring buildings and a prominent mosque minaret under a dark, cloudy sky. There are no visible animals, insects, or any other organisms present in the scene. Therefore, the concept of camouflage does not apply to this image, and all related camouflage metrics are set to default 'none' or '0.0' as per the rules."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of large, rugged rocks with a coarse, uneven texture. The rocks exhibit a mottled greyish-brown coloration with variations in shade, showing lighter worn areas and darker, possibly damp or shadowed patches. The lighting highlights the rough surface, creating subtle shadows and highlights that enhance the texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The crab demonstrates excellent camouflage against the rocky background. Its carapace and legs feature a mottled pattern of dark brown, reddish-brown, and purplish-grey tones, which perfectly mimic the varied coloration of the wet, textured rock surface. The rough, bumpy texture of the crab's shell and legs further blends with the ruggedness of the rock, preventing it from standing out as a smooth, distinct object. The overall contrast between the crab and its immediate surroundings is very low, making it difficult to discern its outline and form. This combination of color, pattern, and texture matching allows the crab to blend seamlessly with its environment."
+}

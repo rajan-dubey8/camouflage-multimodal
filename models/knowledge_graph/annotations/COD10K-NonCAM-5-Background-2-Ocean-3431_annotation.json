@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Slender reef fish",
+  "background_description": "An underwater coral reef scene dominated by a large, prominent brain coral structure with rounded, irregular lobes in green-brown hues. Smaller, darker coral growths and faint outlines of other marine organisms are visible in the background and surrounding the main coral. The water is clear, creating a blue-green ambient light environment, with some sunlight dappling through the water.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "A very small, slender fish is visible camouflaged on the surface of the large brain coral. Its body coloration is pale, almost translucent, closely matching the lighter tones of the coral and the ambient blue-green water. The fish's elongated and thin shape, combined with its lack of distinct patterns or strong outlines, helps it blend seamlessly with the irregular, lumpy texture of the coral and the visual noise of the underwater environment. This low contrast and color similarity make the fish very difficult to spot, indicating effective color blending camouflage."
+}

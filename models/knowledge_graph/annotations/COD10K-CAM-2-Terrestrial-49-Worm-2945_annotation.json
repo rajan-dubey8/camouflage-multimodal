@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The organism is situated on a sturdy, brown, slightly textured branch with small, dried remnants of needles or buds. Surrounding this branch is a dense cluster of vibrant green pine needles, some sharply in focus and others gently blurred. The distant background is an out-of-focus reddish-brown hue, likely soil or other organic matter.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The worm exhibits strong camouflage, primarily through excellent color blending. Its bright green body perfectly matches the hue of the surrounding pine needles, making it challenging to spot at first glance. While the white longitudinal stripes provide some contrast, they also contribute to disruptive coloration by breaking up the solid green form, making it harder for a predator to perceive its full outline. Its elongated, somewhat cylindrical shape also allows it to integrate visually with the linear elements of the pine needles and the branch, further aiding its concealment. Although its texture differs slightly from the rougher branch, its color and pattern against the needles are highly effective."
+}

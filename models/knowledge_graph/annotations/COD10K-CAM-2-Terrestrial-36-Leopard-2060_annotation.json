@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists primarily of dense, dry, golden-brown grass stalks, varying in height and density. There are also darker patches of soil and some sparse green foliage intermingled with the dry grass, creating a textured and somewhat mottled appearance. The lighting appears natural, casting subtle shadows and highlights across the vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The leopard's coat demonstrates excellent camouflage in this natural environment. Its golden-yellow base color perfectly matches the predominant dry, golden-brown hues of the tall grass. The black rosettes on its fur effectively mimic the shadows and dark patches created by the dense vegetation and uneven ground, contributing to 'pattern matching'. Furthermore, the tall blades of grass partially obscure the leopard's body, helping to disrupt its overall shape and outline, making it difficult for an observer to distinguish it from the background. The combination of color, pattern, and the cover provided by the environment results in highly effective camouflage."
+}

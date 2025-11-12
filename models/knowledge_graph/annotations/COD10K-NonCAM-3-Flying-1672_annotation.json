@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Common Starling",
+  "background_description": "The bird is perched on a dark brown, gnarled tree branch. To its right are younger branches with fresh green and reddish-brown leaves and bright green catkins. The background consists of heavily blurred green foliage and hints of distant structures, creating a soft, out-of-focus natural environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.3,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Common Starling, with its iridescent dark plumage adorned with prominent white speckles, is clearly visible against the backdrop of green and reddish-brown leaves and a blurred natural environment. While its dark color might offer some slight blending with the tree branch it perches on or shadowed areas, its distinctive speckled pattern and overall form stand out, indicating that it is not effectively camouflaged in this setting. The bird's markings appear more for individual recognition or display rather than concealment."
+}

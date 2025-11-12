@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Soft coral",
+  "background_description": "The background consists of a rocky seafloor or aquarium substrate, composed of various sizes of light grey, white, and dark brown pebbles and fragments. There are also other coral structures, some appearing smooth and rounded in the foreground, and others more textured or branched in the mid-ground, with muted tones of brown, pink, and grey.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The soft coral exhibits effective camouflage through color and texture blending. Its main body is a light brownish-beige color, which closely matches the neutral tones of the surrounding rocky substrate and other coral structures. The numerous extended polyps, while having distinct white tips, create a complex, 'busy' texture that helps the organism blend with the similarly varied and irregular textures of the reef environment. The overall low contrast between the coral and its immediate background significantly reduces its visibility, making it difficult to distinguish from the natural clutter of the underwater setting."
+}

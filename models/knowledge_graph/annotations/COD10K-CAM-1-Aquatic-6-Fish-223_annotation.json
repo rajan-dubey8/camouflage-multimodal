@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of dark, irregular rocks forming a shadowy crevice, intertwined with dense, feathery, purplish-red marine algae. The immediate vicinity of the fish is very dark, appearing as deep grey or black, with the textured algae providing a bushy, intricate covering around and partially over the fish. A larger, more uniform brown-orange mass, possibly another type of algae or rock, is visible in the lower right.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shadow hiding / Shape disruption",
+  "explanation": "The fish is effectively camouflaged within its environment. Its dark purplish-blue coloration closely matches the deep shadows and the dark tones of the surrounding rocks and especially the dense, purplish-red feathery marine algae. The algae significantly aids in breaking up the fish's outline and obscuring its body, making it difficult to discern its true shape. The low contrast between the fish and its immediate background, combined with its position deep within a shadowed crevice and covered by textured flora, contributes to its successful concealment. While its eyes are somewhat visible upon closer inspection, its overall form is well integrated into the visual noise of the environment."
+}

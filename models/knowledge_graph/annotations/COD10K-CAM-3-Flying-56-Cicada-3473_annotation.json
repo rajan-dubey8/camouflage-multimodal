@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a rough-textured tree trunk or branch, extensively covered in various types of green moss, some dried brown moss or plant matter, and a distinct green stem running vertically. The environment has a detailed, textured appearance with a blend of earthy green and brown tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Cicada demonstrates excellent camouflage in this image. Its body and wings exhibit a complex pattern of greens, browns, and blacks that perfectly mimic the surrounding moss and bark. The vibrant green on its head and parts of its body matches the lush green moss, while the intricate, veined patterns on its wings blend seamlessly with the fine textures of the moss and dried vegetation. This combination of color matching and pattern mimicry effectively disrupts the cicada's outline, making it difficult to distinguish from the environment. The overall contrast between the organism and its background is low, allowing it to blend in very well."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk",
+  "background_description": "The background consists primarily of vibrant green grass, well-lit by direct sunlight, creating distinct shadows. There are also blurred brown areas behind the elk, likely another animal or dried earth, which are out of focus.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The elk's dark brown fur contrasts significantly with the bright, vibrant green grass it is resting on. While an elk's coloration can offer camouflage in environments like forests or dry grasslands, in this specific context against a fresh green lawn, it stands out clearly. There is no visual blending of colors or textures with the immediate background, nor any disruptive patterns or mimicry that would aid in concealment."
+}

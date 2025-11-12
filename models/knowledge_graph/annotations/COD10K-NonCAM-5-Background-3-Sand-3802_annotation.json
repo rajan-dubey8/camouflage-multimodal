@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Snow-dusted sand dunes",
+  "background_description": "A vast desert landscape featuring numerous undulating sand dunes. The sand is predominantly golden-brown and orange, with areas illuminated by sunlight and others in shadow, creating a natural gradient. Patches of white snow cover sections of the dunes, particularly in shaded depressions and on some slopes, contrasting with the sand. The sky above is a pale, clear blue.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural desert environment consisting of sand dunes partially covered in snow. While two very small human figures are visible in the distance, they are not the main subject of the image according to the 'mainly shows' rule for entity_type. Furthermore, their brightly colored clothing (red and blue) creates a high contrast against the natural background of golden sand and white snow, making them easily discernible rather than camouflaged. Therefore, no organism in this scene exhibits camouflage."
+}

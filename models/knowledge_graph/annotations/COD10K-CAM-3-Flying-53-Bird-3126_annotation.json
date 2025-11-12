@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of dry, reddish-brown soil and leaf litter. Numerous fallen dry leaves in shades of brown, tan, and faded yellow are scattered across the ground. There are also patches of vibrant green leaves from various plants and some dark, bare twigs or branches. In the immediate foreground, a dense bush with dark reddish-brown leaves partially obscures the lower part of the scene.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits excellent camouflage due to its plumage colors closely matching the surrounding environment. Its feathers are predominantly brown and light tan with subtle streaking, which blends seamlessly with the dry soil and the multitude of scattered dry leaves. The variation in the bird's feather texture and pattern also mirrors the irregular, mottled appearance of the ground cover, including twigs and diverse leaf shapes. This high color and texture similarity, combined with a low contrast difference between the bird and its surroundings, makes the bird's outline difficult to discern, effectively hiding it from casual observation. The streaky patterns on its body help break up its distinct shape, further enhancing its camouflage."
+}

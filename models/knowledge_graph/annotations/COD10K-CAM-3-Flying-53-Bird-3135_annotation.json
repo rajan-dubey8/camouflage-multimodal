@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a sprawling, dry, and rugged moorland or hillside landscape. It is predominantly covered in a mix of light brown and tan dried grasses and straw, intermingled with dense clumps of dark reddish-brown heather or similar low-lying shrubbery. Patches of olive-green moss are also visible, creating a varied, textured ground cover. The terrain appears uneven and undulating, suggesting a natural, uncultivated environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The bird, a raptor in flight, stands out prominently against the background. While its plumage features earthy tones of mottled brown and gray that share some color similarity with the dry vegetation and soil, its distinct silhouette, outstretched wings, and the lighter undersides of its body (including a noticeable white rump patch) create a high contrast against the textured but relatively uniform background. The bird's movement and clear outline prevent any effective blending of its shape or pattern with the environment. There is little to no texture similarity between the bird's feathers and the coarse vegetation of the background. Therefore, the bird is not camouflaged in this image."
+}

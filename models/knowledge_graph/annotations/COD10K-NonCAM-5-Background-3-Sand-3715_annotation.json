@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal waters",
+  "background_description": "The image features a rugged rocky coastline meeting the ocean. The rocks are dark, stratified, and show various shades of grey, blue, and black, with detailed, layered textures. Some parts of the rock near the waterline have reddish-brown and greenish-brown growth (likely algae or moss). The water is calm, deep blue-green, transitioning from clearer, lighter tones near the shore where submerged rocks are visible, to a smoother, darker blue further out.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a natural coastal environment consisting of rock formations and ocean water. There are no visible animals, insects, or fish present in the frame. As such, there is no organism to exhibit camouflage, and therefore, no camouflage is detected."
+}

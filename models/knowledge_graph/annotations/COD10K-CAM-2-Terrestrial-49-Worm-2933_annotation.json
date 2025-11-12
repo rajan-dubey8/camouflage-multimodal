@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of a branch from a plant with numerous small, oval-shaped green leaves. Some of the leaves have small water droplets clinging to their surface. The light is diffused, and the area behind the immediate foliage is blurred and appears as a lighter, soft green to off-white background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The worm exhibits excellent camouflage through color blending. Its body is a vibrant shade of green that very closely matches the color of the leaves it is resting upon. This strong color similarity, combined with the low contrast between the worm and the foliage, makes it incredibly difficult to spot. While its texture has a segmented appearance, the overall smooth and elongated form helps it blend with the general structure and surface of the leaves, contributing to its effective concealment."
+}

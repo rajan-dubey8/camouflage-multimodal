@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras",
+  "background_description": "The background consists of dry, reddish-brown soil or sparse dirt in the foreground and midground, with green bushes and trees visible in the soft-focus background, suggesting a savanna or bushland environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The zebras' distinctive black and white stripes provide high contrast against the uniform reddish-brown soil and green vegetation background. While zebra stripes can offer a form of disruptive coloration or motion dazzle in a herd or specific lighting conditions, in this context, the animals are highly visible and do not blend with their immediate surroundings. Their coloration does not match the environmental colors or textures, thus no camouflage is present."
+}

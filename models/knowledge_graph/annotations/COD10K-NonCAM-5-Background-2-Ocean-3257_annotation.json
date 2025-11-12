@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The scene displays a shallow underwater environment, characterized by a light-colored sandy seabed with scattered small pebbles and fragments. Several coral formations are prominent, including branching pinkish-purple corals (likely Acropora species) and more rounded, brownish or greenish hard coral colonies. The water appears clear but slightly hazy, diffusing the light and casting soft shadows on the sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily shows an underwater environment consisting of sand and coral formations. There is no visible mobile animal, insect, or fish actively attempting to camouflage itself within this scene. The corals are sessile organisms and an integral part of the reef environment itself, rather than a separate organism attempting to hide."
+}

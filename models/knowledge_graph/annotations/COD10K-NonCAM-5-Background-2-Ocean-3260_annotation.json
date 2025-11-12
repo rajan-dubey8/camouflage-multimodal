@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Coral reef fish",
+  "background_description": "An underwater coral reef environment featuring various types of corals, including branching corals, massive brain-like corals, and a large purple-grey sea fan. The substrate is a mix of rocky areas and a few lighter, possibly sandy, patches. The water is clear with a greenish-blue tint, and ambient light filters from above.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish in the image, including the prominent yellow-striped fish and smaller blue fish, do not exhibit effective camouflage. The yellow-striped fish, while having some yellowish tones found in parts of the coral, stands out due to its distinct shape, brighter coloration, and visible stripes which create contrast. Its smooth body also offers no texture matching with the rough, porous, or branching coral structures. The small blue fish are highly conspicuous against the greens, browns, and greys of the reef. Therefore, the organisms are clearly visible and not blending into their surroundings."
+}

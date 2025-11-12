@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Rainbow Lorikeet",
+  "background_description": "The background consists of lush green foliage, including broad leaves and thin brown branches from a tree. Behind the immediate foreground, there is a blurred, light gray and green grid-like structure, possibly a fence or aviary mesh, suggesting an enclosed environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bird, a Rainbow Lorikeet, displays exceptionally vibrant and contrasting colors including bright red on its chest, yellow-green on its belly and wings, blue on its head, and an orange beak. These vivid colors stand out dramatically against the green leaves and brown branches of its perch and the muted, blurred background. There is no blending of colors with the environment, mimicry of surrounding objects, or disruptive patterning that would help it conceal its presence. Its coloration is highly conspicuous, indicating a lack of camouflage."
+}

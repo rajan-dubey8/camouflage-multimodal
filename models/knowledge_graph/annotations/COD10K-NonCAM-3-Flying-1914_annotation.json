@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "House Sparrow",
+  "background_description": "The background consists primarily of bright, smooth, artificial green plastic objects, resembling outdoor furniture like chairs or containers, with some blurry white surfaces visible underneath. The textures are uniform and synthetic.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The house sparrow's natural plumage, characterized by browns, greys, and black markings, is designed for blending into natural or urban environments like branches, dirt, or building facades. In this image, the bird is positioned against a vibrant, artificial green plastic background. Its natural colors and organic feathered texture sharply contrast with the smooth, bright green and white synthetic surfaces, making it highly conspicuous and providing no camouflage benefit in this specific environment."
+}

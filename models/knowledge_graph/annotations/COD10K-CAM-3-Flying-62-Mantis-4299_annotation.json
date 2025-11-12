@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dense layer of fallen, dried leaves in various stages of decay. The leaves display a range of brown, reddish-brown, and yellowish-brown tones, with some appearing damp or wet, creating darker, slightly reflective patches. Interspersed are small twigs and other organic debris. A small cluster of vibrant green plant sprouts is visible in the upper right quadrant, contrasting with the otherwise autumnal palette.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Mantis exhibits exceptional camouflage through a sophisticated form of mimicry. Its body coloration, a blend of light brown and yellowish-brown with dark speckles, perfectly matches the varying hues and mottled appearance of the surrounding dried leaves. The texture of its exoskeleton further enhances this illusion, replicating the rough, veined, and somewhat brittle surface of decaying foliage. Crucially, the Mantis's body shape, particularly its broad, flattened segments and tapering limbs, is highly adapted to structurally mimic specific types of fallen leaves or leaf fragments. This combination of precise color blending, texture matching, and structural mimicry results in very low contrast and a highly disrupted outline against the background, making it extremely difficult to distinguish from the leaf litter."
+}

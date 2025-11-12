@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban landscape with buildings, trees, and green space",
+  "background_description": "The scene features a bright, clear blue sky with sparse white cumulus clouds. Below the sky, a row of modern multi-story buildings with light-colored facades and numerous windows stands partially obscured by a dense line of lush green trees. In the foreground, there is a wide expanse of green grass, separated from the trees and a path by a small ditch or waterway. The overall environment suggests a park-like or suburban setting.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organisms (animals, insects, or fish) are visible in the image. The image primarily depicts an urban or suburban landscape with buildings, trees, grass, and sky. Therefore, there is no camouflage present."
+}

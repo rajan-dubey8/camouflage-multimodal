@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorses are intertwined with and clinging to a dense, branching structure of reddish-orange/brown coral or sponge, which has a rough, textured, and somewhat porous surface. In the deeper background, there is blurry, vibrant blue water with indistinct darker blue/purple shapes.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The seahorses exhibit effective camouflage due to their close resemblance to the surrounding coral/sponge environment. Their bodies are primarily golden-brown to darker brown, with some lighter speckles, closely matching the warm, earthy reddish-orange and brown tones of the coral they are nestled within. Furthermore, the ridged and bumpy texture of the seahorses' skin shares a high similarity with the rough, irregular surface of the coral. This strong color and texture matching, combined with the way they wrap their bodies around the coral branches, helps to disrupt their outline and blend seamlessly, making them difficult to distinguish from the background structures."
+}

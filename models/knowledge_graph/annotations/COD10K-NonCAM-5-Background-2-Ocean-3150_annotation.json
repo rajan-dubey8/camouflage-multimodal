@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue reef fish",
+  "background_description": "The underwater background consists of a light, fine-grained sandy seafloor interspersed with various types of coral and sponges. There are branching gorgonian corals in shades of brown, grey, and dark purple, as well as more massive and encrusting coral forms in browns and a hint of purple. The water itself has a clear, light greenish-blue tint.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A small, bright blue reef fish is visible in the upper right portion of the image. Its vibrant blue coloration stands out distinctly against the lighter sandy bottom and the varied brown and grey hues of the surrounding corals and sponges. There are no patterns, textures, or colorations on the fish that mimic its immediate surroundings, nor does it exhibit disruptive patterning or color blending. Therefore, the fish is not camouflaged."
+}

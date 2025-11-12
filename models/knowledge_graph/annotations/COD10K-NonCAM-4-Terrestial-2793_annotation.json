@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coyote pup",
+  "background_description": "The background consists primarily of dry, light brown to tan grass and stalks of dead vegetation, interspersed with patches of darker earth. Some soft, blurry green foliage is visible in the immediate foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The coyote pup exhibits strong color blending camouflage. Its dusty brownish-grey fur closely matches the faded brown and tan colors of the surrounding dry grass, dead plant stalks, and earthy tones. This high color similarity, combined with the low contrast between the pup and its habitat, makes it difficult to distinguish its outline from the natural environment. The overall muted texture of the fur also blends effectively with the fine debris on the ground, aiding in concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background is a plain, uniform light gray or off-white surface, likely a display board or wall, with subtle shadows cast by the butterfly. It has a smooth, non-textured appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly displays distinct and contrasting colors: cream-white on its upper wings with dark brown edges, and vibrant orange on its lower wings, along with a greyish body. These bright and varied colors create a high visual contrast against the plain, light-colored background. The butterfly's intricate wing patterns and bodily texture also stand out clearly against the smooth, uniform background. Therefore, the butterfly is highly conspicuous and shows no signs of camouflage in this environment."
+}

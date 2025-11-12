@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The lion is resting on a large, textured rock with a light brown/tan and greyish hue. The background behind the lion's head and mane consists of dark, out-of-focus green foliage, suggesting dense bushes or trees in shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion exhibits camouflage primarily through color blending. Its golden-brown fur and mane closely match the light brown and tan colors of the rock it is resting on, providing excellent chromatic similarity. This natural coloration allows lions to blend effectively with the dry grasslands and rocky environments of their natural habitat. While the texture of its fur is distinct from the rough rock, and the darker, blurred green foliage in the background creates some contrast, the immediate foreground (the rock) offers strong color-based concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a cluttered underwater seabed, dominated by various sizes of pebbles, small rocks, and what appears to be fragments of coral and marine detritus. The colors are predominantly earthy tones, including shades of brown, yellowish-beige, reddish-pink, grey, and dark green, creating a mottled and heterogeneous texture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage against this cluttered seabed. Its elongated, slender body shape closely mimics small sticks or pieces of marine debris commonly found in such an environment, contributing to 'Shape disruption'. The primary body color of the pipefish is a dull brownish-grey with darker speckles, which perfectly matches the dominant earthy tones and varied textures of the surrounding rocks and detritus, indicating 'Color blending' and some 'Pattern matching'. The overall contrast between the pipefish and its immediate background is very low, making it difficult to discern its outline and identity as a living creature. It blends seamlessly, making it hard to spot at first glance."
+}

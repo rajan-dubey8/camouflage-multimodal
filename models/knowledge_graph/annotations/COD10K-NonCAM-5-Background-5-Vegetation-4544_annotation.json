@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Hilly rural landscape with structures",
+  "background_description": "The scene depicts a humid, hilly rural landscape under an overcast sky. The terrain is covered with a mix of dense green tropical vegetation, including bamboo and various trees, interspersed with patches of dry brown and green grass and exposed dirt. A modest yellow building with a red roof is situated on one of the hills, surrounded by several parked vehicles (trucks and cars) on unpaved ground. Utility poles and power lines traverse the upper part of the image.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively features an environmental scene comprising a hilly rural landscape, a building, and vehicles. No living organisms (animals, insects, or fish) are visible within the frame. Consequently, the analysis for camouflage presence, type, and effectiveness is not applicable to this image."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of vibrant purple flowers with yellow anthers, robust green plant stems, and several green flower buds. Some areas of the background are blurred, showing a warm brown, likely soil or distant vegetation. The Katydid is positioned on a thick, vertical green stem of the plant.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid exhibits excellent camouflage by closely matching the vibrant green coloration of the plant stems and leaves. Its bright lime green body blends seamlessly with the surrounding green vegetation, making it difficult to spot at first glance. The smooth texture of its body also complements the relatively smooth surface of the plant stem it is clinging to, reducing any textural cues that might give it away. The contrast difference with its immediate green background is very low, as its specific shade of green is very similar to many of the lighter green parts of the plant, despite being slightly brighter than the main stem it rests on. This combination of color and texture similarity effectively conceals the insect within its natural habitat."
+}

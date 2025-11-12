@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dense, vibrant green moss with some patches of light brown/yellowish moss. The moss has a finely textured, almost spiky or fern-like appearance, creating a complex and irregular surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage. Its skin is a mottled green color with lighter speckles and darker irregular patterns, which very closely match the varying shades of green and the subtle brown/yellow tones present in the moss. Furthermore, the toad's rough, bumpy skin texture, along with small projections and an irregular body outline, mimics the dense, spiky, and uneven texture of the moss itself. This combination of color blending, pattern matching, and shape disruption makes it incredibly difficult to distinguish the toad from its environment, allowing it to blend seamlessly into the mossy substrate. The only prominent feature is its eye, which provides a small, high-contrast point."
+}

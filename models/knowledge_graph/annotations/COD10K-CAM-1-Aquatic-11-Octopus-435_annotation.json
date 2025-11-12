@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a shallow body of clear water with a seabed composed of numerous irregularly shaped pebbles and larger rocks. The rocks vary in color from light beige, off-white, and pale greyish-yellow to darker brown and reddish-brown tones. Some rocks exhibit rough, porous, or slightly textured surfaces. The water is still and transparent, allowing a clear view of the substrate.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The octopus exhibits exceptional camouflage by perfectly mimicking the colors and textures of the rocky seabed. Its skin displays a mottled pattern of light beige, off-white, and pale greyish-brown tones that blend seamlessly with the surrounding pebbles and rocks. Furthermore, the octopus has adapted its skin texture to appear granular and bumpy, closely resembling the rough surfaces of the stones. Its body is spread out and flattened, disrupting its characteristic shape and allowing it to integrate with the irregular contours of the environment. The low contrast difference between the octopus and its surroundings makes it incredibly difficult to distinguish, demonstrating a highly effective camouflage strategy."
+}

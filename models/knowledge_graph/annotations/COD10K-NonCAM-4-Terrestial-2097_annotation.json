@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal pup",
+  "background_description": "The background consists of fine-grained, light yellowish-brown sand, appearing dry and somewhat uniform in texture. There are no other prominent environmental features.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a gray seal pup lying on a light yellowish-brown sandy beach. The seal's predominantly gray fur provides a clear contrast against the granular, sandy background in both color and texture. While some sand particles are present on its fur, this is incidental. There is no indication of adaptations for camouflage such as color blending, disruptive patterns, or mimicry to hide the seal in this environment. Therefore, no camouflage is present."
+}

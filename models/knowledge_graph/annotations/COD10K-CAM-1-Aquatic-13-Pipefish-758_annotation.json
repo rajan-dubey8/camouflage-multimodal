@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background is an aquarium setup featuring a light beige sandy substrate. Several long, slender, ribbon-like artificial aquatic plants, varying in shades from vibrant green to yellowish-green and brownish-green, grow from the sand. The back wall is a plain light gray, and a side glass panel on the right creates reflections.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage by mimicking the surrounding artificial aquatic plants. Its elongated, slender body shape closely resembles the ribbon-like leaves of the plants, allowing it to blend in morphologically. Furthermore, its yellow-green coloration with subtle darker markings blends seamlessly with the varying shades of green, yellow, and slight brown found in the vegetation. The low contrast difference between the fish and the plants makes it difficult to distinguish the organism from the background elements, significantly aiding its concealment."
+}

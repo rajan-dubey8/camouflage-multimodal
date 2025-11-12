@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Survey vessel on water",
+  "background_description": "The background consists of rippling, dark blue-grey water with white foam at the bow of the vessel. In the mid-ground, there is a distant shoreline with a dense forest of dark green trees and scattered buildings. Further back, there are more distant hills or mountains under a hazy sky, with some visible sailboats and structures suggesting a town or harbor.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a man-made survey vessel, not an organism. The vessel is brightly colored with prominent white, orange, and dark grey/green sections. These colors stand in sharp contrast to the blue water and green distant land, making the boat highly visible. There is no attempt at blending with the environment; instead, its design prioritizes visibility, which is crucial for maritime safety and operations. Therefore, no camouflage is present."
+}

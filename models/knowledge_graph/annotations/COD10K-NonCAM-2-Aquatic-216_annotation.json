@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Queen Angelfish",
+  "background_description": "The background consists of a diverse coral reef environment, primarily featuring large, textured plate-like or convoluted corals in shades of brown and reddish-brown. Some areas are darker, indicating shadows or deeper crevices within the reef structure. There are subtle variations in the coral textures and colors.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrantly colored Queen Angelfish, characterized by its blue and yellow body with electric blue accents. The fish stands out significantly against the darker, predominantly brown and red coral reef background, exhibiting no color or texture resemblance for camouflage."
+}

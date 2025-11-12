@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of weathered, rough tree bark or wood, characterized by deep longitudinal furrows, flaky textures, and varying shades of gray, silver, and dark brown. Sunlight creates strong highlights on some ridges and deep shadows in the crevices. A rusty metal bar runs diagonally across the upper-right portion, adding reddish-brown tones. There are also sparse bits of dried leaves and debris on the wood surface.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shadow hiding",
+  "explanation": "The image contains two prominent cicada exuviae (shed skins) which are quite noticeable. However, focusing on a more subtle, dark-bodied cicada located lower down and to the left, nestled within a deep crevice of the wood: this organism exhibits effective camouflage. Its dark brown to black coloration closely matches the shadowed parts of the weathered bark, resulting in high color similarity and low contrast difference. The cicada's flattened shape also allows it to blend seamlessly with the irregular contours and textures of the wood, making it difficult to distinguish from the bark or accumulated debris. Its strategic placement within a shadowed recess further enhances its blending capabilities, making it genuinely hard to spot upon first glance."
+}

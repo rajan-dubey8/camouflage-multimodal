@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron carrying a frog",
+  "background_description": "A blurred field of light green grass partially covered in white frost or light snow, with a darker, indistinct background suggesting reeds or distant vegetation. The motion blur indicates movement.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.0",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The bird's dark plumage and bright orange legs create a strong contrast against the lighter green grass and white frosty patches of the background. Furthermore, the bird is captured in mid-flight, an action that inherently draws attention and negates any potential for blending with the environment. Therefore, no camouflage is present in this scene for the bird."
+}

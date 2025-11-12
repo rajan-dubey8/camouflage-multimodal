@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dry, fallen leaves in various shades of brown and tan, scattered among rough-textured rocks covered in patches of dark green and reddish-brown moss. There are also thin, dry twigs and some sparse green foliage visible in the upper right. The environment is well-lit, creating distinct shadows and highlights on the textured surfaces.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "While the lizard's body, with its mottled brown and tan scales and dark spots, shows some degree of color and pattern similarity with the dry leaves, soil, and rocks, its head is a striking bright blue and green, and there are prominent red/orange markings on its throat/chest area. These vibrant colors create a very high contrast with the muted earthy background, making the lizard highly conspicuous. Despite partial blending of the body, the overall effect is that the organism does not blend effectively with its environment, making it easily detectable."
+}

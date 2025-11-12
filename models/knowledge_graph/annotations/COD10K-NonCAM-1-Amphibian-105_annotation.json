@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dry, dusty, sandy ground with scattered small pebbles and gravel, extending into darkness in the distance, suggesting a nighttime or dimly lit environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The toad exhibits strong camouflage through color blending and texture matching. Its mottled grey-brown and earthy coloration, along with its warty, textured skin, closely matches the dry, pebbly, and dusty ground. This makes the toad difficult to distinguish from its immediate surroundings, as its form, color, and texture seamlessly blend with the small stones and uneven surface of the terrain, reducing its visibility to potential predators or prey."
+}

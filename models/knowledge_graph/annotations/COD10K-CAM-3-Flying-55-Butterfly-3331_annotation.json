@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is resting on a prominent green leaf with clearly visible veins and a serrated edge. The immediate background is composed of various shades of green foliage, mostly blurred, suggesting dense plant life. There are also hints of reddish-brown on a small, new shoot or bud near the butterfly.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.98,
+  "camouflage_type": "Mimicry",
+  "explanation": "The butterfly exhibits exceptional camouflage through a combination of mimicry, color blending, and pattern matching. Its pale greenish-yellow wings are almost identical in hue to the surrounding foliage, particularly matching slightly older or less vibrant leaves. The most striking feature is the prominent venation on its wings, which perfectly mimics the vein patterns found on the host leaf and other leaves in the background. The irregular, slightly notched shape of the wings further enhances this leaf-like appearance, acting as a form of shape disruption to break up its outline and make it resemble a natural part of the plant, such as a damaged or folded leaf. This sophisticated visual deception results in very low contrast and high similarity, making the butterfly extremely difficult to spot against its leafy environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Bullfrog",
+  "background_description": "The background consists of dark water with numerous floating green aquatic plant leaves (likely lily pads or water hyacinth). Many of these leaves are covered in small water droplets. Submerged dark areas and hints of brown/decaying plant matter are also visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bullfrog exhibits effective camouflage through color blending. Its green face and upper body blend seamlessly with the green aquatic plant leaves, while its mottled brownish-gold back and legs match the darker water and submerged organic debris. The bumpy texture of its skin also helps to break up its outline and resemble the irregular surface of the water-covered leaves and general detritus in its wetland habitat, making it difficult to distinguish from its surroundings."
+}

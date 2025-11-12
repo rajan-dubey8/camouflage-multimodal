@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dense layer of dry leaf litter, wood chips, and small broken twigs. The textures are rough and uneven, with variations in size and shape of the debris. Colors primarily range from light tan and faded brown to darker reddish-brown and greyish-brown, with natural shadows creating depth and irregularity across the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its skin coloration, a mix of mottled browns, greys, and tans with darker stripes, perfectly matches the dominant hues of the dry leaf litter and wood chips in the background. The bumpy, textured skin of the toad further enhances this effect by blending with the rough, uneven surfaces of the surrounding debris. The patterns on its back mimic the shadows and variations in color found in the natural environment. Its crouched posture and irregular shape are also disrupted by the surrounding elements, making its outline less distinct and harder to discern from the background. The overall contrast between the toad and its immediate environment is very low, making it difficult to spot unless actively searching."
+}

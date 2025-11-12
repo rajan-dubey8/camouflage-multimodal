@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists primarily of a large tree trunk with rough, deeply furrowed grey-brown bark. The owl is situated inside a natural hollow or cavity within this main tree trunk. Other tree trunks and out-of-focus foliage are visible in the distance.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The owl is exceptionally well camouflaged by utilizing a natural tree hollow. Its grey-brown plumage closely matches the color and mottled texture of the surrounding tree bark and the dark, shadowy interior of the hollow. The deep recess of the hollow effectively obscures the owl's body, and the shadowed environment significantly reduces the contrast of its visible face, making it difficult to spot. The irregular shape of the hollow also disrupts the owl's outline, further enhancing its concealment. While its eyes are distinctly visible, the overall effect is one of strong camouflage."
+}

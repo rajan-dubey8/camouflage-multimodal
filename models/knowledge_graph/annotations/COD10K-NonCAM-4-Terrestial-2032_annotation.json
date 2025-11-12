@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Eastern Gray Squirrel",
+  "background_description": "The squirrel is perched on a weathered wooden post or railing, which has patches of moss or lichen. The background consists of brightly lit, out-of-focus green foliage, indicating a natural outdoor environment like a forest or park.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Eastern Gray Squirrel exhibits camouflage through color blending. Its fur, a mix of grey, brown, and reddish tones, is naturally adapted to blend with the varied colors of tree bark, branches, and forest floor debris in its typical habitat. The lighter underside (white belly) is a form of countershading, which helps reduce the appearance of shadow and flatten its form. While the vibrant, out-of-focus green foliage in the background creates some contrast, the squirrel's overall coloration and patterns are inherently designed to help it go unnoticed against more camouflaging elements like tree trunks and dry leaves. The texture of its fur, however, is distinct from the background elements, leading to low texture similarity."
+}

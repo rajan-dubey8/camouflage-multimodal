@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-headed Gull",
+  "background_description": "The background consists of a body of water, likely a lake or calm sea, reflecting the sky. The water surface is predominantly dark blue with lighter blue and greyish-white reflections indicating clouds. Small ripples emanate from where the bird's feet touch the water, and numerous tiny air bubbles are scattered across the surface, adding a slight texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Black-headed Gull is highly visible against the dark blue water. Its bright white plumage, dark head, and reddish beak and legs create a strong contrast with the background, making it stand out rather than blend in. There are no patterns or coloration that mimic the water's texture or color, nor disruptive patterns to break up its outline in this environment. The bird's distinct form and coloration make it easily discernible."
+}

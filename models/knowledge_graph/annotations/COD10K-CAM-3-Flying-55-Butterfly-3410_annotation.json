@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of dry, sandy earth interspersed with sparse, low-lying vegetation. The plants vary in color from muted green to greyish-green and reddish-brown, with some dried stems and leaves visible. The ground has a granular texture with patches of light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage by blending both in color and pattern with its immediate environment. Its wings feature a mottled pattern of cream, light brown, and darker earthy tones that closely match the sandy soil, dried plant matter, and variegated low-lying vegetation. The irregular patterns on its wings mimic the textures and variations found on the ground, making it difficult to distinguish from the surrounding substrate. The overall low contrast between the butterfly and its background further enhances its concealment, allowing it to merge seamlessly with the dry, sparse terrain."
+}

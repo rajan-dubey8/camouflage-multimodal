@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a weathered, textured tree stump or log with prominent vertical grain, deep cracks, and varied shades of grey, brown, and weathered silver. Green foliage, including ivy vines with small lobed leaves and larger broad leaves, surrounds the stump and creeps onto its surface, providing a contrasting green element.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard exhibits excellent camouflage by blending seamlessly with the weathered wooden stump. Its scales display a mottled pattern of browns, greys, and lighter stripes that closely match the varied colors, grain, and cracks of the wood. The rough texture of its skin further enhances this blend with the coarse surface of the stump. The overall low contrast between the lizard's body and its immediate perch, combined with the way its patterns mimic the wood's features, makes it very difficult to spot, exemplifying effective color blending and pattern matching."
+}

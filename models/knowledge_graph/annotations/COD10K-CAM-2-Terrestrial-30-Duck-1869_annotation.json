@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background consists of dense, mixed vegetation, primarily featuring dry brownish-yellow grass and vibrant green leafy plants. There are also areas of reddish-brown foliage and scattered small white and pink flowers. The ground appears uneven, with shadowed patches and possibly some exposed earth or small rocks beneath the plant cover. The overall impression is one of a wild, unkempt natural environment with varied textures and colors.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption / Shadow hiding",
+  "explanation": "The duck is remarkably well-camouflaged in this image. Its mottled brown and grey plumage provides excellent color blending with the surrounding dry grass, shadowed areas, and earthy tones of the ground. The texture of its feathers also closely resembles the fine blades of grass and the dappled appearance of the background. Furthermore, the dense, varied vegetation (green leaves, dry stalks, reddish plants) creates significant shape disruption, breaking up the duck's outline and making it difficult to perceive as a distinct animal. The duck appears to be nestled in a somewhat shadowed spot, utilizing shadow hiding to reduce its overall contrast against the environment. One must look very closely to discern the duck's head and body amidst the flora."
+}

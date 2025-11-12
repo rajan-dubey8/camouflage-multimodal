@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a dense layer of dry, fallen leaves and detritus on the forest floor. The leaves vary in color from light brown to dark reddish-brown and grayish-brown, with visible veins and slightly curled or crumpled textures. There are also some small green elements and twigs interspersed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid exhibits remarkable camouflage through mimicry of a dried leaf. Its body color perfectly matches the predominant brown and reddish-brown hues of the fallen leaves. More impressively, its wings are shaped and textured with intricate venation patterns that are nearly indistinguishable from actual leaf veins, and its overall form mimics the curled and irregular shape of a decaying leaf. This combination of color blending, texture matching, and shape disruption creates exceptionally effective camouflage, making the organism very difficult to spot against the forest floor litter."
+}

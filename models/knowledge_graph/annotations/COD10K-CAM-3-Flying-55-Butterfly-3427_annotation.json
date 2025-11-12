@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a vibrant green leaf, heavily covered with patches and strands of white, fluffy, waxy filamentous material. This material creates a chaotic, textured environment, almost like a fungal growth or detritus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The organism, identified as a Butterfly as per instruction, exhibits strong camouflage. Its body is largely covered in dense, white, waxy filamentous secretions that are identical in color and texture to the abundant white filamentous material spread across the green leaf background. This creates a high degree of color and texture similarity with its immediate surroundings. The extensive waxy fluff effectively disrupts the organism's true shape and outline, making it blend seamlessly into the chaotic, textured environment of detritus on the leaf. While black spots are visible on its body, they are partially obscured by the fluff, and the overall low contrast between the white organism and the white background elements makes it difficult to distinguish. This combination of shape disruption and color blending provides excellent concealment."
+}

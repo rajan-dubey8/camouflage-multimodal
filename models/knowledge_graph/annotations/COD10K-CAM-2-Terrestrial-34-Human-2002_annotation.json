@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "A dense field of tall, vibrant green corn stalks with broad leaves covers the majority of the image. The stalks extend upwards, creating a thick barrier of foliage. Patches of dark brown, moist-looking soil are visible on the ground between the stalks, particularly in the lower half of the image. The lighting appears bright, creating natural highlights and shadows within the cornfield.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The human is largely camouflaged within the dense cornfield. Their body is almost entirely obscured by the tall, green corn stalks, which effectively disrupt their silhouette and make them difficult to spot. A camouflage-patterned cap is visible at the top, along with a dark device (likely a camera) mounted on a pole. The cap's greens, browns, and tans attempt color blending and pattern matching with a natural environment, but it does not perfectly match the specific bright green of the corn leaves. The dark device stands out with higher contrast against the surrounding foliage. However, the overall effect is one of successful concealment, primarily due to the natural cover provided by the corn stalks, which break up the human's form and make them blend into the visual clutter of the environment. The human's presence is indicated more by the artificial objects (hat, device) peeking through, rather than a clear human form."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish and sea urchins on coral reef",
+  "background_description": "The background consists primarily of light brown/beige, lumpy coral formations. There are also darker, spiky sea urchins interspersed within the coral. The seabed visible in parts is a light, sandy color. The water has a clear, slightly greenish-blue tint.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features several bright blue fish swimming around light-colored coral and dark, spiky sea urchins. The vibrant blue color of the fish creates a very high contrast against the muted beige/brown of the coral and the light sandy bottom, making them highly conspicuous. There is no blending in color or texture with the surroundings. Similarly, the dark sea urchins with their prominent spikes are distinct from the coral and sand. Therefore, no camouflage is present for the organisms depicted."
+}

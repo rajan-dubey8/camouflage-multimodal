@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of blurred green foliage, indicative of a natural grassy or leafy environment. There are distinct elements such as the green stem the butterfly is perched on, small clusters of white flower buds on that stem and in the lower left, a blurred yellow flower in the upper right, and a reddish-brown inflorescence in the lower right. The overall impression is a vibrant, sunlit natural setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.98",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage due to its underwing coloration and pattern. The wings are a mottled mix of green and white/pale yellow, which perfectly mimics the surrounding environment. The green patches on its wings blend seamlessly with the green stems and leaves that dominate the background. Furthermore, the white/pale yellow areas on its wings correspond well with the small white flower buds it is perched near, as well as other potential highlights or pale plant elements in the scene. This disruptive coloration effectively breaks up the butterfly's outline, making it difficult to discern from the varied textures and colors of the natural foliage. The high color and pattern similarity, combined with low contrast against the background, contribute to a very effective concealment."
+}

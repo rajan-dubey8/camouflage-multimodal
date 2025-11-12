@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-winged Stilt",
+  "background_description": "The background consists of calm, shallow water reflecting blurred green vegetation, likely trees or dense foliage, from the distant bank. The water surface has subtle ripples and appears dark green in tone.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Black-winged Stilt's striking black and white plumage creates a very high contrast against the soft, blurred green background of the water and reflected vegetation. Its distinct coloration does not match the environmental colors, and its sharp silhouette stands out prominently. There are no patterns or textures on the bird's body that blend with the surroundings, nor does it exhibit any mimicry. Therefore, no camouflage is present; the bird is clearly visible in this scene."
+}

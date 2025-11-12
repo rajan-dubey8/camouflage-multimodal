@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Damselfish",
+  "background_description": "The background consists of dark blue open water, with blurred, out-of-focus elements of what appear to be distant coral or rocks exhibiting muted green, purple, and orange hues in the lower section, indicating a coral reef environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant blue fish, likely a Blue Damselfish, swimming in open water with a blurred coral background. Its bright, uniform blue coloration and distinct shape stand out prominently against the darker, muted blue surroundings and indistinct background elements, indicating no attempt at camouflage."
+}

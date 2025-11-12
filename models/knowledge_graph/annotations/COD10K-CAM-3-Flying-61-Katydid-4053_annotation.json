@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of dense, lush green foliage, primarily broad-leafed plants. Various shades of green are present, from bright lime to darker, shaded forest green. Many leaves show prominent venation and some have small holes or ragged edges, indicating natural wear or insect activity. The overall impression is a vibrant, humid undergrowth in a tropical or subtropical environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid demonstrates exceptional camouflage in this image. Its body color is a vibrant green that almost perfectly matches the hue and brightness of the surrounding leaves, particularly the leaf it is resting upon. The texture of its body, though slightly bumpy, is not significantly different in a way that creates a strong visual contrast with the leaf surface. Its small size further aids in its concealment, making it look like a minor irregularity or part of the leaf itself. The low contrast difference between the organism and its environment makes it very difficult to detect, showcasing highly effective color blending for concealment."
+}

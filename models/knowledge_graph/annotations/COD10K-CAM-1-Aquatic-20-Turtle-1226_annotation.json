@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Turtle",
+  "background_description": "The background consists of a dense, uniform mat of small, bright green duckweed covering the entire surface of what appears to be a pond or stagnant water body. There are also a few slightly larger, lighter green floating plant leaves interspersed within the duckweed. The overall impression is a vibrant, textured green surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The turtle's head and visible body are almost entirely covered in the same duckweed that forms the background environment. This creates an extremely high color and texture similarity between the organism and its surroundings. The small, granular texture of the duckweed on the turtle perfectly matches the texture of the duckweed on the water, effectively disrupting its outline and making it blend in seamlessly. The only feature that stands out is the turtle's eye, which provides a high contrast point, but the rest of its form is exceptionally well camouflaged due to this environmental covering."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Black Triggerfish",
+  "background_description": "The background depicts a vibrant coral reef environment with clear blue water. Various branching and plate-like coral structures, predominantly in shades of light blue and purple, are visible. Numerous small, reddish-orange fish swim scattered in the mid-to-far background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image features a dark-bodied Black Triggerfish with distinct white lines on its fins, swimming prominently in the foreground. Its deep purple/black coloration provides a high contrast against the bright blue water and the light-colored coral reef, making it stand out clearly without any apparent camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists primarily of blurred, vibrant green grass in the foreground and mid-ground. To the right, there is a weathered wooden beehive structure, painted in a faded, peeling blue, revealing darker, rough wood beneath. A dark, textured wooden ledge is visible below the hive's entrance, providing a landing spot for the bees.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bees in the image are not camouflaged with their environment. Their distinct dark bodies with yellow/orange banding create a high contrast against both the bright, blurred green grass and the weathered, dark wood of the beehive. The bee flying against the green grass is particularly noticeable due to its dark coloration against the light background. The bees on the dark wooden ledge are also clearly visible, as their striped pattern and fuzzy texture do not blend with the rough wood texture or its uniform dark color. Bees typically employ aposematic (warning) coloration rather than camouflage to deter predators, which is evident here as they stand out."
+}

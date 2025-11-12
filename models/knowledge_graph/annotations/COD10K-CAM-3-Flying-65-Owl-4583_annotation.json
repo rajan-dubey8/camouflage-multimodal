@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a large, rough tree trunk with deeply fissured, dark brown bark, providing a highly textured and uneven surface. A lighter, thinner branch runs vertically in the foreground, partially obscuring the owl.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The owl exhibits excellent camouflage against the tree bark. Its plumage displays a mottled pattern of grays, browns, and whites that precisely matches the colors and tones of the surrounding tree trunk and branch. The intricate patterns on its feathers mimic the rough texture and furrows of the bark, making it incredibly difficult to distinguish the bird from its environment. Furthermore, the owl's ear tufts and overall body shape help to disrupt its outline, blending with the irregular contours of the tree, creating a 'shape disruption' effect. The low contrast difference between the owl and the background further enhances its ability to blend seamlessly."
+}

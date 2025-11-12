@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "A pebbly, damp-looking bank or terrestrial edge, with scattered grey stones and brown earth, transitioning into blurred green vegetation in the background. Although direct water is not visible, this type of environment is typical for amphibians found near freshwater bodies such as ponds or streams.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "A toad is distinctly visible on a pebbly, earthy bank. Its mottled brown and grey coloration, along with its rough skin texture, provides a natural blend with the surrounding ground, but it is clearly observable and not camouflaged. As an amphibian, the toad is associated with aquatic or semi-aquatic environments, even when observed on the terrestrial edges of such habitats."
+}

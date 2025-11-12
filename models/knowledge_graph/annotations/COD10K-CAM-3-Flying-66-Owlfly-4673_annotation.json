@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Owlfly",
+  "background_description": "The background consists primarily of highly textured tree bark. The bark is predominantly light greyish-brown with deep fissures, cracks, and irregular patterns, creating a rough, uneven surface. There are patches of lighter, almost white bark, darker brown crevices, and greenish-grey areas consistent with lichen growth. A prominent, darker tree knot is visible in the upper part of the image. The far right background is blurred, showing indistinct dark green and brown foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Owlfly exhibits excellent camouflage by blending seamlessly with the tree bark. Its body coloration is a mottled greenish-grey, almost perfectly matching the patches of lichen and the weathered tones of the bark. The irregular, somewhat granular texture of the Owlfly's body also mimics the rough, fissured surface and flaky appearance of the bark. Furthermore, its overall shape is irregular, breaking up its outline and preventing it from standing out as a distinct form against the complex patterns of the bark. The low contrast difference between the Owlfly and its immediate surroundings makes it very difficult to spot at first glance."
+}

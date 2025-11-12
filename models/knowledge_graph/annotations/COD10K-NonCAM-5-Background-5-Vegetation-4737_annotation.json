@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Dense tropical forest",
+  "background_description": "A lush, dense tropical or subtropical forest scene, primarily composed of various shades of green foliage. Tall tree trunks, often covered with moss or epiphytes, extend upwards, and the undergrowth is rich with diverse plant life including ferns and smaller bushes. Dappled sunlight filters through the dense canopy, creating dynamic patterns of light and shadow on the leaves and forest floor, revealing varied textures of bark, leaves, and ground cover.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural forest environment. After thorough analysis of the main image and all provided crops, no animals, insects, or fish are visible within the scene. Therefore, there is no organism present for which to assess camouflage."
+}

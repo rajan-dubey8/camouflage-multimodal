@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "An underwater coral reef ecosystem featuring large, intricate branching corals that are predominantly dark brown with lighter, yellowish-white tips. There are also lighter, more golden-brown finger-like corals and a rocky substrate covered with some darker algae and sediment. The water is clear, providing a blue-green ambient light.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.85,
+  "camouflage_type": "Color blending",
+  "explanation": "The image shows an underwater coral reef environment with a fish partially visible in the background, behind a large branching coral formation. The fish exhibits camouflage primarily through color blending. Its pale, yellowish-brown body coloration with faint horizontal stripes allows it to moderately blend with the varied shades of the coral and the ambient underwater light. While its smooth texture does not mimic the rough, intricate textures of the coral, its subdued tones reduce its overall contrast against the complex backdrop, making it less conspicuous in the busy reef environment."
+}

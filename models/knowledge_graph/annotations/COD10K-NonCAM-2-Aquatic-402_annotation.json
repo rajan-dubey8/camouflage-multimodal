@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Platy fish",
+  "background_description": "The background features a dense growth of vibrant green aquatic plants, likely artificial, creating a lush underwater environment. Numerous streams of bubbles are rising in the water on the right side, indicating an aeration system within what appears to be a clear aquarium.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays two bright orange-red Platy fish. Their vivid coloration sharply contrasts with the vibrant green aquatic plants and the dark background, making them highly conspicuous. There are no patterns, textures, or colorations on the fish that would allow them to blend into their surroundings, confirming the complete absence of camouflage."
+}

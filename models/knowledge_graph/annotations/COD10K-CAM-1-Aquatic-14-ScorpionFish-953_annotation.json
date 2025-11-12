@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background consists of a rocky seafloor, heavily encrusted with sediment, algae, and various small coral growths. The textures are rough, porous, and irregular, featuring a palette of mottled greys, off-whites, and muted browns/greens, with darker crevices and shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The ScorpionFish exhibits exceptional camouflage in this image. Its body coloration, which is a mottled mix of greys and off-whites, perfectly matches the sandy, rocky, and sediment-covered substrate. The fish's skin texture is incredibly rough and bumpy, mimicking the porous and encrusted surface of the surrounding rocks and corals, making it appear like just another rock or piece of coral. Its irregular shape and outline further contribute to this by disrupting its silhouette, making it difficult to distinguish from the uneven background. There is very low contrast between the organism and its environment, both in terms of luminosity and hue, resulting in a near-perfect blend."
+}

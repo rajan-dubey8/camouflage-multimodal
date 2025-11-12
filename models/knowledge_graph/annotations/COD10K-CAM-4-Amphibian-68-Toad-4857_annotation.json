@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a moist, dark brown and reddish-brown textured surface, likely a combination of wet soil, decaying wood, and possibly a large rock or log. There are scattered small bits of debris, thin twigs, and a few light-colored, somewhat translucent petals or leaves with pinkish tints. Overhead, lush green fern fronds are visible, casting shadows and partially obscuring the scene. The overall environment is damp, earthy, and heavily shadowed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The toad is exceptionally well-camouflaged in this image. Its mottled skin, featuring shades of dark brown, olive green, and black, perfectly matches the colors of the wet soil, decaying wood, and shadows in its immediate surroundings. The irregular patterns on its skin mimic the random textures and debris of the forest floor, effectively breaking up its outline. Its bumpy, wet skin texture also blends seamlessly with the damp, rough surface it rests upon. The low contrast between the toad and the background, combined with partial concealment by overhanging fern leaves and the overall shadowed environment, makes it very difficult to spot at first glance. It utilizes color blending, pattern matching, and shadow hiding simultaneously to achieve near-perfect concealment."
+}

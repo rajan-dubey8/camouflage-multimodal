@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of dense green foliage. In the foreground, there is a prominent light green plant stem with small spherical bud-like structures, a thinner reddish-brown stem or vine with similar small bumps, and various other green leaves, some in focus and some blurred, creating a lush, verdant environment. The lighting is bright, highlighting the greens.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mantis exhibits excellent camouflage in this image. Its body is a vibrant light green, almost perfectly matching the color of the main plant stem it is perched upon and the surrounding green leaves. This high color similarity makes it blend seamlessly into the foliage. While its shape is distinct as an insect, its elongated body and slender limbs are well-suited to appear as part of a plant stem or leaf, further aided by the color match. The contrast difference between the mantis and its immediate background is very low, making it difficult to spot at first glance. The minor reddish-brown markings on its legs and eyes do not significantly disrupt its overall green appearance, which is the primary camouflaging factor."
+}

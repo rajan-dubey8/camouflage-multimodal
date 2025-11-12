@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef formation",
+  "background_description": "The scene depicts an underwater environment dominated by a dense formation of light yellow-green stony coral. The coral exhibits a complex, bumpy, and textured surface composed of numerous small, rounded polyps. The water in the upper portion of the image is a clear, vibrant blue.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily showcases a coral reef, which is classified as an environment. While coral itself is a living organism, the image focuses on the extensive coral formation as a structural component of the underwater habitat, rather than a single organism attempting to hide. No distinct animal or insect is visible within the coral or water attempting to camouflage. Therefore, camouflage detection is not applicable as there is no visible camouflaged organism."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal scene with kites",
+  "background_description": "The background consists of a clear, vibrant blue sky dominating the upper portion of the image. Below, a calm, turquoise ocean extends across the middle and lower parts, with a distant, low-lying island featuring green vegetation (likely trees or shrubs) and some small white structures visible on the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment (sky, ocean, island) with human-made objects (kites) and a small boat. There are no visible organisms (animals, insects, or fish) present in the scene. Therefore, the concept of biological camouflage does not apply, and no camouflage is detected. The kites are brightly colored and stand out with high contrast against the blue sky, indicating they are not camouflaged."
+}

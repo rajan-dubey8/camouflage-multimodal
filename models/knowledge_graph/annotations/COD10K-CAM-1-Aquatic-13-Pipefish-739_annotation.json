@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a dense arrangement of intertwined, light brown/tan root-like structures or branches, likely from a mangrove plant. These roots vary in thickness and texture. Interspersed among the roots are numerous broad, dark green leaves, some showing lighter green or yellowish veins/surfaces, suggesting fresh growth or specific lighting. A darker, rocky or muddy texture is visible in the background behind the roots.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shape disruption / Mimicry",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image. Its elongated, slender body and greenish-yellow coloration perfectly mimic the shape and color of the surrounding plant stems, shoots, and the lighter veins/surfaces of some leaves. The fish is positioned diagonally, further enhancing its resemblance to a natural part of the mangrove vegetation. Its lack of distinct patterns or contrasting features, combined with its streamlined form, allows it to blend seamlessly into the complex network of roots and foliage, making it very difficult to detect visually against the busy background. This is a classic example of both color blending and shape disruption (mimicry) to avoid predation or ambush prey."
+}

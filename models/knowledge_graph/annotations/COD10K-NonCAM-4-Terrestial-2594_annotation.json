@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Roe deer",
+  "background_description": "An expansive, bright green grassy field. In the distant background, there are hints of darker green foliage or trees, slightly blurred.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Roe deer, with its reddish-brown fur, stands out significantly against the vibrant, bright green grass of the field. There is a high contrast difference in both color and brightness between the deer and its immediate surroundings. While deer typically have coloration that can provide camouflage in wooded or varied terrain, in this open, uniformly bright green field, its natural coloring does not blend effectively, making it clearly visible."
+}

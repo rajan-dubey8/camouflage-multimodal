@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a body of water completely covered by a dense, uniform layer of small, bright green aquatic plants, likely duckweed or similar floating vegetation. There are also some dark, blurry leaves hanging from above, casting shadows onto the water surface, adding darker tones to the predominantly light green environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shadow hiding",
+  "explanation": "The crocodile exhibits a moderate degree of camouflage in this image. Its dark, dull greenish-brown coloration blends reasonably well with the general tones of the water and the shadowed areas within the dense aquatic vegetation. Its low profile, with only its head and a portion of its back emerging above the surface, helps it to merge with the texture and color variations of the duckweed. The dense, granular texture of the duckweed also provides a busy background that can obscure the crocodile's outlines. However, its smoother, more solid texture and distinct reptilian shape, particularly the head, prevent a perfect blend, making it detectable upon closer inspection. The color similarity is medium, as it aligns with the darker, submerged parts and shadows of the green plants, but contrasts with the brighter, sunlit parts. The texture similarity is low because the crocodile's smooth, scaly skin differs significantly from the granular, leafy texture of the duckweed. The contrast difference is medium; while not stark, the crocodile's form is discernible against the background."
+}

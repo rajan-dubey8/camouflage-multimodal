@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Elephant",
+  "background_description": "The background consists of a savanna landscape. The foreground and midground feature dry, yellowish-green grass mixed with green leafy shrubs and sparse trees with thin, mostly bare branches. In the distance, hazy mountains or hills are visible under a light, bright sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The African Elephant is a large mammal with distinct grey, wrinkled skin. It is clearly visible and stands out against the predominantly green, yellow, and brown savanna vegetation and the lighter, hazy distant background. Its large size and uniform grey coloration do not blend with the varied colors or textures of its immediate environment, resulting in a high contrast difference and no effective camouflage."
+}

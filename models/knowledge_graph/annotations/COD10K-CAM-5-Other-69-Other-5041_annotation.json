@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hedgehog",
+  "background_description": "The background consists of dense, dark green coniferous foliage on the right and center, transitioning to broad green leaves hanging from above on the left. Beneath the foliage, there is a substantial amount of dry, dark brown organic debris, including leaves and what appears to be soil or rotting wood. A grey stone or concrete block is partially visible behind the hedgehog. The foreground is dominated by bright green grass with various small plants.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.7",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The hedgehog is present on the right side of the image, nestled against the base of the foliage. Its dark brown and black spiny coat provides moderate color blending with the shadowed dry leaves, soil, and darker plant matter directly behind it. This helps it to be less conspicuous in the shaded, textured environment. However, its spiky texture is quite distinct, resulting in low texture similarity with the surrounding natural textures. The contrast difference is medium; while it blends somewhat with the dark background elements, it stands out more against the brighter green grass in the foreground. There is also a large, dark brown, furry mass on the left, beneath the green leaves, which appears to be another mammal (possibly a curled-up fox or cat) exhibiting very effective color and texture blending with the dense, dry organic debris, making it quite camouflaged. However, the JSON focuses on the clearly identifiable hedgehog."
+}

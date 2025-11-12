@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi fish",
+  "background_description": "The background consists of dark green water, likely a pond, with hints of blurry aquatic plants. It has a generally uniform, dark appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image features a bright golden-yellow Koi fish. Koi fish are ornamental, selectively bred for their striking colors and patterns, not for blending into their natural environment. This specific fish's vibrant yellow hue creates a high contrast against the dark green water background, making it highly visible and easily detectable. There is no attempt at color blending, mimicry, or disruptive patterning to conceal its presence."
+}

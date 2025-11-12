@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Cuban Tree Frog",
+  "background_description": "A vibrant, smooth green leaf occupies the immediate foreground, providing a surface for the frog. Behind it, other blurred green foliage suggests a lush, vegetated environment typical of a humid, wetland, or waterside habitat.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A light-colored Cuban Tree Frog is clearly visible and prominently positioned on a bright green leaf. Its coloration and texture do not blend with the background, demonstrating no camouflage."
+}

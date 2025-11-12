@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a cluttered underwater seabed, characterized by coarse grains of sand, numerous small pebbles, and various shell fragments ranging in color from off-white and beige to reddish-brown and dark grey. There is also organic detritus scattered throughout, contributing to a diverse and uneven texture. A larger, ribbed mollusk shell or similar object, encrusted with sand and sediment, is visible in the upper portion of the image.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits strong camouflage by blending effectively with its complex seabed environment. Its elongated, slender body is a dark reddish-brown with lighter speckles and a subtle purplish iridescence, closely matching the varied colors of the sand, pebbles, and detritus. The small, irregular dermal appendages or protrusions along its body contribute to shape disruption, breaking up its outline and making it less distinguishable from the rough, fragmented texture of the surrounding substrate. This combination of color matching, pattern matching to the granular background, and an elongated, disrupted shape allows the Pipefish to be easily overlooked as just another piece of debris on the seabed."
+}

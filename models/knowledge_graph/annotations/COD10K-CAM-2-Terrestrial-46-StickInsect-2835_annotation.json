@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "StickInsect",
+  "background_description": "The organism is resting on a large, broad, vibrant green leaf with prominent parallel veins. The leaf exhibits some lighter, linear markings, possibly natural variations or minor damage. In the background, other lush green leaves are visible, some partially shadowed, indicating a dense foliage environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The StickInsect demonstrates exceptional camouflage. Its elongated, slender body and legs are a vibrant green, almost perfectly matching the hue of the leaf it rests upon. The insect's body shape effectively mimics a plant stem or a prominent leaf vein, a classic example of mimicry. Resting flat against the leaf surface, its posture minimizes shadows and its contours align with the linear patterns of the leaf, reducing any visual cues that would differentiate it from the foliage. The combination of identical color, similar texture (smooth, linear), and a form that mimics a common plant element makes it extremely difficult to spot."
+}

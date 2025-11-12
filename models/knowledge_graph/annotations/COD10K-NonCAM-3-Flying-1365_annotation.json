@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird in flight",
+  "background_description": "The background consists of horizontal textured bands of varying grey tones, suggesting water ripples or distant landscape elements. It has a grainy, slightly blurred appearance with lighter streaks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a bird in flight as a dark silhouette against a lighter, textured grey background. There is a very high contrast between the bird and its surroundings, making its outline distinct and easily identifiable. The bird's dark form does not blend in terms of color or texture with the background, indicating a complete absence of camouflage. The subject stands out prominently, rather than attempting to conceal itself."
+}

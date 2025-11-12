@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Kitchen corner interior",
+  "background_description": "The scene depicts an indoor kitchen or utility corner with plain light beige walls and a wooden floor. A vintage cream-colored Bosch refrigerator is visible, with a white microwave oven placed on top. To the right of the refrigerator, there is a wooden chair with a carved back.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an indoor environment consisting of household appliances and furniture. There are no organisms (animals, insects, or fish) present in the scene. Therefore, the concept of biological camouflage does not apply. The refrigerator's light cream color has low contrast with the light beige wall."
+}

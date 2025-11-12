@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Harlequin Sweetlips (juvenile)",
+  "background_description": "The background consists of an underwater reef environment with various corals, rock formations, and sea anemones. The colors are predominantly muted greens, browns, and beige, with organic, textured surfaces from the coral and anemone tentacles.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The fish, identified as a juvenile Harlequin Sweetlips, exhibits striking bright yellow coloration with bold black vertical stripes and vibrant blue fins. These vivid and contrasting colors, along with the distinct striped pattern, make the fish highly conspicuous against the muted greens, browns, and organic textures of the surrounding coral reef environment. There is no visible attempt at color blending, disruptive patterning, or mimicry to help it conceal itself. Instead, its prominent appearance suggests a lack of camouflage, possibly indicating aposematic (warning) coloration or simply a species that does not rely on camouflage for survival at this life stage."
+}

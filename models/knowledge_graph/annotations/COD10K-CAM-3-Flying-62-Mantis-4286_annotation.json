@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is resting on a prominent, textured green leaf. The background consists of blurred, darker green foliage, suggesting other leaves or plant parts, with a significant portion being a very dark, almost black, out-of-focus area, likely deep shadow or night.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The mantis exhibits excellent camouflage in this image. Its entire body, particularly its wings and prominent leg sections, are a vibrant green color that perfectly matches the hue of the leaf it is resting on. The shape of its body, especially the broad, flattened wings, closely mimics the appearance and texture of a leaf, contributing to a form of mimicry. The mantis's overall outline blends seamlessly with the leaf's surface, and its subtle body textures complement the leaf's natural veins and surface details. The low contrast between the mantis and the leaf makes it very difficult to distinguish the organism from its environment, effectively hiding it from potential predators or prey."
+}

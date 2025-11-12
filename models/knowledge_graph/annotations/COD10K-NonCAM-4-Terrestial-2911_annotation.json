@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of damp, muddy brown earth with sparse patches of green grass growing in clumps. The ground appears uneven with some small debris.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an otter sitting upright on muddy ground with patches of grass. While the otter's fur has some brownish-grey tones that might partially overlap with the mud's color, its distinct shape, the lighter contrasting fur on its chest and face, and the overall difference in texture and form from the background make it highly visible. There is no attempt at blending its outline, mimicking environmental features, or using disruptive patterns to conceal its presence. Therefore, no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of a complex marine environment. The upper right and central area feature a dark-bodied crinoid (feather star) with numerous white, speckle-like markings on its feathery arms. Below and to the left, a vibrant red coral or gorgonian with a highly textured, bumpy, and branched structure dominates the lower half of the image. The deeper background appears dark and indistinct with some faint organic structures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The GhostPipefish exhibits exceptional camouflage. Its body color, a reddish-brown with white blotches and speckles, closely matches the red coral/gorgonian and the white markings on the crinoid. Its elongated, irregular shape, combined with numerous feathery appendages and extensions, perfectly mimics the texture and branching patterns of both the crinoid arms and the coral structure. The contrast within the fish's own patterns (darker body with bright white spots) also aligns with the high-contrast elements present in the background (dark crinoid with white spots). This combination of color blending, pattern matching, and shape disruption makes it extremely difficult to distinguish the fish from its environment, appearing as just another part of the complex marine invertebrates."
+}

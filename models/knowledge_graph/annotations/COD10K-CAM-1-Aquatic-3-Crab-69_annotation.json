@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a dense arrangement of irregularly shaped rocks and pebbles, intermingled with wet, dark reddish-brown soil or mud. The rocks exhibit a range of natural earthy tones, from light tan and pale grey-brown to darker reddish-brown. Several areas of the ground appear shiny and reflective due to moisture. The environment is textured and uneven, with strong sunlight creating defined shadows and highlights across the surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab demonstrates effective camouflage by blending seamlessly with its rocky and muddy environment. Its carapace, legs, and claws display a brownish-grey coloration with subtle mottling that closely matches the varied earthy tones of the surrounding rocks and wet soil. The texture of the crab's exoskeleton also mimics the rough, granular surfaces of the stones and mud. This high degree of color and texture similarity, combined with a low contrast difference against the background, makes it difficult to distinguish the crab's form from the jumbled natural debris. The irregular shape of the crab and its position among similarly shaped rocks further contributes to its concealment through pattern matching and potentially some shape disruption, effectively breaking up its outline."
+}

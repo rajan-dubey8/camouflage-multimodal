@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists of a dark, blurry, possibly rocky or earthen wall of an enclosure, visible behind the zebra. There are out-of-focus horizontal bars in the foreground, suggesting a fence or barrier. The ground immediately around the zebra's muzzle appears to be light-colored rock or packed earth with some sparse dry grass.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebra exhibits a disruptive pattern camouflage through its distinctive black and white stripes. While this pattern is a known biological adaptation that can help break up the animal's outline, create 'motion dazzle' in a herd, or blend with light and shadow in tall grass, its effectiveness is very low in this specific image. The stark contrast of the stripes against the relatively dark, uniform, and blurry background of the enclosure makes the zebra highly visible rather than concealed. The camouflage type is inherent to the animal's design, but its function is not well served by this particular environment."
+}

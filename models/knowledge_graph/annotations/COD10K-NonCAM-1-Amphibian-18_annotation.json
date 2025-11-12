@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree Frog",
+  "background_description": "The background consists of blurred, dark green aquatic or semi-aquatic foliage. The frog is prominently perched on a large, dark red leaf with visible vein patterns, suggesting a planted, humid environment typical of a terrarium or paludarium setup.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a light green tree frog. It is highly visible and stands out distinctly against the dark red leaf it is resting on. There are no patterns, colors, or textures that allow it to blend into its immediate surroundings for concealment, confirming the absence of camouflage."
+}

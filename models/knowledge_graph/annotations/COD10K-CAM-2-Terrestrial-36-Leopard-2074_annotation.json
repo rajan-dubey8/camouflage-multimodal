@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of a dense forest floor or jungle undergrowth, characterized by a mix of dry, fallen leaves in various shades of brown and tan, scattered branches, and patches of green foliage including large palm fronds and some grassy plants. There are also darker areas indicating shadows and moist earth, creating a visually cluttered and high-contrast environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The leopard's coat, with its distinct black rosette patterns on a yellowish-tan background, provides effective camouflage in this natural habitat. The tan base color of the fur blends reasonably well with the dry leaves and earthy tones on the forest floor. More significantly, the dark black rosettes mimic the patches of shadow and the irregular shapes created by dappled light, fallen leaves, and broken branches in the dense undergrowth. This disruptive coloration breaks up the leopard's solid outline, making it difficult for an observer to distinguish its form from the busy, high-contrast background. While the leopard is clearly visible in this static image, its pattern is expertly designed for concealment in a dynamic environment of light and shadow."
+}

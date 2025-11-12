@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a forest floor densely covered with a thick layer of dry, fallen leaves. These leaves display a variety of browns, reddish-browns, and dark earthy tones, with some appearing crumpled, torn, or partially decomposed. There are also small twigs and organic debris. In the distant background, blurred green foliage is visible, indicating a forest setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Shape disruption / Mimicry",
+  "explanation": "The Mantis in this image exhibits extraordinary camouflage, blending almost perfectly with its environment of dry, fallen leaves. Its body coloration is a near-identical match to the various shades of brown, reddish-brown, and dark tones of the leaf litter (color similarity: high). Furthermore, its morphology is highly adapted to mimic the irregular, crumpled, and broken shapes of dead leaves and twigs (shape disruption and mimicry). The Mantis's textured exoskeleton also closely resembles the surface of dried foliage (texture similarity: high). This combination results in a very low contrast difference between the organism and its surroundings, making it incredibly difficult to distinguish from the natural debris of the forest floor."
+}

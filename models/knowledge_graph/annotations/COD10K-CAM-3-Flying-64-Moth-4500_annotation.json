@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The moth is situated on a cluster of dried or decaying broad leaves from a plant, hanging from a thin stem. The leaves exhibit various shades of brown, reddish-brown, and tan, with patches of light green moss or lichen, and some areas showing signs of damage or decay (holes, discoloration). The background behind the leaves is uniformly black, suggesting a dark environment or a shallow depth of field.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.92,
+  "confidence": 0.98,
+  "camouflage_type": "Mimicry",
+  "explanation": "The moth exhibits excellent camouflage through mimicry, specifically resembling a dried leaf. Its wings are a mottled brown and reddish-brown, perfectly matching the predominant colors of the dried leaves it rests upon. The subtle patterns and lighter streaks on its wings also blend seamlessly with the varied textures, veins, and discolored patches found on the natural leaves. Furthermore, the moth's posture and the irregular, undulating edges of its wings contribute to breaking up its outline, making its shape less discernible and more akin to an organic part of the foliage. The low contrast difference between the moth and its immediate surroundings makes it very difficult to spot at first glance."
+}

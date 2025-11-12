@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wild plant with green berries and dried foliage",
+  "background_description": "The scene features a wild plant with a central stalk topped by a dense cluster of bright green, spherical berries. Below the berries, dried, papery brown foliage wraps around the stalk. The background consists of out-of-focus green leafy plants, dry yellowish grass, and a bright, clear blue sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image mainly depicts a plant with green berries and dried foliage in a natural outdoor setting. While a small snail is present on the green berries, the image does not 'mainly show' an animal, insect, or fish according to the specified rule for determining 'entity_type'. Therefore, the 'entity_type' is classified as 'Environment'. As no organism is primarily visible and analyzed for camouflage, the camouflage assessment metrics are set to default values indicating no camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists of blurred green foliage from trees or bushes on the right side, and a dark, out-of-focus wooden boardwalk or structure with railings on the left, partially obscured by blurry brown palm fronds in the upper left. The overall scene suggests a natural, possibly wetland or coastal environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Blue Heron is clearly visible and sharply defined against the blurred background. Its gray-blue plumage does not blend significantly with the dominant green foliage or dark brown wooden structures. The bird is in active flight, a state where camouflage is generally less effective for concealment. There is a high contrast difference between the well-lit bird and the darker, out-of-focus background, making it stand out rather than blend in."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of a thick, gnarled, and rough-textured tree branch or piece of dead wood. The wood has various shades of brown and grey, with deep crevices and irregular surfaces. Parts of the wood show lighter, almost silvery-brown tones, while others are darker and more shadowed. Behind the branch, the background is uniformly dark, appearing almost black, suggesting either deep shadow or an artificial, non-descript backdrop, which further emphasizes the branch and the organism.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage by blending seamlessly with the gnarled wooden branch. Its skin coloration, a mottled pattern of dark browns, greys, and lighter speckles, closely matches the varying hues and textures of the wood. The frog's bumpy, irregular skin texture mimics the rough, cracked surface of the branch, including the small lighter spots on its back which resemble lichen or lighter patches on the wood. The overall effect results in low contrast between the frog and its surroundings, making it difficult to distinguish the organism from the natural irregularities of the branch at first glance. The dark background further enhances the focus on the blending between the frog and the wood, without providing any contrasting elements."
+}

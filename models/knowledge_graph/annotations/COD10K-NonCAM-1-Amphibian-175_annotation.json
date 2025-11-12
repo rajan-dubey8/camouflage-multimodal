@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Dark, granular riverbed or pond bottom, composed of small dark pebbles and damp soil, suggesting a shallow water or exposed bank area.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A toad is visible on a dark, granular surface, interpreted as a riverbed or pond edge. Its natural coloration and bumpy texture provide some natural blending with the dark environment, though it is not actively camouflaged for concealment. As an amphibian, it is classified as an aquatic animal within the dataset context."
+}

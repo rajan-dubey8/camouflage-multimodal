@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Grey Angelfish",
+  "background_description": "The background depicts a murky aquatic environment, likely a coral reef or rocky seabed, with various dark, textured rock formations and corals. The water has a greenish-brown tint, and several other smaller fish, including a spotted pufferfish-like fish and surgeonfish, are visible in the mid-ground and background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Grey Angelfish with its distinctive dark body, patterned scales, and bright yellow markings around the eye and operculum. The fish's vibrant details and clear outline stand out prominently against the darker, textured reef background, indicating a clear absence of camouflage."
+}

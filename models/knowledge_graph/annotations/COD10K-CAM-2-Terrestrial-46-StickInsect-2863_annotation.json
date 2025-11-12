@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "StickInsect",
+  "background_description": "The background consists of a dense arrangement of small, elongated leaves on thin, brownish-green stems. The foliage exhibits varying shades of green, from vibrant chartreuse on newer growth to darker, out-of-focus greens further back, creating a textured arboreal environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The StickInsect demonstrates excellent camouflage through phytomimicry. Its elongated, slender, vibrant green body, along with its thin legs and antennae, perfectly mimics the stems and new growth of the plant it is perched upon. The color precisely matches the surrounding foliage, contributing to a high color similarity and low visual contrast. Its shape also disrupts its outline, making it appear as an extension of the plant rather than a separate organism, further enhancing its mimicry of a twig or stem."
+}

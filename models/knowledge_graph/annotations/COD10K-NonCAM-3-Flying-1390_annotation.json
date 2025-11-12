@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wood Stork taking flight",
+  "background_description": "The background consists primarily of a clear, vibrant blue sky. In the lower part of the image, there is a section of a gnarled, weathered, bare tree branch with a rough, greyish-brown texture.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Wood Stork is predominantly white with black flight feathers and a dark head, bill, and legs. This color pattern creates a very high contrast against the clear, bright blue sky in the background, making the bird highly visible. While it is perched on a weathered tree branch, neither the bird's colors nor its texture blend with the branch or the expansive blue sky. Therefore, no camouflage is present; the bird stands out distinctly against its environment."
+}

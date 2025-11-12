@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tree canopy against blue sky",
+  "background_description": "The image features a dense canopy of vibrant green leaves and slender tree branches, viewed from below. Sunlight illuminates many of the leaves, creating varying shades of green, while some areas are in shadow. Through the gaps in the foliage, a clear, bright blue sky with a few wispy white clouds is visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a natural environment consisting of a tree canopy and the sky. No animals, insects, fish, or any other organisms are visible within the frame. As such, there is no subject that could be demonstrating camouflage, and therefore, no camouflage is present."
+}

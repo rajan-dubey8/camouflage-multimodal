@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Red-brown beetle on rock",
+  "background_description": "The background consists of a rough, light-colored rock surface. It shows varying shades of light gray, off-white, and faint reddish-brown or sandy tones, indicative of natural mineral composition and accumulated dust/dirt. The texture is granular and uneven, with visible small crystals and cracks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect, a red-brown beetle with black legs and antennae, exhibits very low color and texture similarity with its background. Its prominent reddish-brown coloration strongly contrasts with the light gray and off-white tones of the rock, making it highly visible. The beetle's relatively smooth body also stands out against the rough, granular texture of the rock surface. Therefore, no camouflage is present."
+}

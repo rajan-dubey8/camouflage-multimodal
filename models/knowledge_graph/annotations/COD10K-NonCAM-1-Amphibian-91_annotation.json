@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "A damp, earthy bank with sparse vegetation and shallow water, typical of a pond's edge or freshwater habitat where toads are commonly found.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad, an amphibian often associated with aquatic or semi-aquatic environments for breeding, standing on a concrete surface next to an orange wall. The animal's mottled brown and beige coloration offers low color and texture similarity, and high contrast, against this artificial, terrestrial background, confirming no camouflage is present. While the animal is categorized as an amphibian relevant to aquatic datasets, the immediate environment depicted is not aquatic. Therefore, the background description provided is a general aquatic-adjacent habitat for toads, not a direct observation from the image."
+}

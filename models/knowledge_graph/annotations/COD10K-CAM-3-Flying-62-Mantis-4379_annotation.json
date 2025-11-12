@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists primarily of vibrant green plant stems and lush green leaves. There are several trumpet-shaped purple flowers, some in sharp focus and others blurred, with darker purple centers and small water droplets on their petals. Scattered throughout are small green buds and hints of brown earth or dried foliage, all contributing to a rich, verdant garden environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Mantis exhibits excellent camouflage in this image. Its entire body is a vivid green, which perfectly matches the color of the surrounding plant stems and leaves it is perched upon. This high degree of color similarity makes it blend seamlessly with the foliage. Furthermore, its elongated body shape, particularly its abdomen and front legs, mimics the shape and structure of the plant's stems and leaves, contributing to shape disruption. The low contrast difference between the Mantis and its immediate environment means it does not stand out visually, making it very difficult for predators or prey to detect."
+}

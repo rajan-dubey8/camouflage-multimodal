@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "City street scene with sky",
+  "background_description": "The scene features a bright blue sky with scattered white cumulus clouds, occupying the upper portion of the image. Below, traditional-style buildings with dark grey brickwork and tiled roofs line the left side. Several trees with green foliage and a prominent tree trunk are visible in the middle and right, alongside vibrant purple flowers. Red market awnings are spread out at the bottom of the frame.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an urban environment consisting of sky, clouds, buildings, trees, and street elements. There are no visible animals, insects, or fish present in the scene, and thus, no organism attempting to blend into its surroundings. Therefore, camouflage is not applicable."
+}

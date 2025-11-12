@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Queen Angelfish",
+  "background_description": "The background consists of dark blue and black deep water, with indistinct, shadowy rocky or coral structures visible in places, suggesting an aquatic environment like a deep reef or a large aquarium display.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant blue Queen Angelfish with distinct yellow fins and scale patterns swimming against a dark, rocky aquatic background. Its bright coloration and prominent features stand out significantly, demonstrating no attempt at camouflage."
+}

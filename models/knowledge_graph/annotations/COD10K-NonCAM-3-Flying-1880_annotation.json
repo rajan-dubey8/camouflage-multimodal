@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tufted Titmouse",
+  "background_description": "The background consists of out-of-focus, muted brown, beige, and light grey tones, suggesting a natural outdoor environment during winter or early spring with bare branches and dry, sparse vegetation. The primary support is a greyish-brown tree branch with visible bark texture and small offshoots.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Tufted Titmouse displays camouflage through color blending. Its grey upperparts, including its crest and back, closely match the greyish-brown tones of the bare tree branches and the muted, blurry background vegetation. The white underside, while providing some contrast, is not overly stark against the overall desaturated palette of the winter environment. This coloration helps the bird blend into its surroundings, making it less conspicuous to predators or prey. However, its distinct shape and the texture of its feathers do not mimic the bark or branches, and its black eye patch stands out, preventing perfect concealment."
+}

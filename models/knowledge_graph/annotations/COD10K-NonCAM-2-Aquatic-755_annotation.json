@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Bighead Carp",
+  "background_description": "Murky freshwater environment with a sandy or silty bottom, partially covered by patches of dark green and brown algae or submerged vegetation. The water itself appears somewhat cloudy.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Bighead Carp, identifiable by its large head, deep body, and dark grey coloration. Another carp is partially visible below. The fish stands out distinctly against the muted greens and browns of the algal-covered substrate and sandy bottom, indicating no camouflage is present as its coloration does not merge or blend with the environmental textures or patterns."
+}

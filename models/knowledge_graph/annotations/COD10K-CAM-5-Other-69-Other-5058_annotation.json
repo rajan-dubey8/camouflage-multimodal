@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Juvenile shark",
+  "background_description": "Underwater environment featuring large, textured brown coral formations, a light sandy seafloor with scattered coral rubble, and dark shadows beneath the coral overhangs.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A juvenile shark is present, resting on the sandy seafloor beneath a coral overhang. Its light greyish-tan coloration closely matches the color of the sand, providing high color similarity and a low contrast difference with its immediate background. This color blending, combined with its position under the dark coral, helps it conceal itself from predators or prey. While its smooth skin texture does not match the rough textures of the sand or coral, its effective color blending and strategic positioning contribute significantly to its camouflage."
+}

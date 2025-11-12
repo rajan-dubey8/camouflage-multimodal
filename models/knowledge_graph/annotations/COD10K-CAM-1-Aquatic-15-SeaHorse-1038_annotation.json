@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of an underwater reef or rocky substrate heavily adorned with various marine life, including brownish-red and greenish algae, some stringy plant matter, and several broad, translucent, golden-brown leaf-like structures (likely kelp or seaweed). There are also patches of lighter, sandy or calcareous material, and some white sponge-like organisms. The water itself appears a hazy blue-green, with a sandy bottom visible in the distance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The seahorse demonstrates effective camouflage through a combination of color and texture matching. Its yellowish-tan body coloration closely matches the golden-brown hues of the broad, leaf-like marine vegetation it is clinging to, as well as the lighter, sandier patches and some of the yellowish algae on the reef. The dark spots on its body further aid in breaking up its silhouette, allowing it to blend with the speckled and mottled textures of the surrounding coral and algal growth, mimicking shadows or detritus. The ribbed and somewhat bumpy texture of the seahorse's skin also harmonizes well with the overall rough and organic texture of the reef environment, reducing its visual contrast and making it less conspicuous despite its unique shape."
+}

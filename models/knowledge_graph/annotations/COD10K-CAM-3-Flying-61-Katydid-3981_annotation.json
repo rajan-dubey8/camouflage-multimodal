@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a plant stem with bright green leaves, some showing lighter yellowish-green variegation. Behind the plant, the environment is dark, largely out-of-focus, deep green to black, suggesting a shaded area or distant foliage blurred into bokeh.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid demonstrates excellent camouflage through color blending. Its vibrant green body, especially its large wing covers, perfectly matches the bright green hue of the plant leaves it is resting on. While the texture of its body is slightly different from the smooth leaves, the dominant visual cue is the color match. Its flattened body shape also vaguely mimics the outline of a leaf, although not explicitly 'leaf mimicry' in the sense of a dead leaf, but rather blending into the living foliage. The contrast between the Katydid and the bright green leaves is low, making it difficult to discern the insect at first glance, especially against the visually busy backdrop of the plant itself. The dark, out-of-focus background further highlights the plant and the camouflaged insect within it, but the primary camouflage mechanism is its integration with the plant."
+}

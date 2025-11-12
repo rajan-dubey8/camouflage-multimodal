@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The toad is resting on a ridged, light grayish-green corrugated surface, possibly a roof or tile, which appears to have some dust or grime. The upper background is a dark, out-of-focus reddish-brown with a subtle gradient.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The toad displays natural camouflage through its skin coloration and texture. Its bumpy, warty skin is mottled with shades of tan, brown, and orange-brown, which are typical earthy tones designed to blend with soil, leaf litter, and rocks. While the dark, blurry background makes the toad stand out due to high contrast, its coloration and rough texture show a medium similarity with the corrugated surface it is resting on. This color blending helps it to be less conspicuous in suitable natural habitats, despite the specific photographic context not being its ideal camouflaged environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Vervet Monkeys",
+  "background_description": "The background consists of a large tree trunk with rough, textured greyish-brown bark on the right, and blurred green foliage and leaves on the left and behind the subjects, suggesting a natural, arboreal environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.7",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The Vervet monkeys exhibit camouflage primarily through color blending. Their greenish-grey fur provides a medium color similarity with the greyish-brown tree bark and the muted tones of the green foliage in the background. While their black faces create some contrast, the overall body coloration helps them blend into the dappled light and shadow of their arboreal environment, making them less conspicuous to predators or prey. The texture similarity is low as fur is distinct from bark, but the fur color effectively matches the environmental palette, aiding in their concealment."
+}

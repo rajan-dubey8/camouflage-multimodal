@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal scene with clear water",
+  "background_description": "The foreground features a rugged coastline composed of light brown, orange, and reddish-brown rocks, some with darker, possibly algal, patches. The water in the mid-ground is exceptionally clear and shallow near the shore, displaying turquoise and aqua hues over the rocky bottom, transitioning to a deeper blue further out towards the horizon. The sky is vibrant blue with scattered, wispy white cirrus clouds. In the distance, there are a few small landmasses or islands covered with some greenery.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural coastal environment with no discernable animals, insects, or fish present. The primary elements are rocks, ocean, and sky. Since no organism is visible, the concept of camouflage does not apply to this scene. Therefore, camouflage is explicitly marked as absent."
+}

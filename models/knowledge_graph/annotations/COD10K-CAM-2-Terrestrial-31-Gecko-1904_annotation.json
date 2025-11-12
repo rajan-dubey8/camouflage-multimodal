@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background is a rough, textured wall or surface, possibly made of stone or concrete. It features irregular patches of yellowish-brown, light orange, and beige tones, interspersed with darker crevices and lighter, almost white, raised areas. The surface is uneven and mottled, lacking a uniform pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The gecko exhibits excellent camouflage against the textured wall. Its skin coloration, a mottled pattern of yellowish-brown and darker brown speckles, very closely matches the dominant hues and irregular patterns of the background. The rough, bumpy texture of the gecko's skin also blends seamlessly with the uneven, granular surface of the wall, which features similar variations in texture and light/dark patches. The low contrast between the gecko's overall luminance and the background makes it very difficult to discern its outline, allowing it to blend effectively into its environment through both color and pattern matching."
+}

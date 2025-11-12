@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stonefish",
+  "background_description": "The background consists of a dark, uneven underwater seabed. It features a mix of rocky substrate, patches of sand, and various types of coral growth. Dominant colors are dark greens, blues, and browns, with some lighter blue-tipped branching corals and occasional patches of light beige or purple coral. The textures are rough, irregular, and granular, typical of a reef environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "A stonefish is present in the center of the image, expertly camouflaged against the seabed. Its body coloration, which includes mottled dark greens, browns, and greyish tones, perfectly matches the surrounding rocks, sand, and dead coral. Crucially, its highly irregular, lumpy, and textured skin strongly mimics the rough and uneven surface of the reef, making it appear like just another rock or piece of encrusted coral. The low contrast difference between the fish and its immediate surroundings further aids in its concealment, making it exceptionally difficult to detect by sight."
+}

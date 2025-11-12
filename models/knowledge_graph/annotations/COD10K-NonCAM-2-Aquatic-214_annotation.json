@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The aquatic environment consists primarily of a dense field of vibrant purple-pink anemone tentacles, which are soft, tubular, and fleshy in appearance, creating a visually striking and textured backdrop. The deeper areas behind the tentacles appear darker.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Clownfish with prominent orange, white, and black markings. Its distinct coloration and patterns stand out against the purple anemone tentacles, making it highly visible and confirming the absence of camouflage."
+}

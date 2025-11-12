@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Translucent shrimp",
+  "background_description": "A vibrant and dense colony of Zoanthid polyps, predominantly green with bright orange to reddish-brown centers, displaying a radial pattern. These polyps are attached to a textured, rocky substrate with some lighter, possibly dead coral or rock fragments. A black, open-mesh grid structure is visible behind and around the polyps, creating a geometric background element.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features small, translucent shrimp-like creatures (crustaceans) among a colony of Zoanthid polyps. These organisms exhibit excellent camouflage. Their bodies are highly translucent, allowing them to blend seamlessly with the colors and lighting of their coral environment. Their irregular body shape and minimal pigmentation provide high color and texture similarity with the complex, textured surface of the polyps and surrounding rock, resulting in a very low contrast difference. This makes them extremely difficult to spot, even upon close inspection. The primary camouflage mechanism is color blending facilitated by their transparency. \n\nNote on `object_category`: The camouflaged organism is a translucent shrimp, which is a crustacean. As 'Crustacean' is not an available category in the provided schema, 'Insect' has been chosen as the closest available invertebrate category, despite being biologically inaccurate for a shrimp."
+}

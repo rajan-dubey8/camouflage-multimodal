@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The background consists of a grassy savannah environment. The ground is covered predominantly with dry, pale yellow-brown grass, interspersed with patches of greener grass and some areas of bare, light brown soil. There are also subtle shadows, possibly from sparse overhead vegetation, creating a dappled effect.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The cheetahs exhibit effective camouflage in this image. Their tawny, sandy-colored fur provides high color similarity with the dry, yellowish grass of the savannah background, allowing them to blend seamlessly with the dominant hues of their environment. The distinctive black spots on their coats serve multiple camouflage functions: they act as pattern matching, mimicking the texture of the varied vegetation and shadows, and critically, they contribute to shape disruption. This breaks up the clear outline of the animals, making it harder for predators or prey to distinguish their form from the mottled background. While the cheetahs are not invisible, the combination of color matching and pattern disruption significantly reduces their visibility and makes them difficult to spot at a glance, especially when lying low in the grass."
+}

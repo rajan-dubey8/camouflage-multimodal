@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Donkeys",
+  "background_description": "The foreground and mid-ground consist of a dark grey asphalt road with a distinct white line marking its edge. Behind the road, a dense wall of vibrant green trees and bushes with numerous small leaves forms the background. The overall impression is a natural, perhaps tropical or subtropical, roadside environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two donkeys, one adult and one juvenile, on an asphalt road. Their greyish-brown fur coloration contrasts sharply with both the dark grey road surface and the bright green foliage in the background. There is no significant color or texture similarity to their immediate surroundings. The donkeys stand out distinctly against the environment, indicating an absence of camouflage. Donkeys do not typically rely on camouflage as a primary defense mechanism, especially in this kind of human-altered environment (roadside)."
+}

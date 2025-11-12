@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists primarily of a rocky substrate, likely coral or marine rocks, densely covered with various types of algae and growth. The colors of the rocks and growth range from dark greens and browns to vibrant purplish-red hues, interspersed with lighter white/sandy patches. The upper portion of the image shows a uniform, deep blue, indicative of open water or an aquarium wall.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Texture matching",
+  "explanation": "The fish exhibits outstanding camouflage, blending almost seamlessly with the rocky, algae-covered environment. Its mottled coloration, comprising shades of brown, reddish-purple, and white, perfectly mimics the varied hues of the coralline algae, green algae, and sandy patches on the rocks. The irregular, spiky, and bumpy texture of the fish's body and fins closely matches the uneven surface of the substrate, further enhancing the illusion. Its disrupted outline and numerous projections break up its silhouette, making it incredibly difficult to distinguish from the surrounding rock formations. This combination of color, pattern, texture, and shape disruption creates a highly effective camouflage."
+}

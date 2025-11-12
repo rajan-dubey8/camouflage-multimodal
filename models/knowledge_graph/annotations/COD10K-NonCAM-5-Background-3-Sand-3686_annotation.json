@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy dune landscape",
+  "background_description": "The scene features a vast, open sandy landscape characterized by undulating dunes and ripples, predominantly light brown to tan in color, with visible footprints and natural wind-blown textures. In the mid-ground and distance, there are patches of darker ground and clusters of green trees and bushes. The upper portion of the image is dominated by a clear blue sky with sparse, wispy white clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment, specifically a sandy dune landscape with some distant vegetation and a blue sky. No organisms (animals, insects, or fish) are visible within the frame. As camouflage is a biological adaptation for organisms to blend into their surroundings, its presence cannot be assessed without a visible subject."
+}

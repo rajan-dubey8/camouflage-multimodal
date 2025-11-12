@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Common Blackbird",
+  "background_description": "The bird is perched on a light brown, weathered wooden fence post. Behind the fence, the background consists of blurred green foliage, likely bushes or trees, with some lighter patches indicating dappled light or distant elements.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The Common Blackbird, with its entirely black plumage and bright yellow-orange beak, stands in stark contrast to its immediate surroundings. It is perched on a light brown wooden fence, which provides a high contrast background for its dark body. The blurred green foliage behind it also contrasts significantly with the bird's black color. There is no blending of colors, disruptive patterning, or mimicry that would allow the bird to hide from predators or prey in this environment. The bird is highly conspicuous."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Iguana",
+  "background_description": "The background consists of light brown to beige sandy or dusty ground, appearing dry and somewhat uneven. It is largely out of focus, creating a soft, blurred texture that implies an arid environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending",
+  "explanation": "The iguana exhibits strong camouflage. Its skin colors, a mix of light beige, pinkish-browns, and mottled grey-browns with darker olive patches, closely match the hues of the sandy, dusty ground in the background. The rough, scaly texture of its skin also mimics the uneven and granular appearance of the dry earth, helping it to blend seamlessly with its environment. This high similarity in both color and texture, along with a low overall contrast against the background, indicates effective color blending camouflage to avoid detection."
+}

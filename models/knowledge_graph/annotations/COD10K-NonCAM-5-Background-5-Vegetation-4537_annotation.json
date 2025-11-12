@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Garden foliage with flower buds",
+  "background_description": "The background consists of dense, out-of-focus green foliage, likely herbaceous plants or grass, creating a soft, verdant backdrop. The colors vary from bright lime green in sunlit areas to darker forest green in shaded parts, indicating varied light conditions and depth. The textures appear smooth due to the blur.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features a natural environment consisting of green plant foliage and unopened flower buds. There are no animals, insects, or fish visible in the scene. According to the rules, if no organism (animal, insect, or fish) is visible, camouflage is not present."
+}

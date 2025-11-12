@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "House Finch",
+  "background_description": "The background consists of a blurry, dark blue-grey area to the left, and a clear, somewhat dirty plastic bird feeder with metal accents to the right. The bird is perched on the rim of the feeder.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, a male House Finch, exhibits prominent red plumage on its head and chest, which contrasts significantly with the dark, blurry background and the clear plastic bird feeder. The bird's distinct colors and form make it highly visible, indicating no camouflage is present. The bright coloration is a characteristic of male finches for display, not for concealment within this environment."
+}

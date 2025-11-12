@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background consists primarily of dark, almost black water. In the lower and right parts of the image, there are faint, shadowy, indistinct textures that could be dark rocks or coral structures, partially obscured. A small, blurry, yellow object is visible in the mid-right background.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits vibrant and diverse coloration, featuring prominent blues, purples, pinks, greens, oranges, and yellows. This striking array of colors stands in stark contrast to the predominantly dark and indistinct background. There is no attempt at color blending or disruptive patterning that would help it merge with the visible environment. While such complex patterns might serve as disruptive camouflage in a richly diverse and colorful coral reef, in this specific dark setting, the fish is highly conspicuous and not camouflaged."
+}

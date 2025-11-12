@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of green foliage with various shades of green leaves, some in focus and others blurred. A prominent white flower with a yellow center is visible where the butterfly is perched.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's wings feature prominent patterns of vibrant orange, black, and white. These colors and patterns create a high contrast against the green foliage and the white flower, making the butterfly highly visible rather than camouflaged. Its coloration suggests aposematism (warning coloration) or display for mating, rather than an attempt to blend into its environment."
+}

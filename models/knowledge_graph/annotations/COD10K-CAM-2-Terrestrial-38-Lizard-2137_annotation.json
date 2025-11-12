@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dry, rocky terrain composed of numerous irregular rocks and pebbles varying in size, from small gravel to larger stones. The rocks exhibit a range of natural colors including light gray, beige, tan, reddish-brown, and some darker grey hues. The ground between the rocks is sparse soil/sand, and there are distinct shadows cast by the rocks, indicating bright sunlight.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The lizard is quite noticeable against the rocky background. Its bright yellowish-orange coloration creates a significant contrast with the predominantly muted grey, tan, and reddish-brown rocks and soil. While some rocks share warm tones, the lizard's hue is more vibrant and uniform, lacking the varied textures and patterns of the surrounding stones that would help it blend in. Its distinct shape is also clearly visible, making it stand out rather than blend into the environment, despite being in a natural habitat where lizards often find shelter."
+}

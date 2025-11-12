@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The owl is perched on a weathered, vertically textured tree trunk with a rough, greyish-brown bark. The distant background is composed of out-of-focus dark green foliage with soft, lighter green bokeh circles, suggesting a leafy, shadowed environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The owl demonstrates significant camouflage against the tree trunk it is perched on. Its plumage, a mosaic of muted browns, greys, and whites with intricate speckling and streaking, remarkably mimics the rough texture and variegated color of the tree bark. This allows for excellent color blending and pattern matching, which helps to disrupt its overall shape and make it less conspicuous. While its bright yellow eyes and a clear outline against the darker, blurred green background prevent it from being perfectly indistinguishable, the primary intent of blending with its immediate perch is highly successful."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Buffalo",
+  "background_description": "The background consists of a savanna-like environment with patches of dry, light-brown grass, mixed with green leafy shrubs and bushes. There are also visible thin branches and twigs, suggesting sparse woody vegetation. The overall color palette is muted greens and light browns.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The African Buffalo's large, dark grey/black body stands out prominently against the lighter green and brown savanna vegetation. Its dark coloration and massive size create a high contrast with the background, making it easily visible. This species does not rely on camouflage for defense; rather, its primary defense mechanisms are its formidable size, aggressive nature, and living in large herds."
+}

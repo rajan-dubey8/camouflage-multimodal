@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand dunes landscape",
+  "background_description": "The landscape features expansive sand dunes with gentle undulations and some eroded, layered sand formations in the foreground. The sand displays varying shades of light beige and grayish-brown, with fine granular textures shaped by wind. Above, the sky is light blue with scattered white, fluffy cumulus clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment consisting of sand dunes and the sky. No animals, insects, or any other organisms are visible within the frame. Therefore, there is no subject present for which camouflage can be assessed."
+}

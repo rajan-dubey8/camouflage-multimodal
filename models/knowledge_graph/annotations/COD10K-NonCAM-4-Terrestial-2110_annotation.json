@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown bear",
+  "background_description": "The brown bear is resting on a light beige or tan-colored, textured surface, likely concrete or rock, which is illuminated by sunlight. The background directly behind the bear appears darker and blurry, suggesting shadowed terrain or another part of the animal.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The brown bear is not camouflaged in this scene. Its dark brown fur, especially in the shadowed areas, creates a high contrast with the much lighter beige/tan surface it is resting on. The distinct furry texture of the bear also differs significantly from the rough, granular texture of the ground. The shape of the bear is clearly outlined against its immediate surroundings, making it easily visible and not blending into the environment."
+}

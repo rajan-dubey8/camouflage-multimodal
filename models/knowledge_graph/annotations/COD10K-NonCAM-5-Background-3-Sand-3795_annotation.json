@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastline",
+  "background_description": "The image displays a rugged coastal landscape. The background features a steep, rocky cliff face with visible geological striations and textures, ranging in color from light tan and grey to darker, shadow-drenched hues. Pine trees and other sparse vegetation grow along the crest of the cliff against a blue sky with scattered white cumulus clouds. The foreground and midground consist of numerous large rocks and boulders along the shoreline, many of which are covered in dark green and brown seaweed, indicating they are regularly submerged by the tide. Pockets of light-colored sand are visible between the rocks. The ocean is visible on the left, with gentle waves breaking against the base of the cliff.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, animal, insect, or fish is visible within the image. The scene exclusively depicts an environmental landscape of a rocky coastline, therefore, no camouflage can be present or assessed."
+}

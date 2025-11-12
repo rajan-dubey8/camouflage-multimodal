@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorse is perched on a branching gorgonian coral, which serves as its immediate background. The coral is primarily a pale pinkish-white color, covered with numerous small, rounded, and bright red/dark pink polyps or structures. The deeper background is dark and out of focus, emphasizing the seahorse and its host coral.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.98",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The SeaHorse exhibits an exceptional level of camouflage, blending almost seamlessly with its gorgonian coral host. Its body is covered in tubercles and bumps that precisely mimic the texture and shape of the coral's polyps and branching structure. The coloration, a mottled pale pinkish-white with prominent red, bulbous protuberances, perfectly matches the colors and pattern of the coral. This combination of color blending, pattern matching, and shape disruption makes it incredibly difficult to distinguish the seahorse from its environment, resulting in very low contrast and high similarity in both color and texture."
+}

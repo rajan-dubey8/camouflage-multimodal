@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "French Grunt",
+  "background_description": "The background features a complex coral reef environment with various types of coral and sponges. Dominant colors are deep reds and oranges from large coral formations, alongside darker greens and browns from other growth. There are also delicate white, branching soft corals or gorgonians in the left foreground, indicating a diverse habitat.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a French Grunt, identifiable by its bright yellow body with distinctive horizontal blue-grey stripes. This vivid coloration sharply contrasts with the darker, irregular textures and colors of the coral reef background, indicating a complete absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Squirrelfish",
+  "background_description": "The background consists of dark, murky water with indistinct, dark structures that appear to be rocks or substrate at the bottom. The lighting is dim, giving the environment a deep-water or nocturnal appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a reddish-pink Squirrelfish with large eyes. Its vibrant color and distinct features stand out sharply against the dark, muted aquatic background, indicating a high contrast and no attempt at camouflage."
+}

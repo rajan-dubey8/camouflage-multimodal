@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Stony coral colony",
+  "background_description": "The background consists of a diverse underwater coral reef environment, featuring various textures and colors. This includes lighter patches of white or bleached coral, areas of greenish-grey encrusting organisms (possibly sponges or algae), darker brown and grey rock-like coral structures, and sandy patches in the crevices. The overall substrate is rough and irregular, with shadows adding depth.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a cluster of yellow-orange stony coral polyps, which are organisms. While these corals are naturally part of the reef environment, they do not exhibit active camouflage. Their distinct yellow-orange coloration stands out against the varied, mostly muted brown, white, and dark grey tones of the surrounding reef substrate. The unique corrugated texture of the polyps also differentiates them from the rough, irregular textures of the background. There is no evidence of color blending, mimicry, or disruptive patterns specifically designed to conceal the coral from its surroundings. It is simply present in its natural form within its habitat, rather than actively camouflaging for concealment."
+}

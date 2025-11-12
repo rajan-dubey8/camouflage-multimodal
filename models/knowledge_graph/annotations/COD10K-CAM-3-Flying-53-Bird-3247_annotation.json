@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a thick, rough-barked tree trunk with prominent vertical fissures and grooves, predominantly in shades of grey and brown. The bird is perched on a gnarled, grey-brown branch of the same tree, positioned close to the main trunk. Behind and around the bird, out-of-focus sparse green leaves and thin, winding twigs are visible, with bright, diffused light in the distant background suggesting open sky or bright foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits outstanding camouflage, blending almost seamlessly with its arboreal environment. Its plumage is a highly effective combination of mottled grey, brown, black streaks, and white flecks, which precisely mimics the coloration and texture of the rough tree bark. The vertical streaking on its feathers aligns perfectly with the fissures and grooves in the bark, creating high color and texture similarity. The bird's posture, stiff and upright with closed eyes, further enhances its disguise by disrupting its typical avian silhouette and making it appear like a broken branch stub or an extension of the tree itself, a prime example of shape disruption and mimicry. This comprehensive blending results in a very low contrast difference, making the bird incredibly difficult to detect in this image."
+}

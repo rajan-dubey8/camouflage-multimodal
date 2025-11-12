@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background is an underwater seabed composed of various sizes of crushed coral, small pebbles, and coarse sand. The colors are primarily muted tones of grey, off-white, reddish-brown, and earthy browns, creating a mottled, irregular texture with distinct shadows and highlights.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits exceptional camouflage, blending almost seamlessly with its environment. Its body coloration, a mottled mix of browns, greys, and reddish hues, perfectly matches the diverse colors of the surrounding seabed composed of sand, pebbles, and crushed coral fragments. The intricate, granular pattern on its skin mimics the rough and irregular textures of the environment, making its outline extremely difficult to distinguish. Furthermore, its irregular body shape and potential dermal appendages contribute significantly to shape disruption, preventing it from standing out as a distinct form. The combination of high color and texture similarity, along with very low contrast difference, results in near-perfect blending with its habitat, rendering it almost invisible to the casual observer."
+}

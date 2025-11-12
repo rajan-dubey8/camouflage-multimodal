@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The organism is positioned on a vibrant green leaf, which is covered in numerous small water droplets and has fine, hair-like structures along its edges and surface. A dark, out-of-focus background is visible behind and to the upper right of the leaf.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid exhibits strong camouflage through exceptional color blending with its environment. Its body, legs, and wings are a bright green, nearly identical in hue to the leaf it is resting on, creating very low color contrast. Additionally, its legs are covered in fine hairs and both the Katydid and the leaf have visible water droplets, which contribute to a medium textural similarity and further aid in blending. Although its overall shape is discernible upon close inspection, the near-perfect color match makes it highly difficult to spot against the leaf, especially without careful scrutiny. The only elements that slightly break the camouflage are its pale, somewhat reflective eyes."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists of a body of water. The foreground water is a dark, rippled blue-green. Further back, the water transitions to a lighter, somewhat mottled green, covered densely with aquatic vegetation or algae, with hints of darker marshy plants along the distant edge.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Great Blue Heron in flight. While Great Blue Herons possess natural coloration (blue-gray plumage) that can provide effective cryptic camouflage when standing still in their marshy, watery environments, in this specific image, the bird is fully visible and prominently displayed in mid-flight. Its large size and open wings create a distinct silhouette against the water and vegetation, making it clearly stand out rather than blend in. Therefore, no active or effective camouflage is observed in this particular scene."
+}

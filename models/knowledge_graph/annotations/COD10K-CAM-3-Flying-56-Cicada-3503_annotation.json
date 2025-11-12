@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The cicada is situated on the trunk of a tree, which features mottled bark. The bark displays varying textures and colors, with smooth, lighter tan to creamy-beige patches where bark has peeled, contrasting with darker, rougher, greyish-brown sections and crevices. In the blurry background, green leaves of the tree and glimpses of a blue sky are visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Cicada is well camouflaged against the tree bark. Its body color, a creamy-tan to light brown, perfectly matches the lighter, smoother sections of the bark where it is resting. The cicada's wings, which are semi-transparent and brownish-grey with distinct veins, also blend seamlessly with both the lighter and slightly darker textured areas of the bark. The dark markings on its abdomen are subtly echoed by the darker crevices and rougher patches on the trunk, further reducing its visibility. The overall low contrast between the insect and its immediate environment, combined with the similarity in color and subtle texture, makes the cicada blend in effectively, making it challenging to spot at first glance."
+}

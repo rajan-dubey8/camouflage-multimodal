@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The organism is resting on a vibrant green leaf. The leaf has a slightly fuzzy texture, particularly visible along its serrated edge, and subtle veins. Another out-of-focus green leaf is present in the upper left, and a deep black background occupies the rest of the image, suggesting dense shadow or the space behind the foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada displays excellent camouflage primarily through color blending. Its body is a bright, vivid green that almost perfectly matches the hue and saturation of the leaf it is resting on. The translucent wings, with their green veins, further enhance this effect by allowing the background green to show through, effectively minimizing the insect's distinct outline. While the cicada's body has a smoother texture compared to the slightly fuzzy leaf, and its reddish-brown eyes provide a minor point of contrast, the overall color harmony makes it very difficult to spot at first glance within its natural environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Brain coral",
+  "background_description": "A vibrant underwater coral reef environment. The main green brain coral is surrounded by various other stony corals and rocky structures, predominantly in shades of red, pink, brown, purple, and beige. A large purple clam is also visible in the upper background. The water appears clear with a blue tint.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The green brain coral displays camouflage through disruptive patterning and texture matching. Its highly convoluted, brain-like surface features intricate patterns with varying shades of green and lighter areas. This complex texture blends seamlessly with the heterogeneous and highly textured coral reef environment, which includes various rocky structures and other corals. The intricate patterns help to break up the coral's solid outline and reduce its overall contrast against the visually busy background, making it less conspicuous to predators or prey despite its vibrant color. Although an organism, its sessile nature and form factor mean it acts as a structural component of the environment, making 'Environment' the closest fitting category given the available options."
+}

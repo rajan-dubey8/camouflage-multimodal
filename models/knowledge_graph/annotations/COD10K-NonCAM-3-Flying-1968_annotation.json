@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Green Bee-eater",
+  "background_description": "The bird is perched on a textured, light brown tree branch. The background primarily consists of out-of-focus dark green foliage (leaves and branches) towards the top left and bottom right, with a significant portion of the mid-to-right background being bright, diffused white light, likely an overcast sky or a brightly lit distant area.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Green Bee-eater displays natural color blending camouflage through its predominantly vibrant green plumage, which is characteristic of its species and helps it blend with the green foliage of its tropical habitat. While the bird's body color shows medium similarity with the blurred green leaves in the background, its bright orange head, distinct blue throat patch, and particularly its placement against the very bright, diffused background create a high contrast, making it quite visible. The smooth texture of its feathers also differs from the rough branch and blurred leaves. Thus, despite possessing inherent camouflage features, its effectiveness is limited in this specific lighting and background context."
+}

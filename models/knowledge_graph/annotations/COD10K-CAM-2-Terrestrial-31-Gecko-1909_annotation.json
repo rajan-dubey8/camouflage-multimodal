@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists primarily of a tree trunk. The upper portion of the trunk is covered in dark, rough, furrowed bark. The lower portion of the trunk is covered in a vibrant, lighter green moss or algae, with a slightly bumpy texture. Beyond the tree trunk, the background is a blurred, dark green forest canopy with soft bokeh circles of light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The gecko demonstrates excellent camouflage in this image. Its skin coloration, a mottled mix of greens, browns, and grays, perfectly matches the variegated appearance of the tree trunk, particularly the transition between the dark bark and the mossy green section. The texture of its skin closely mimics the rough and bumpy surface of the tree bark and the algae/moss. Furthermore, its elongated and flattened body shape, combined with its posture tightly pressed against the trunk, effectively disrupts its outline, making it appear as an irregular part of the bark rather than a distinct animal. The low contrast between the gecko and its environment makes it very difficult to discern."
+}

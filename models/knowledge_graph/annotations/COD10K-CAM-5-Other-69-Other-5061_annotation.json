@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tapir",
+  "background_description": "The background consists of dense forest undergrowth, characterized by a mix of fallen dry leaves in shades of brown and tan, intertwining branches and twigs, and patches of green foliage. Sunlight filters through the canopy, creating dappled light and shadow patterns on the forest floor, which includes darker soil and log remnants.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The tapir's dark, uniform fur provides effective camouflage through color blending within the dense, shadowed forest environment. Its dark coloration helps it merge with the deep shadows, dark soil, and decaying logs on the forest floor, reducing its visibility. Although the tapir itself lacks disruptive patterns, the surrounding dense network of branches and foliage actively breaks up its silhouette and provides visual obstruction, further enhancing its crypsis by making it difficult to discern its outline against the complex background."
+}

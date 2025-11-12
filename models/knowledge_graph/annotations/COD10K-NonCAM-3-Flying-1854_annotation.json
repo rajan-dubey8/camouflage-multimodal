@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Perched bird",
+  "background_description": "The bird is perched on bare, light brown to greyish-brown tree branches, which have a relatively smooth bark texture. The background behind the branches and bird is a clear, bright blue sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's plumage, predominantly light grey and white with darker markings on the wings, offers a moderate degree of color blending with the muted, neutral tones of the bare tree branches. This coloration helps it to somewhat integrate with its immediate arboreal environment, reducing its overall conspicuousness against the wood. However, the bright, uniform blue sky behind the bird creates a significant contrast, making its silhouette and form quite discernible against that portion of the background. While the bird's natural coloration is a form of camouflage intended to blend into its natural habitat, the specific lighting and background elements in this scene do not allow for perfect concealment, resulting in medium color similarity with the branches but higher contrast against the sky."
+}

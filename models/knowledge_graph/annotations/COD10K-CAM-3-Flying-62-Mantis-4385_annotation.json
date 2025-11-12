@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dense cluster of green plant stems and branches adorned with numerous small, pale yellow-white flowers and small green flower buds. Further back, out-of-focus darker green leaves are visible, indicating a lush, leafy environment under bright, natural light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The mantis demonstrates exceptional camouflage by perfectly blending with its environment. Its primary green coloration, particularly on its dorsal side, seamlessly matches the green stems and leaves of the host plant. Crucially, the mantis also features intricate yellowish-white patterns and markings on its body and forelegs that remarkably mimic the small, pale yellow-white flowers and green buds scattered throughout the plant. This combination of accurate color matching and detailed pattern replication makes the mantis incredibly difficult to distinguish from the surrounding foliage and blooms, effectively dissolving its outline and form into the background."
+}

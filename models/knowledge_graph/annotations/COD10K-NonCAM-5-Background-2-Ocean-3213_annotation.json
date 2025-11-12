@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean waves crashing on rocky shore",
+  "background_description": "The scene features a dynamic ocean environment. The foreground and mid-ground are dominated by dark, choppy water with white crests and considerable spray from waves vigorously crashing against a rugged, dark gray or brown rocky coastline. The water surface shows distinct ripples and movement. Above the horizon, the sky is a muted, light beige or pale yellow color, with scattered, indistinct darker clouds, suggesting an overcast or perhaps twilight atmosphere.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively captures a natural environmental scene, depicting ocean waves breaking against a rocky shoreline under a cloudy sky. There are no visible organisms, such as animals, insects, or fish, present in the frame. Consequently, the concept of camouflage is not applicable to this image as there is no living subject attempting to blend into its surroundings."
+}

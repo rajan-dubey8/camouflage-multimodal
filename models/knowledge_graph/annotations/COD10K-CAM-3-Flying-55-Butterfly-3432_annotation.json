@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense network of dry, gnarled branches covered in light-colored lichen, intermingled with clusters of green and partially dried brownish-green foliage. Behind this, there is a blurry, out-of-focus backdrop of green and brown tones, suggesting distant vegetation or ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's vibrant coloration, particularly the distinct blue, black, yellow, and orange patterns on its hindwings, stands out against the muted browns, greens, and grays of the surrounding branches and foliage. While some of the yellowish stripes on its forewings might partially align with lighter, drier parts of the plant, the overall patterns and the striking blue and orange coloration on the hindwings create a significant visual contrast. The smooth texture of the butterfly's wings is also distinctly different from the rough texture of the branches and the varied textures of the leaves. Therefore, the organism does not effectively blend with its environment and is readily visible."
+}

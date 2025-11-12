@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Titan Triggerfish",
+  "background_description": "The aquatic environment consists of a rocky seabed covered with various shades of grey, light brown, and green algae or coral. The water is clear, allowing light to penetrate and illuminate the textured substrate. There are smaller fish visible in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Titan Triggerfish is clearly visible against the rocky seabed. Its distinctive yellowish-green body with dark, net-like patterns and prominent dark facial markings create a strong contrast with the lighter, muted background, indicating no camouflage."
+}

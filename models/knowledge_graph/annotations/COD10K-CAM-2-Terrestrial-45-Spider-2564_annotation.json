@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of dry, earthy soil and a dense layer of leaf litter, dried twigs, and plant debris. Colors are predominantly muted browns, tans, and dark greys, with varying textures of crushed leaves, small stones, and fibrous plant matter, creating a fragmented and mottled appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The spider's body and legs exhibit excellent natural camouflage, featuring mottled brown and tan patterns that closely match the dry leaf litter and soil texture. Its segmented body and hairy legs blend well with the fragmented background debris, demonstrating effective color blending and pattern matching. However, the organism is carrying a prominent, bright white egg sac which starkly contrasts with the earthy tones of the environment. This highly visible egg sac negates the inherent camouflage of the spider itself, making the entire entity easily detectable despite the spider's individual blending capabilities."
+}

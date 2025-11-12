@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rainbow Trout",
+  "background_description": "The background consists of clear, slightly murky greenish-blue freshwater. There are no distinct structures, suggesting open water with a blurry, possibly sandy or rocky riverbed far below, and some indistinct shapes that could be distant submerged vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a Rainbow Trout, identifiable by its spotted body and lateral pinkish stripe. The fish is swimming in open, clear water and stands out distinctly against the muted greenish-blue background, showing no signs of camouflage."
+}

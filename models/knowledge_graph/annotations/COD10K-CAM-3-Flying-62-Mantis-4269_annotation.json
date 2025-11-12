@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a rough, uneven surface, likely rock or tree bark, densely covered with patches of greyish-white and light green lichen. Darker areas of the underlying brown and grey surface are visible between the lichen patches, creating a mottled and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The Mantis exhibits effective camouflage against the rocky, lichen-covered background. Its dark brown and mottled body coloration closely matches the darker brown and grey tones of the underlying rock and weathered patches. While the insect lacks the exact texture of the granular lichen, its slightly irregular and textured exoskeleton, along with its overall coloration, allows it to blend in well. The low contrast difference between the organism and its immediate surroundings makes it difficult to distinguish its outline, especially at a casual glance. The insect's posture, pressed close to the surface, also minimizes shadows, further aiding its concealment through color blending."
+}

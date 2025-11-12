@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky with sunrays",
+  "background_description": "The image features a dramatic sky with a mix of dark, heavy clouds and brighter, illuminated cloud formations. Sunrays (crepuscular rays) are prominently visible, piercing through gaps in the darker clouds and creating striking beams of light against the muted sky. The color palette includes deep greys and blacks for the dense clouds, yellowish-white for the illuminated areas and sunrays, and hints of pale blue-green in the clearer sky. The silhouettes of dark mountain peaks are visible at the bottom of the frame.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively displays a natural environment consisting of a cloudy sky with sunrays and mountain silhouettes. There are no visible organisms (animals, insects, or fish) present in the scene. As such, the concept of camouflage, which pertains to an organism blending into its surroundings, is not applicable."
+}

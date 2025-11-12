@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "White Wagtail",
+  "background_description": "The bird is perched on a sturdy branch covered in muted green lichen and rough brown bark. The background consists of a highly blurred, out-of-focus expanse of light grey and white tones, suggesting bare trees or distant winter foliage under an overcast sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The White Wagtail exhibits striking black and white plumage, which creates a strong visual contrast against the muted, blurry grey and brown background of the environment. Its distinct markings, particularly the prominent black bib and cap, do not blend with the colors or textures of the lichen-covered branch or the distant out-of-focus scene, making the bird highly visible rather than camouflaged. There is no indication of color blending, mimicry, or disruptive patterning for concealment in this context."
+}

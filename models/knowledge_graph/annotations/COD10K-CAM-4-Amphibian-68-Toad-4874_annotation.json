@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a rough, porous, light-colored rock or dried soil, with prominent white, irregular crust-like deposits and varying textures. There are also darker, possibly damp or mossy areas within the crevices and depressions, especially where the toad is situated. The overall palette is earthy, with light browns, grays, and off-whites.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The toad exhibits excellent camouflage by perfectly matching the color and texture of its rocky, dry environment. Its mottled grayish-brown skin with fine bumps closely mimics the rough, porous surface of the rock and the white crust-like deposits. The toad's position deep within a shadowed crevice further enhances its concealment by breaking up its outline and reducing contrast with the irregular background, making it extremely difficult to distinguish from its surroundings."
+}

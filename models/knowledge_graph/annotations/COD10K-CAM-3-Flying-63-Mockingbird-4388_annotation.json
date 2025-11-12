@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of a network of bare, brown-grey tree branches of varying thickness, some with small buds. Several vibrant orange, round fruits (persimmons), one of which appears partially eaten, hang from the branches. Behind the branches and fruits, there is a brightly lit, out-of-focus background that appears to be a mix of pale sky and blurred green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird's grey and whitish plumage, while generally muted, does not effectively blend with the immediate surroundings in this image. Its light underside contrasts significantly with the dark brown branches it is perched on, and its overall silhouette stands out clearly against the bright, out-of-focus background. The vibrant orange fruits also draw attention, creating a colorful context where the bird's subtler tones do not provide effective concealment. There is low similarity in both color and texture between the bird's feathers and the rough bark of the branches, leading to a high contrast difference that makes the bird easily observable."
+}

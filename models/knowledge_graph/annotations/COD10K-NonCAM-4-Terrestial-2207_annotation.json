@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Ground squirrel",
+  "background_description": "The background consists of dry, rocky ground with loose soil, scattered small stones, dried leaves, and sparse plant debris. The dominant colors are various shades of brown, tan, gray, and dark earth tones, characteristic of an arid or semi-arid environment. A dark pipe or hose is partially visible in the upper background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The ground squirrel demonstrates effective camouflage primarily through color blending. Its fur exhibits a natural palette of grays, browns, and sandy tones, which precisely matches the dry, rocky, and earthy colors of its habitat. The mottled fur pattern and the lighter stripe on its side further aid in disrupting its outline, helping it to merge with the irregular textures and shadows of the ground. This combination of color matching and subtle pattern disruption makes the squirrel difficult to spot against its natural background, providing protection from predators."
+}

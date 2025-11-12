@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a network of brown, textured tree branches, some in sharp focus and others softly blurred. Interspersed with the branches are vibrant green leaves, varying in size and clarity, providing a natural foliage environment. The lighting suggests an outdoor or natural habitat setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.98,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Mantis exhibits exceptional camouflage through phytomimicry, perfectly mimicking a green leaf. Its body is bright green, closely matching the color of the surrounding live foliage, particularly the large leaf visible on the right side of the image. The flattened, broad segments of its body and legs are shaped to resemble leaf blades and veins, enhancing the illusion. This combination of color blending and precise structural mimicry makes it incredibly difficult to distinguish the mantis from the actual plant matter, effectively concealing it from both predators and prey. While it is perched on a brown branch, its primary mimicry is targeted at the green leaves, and it positions itself to maximize this effect."
+}

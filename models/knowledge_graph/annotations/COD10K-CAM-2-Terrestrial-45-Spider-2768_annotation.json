@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of deeply furrowed and textured tree bark. The bark displays a variety of colors including reddish-brown, dark brown, light grey, and patches of pale greenish-blue, likely from lichen or moss. There are numerous small, dark-shelled isopods scattered across the bark surface, adding to the visual complexity and texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits strong camouflage by mimicking the tree bark. Its body coloration, a mottled pale grey with greenish hues and darker markings, closely matches the lichen and weathered patches found on the bark. The irregular shape of its abdomen and cephalothorax, along with its slender, patterned legs, helps to disrupt its outline against the bark's complex texture and deep crevices. This combination of color blending, pattern matching, and shape disruption makes it difficult to discern the spider from its environment, effectively hiding it from predators and prey, despite being visible upon very close inspection."
+}

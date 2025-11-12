@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tree-lined street with utility wires",
+  "background_description": "The scene features a vibrant clear blue sky dominating the upper half. Below, a street is flanked by lush green trees; on the left, a mature tree with dense foliage, and on the right, a row of tall, slender trees with lighter green leaves and brown trunks. A white, somewhat weathered building or wall is visible behind the trees on the right. Multiple dark utility wires stretch across the sky in the upper left.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an outdoor urban or suburban environment, characterized by trees, a clear sky, buildings, and utility wires. There are no visible animals, insects, or any other organisms present within the frame that could exhibit camouflage. Therefore, camouflage is not applicable to this scene."
+}

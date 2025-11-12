@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dense layer of dried, decaying fallen leaves, predominantly oak leaves, in various shades of brown, tan, and muted olive green. There are also small patches of darker, moist soil and organic debris visible between the leaves. The texture is uneven, crinkled, and rough.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad in the image exhibits excellent camouflage. Its skin coloration, a mottled mix of browns, tans, and dull olive-greens, perfectly matches the hues of the surrounding dried leaves and forest floor debris. Furthermore, the warty, bumpy texture of the toad's skin closely mimics the rough, crinkled, and uneven surface of the fallen leaves, allowing its form to blend seamlessly into the chaotic natural textures. The overall contrast between the toad and its environment is very low, making it extremely difficult to discern its outline and specific features, thus effectively disrupting its shape and making it blend into the background."
+}

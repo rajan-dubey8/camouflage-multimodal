@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky over a highway and distant landscape",
+  "background_description": "The scene features a bright blue sky densely populated with white, fluffy cumulus clouds and some darker, more uniform grey clouds. Below the horizon, a multi-lane highway stretches into the distance, bordered by green trees (likely conifers) and some scattered buildings with reddish roofs. Power lines and poles are visible along the road. The overall environment suggests an open, rural or semi-urban landscape under a dynamic sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an outdoor environment, including a sky filled with clouds, a road, and distant natural and man-made structures. There are no visible animals, insects, or fish within the frame. As such, there is no organism present for which camouflage could be assessed. Therefore, camouflage is not applicable."
+}

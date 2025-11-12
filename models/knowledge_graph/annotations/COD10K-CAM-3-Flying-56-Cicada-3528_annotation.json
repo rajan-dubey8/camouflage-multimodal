@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of interlocking concrete pavers with a coarse, granular texture. There are two main colors visible: a lighter grey/beige and a reddish-brown/terracotta. The cicada is primarily located on the reddish-brown paver, near the seam with a grey paver. Small twigs and debris are visible in the cracks between the pavers.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.35,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada, lying upside down on interlocking concrete pavers, exhibits earthy brown, grey, and yellowish tones on its body and mottled, veined wings. These colors and the slightly granular pattern on its wings bear some resemblance to the coarse, stone-like appearance of the pavers, particularly the grey sections. However, the cicada is predominantly situated on a reddish-brown paver, which it does not closely match in hue. Its distinct anatomical shape and size create a clear silhouette against the flat surface, and the contrast, while not extremely high, is sufficient for it to be easily discernible. The cicada's natural cryptic coloration, typically effective against bark or foliage, is not optimally effective in this specific artificial, urban environment, especially given its inverted position. Therefore, it does not effectively blend with its immediate surroundings."
+}

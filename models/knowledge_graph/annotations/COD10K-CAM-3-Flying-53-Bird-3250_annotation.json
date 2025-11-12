@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of dense, lush green foliage with numerous leaves of varying sizes and shades of green. Some leaves show highlights from direct sunlight, while others are in shadow, creating a textured and varied green backdrop. There are also some pale, almost white, plant structures visible near the bottom of the frame.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.35,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's green plumage provides good color blending with the surrounding dense green leaves, making its body somewhat integrated into the background. However, its large, distinctive bill, which is predominantly black with a bright yellow tip, stands out significantly against the green environment. The prominent orange eye also draws attention. While the body's color attempts a form of camouflage, the high contrast and unique shape of the bill, along with the lack of texture matching or pattern disruption, prevent the organism from effectively blending with its environment as a whole. The bird is partially obscured by leaves, but its most striking features are still clearly visible."
+}

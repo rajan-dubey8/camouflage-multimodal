@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Harlequin Sweetlips",
+  "background_description": "The background consists of rocky structures with rough textures and a seabed covered in light-colored, granular rubble or small pebbles, all illuminated with a cool blue hue suggesting an aquatic environment, possibly an aquarium or a coral reef area.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Harlequin Sweetlips fish with a striking black and white spotted pattern. This bold pattern, while intricate, causes the fish to stand out against the rocky and pebbly blue-toned background, indicating no attempt at blending or camouflage."
+}

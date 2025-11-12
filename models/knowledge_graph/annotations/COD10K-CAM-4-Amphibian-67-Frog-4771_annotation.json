@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a large, circular, dark green lily pad covered with numerous irregular dark brown/black spots and lighter green areas, floating on dark blue water. There are reflections and glints of sunlight on the water surface and parts of the lily pad. Other partially visible lily pads, some with reddish-brown edges, are also present in the darker water.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits effective camouflage primarily through color blending. Its vibrant green coloration closely matches the dominant green hue of the lily pad it is resting on. While the lily pad has various dark spots and imperfections, the frog's overall color provides an excellent match. Its smooth, slightly reflective skin also blends with the moist, reflective surface of the lily pad. Although its three-dimensional form creates some outline and contrast, the strong color similarity makes it blend remarkably well into its aquatic plant environment, making it less conspicuous to predators and prey."
+}

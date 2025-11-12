@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a relatively uniform sandy seafloor, appearing as light brown to beige granular sediment. There are slight variations in the sand's texture and illumination, and another blurry, lighter-colored organism is visible in the background to the left.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Pipefish exhibits moderate camouflage in this image. Its primary body coloration is pale, almost translucent white, which allows it to blend reasonably well with the light brown and beige tones of the sandy seafloor. The thin yellow-orange horizontal stripes and small spots on its body, while distinct, do not create a strong contrast against the background, contributing to overall color blending rather than stark visibility. Its slender, elongated shape, characteristic of pipefish, also helps to disrupt a typical fish outline, making it less immediately recognizable. However, the fine granular texture of the sand does not perfectly match the smooth appearance of the fish, and its defined outline, along with its darker eye, prevents a perfect disappearance into the environment. Overall, it is visible but not overtly conspicuous, suggesting an effective use of color blending for concealment."
+}

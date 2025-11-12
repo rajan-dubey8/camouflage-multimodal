@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dense, chaotic mix of dry, light brown and yellow tall grass, thin branches, twigs, and fallen leaves covering the ground. There are also patches of darker earth, deep shadows, and some scattered green foliage. The environment is highly textured with many vertical and diagonal elements, creating a visually noisy and dappled light setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The tiger is highly camouflaged in this image. Its characteristic black stripes against an orange-brown coat effectively blend with the vertical and diagonal lines of the surrounding dry grass, twigs, and branches. The overall coloration of the tiger closely matches the browns, yellows, and dark shadows present in the cluttered forest floor, making it difficult to distinguish its form from the environment. The dappled lighting further enhances this effect, allowing the tiger's stripes to merge with the play of light and shadow, disrupting its outline. The dense foreground vegetation physically obscures parts of the tiger, contributing significantly to its concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness",
+  "background_description": "The background consists of a natural grassland environment. The ground is covered with varying shades of green and yellowish-green grass blades, appearing somewhat sparse and dry in places. The texture is fine and linear from the individual blades of grass, with some areas blurred, indicating depth.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lioness exhibits natural camouflage through its tawny, sandy-brown coat. This coloration is a classic example of color blending, designed to match the dry grasses, earth, and sparse vegetation prevalent in its savanna habitat. While the immediate grass in this image appears relatively green, the lioness's earthy tones still provide a moderate level of concealment, particularly when it remains still and low to the ground. The uniform coloration helps to break up its outline against a similar-colored background. However, the greenness of the immediate foreground grass creates some contrast, making the lioness discernible, though its inherent coat color is a strong camouflage adaptation."
+}

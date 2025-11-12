@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The grasshopper is perched vertically on a piece of textured, weathered dead wood or a dry, thick stem. To its left and behind it, there are other pieces of dry, straw-like plant material. The deep background is a heavily blurred, out-of-focus soft green, indicative of lush foliage or grass further away.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper demonstrates excellent camouflage against its immediate perch. Its body coloration is a mottled brown and beige with intricate linear patterns and ridges, which highly resemble the weathered texture and color of the dead wood/dry stem it is clinging to. The subtle variations in its brown tones perfectly match the natural variations in the wood and dry plant material, reducing visual contrast significantly. Its elongated, slender shape also blends effectively with the lines and forms of the dry plant matter, contributing to shape disruption. While the blurred green background offers a color contrast, the grasshopper's primary camouflage is effective against the specific substratum it occupies, making it very difficult to spot if not for its distinct silhouette against the deep background."
+}

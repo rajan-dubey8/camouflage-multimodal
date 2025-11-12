@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gazelle",
+  "background_description": "The background consists of short, natural green grass with some drier, lighter patches and varying shades of green, suggesting a grassy field or savanna environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The gazelle's coat is primarily light brown/tan with white underparts, which is a form of cryptic coloration (color blending) common in many antelopes and gazelles. This coloration is naturally adapted for blending into savanna and grassland environments, which often feature dry grasses, soil, and muted vegetation. While the immediate background in this image is predominantly green grass, the gazelle's earthy tones still offer a degree of blending. It is not perfectly hidden, as the green grass provides some contrast, but its natural coloring contributes to general concealment in its typical habitat rather than standing out starkly. The color similarity is medium because while the background is green, the gazelle's tan fur shares muted, natural tones with many aspects of a savanna landscape, including drier grasses or soil patches. Texture similarity is low as the fur's fine texture differs from the coarse grass. Contrast difference is medium, as the animal is clearly visible but its coloration is not highly contrasting with a natural environment."
+}

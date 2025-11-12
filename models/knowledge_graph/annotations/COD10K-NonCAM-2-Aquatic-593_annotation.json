@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pufferfish",
+  "background_description": "The background consists of deep, dark blue-green open water, possibly murky, with some faint light ripples or reflections visible towards the upper surface. There are no distinct structures like coral, rocks, or sandy seabed.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Pufferfish with a distinctive white and black reticulated or spotted pattern. Its bright coloration and distinct patterning make it stand out against the dark, uniform water background, indicating no camouflage is present."
+}

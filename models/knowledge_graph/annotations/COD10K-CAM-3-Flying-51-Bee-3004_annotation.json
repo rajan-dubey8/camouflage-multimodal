@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists of a bright yellow sunflower. The left side is dominated by the broad, smooth, and slightly textured yellow petals. The right and upper portions show the central disc of the sunflower, densely packed with small, spiky, dark-tipped florets and developing seeds, creating a highly textured pattern in shades of yellow, orange, and dark brown/black.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bee, with its distinct bright yellow fur and prominent black stripes, stands out clearly against the sunflower. Although it shares some yellow coloration with the flower's petals and florets, the strong black markings create a high contrast difference, making the bee highly visible. The fuzzy texture of the bee also does not blend with the smoother petals or the spiky, granular texture of the central disc. The bee's shape is easily discernible, and its overall pattern does not match the background environment for effective concealment. Bees often exhibit such warning coloration (aposematism) rather than camouflage on flowers."
+}

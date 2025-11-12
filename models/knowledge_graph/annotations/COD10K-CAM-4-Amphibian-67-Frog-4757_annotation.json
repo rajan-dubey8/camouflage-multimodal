@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dense green foliage, primarily leaves and slender stems of various plants. The immediate environment around the frog is sharp and in focus, showing detailed leaf textures and veins, while the deeper background appears slightly blurred with hints of darker green and a subtle purple hue, possibly from other distant plant elements. The lighting is bright, creating natural highlights and shadows within the vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog demonstrates effective camouflage through color blending. Its vibrant green skin coloration is remarkably similar to the green leaves and stems of the surrounding plant environment. This strong color match makes the frog blend seamlessly with the foliage, making it very challenging to detect at first glance. While the frog's individual shape is somewhat distinct, the excellent color crypsis is the dominant factor in its successful concealment, significantly reducing its visibility against the green background."
+}

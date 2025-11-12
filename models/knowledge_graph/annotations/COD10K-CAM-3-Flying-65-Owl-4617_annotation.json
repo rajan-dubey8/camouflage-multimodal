@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a large, old tree stump or trunk. It features deep crevices, rough, gnarled bark with a rugged, uneven texture. The colors are predominantly dark browns, greys, and black, with some lighter grey patches and highlights from the setting or rising sun on the left side. A bright, light-colored sky is visible behind and above the tree.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The owl's mottled brown, grey, and cream plumage remarkably matches the dark, rough, and deeply textured bark of the tree stump it is perched on. Its feather patterns visually mimic the cracks, grooves, and variations in color found in the surrounding wood, leading to high color and texture similarity. This 'Pattern matching' and 'Color blending' effectively disrupts the owl's shape, making its outline less distinct against the complex background. Despite the bright sky creating a backdrop, the owl itself is situated against a darker portion of the tree, and its natural camouflage works well to break up its form, reducing overall contrast difference with the immediate perch. Its disruptive coloration makes it very difficult for a casual observer to spot."
+}

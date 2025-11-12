@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists primarily of a vibrant coral reef. On the right, there is a large brain-like coral formation with intricate textures, exhibiting a base color of light brown/tan with prominent bright green polyps forming patterns. On the left and around the fish's head, the coral is rougher and more irregular, showing shades of red, orange, and darker browns, with some areas appearing as rocky crevices and shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The fish, a moray eel, has a distinctive bright yellowish-green body with dark brown/black spots. While it is partially hidden within a coral crevice, its exposed head and upper body stand out clearly against the surrounding coral environment. The fish's bright yellow color contrasts significantly with the dominant reds, oranges, and brown-green patterns of the coral. Its relatively smooth texture also differs from the rough, intricate surfaces of the coral. The dark spots, while a form of pattern, do not effectively blend with the background patterns in this specific lighting and environmental context, making the organism easily visible rather than camouflaged."
+}

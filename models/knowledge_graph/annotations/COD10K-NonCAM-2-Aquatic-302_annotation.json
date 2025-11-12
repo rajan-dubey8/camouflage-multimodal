@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "The aquatic environment features a seabed composed of light, rounded pebbles and gravel, with a large, textured light-greenish-beige coral or rock formation on the left side. The upper background is dark, appearing as deep open water or a dark aquarium wall.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Lionfish, identifiable by its distinctive red and white striped body, large fan-like pectoral fins, and prominent venomous dorsal spines. Its vibrant colors and striking patterns make it highly conspicuous against the light-colored gravel and darker background, indicating a clear absence of camouflage."
+}

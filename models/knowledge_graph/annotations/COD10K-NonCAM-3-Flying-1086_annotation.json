@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The background consists of dense, vertical aquatic vegetation, primarily vibrant green reeds and grasses. There are variations in green tones, from bright lime green in illuminated areas to darker olive green in shadowed parts, with hints of some drier, brownish stalks. The texture is leafy and somewhat uniform, typical of a marsh or wetland environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Tricolored Heron is clearly visible and stands out distinctly against the dense green aquatic vegetation. Its dark blue-gray plumage, bright white neck stripe, and blue beak create a high contrast with the vibrant green background, making its outline easily discernible. While the bird is positioned within the reeds, its coloration does not blend with or mimic the surrounding environment to achieve an effective camouflage effect."
+}

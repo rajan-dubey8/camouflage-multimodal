@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Squirrelfish",
+  "background_description": "Rocky seabed with varied sizes of pebbles and larger rocks, potentially interspersed with some sparse marine growth like algae or sponges, representing a typical habitat for this type of fish.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant reddish-orange Squirrelfish with prominent scales and spiny fins. Its distinct coloration and texture stand out strongly against the muted grey and brown rocky background, indicating a complete absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of a dense, vibrant mass of various green plants, primarily featuring broad, oval-shaped leaves with visible venation. Interspersed throughout are slender, reddish-brown stems and some elongated blades of lighter green grass. Several plants also display small, cylindrical, reddish-pink flower or seed structures. Darker, shadowy areas are visible between the layers of foliage, indicating depth and variation in light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The chameleon is very well camouflaged in this image. Its body color, which is predominantly green with some subtle brown and lighter green variations, perfectly matches the surrounding foliage, including the leaves and stems. This strong color blending makes it difficult to distinguish from the background. Furthermore, its irregular shape is partially obscured by overlapping leaves and plant structures, leading to effective shape disruption. The chameleon's head and eye are visible, but the rest of its body blends seamlessly, minimizing contrast and making it highly inconspicuous within the dense plant growth. The overall effect is that the chameleon appears to be an integral part of the plant environment rather than a separate entity."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Platy fish",
+  "background_description": "The aquatic environment consists of a clear, vibrant blue open water background, suggesting an aquarium or tank. On the left side, there are out-of-focus, broad green aquatic plants.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Platy fish, distinguished by its orange-yellow body and fins with dark spots. Its bright coloration stands out significantly against the plain blue background and green plants, indicating no camouflage is present."
+}

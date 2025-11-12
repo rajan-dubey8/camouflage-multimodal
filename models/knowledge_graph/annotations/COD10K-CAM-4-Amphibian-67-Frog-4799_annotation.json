@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The frog is situated on an uneven, dry terrain composed primarily of reddish-brown soil, interspersed with numerous light-colored gravel and small rocks. Sparse clumps of vibrant green grass blades emerge from the earth. In the mid-ground, there's a blurred light-colored fence or barrier, and further back, the silhouettes of bare trees are visible against a clear, bright blue sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits effective camouflage primarily through color blending and pattern matching with its immediate surroundings. Its mottled dark brown and greenish-gray coloration, combined with lighter tan patches, closely matches the dry soil, scattered small rocks, and dried vegetation. The irregular patterns and textures on its skin further help to break up its outline, making it blend seamlessly with the rough and varied ground. This makes the body of the frog quite difficult to discern at first glance. However, its prominent, bright golden-yellow eyes create a significant point of contrast against its body and the background, drawing attention and reducing the overall effectiveness of its concealment. If not for the highly visible eyes, its camouflage would be nearly perfect."
+}

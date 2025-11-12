@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a complex underwater environment, featuring various types of coral and rocky substrate. There is a prominent brain coral with convoluted, ridged patterns in shades of brown and olive green. Other areas show darker, encrusted rocks with patches of algae or smaller coral growths, exhibiting irregular textures and varying tones of dark brown, green, and hints of purple, interspersed with shadowed crevices.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits effective camouflage in this image. Its elongated body, generally light beige/tan coloration with distinct orange and dark brown/black longitudinal stripes, allows it to blend with the varied textures and colors of the coral reef environment. The lighter base color and darker stripes show moderate similarity to the alternating light and shadowed areas, as well as the mottled appearance of the background corals and rocks. The orange stripes, while somewhat distinct, contribute to the overall disruptive patterning, breaking up the fish's outline against the complex, patterned background. While not perfectly invisible, its coloration and patterns make it difficult to distinguish immediately from the surrounding environment."
+}

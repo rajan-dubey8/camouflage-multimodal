@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bison",
+  "background_description": "The background consists of a patch of light sandy-colored dirt or dry ground in the foreground, transitioning to vibrant green grass further behind. The scene is brightly lit, suggesting strong daylight.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bison is clearly visible against its surroundings. Its dark brown, shaggy fur, particularly on its head and front torso, creates a high contrast with the bright green grass in the background and the light sandy ground it is resting on. While the rear portion of its body has less fur and a lighter, brownish-grey hue that somewhat resembles the sand, the overall large, distinct form and the strong color differences (dark fur against bright green grass) prevent any effective camouflage in this specific environment. The animal's silhouette is unambiguous and not broken up by its patterns or colors against this background."
+}

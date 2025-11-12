@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape",
+  "background_description": "The image displays a rugged coastal scene. In the foreground, there's a sandy dune with visible wind ripples, sparsely covered by clumps of dry, golden-brown grass and some withered plant remnants. The midground features a turbulent ocean with breaking white-capped waves, showcasing varying shades of deep blue and teal water. The background consists of an overcast sky, presenting a soft, muted grey-blue color with diffuse clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, animal, insect, or fish is visible within the image. The scene exclusively depicts a natural coastal environment comprising sand dunes, dry vegetation, the ocean, and the sky. Therefore, no camouflage is present or can be assessed."
+}

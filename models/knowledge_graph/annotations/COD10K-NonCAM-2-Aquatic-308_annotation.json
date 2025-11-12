@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Bluestripe Snapper",
+  "background_description": "The background consists of deep, dark open water, largely uniform with very subtle, blurred hints of dark greenish or reddish tones in the upper distant areas. There are a few small particulate specks visible in the water column.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Bluestripe Snapper with distinct yellow and silvery-white striped patterns and bright blue eyes. Its vibrant coloration and prominent features stand out sharply against the dark, featureless background, indicating a clear absence of camouflage."
+}

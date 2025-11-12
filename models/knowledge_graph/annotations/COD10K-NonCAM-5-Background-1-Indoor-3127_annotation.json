@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lounge interior",
+  "background_description": "An indoor lounge area featuring two dark brown leather sofas, a black entertainment unit with a television displaying a landscape, a black coffee table, and a side table. The floor is covered with a patterned brown and black carpet. The walls are light cream/beige, and the ceiling is a white acoustic tile grid with fluorescent lighting. Two framed pictures hang on the walls, and a red fire extinguisher is mounted on the right wall. A doorway with a sign 'ANCHOR Pub' is visible on the left.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an indoor lounge or waiting area, an entirely man-made environment. It primarily features furniture, electronic devices, and architectural elements. There are no visible organisms (animals, insects, fish, etc.) that would typically exhibit camouflage. Camouflage is a biological adaptation, and therefore it is not applicable to inanimate objects within this environmental setting."
+}

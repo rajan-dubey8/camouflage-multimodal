@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a sandy and rocky seafloor, interspersed with various types of algae and detritus. The sand appears coarse-grained, mixed with small pebbles, shell fragments, and patches of green and reddish-brown algae, creating a mottled and irregular texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage. Its body coloration, a mix of yellowish-tan, browns, and reddish tints, perfectly matches the sandy, rocky, and algal substrate. The intricate, reticulated patterns across its body mimic the granular texture of the sand, small pebbles, and fragmented algae, effectively breaking up its outline. The elongated and somewhat irregular body shape, combined with these patterns, further contributes to shape disruption. This combination of color blending, pattern matching, and subtle shape disruption makes the pipefish extremely difficult to distinguish from its natural environment, significantly reducing its visibility to predators and prey."
+}

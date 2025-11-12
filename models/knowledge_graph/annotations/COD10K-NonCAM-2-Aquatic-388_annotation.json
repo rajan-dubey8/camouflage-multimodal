@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Alligator",
+  "background_description": "The aquatic environment consists of murky, dark water densely populated with various green aquatic plants, weeds, and some visible submerged branches or debris. The water's surface reflects some light, highlighting the vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "An alligator is clearly visible, mostly submerged in water among dense green aquatic vegetation. Its dark, rugged body strongly contrasts with the brighter green plants and the subtle reflections on the water's surface, indicating no camouflage."
+}

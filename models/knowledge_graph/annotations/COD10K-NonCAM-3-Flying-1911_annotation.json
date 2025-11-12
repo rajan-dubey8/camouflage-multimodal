@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Soldier Beetle",
+  "background_description": "The background consists of a vibrant green leaf, which the beetle is resting upon, showing some texture and subtle imperfections. Behind the leaf, the environment is a heavily blurred, soft gradient of green foliage, suggesting an outdoor, natural setting with lush plant life.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect, a soldier beetle, is bright red/orange, which strongly contrasts with the vivid green leaf it is perched on and the blurred green background. This high contrast makes the beetle highly conspicuous and easily visible, indicating it is not utilizing camouflage to blend into its environment. Its prominent coloration might suggest aposematism, a warning signal to predators."
+}

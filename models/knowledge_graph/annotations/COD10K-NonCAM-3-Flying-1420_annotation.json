@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Zebra Finch",
+  "background_description": "The background consists of a plain, uniform light green wall or surface. The bird is perched on a white, scalloped ceramic dish or feeder, which has minor dark specks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Zebra Finch with prominent gray, white, orange, and black markings, including distinct orange cheek patches and a barred throat. The bird is placed against a plain light green background and perched on a bright white ceramic dish. There is no camouflage present because the bird's vibrant and distinct coloration and patterns starkly contrast with the uniform, artificial colors and textures of its immediate environment. The colors and textures of the bird do not blend with the plain green wall or the white dish, making it highly conspicuous rather than hidden."
+}

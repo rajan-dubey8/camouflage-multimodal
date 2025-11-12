@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a bright green, serrated leaf. The background is out-of-focus and consists primarily of dry, light brown to reddish-brown fallen vegetation, appearing as a dense layer of pine needles or dry grass. There are also some blurred green leaves and stems in the mid-ground. The scene is illuminated by direct sunlight, creating highlights and shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly is not camouflaged in this image. It is resting on a vibrant green leaf, and its wings, which are predominantly light brown and tan with an orange patch and a distinct black ocellus (eyespot), create a strong visual contrast with the green foliage. While the brown coloration of its wings might offer some degree of color similarity to the dry, brown background elements, its immediate perch on a bright green leaf makes it stand out prominently. Both color and texture similarity between the butterfly and its direct environment are low, and the contrast difference is high, leading to easy detection."
+}

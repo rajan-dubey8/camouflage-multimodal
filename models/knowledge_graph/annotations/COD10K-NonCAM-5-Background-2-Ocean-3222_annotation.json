@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface and cloudy sky",
+  "background_description": "The scene depicts a wide expanse of ocean under a cloudy sky. The ocean surface is dominated by numerous waves, some breaking with white foam, creating a dynamic texture of ripples and crests. The water color is a muted greyish-blue. The sky above is largely overcast with soft, diffuse white and light blue clouds, suggesting a slightly hazy or bright overcast day.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environmental scene of the ocean and sky. There are no visible organisms (animals, insects, fish) present within the frame. Therefore, there is no subject to exhibit camouflage."
+}

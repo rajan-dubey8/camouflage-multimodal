@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Banded Pipefish",
+  "background_description": "The background features a textured coral reef or rocky seabed, covered with various marine growths such as algae and possibly sponges, displaying a mix of brown, green, red, and orange hues. A dark, shadowed crevice is visible behind the fish.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Banded Pipefish, identifiable by its elongated body, distinctive reddish-brown color, a prominent red stripe along its side, and a paddle-like tail. It stands out clearly against the varied colors and textures of the reef and the dark crevice, indicating no active camouflage is being used."
+}

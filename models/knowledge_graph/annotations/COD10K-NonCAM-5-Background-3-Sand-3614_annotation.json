@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Person fishing on a sandy beach",
+  "background_description": "A pristine white sandy beach (sandbar) extends into clear, shallow turquoise ocean water with a visible sandy and rocky bottom. The sky is bright blue with scattered white clouds. In the distance, a mountainous landmass is visible on the horizon.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The individual in the image is wearing a light green long-sleeved top and a straw hat, which stand out clearly against the bright white sand, clear turquoise water, and blue sky. There is no attempt at blending colors or textures with the natural environment. The person's attire and silhouette create a high contrast, making them easily discernible against the background."
+}

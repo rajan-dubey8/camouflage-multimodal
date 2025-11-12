@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean sunset",
+  "background_description": "The scene depicts a dramatic ocean sunset. The sky transitions from a deep teal in the upper regions to vibrant oranges and yellows near the horizon, where the setting sun is partially obscured by a large, dark cloud bank. The edges of this cloud are illuminated with brilliant golden light. Below, the ocean surface is dark and textured with gentle waves, reflecting the muted light of the sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible in the image. The image displays an environmental scene of an ocean sunset, therefore no camouflage is present or assessed for an organism."
+}

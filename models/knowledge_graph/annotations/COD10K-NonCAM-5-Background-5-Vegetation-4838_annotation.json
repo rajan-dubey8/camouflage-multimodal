@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Fallen trees on a beach",
+  "background_description": "The scene depicts a coastal environment with numerous large, weathered tree trunks and branches scattered along a sandy beach and extending into the ocean. The logs vary in color from reddish-brown to dark grey, some with exposed roots. The ocean water is a turbulent light green-blue, with white breaking waves washing onto the light brown sandy shore. In the background, a dense treeline with both living green foliage and bare, gnarled branches can be seen. The sky above is bright blue with sparse white clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image primarily features a natural coastal landscape with fallen trees, sand, ocean, and sky. Therefore, there is no subject present for which to evaluate camouflage."
+}

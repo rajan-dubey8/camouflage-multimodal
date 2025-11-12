@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Porcupinefish",
+  "background_description": "The background consists of a dark green and brown aquatic environment, likely a rocky seabed or a section of a coral reef, covered with algae and possibly some sponges. There's a prominent yellowish-green sponge or coral formation visible on the upper right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a Porcupinefish, identifiable by its rounded body covered in prominent spines and distinct coloration. Its light tan body with dark spots stands out strongly against the darker green and brown rocky background, indicating no camouflage is present."
+}

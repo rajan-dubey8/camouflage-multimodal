@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Kudu antelope",
+  "background_description": "Blurred natural outdoor environment with predominant tones of muted browns, grays, and beige, indicative of dry earth, sparse foliage, and tree trunks. The textures appear soft and indistinct due to the shallow depth of field.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Kudu's grayish-brown coat with subtle white stripes exhibits effective color blending with the muted brown and gray tones of its natural, out-of-focus background. The overall coloration helps it merge with the dry, earthy environment and tree trunks. The low contrast between its body and the background further enhances its ability to remain inconspicuous in its habitat, characteristic of large antelopes that rely on blending to avoid detection by predators."
+}

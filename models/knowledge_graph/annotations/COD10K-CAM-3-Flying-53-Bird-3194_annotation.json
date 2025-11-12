@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense, marshy environment with a mix of living green vegetation, dried brown stalks and reeds, and patches of dark, wet earth or shallow water. The ground is uneven, and the foliage creates a cluttered, textured visual field with varying light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits outstanding camouflage, blending almost perfectly with its environment. Its plumage features a complex pattern of mottled browns, blacks, and tans, which precisely matches the colors of the dried vegetation, dark earth, and shadows in the marsh. The intricate streaked and speckled textures of its feathers effectively mimic the broken, irregular patterns of the surrounding grasses, reeds, and muddy ground. This combination of color blending, pattern matching, and the disruption of its body shape against the cluttered background makes the bird incredibly difficult to distinguish from its surroundings, achieving a very high degree of concealment."
+}

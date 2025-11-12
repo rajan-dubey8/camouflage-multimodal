@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a weathered, light brown to grayish-brown piece of wood with pronounced grain, cracks, and textured surfaces. Above and around the lizard are slender, spiky green plant stalks or leaves, creating a somewhat sparse, bushy pattern. Sunlight casts distinct, sharp shadows from the foliage onto the wooden surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The lizard's distinct pattern of dark brown/black and light yellow/cream stripes, along with its smooth scaly texture, creates a high contrast against the rough, light brown, grainy wooden surface. While some greenish hues on its head and tail might offer a slight resemblance to the sparse green foliage in the background, the majority of its body, particularly the bold stripes, stands out clearly on the wood. The sharp contrast in color, pattern, and texture makes the lizard easily detectable in this environment."
+}

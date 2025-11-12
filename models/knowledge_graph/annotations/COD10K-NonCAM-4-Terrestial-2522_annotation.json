@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Male African Lion",
+  "background_description": "The background consists of an open savannah grassland with sparse, dry, yellow-green and light brown grass. There are patches of shorter, lighter vegetation and possibly some bare earth, creating a varied but muted natural backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The male African lion's tawny, sandy-brown fur provides excellent color blending with the dry, yellowish-green and light brown grass of its savannah environment. The overall luminance and color values of the lion's coat are very similar to the background, resulting in a low contrast difference that makes the animal less conspicuous. While the fur texture is distinct, its varied nature, particularly the mane, helps to break up its outline against the clumpy, dry grass, contributing to the camouflage effect. This primarily relies on color blending to reduce visibility to prey and rivals."
+}

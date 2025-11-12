@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a piece of weathered, textured wood, likely a log or branch. It has deep longitudinal grooves, cracks, and an uneven surface. The colors range from light tan and reddish-brown in sunlit areas to dark brown in shadowed crevices. There are hints of blurry green foliage in the very distant background, but the spider is primarily on the wood.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits strong camouflage against the wooden surface. Its grayish-brown and mottled coloration almost perfectly matches the various shades of the weathered wood, leading to high color similarity and low contrast difference. The spider's slightly rough texture and subtle patterns on its body and legs align well with the intricate grooves and irregular surface texture of the wood, contributing to pattern matching and medium texture similarity. Furthermore, the spider's splayed leg posture and irregular shape help to disrupt its outline, making it blend seamlessly with the complex, 'busy' background of the wood, rather than standing out as a distinct form."
+}

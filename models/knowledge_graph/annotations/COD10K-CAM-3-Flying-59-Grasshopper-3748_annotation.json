@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of a large, vibrant green leaf, likely a hosta, with visible veins and gentle curves. The leaf's surface is smooth with a few small water droplets. Behind the leaf, the far background is a deep, dark, out-of-focus blur, appearing almost black, suggesting dense shadow or distant dark foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper demonstrates significant camouflage primarily through color blending. Its entire body, including its legs and head, matches the vibrant green hue and saturation of the leaf it is resting on almost perfectly. This high degree of color similarity makes it challenging to distinguish the organism from its immediate environment, the leaf. The texture of its exoskeleton is also smooth, similar to the leaf's surface, contributing to the blend. While its distinct insect shape and delicate antennae are visible, especially against the dark background, the low contrast between the grasshopper and the green leaf it occupies makes it well camouflaged within its primary habitat."
+}

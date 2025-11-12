@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The organism is perched on a thick, gnarled tree branch with deeply fissured, rough, and textured bark. The bark displays various shades of dark brown, grey, and lighter patches. The background above the branch is a heavily blurred, soft, muted light brown/beige color, indicating distant, out-of-focus foliage or sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Frogmouth exhibits exceptional camouflage against the tree branch. Its plumage perfectly matches the colors of the bark, featuring a complex pattern of greys, browns, and dark mottling that mimics the rough, cracked texture of the wood. The bird's form and outline are effectively disrupted by these patterns, making it incredibly difficult to distinguish from the branch itself. The shadows and light play across its feathers in a way that further integrates it with the surrounding environment, reducing any strong contrast that might reveal its presence. This combination of color blending and pattern matching creates a nearly seamless integration with its perch."
+}

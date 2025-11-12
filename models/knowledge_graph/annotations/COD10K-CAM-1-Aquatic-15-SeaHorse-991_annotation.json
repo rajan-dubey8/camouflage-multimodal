@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of several large and small rocks of varying shades of grey, with rough, textured surfaces. Some rocks appear smooth, while others are granular. The overall lighting is dramatic, creating deep shadows and bright highlights on the rock surfaces, contributing to a high-contrast monochrome aesthetic.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The SeaHorse does not appear camouflaged in this image. While the image is monochromatic, resulting in similar grayscale tones between the organism and the rock background in some areas, the SeaHorse's distinct shape, segmented body structure, and relatively smooth, almost metallic texture clearly differentiate it from the rough, irregular surfaces of the surrounding rocks. There are also noticeable contrast differences, particularly where its darker body parts meet lighter rocks and vice versa, which prevents effective blending. Its form is readily identifiable against the environment."
+}

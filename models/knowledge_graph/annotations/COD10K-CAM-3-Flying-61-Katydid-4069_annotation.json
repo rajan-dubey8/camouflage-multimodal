@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a large, vibrant green leaf, illuminated from behind, making it appear translucent. The leaf displays a clear and intricate network of veins and has several scattered dark, irregular spots, possibly signs of decay or minor damage. A thicker vein or stem runs diagonally on the right side.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid exhibits an exceptional degree of camouflage, primarily through mimicry of a green leaf. Its broad, flattened body and wings are precisely the same vibrant green hue as the background leaf. Crucially, the Katydid's wings feature an intricate pattern of veins that closely mirrors the venation of the surrounding leaf, especially with the backlighting revealing its translucency. This translucency further helps it blend by allowing light to pass through, reducing any potential shadow or depth cues. The dark, irregular spots on the Katydid's wings also align with similar imperfections on the background leaf, further disrupting its outline and making it incredibly difficult to distinguish the insect from its environment. The overall shape, color, texture, and even transparency contribute to a nearly perfect illusion of being part of the leaf itself."
+}

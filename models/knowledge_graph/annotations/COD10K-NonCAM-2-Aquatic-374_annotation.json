@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sailfin Tang",
+  "background_description": "The background consists primarily of light beige to off-white branching soft coral, creating an intricate, three-dimensional structure. Behind the coral, the water appears a vibrant light blue in the upper left, transitioning to a darker, shadowy blue or black in areas where the coral is dense or recedes.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Sailfin Tang with distinctive dark gray and light yellow/green vertical stripes and a bright yellow caudal fin. Another bright yellow fish (likely a Yellow Tang) is partially visible at the bottom left. The prominent colors and patterns of both fish contrast sharply with the light-colored branching coral and the blue water, indicating a clear absence of camouflage."
+}

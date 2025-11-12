@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Yellow Tang",
+  "background_description": "The background depicts a vibrant and diverse coral reef ecosystem. It features various types of coral, including branching and bubbly formations in shades of pale orange, white, and pink, alongside rocky structures covered with green and reddish-brown algae. A large, ribbed clam shell with blue edges is visible on the left. The overall environment is rich in texture and color.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright yellow Yellow Tang swimming in front of a colorful coral reef. Its vivid yellow coloration stands out sharply against the varied greens, browns, and pale tones of the corals and rocks, demonstrating a very low color and texture similarity to its surroundings. There are no patterns or features on the fish that would allow it to blend into the environment, confirming the absence of camouflage."
+}

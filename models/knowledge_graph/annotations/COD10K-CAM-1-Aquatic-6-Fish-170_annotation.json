@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a shallow seabed, predominantly covered in light off-white to pale grey granular sand or fine rubble, intermixed with patches of greenish algae or detritus. There are also scattered small reddish particles and a prominent, textured light brown coral formation on the left side of the frame, along with a smaller, darker brown coral structure near the fish's mid-body.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage, blending seamlessly with the granular and textured seabed. Its body features a complex pattern of light brown, dark brown, and white mottling and stripes that closely match the colors and textures of the sandy substrate, the greenish detritus, and the surrounding coral fragments. The contrasting stripes and spots disrupt the fish's outline, making it difficult to discern its shape against the heterogeneous background. The overall effect is a low contrast difference between the organism and its environment, making it very well hidden."
+}

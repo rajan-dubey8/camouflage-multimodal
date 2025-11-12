@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bear",
+  "background_description": "The background consists of a rough, textured greyish-brown rocky wall with some cracks and crevices, and a light tan to grey dirt/sandy ground. A grey concrete-like object is partially visible on the ground to the left.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bear's fur, which varies from light tan to dark brown, offers a moderate degree of color blending with the surrounding environment. Its coloration aligns with the earthy tones of the sandy ground and the greyish-brown rocky wall. While the bear's form is clearly distinguishable due to its size and the relatively open setting, its natural fur color is an adaptation that aids in concealment within natural habitats like forests or rocky terrains by blending with soil, rocks, and tree trunks. In this specific image, the color match is noticeable but not perfect, and the texture of its fur is distinct from the rock and dirt."
+}

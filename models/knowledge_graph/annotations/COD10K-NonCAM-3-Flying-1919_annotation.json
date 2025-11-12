@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Stink bug nymph",
+  "background_description": "The background consists of a vibrant green plant stem, which the insect is clinging to. The stem has a slightly fuzzy texture. Behind the stem, the environment is a blurred dark green, indicative of foliage or other plant matter out of focus.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect displays bright, contrasting colors of orange, blue-black, and white against a primarily green background (green stem and blurred green foliage). Its vibrant patterning makes it highly conspicuous and easily detectable, rather than blending in. This type of coloration is more consistent with aposematism (warning coloration) to deter predators, rather than camouflage."
+}

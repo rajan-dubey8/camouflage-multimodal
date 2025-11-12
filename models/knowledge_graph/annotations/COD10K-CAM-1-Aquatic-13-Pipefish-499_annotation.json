@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of an underwater reef or rocky seafloor with a mix of coarse sand and gravel. Irregularly shaped rocks and detritus are visible, exhibiting colors ranging from reddish-brown and purplish-pink to dull yellow and dark grey/black. The overall texture is rough, mottled, and uneven, consistent with a benthic environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image. Its body coloration, a mottled mix of reddish-browns, purples, creams, and dark speckles, perfectly matches the hues of the surrounding rocks, sand, and detritus. Furthermore, its highly irregular shape and numerous frilly, branched appendages effectively break up its outline, making it extremely difficult to distinguish its form from the complex textures of the reef environment. The intricate patterns on its skin closely resemble the grainy and encrusted surfaces of the substrate, leading to a very low contrast difference and seamless integration with the background."
+}

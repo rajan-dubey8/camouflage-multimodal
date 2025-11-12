@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tree branch with fungi",
+  "background_description": "A rough, dark brown to greenish-brown tree branch covered in moss and lichen. The background is blurred, showing bright sky and out-of-focus green foliage.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays shelf fungi growing on a tree branch. According to the schema's rules, 'Organism' entity_type is reserved for 'animal, insect, or fish'. Since fungi do not fall into these categories, the entity_type is classified as 'Environment', and the object_category is also 'Environment'. Furthermore, the rule 'If no organism is visible: camouflage_presence=\"No Camouflage\"' is interpreted to mean 'no animal, insect, or fish organism is visible'. As there are no such organisms present, camouflage is not applicable within the defined scope of this analysis."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a rough, uneven underwater substrate, likely rock or coral, covered extensively with a dense layer of brown, greenish, and reddish-brown detritus, algae, and small particulate matter. There are visible patches of a reddish-orange surface beneath the organic growth, contributing to a mottled, cluttered, and highly textured environment. Small yellow specks and lighter spots are scattered throughout the debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The crab demonstrates exceptional camouflage, likely being a decorator crab given its appearance. Its entire body, including the carapace and legs, is heavily encrusted with detritus, algae, and sediment that perfectly matches the surrounding environment in terms of color, texture, and pattern. The mottled brown, green, and grey tones of the crab's adornments blend seamlessly with the irregular, debris-strewn background. The added material disrupts the crab's natural outline, making it incredibly difficult to discern its true shape from the surrounding substrate. This combination of color blending, pattern matching, and shape disruption results in a highly effective concealment."
+}

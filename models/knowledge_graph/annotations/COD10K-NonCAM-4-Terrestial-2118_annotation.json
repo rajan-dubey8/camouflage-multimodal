@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness",
+  "background_description": "The background consists of a large, dark, textured rock wall, appearing bluish-grey due to shadows. The ground beneath the lioness is covered in a mix of sparse, dry yellowish-brown grass and straw-like debris, interspersed with patches of vibrant green grass and visible reddish-brown earth.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The lioness, with its tawny/sandy-brown coat, is clearly visible in the image. Its coloration contrasts significantly with the dark, shadowed, bluish-grey rock wall directly behind it. While a lion's coat is typically adapted for camouflage in savanna environments (blending with dry grass), in this specific scene, the combination of the dark background and the distinct lighting on the lioness makes it stand out prominently rather than blend in. There is no active attempt at concealment or effective blending with the immediate environment's colors or textures, particularly with the dominant rock feature."
+}

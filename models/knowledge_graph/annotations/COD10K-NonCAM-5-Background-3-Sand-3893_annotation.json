@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach with footprints",
+  "background_description": "The image displays a sandy beach with fine-grained, light beige sand. The sand shows subtle variations in texture and color due to light and shadows, creating a gently undulating surface. A trail of distinct footprints, likely from a bird or small animal, recedes into the distance. There are also a few small pieces of debris, such as a thin dark stick with a shadow, and a tiny white shell-like object.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible in the image. The scene consists entirely of an environmental setting (a sandy beach) with traces of an animal (footprints) and some small natural debris. Therefore, camouflage analysis is not applicable, and camouflage is not present."
+}

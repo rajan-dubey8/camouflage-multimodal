@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Insect",
+  "background_description": "The insect is resting on a vibrant green leaf with a textured, slightly hairy surface, featuring small reddish-tipped spines along its edges, indicative of a stinging nettle. The background is a soft-focused, blurred expanse of rich green foliage, suggesting a dense natural environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect's bright red head and dark, almost black body and wings create a stark contrast against the vibrant green leaf it is perched upon. Its distinct coloration and solid form do not blend with the leaf's color or texture, nor do they feature disruptive patterns that would break up its outline. The organism is highly visible, indicating a complete absence of camouflage."
+}

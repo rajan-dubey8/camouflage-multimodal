@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image displays a dynamic blue sky filled with various formations of cirrus and altocumulus clouds. The clouds are predominantly white and light gray, characterized by their wispy, streaky, and feathered textures. They are spread across the frame, with patches of deeper blue sky visible between the cloud formations. The overall scene suggests an open sky environment with natural cloud patterns and variations in light and shadow.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No animal, insect, fish, or any other organism is visible in this image. The image exclusively depicts a cloudy sky, which is an environmental scene. Since there is no subject present that could exhibit camouflage, the assessment is 'No Camouflage'. The 'contrast_difference' is rated 'medium' to reflect the visual distinction between the bright white clouds and the deeper blue sky within the environmental scene itself."
+}

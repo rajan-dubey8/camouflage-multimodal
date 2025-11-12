@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of dark, murky water, likely a pond or still body of water, with no discernible features like rocks, plants, or seabed visible. The water appears deep or has a dark bottom.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "Two goldfish are clearly visible against a dark, featureless water background. One is bright red and white, and the other is pale white/silver. Their vibrant colors and distinct forms make them highly conspicuous, indicating a complete absence of camouflage."
+}

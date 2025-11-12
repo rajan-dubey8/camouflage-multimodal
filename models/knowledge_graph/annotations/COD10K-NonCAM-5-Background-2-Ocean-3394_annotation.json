@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Coral reef with fish",
+  "background_description": "The background consists of a vibrant and complex underwater coral reef ecosystem. Dominant features are various types of stony corals, primarily branching Acropora species, displaying a range of colors including muted browns, bluish-greys, and bright yellows/greens. The water above is a clear blue, with the surface showing ripples and light reflections.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features numerous small fish, predominantly a greenish-blue hue, swimming within a coral reef. Many of these fish exhibit high color similarity with the surrounding blue-green and yellowish coral branches. While the fish themselves are smooth (low texture similarity with the coral), their coloration allows them to blend effectively into the visually complex and colorful coral environment. This color blending reduces their contrast difference with the background, making it harder for predators to distinguish individual fish, especially within their dense schooling formations amidst the intricate coral structures."
+}

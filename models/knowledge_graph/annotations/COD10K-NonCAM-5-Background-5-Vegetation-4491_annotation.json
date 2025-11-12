@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Camouflaged insect on tree bark",
+  "background_description": "The background consists of a garden scene with two prominent tree trunks; the left one is dark and heavily textured, while the right one is lighter with peeling, greyish-white bark. Dense green foliage, some with autumn-like yellow and brown hues, fills the mid-ground and background, creating a dappled sunlight effect. There are also ferns and other low-lying plants at the base of the trees, with hints of outdoor structures in the far background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "A pale greyish-white insect is camouflaged vertically on the light-colored tree trunk in the center-right of the image. Its body perfectly matches the pale grey color and rough, peeling texture of the bark, making it extremely difficult to distinguish from the surrounding tree surface. The insect's elongated and irregular shape also helps it mimic a piece of peeling bark or a lichen growth, demonstrating high color and texture similarity and low contrast difference with its immediate background."
+}

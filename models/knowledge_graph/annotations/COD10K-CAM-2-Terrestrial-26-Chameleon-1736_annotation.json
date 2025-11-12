@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of a terrarium environment. To the left is a rough, textured, brownish-beige artificial rock formation. The central and foreground areas are dominated by abundant green, ivy-like foliage with distinct veins, accompanied by a thin brown branch. Overhead, a dark ceiling holds a bright light fixture, casting light downwards. The far right background appears as a blurry, lighter area, possibly an external window.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The chameleon demonstrates effective camouflage primarily through color blending. Its light green to yellowish-green coloration closely matches the surrounding vibrant green ivy-like leaves, allowing it to seamlessly integrate into the foliage. The organism's body is largely obscured and fragmented by the leaves, utilizing shape disruption to break up its outline. The play of light and shadow on both the chameleon and the leaves further reduces contrast, making it difficult to discern its full form despite its head being visible and directly facing the viewer. The overall effect is a strong blend with its immediate environment."
+}

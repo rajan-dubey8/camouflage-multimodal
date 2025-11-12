@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Other",
+  "object_name": "StarFish",
+  "background_description": "The background consists of an underwater coral reef environment, primarily composed of large patches of dark reddish-brown, highly textured disc anemones or similar corals with a bumpy surface. Scattered throughout are areas of brighter red coral, some soft pinkish coral, and rough, rocky substrate that shows hints of green and blue coloration, possibly from algae or other marine growths. The scene is somewhat dimly lit, creating natural shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The StarFish in this image is not camouflaged. Its pale, light brown body with a speckled pattern and distinctly dark arm tips creates a strong visual contrast against the predominantly dark reddish-brown, highly textured anemones and corals that form its immediate surroundings. The starfish's relatively smooth, granular texture also differs significantly from the lumpy and ruffled textures of the background. Its clear star shape is easily discernible and does not blend with any environmental patterns or shapes, making it stand out prominently rather than blend in with its environment."
+}

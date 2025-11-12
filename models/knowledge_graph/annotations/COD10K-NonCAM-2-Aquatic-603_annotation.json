@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Checkerboard Wrasse",
+  "background_description": "The background depicts an underwater environment with a rocky seabed covered in various forms of algae and possibly some coral structures. The water is a deep blue, and the light diminishes with depth. Distant shapes of other marine life or rock formations are visible in the blurry background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Checkerboard Wrasse with vibrant yellow, green, and blue patterns. Its distinct and bright coloration stands out prominently against the muted blue, green, and brown tones of the rocky, algal-covered seabed, indicating a clear absence of camouflage."
+}

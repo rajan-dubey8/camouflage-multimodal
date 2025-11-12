@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lyretail Anthias",
+  "background_description": "The background depicts a blurry underwater coral reef environment. It is dominated by dark blue and purple tones, with indistinct shapes of corals and rocks in various shades of brown and blue. Small particulate matter is visible in the water, indicating an aquatic setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly features a vibrantly colored Lyretail Anthias with bright orange, pink, and yellow hues. These colors stand out distinctly against the dark blue and purple coral reef background, demonstrating no attempt at camouflage. Another blue fish is partially visible in the upper left, also clearly distinct from the background."
+}

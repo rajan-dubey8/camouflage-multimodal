@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Scrub Jay",
+  "background_description": "The bird is perched on a light brown/khaki woven patio chair. Behind the chair is a crinkled gray/taupe tarp or cover, with some blurred green foliage visible in the distant upper background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, identifiable as a Scrub Jay due to its distinct blue, black, and light grayish-beige plumage, stands out prominently against its immediate background. Its vibrant blue and contrasting light underside colors show low similarity to the muted, earthy tones of the light brown woven patio chair and the gray tarp. The smooth texture of its feathers also contrasts with the woven texture of the chair and the crinkled texture of the tarp. There is a high contrast difference, making the bird clearly visible and indicating no camouflage is present in this artificial environment."
+}

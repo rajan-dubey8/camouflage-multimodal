@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Fossilized rock formation",
+  "background_description": "The image displays a highly textured and eroded rock formation, likely composed of fossilized coral or ancient marine sediments. It features a complex array of ridges, grooves, cavities, and irregular shapes, with distinct patterns resembling ribbed organisms or fan-like structures. The color palette consists primarily of earthy tones, including various shades of beige, light brown, grey, and off-white, with darker areas indicating shadows or deeper crevices. A small green plant sprout is visible in one of the rock fissures.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment consisting of a complex, textured rock formation. There are no visible animals, insects, or fish present within the frame that would exhibit camouflage. While a small green plant is visible, it is not an organism for which camouflage detection is relevant under the specified rules. Therefore, no camouflage is detected, as there is no organism to assess for camouflaging characteristics against its background."
+}

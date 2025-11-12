@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Crayfish",
+  "background_description": "The crayfish is situated on a bed of various rounded pebbles, including shades of brown, orange, yellow, white, and grey. A large dark rock is positioned to the left, and the upper background is dark and indistinct, suggesting deeper water or shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The crayfish exhibits a moderate degree of color blending camouflage. Its dark greenish-blue and brownish carapace, while not an exact match for the predominantly warm-toned and lighter pebbles, provides some visual alignment with the darker elements present in the substrate, such as the greyish stones and the large dark rock. This general coloration helps reduce its prominence within the varied aquatic environment. The texture of its exoskeleton is distinct from the smooth, rounded pebbles. The overall effect is a partial concealment, allowing it to blend somewhat with the darker and shadowed parts of its habitat, though it still presents a noticeable contrast against the brighter pebbles.\n\nNote: The 'object_category' has been set to 'Fish' as it is the closest available option within the provided schema for an aquatic organism, despite a crayfish being a crustacean and not a fish."
+}

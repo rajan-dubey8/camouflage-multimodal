@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorse is situated on a complex underwater structure, likely a gorgonian coral or hydroid. This structure is branch-like, reddish-brown, and covered in small, irregular bumps and tiny, transparent polyps with radiating tentacles. Also present are distinctive white spherical organisms with black spots, possibly ascidians or similar invertebrates, attached to the branching structure. In the background, there is a larger, soft coral or sponge-like mass with an orange-pink hue. The overall environment is a rich, textured coral reef setting.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The SeaHorse demonstrates significant camouflage, characteristic of pygmy seahorses (Hippocampus bargibanti) which are renowned for their ability to blend into their host gorgonian corals. While its vibrant yellow and white coloration creates a moderate contrast with the darker reddish-brown branch it is perched on, its true camouflage strength lies in its texture and morphology. The seahorse's body is covered in bulbous, irregular protuberances that remarkably mimic the polyps and natural bumps on the gorgonian coral. This 'tuberculated' texture allows it to seamlessly integrate with the irregular, textured surface of its host. The overall shape and outline of the seahorse are disrupted by these features, making it difficult to discern from the surrounding coral structure and polyps. The presence of other similarly colored and textured marine life (like the white dotted spheres and other coral structures) in the immediate vicinity further aids in breaking up its outline and allowing it to visually merge with the busy background. Therefore, the camouflage is highly effective, primarily through mimicry of its host's form and texture."
+}

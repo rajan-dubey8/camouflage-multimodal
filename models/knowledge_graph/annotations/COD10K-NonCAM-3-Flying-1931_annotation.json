@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The background consists of dark, murky water, likely a shallow pond or marshland. The water surface is still but shows subtle ripples and numerous small bubbles. Tall, slender dark plants or reeds are reflected indistinctly in the water, creating vertical streaks of varying darkness. The overall color palette is muted grays, dark blues, and browns.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Tricolored Heron exhibits a moderate level of camouflage through color blending. Its dark blue-gray upper plumage blends reasonably well with the dark, reflective surface of the water and the shadowed reflections of the surrounding vegetation. This helps reduce its visibility from above or from a distance, aiding in stealth for hunting fish and amphibians. However, its distinct shape, long yellow bill, and the contrasting white belly and head plumes prevent it from being perfectly merged with the environment, resulting in a medium camouflage score."
+}

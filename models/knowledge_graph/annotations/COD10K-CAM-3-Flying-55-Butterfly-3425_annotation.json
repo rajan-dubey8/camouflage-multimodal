@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a tree trunk or a large branch with mottled grey-brown and reddish-brown bark, showing rough, irregular textures. It is densely interspersed with patches of light green-yellow moss and dark brown, dry, stringy plant debris, creating a varied and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Butterfly is exceptionally well camouflaged. Its closed wings and body display a complex pattern of white, cream, various shades of brown, and reddish-brown, which almost perfectly matches the colors and tones of the surrounding bark, dried moss, and plant debris. The irregular, mottled texture of its body also highly resembles the rough textures of the background. Its elongated shape, with wings closed, helps it to blend in as a broken twig or a piece of bark, demonstrating effective shape disruption. While the small red and white structure at its 'head' end introduces a point of higher contrast, the vast majority of the organism's body blends seamlessly, making it very difficult to spot. This combination of color blending, pattern matching, and shape disruption results in a highly effective camouflage."
+}

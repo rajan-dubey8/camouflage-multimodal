@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a muddy, wet bank beside a shallow body of water. There are patches of brownish-grey mud, some with lighter, drier areas and others darker and moist. Scattered green grass blades and dried plant debris are visible, along with small pebbles and irregular ground textures. The water surface reflects some light, showing a dark, murky appearance.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits camouflage primarily through color blending and pattern matching. Its dorsal side features a mix of dark green, olive, and black stripes that partially match the surrounding green vegetation and the darker, wetter sections of the muddy environment. The irregular, mottled pattern on its skin also helps to break up its outline against the uneven textures of the mud and debris. However, the frog's distinct shape and the moderate contrast it creates against the lighter, drier patches of mud in the foreground and mid-ground prevent it from being perfectly hidden. While its coloration is naturally adapted for such environments, in this specific lighting and composition, it is discernible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background is a vertical tree trunk with rough, pale greyish-brown bark. The bark exhibits fine vertical striations, small raised bumps, and irregular patches of lighter grey and darker greenish-brown, suggesting lichen growth or weathered areas. There are also distinct dark, thin cracks running vertically and horizontally across the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The moth demonstrates exceptional camouflage against the tree trunk. Its wings are patterned with a intricate mix of light grey, dark grey, and white speckles, which almost perfectly replicates the mottled appearance of lichen and the textured surface of the bark. The granular texture of the moth's wings further enhances this similarity, blending seamlessly with the rough and uneven surface of the trunk. This precise combination of color matching and pattern mimicry significantly reduces its visual contrast and breaks up its silhouette, making it extremely difficult to distinguish from its immediate environment."
+}

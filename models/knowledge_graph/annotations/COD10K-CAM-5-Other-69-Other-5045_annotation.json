@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Moose",
+  "background_description": "The background consists of a dense forest environment with multiple tree trunks, including light-barked birch trees and darker conifer-like trees. There is abundant undergrowth, including green foliage, brown branches, and reddish buds or leaves, creating a textured and somewhat cluttered visual field. Sunlight filters through the canopy, creating dappled lighting and shadows.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The moose exhibits a degree of camouflage through color blending. Its dark brown fur tones allow it to partially blend with the deep shadows and darker tree trunks within the dense forest. While its large size and the contrast against sunlit areas and the light-barked birch tree prevent perfect concealment, the overall dark coloration helps it to be less conspicuous in the shadowed and cluttered woodland environment. The branches and foliage in the foreground also provide visual obstruction, enhancing its concealment rather than active camouflage patterning."
+}

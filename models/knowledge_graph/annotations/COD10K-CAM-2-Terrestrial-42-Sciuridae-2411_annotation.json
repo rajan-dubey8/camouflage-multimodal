@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sciuridae",
+  "background_description": "The background consists of a large tree trunk with deeply fissured, rough, greyish-brown bark. The bark displays significant vertical grooves and varying textures, with areas of light and shadow creating depth and visual complexity. The lower part of the trunk widens, providing natural crevices.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The Sciuridae (squirrel) is well camouflaged against the tree bark. Its greyish-brown fur is an excellent color match for the dominant tones of the deeply textured tree trunk. The mottled and rough appearance of its fur, especially the bushy tail, provides a high degree of texture similarity to the coarse bark, making its outline less distinct. The squirrel is also positioned in a shaded crevice at the base of the trunk, which helps it blend with the existing patterns of light and shadow, further reducing its contrast against the background and making it less noticeable to potential predators."
+}

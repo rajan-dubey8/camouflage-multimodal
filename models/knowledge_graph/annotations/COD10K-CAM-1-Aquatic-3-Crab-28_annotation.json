@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of a shallow underwater environment, likely a rocky intertidal zone or seabed. It features a mottled mix of dark, wet rocks or sediment, light granular sandy patches, and areas covered with yellowish-green algae or biofilm. The water surface shows slight reflections and a few small air bubbles. The textures are rough and uneven, with varying depths and shades.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The crab demonstrates excellent camouflage in this image. Its carapace and legs are covered in a highly speckled pattern of dark olive-green, brown, and yellowish-cream flecks, which perfectly matches the mottled, granular texture and varied coloration of the surrounding rocky and sandy substrate. The irregular distribution of light and dark spots on the crab's body mimics the natural dappling of light and shadow on the seabed, as well as the patchy growth of algae and sediment. This intricate pattern effectively breaks up the crab's outline, making it extremely difficult to distinguish its form from the similarly textured and colored background. The overall color palette of the crab blends seamlessly with the browns, greens, and sandy yellows of its environment, resulting in a very low contrast difference at its edges."
+}

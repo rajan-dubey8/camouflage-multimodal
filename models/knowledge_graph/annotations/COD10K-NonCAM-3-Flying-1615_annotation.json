@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blackbird",
+  "background_description": "The bird is perched on a thick, dark brown branch with visible texture and light lichen patches. The background consists of out-of-focus green foliage, suggesting a natural, vegetated environment like a forest or garden.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The blackbird's plumage is predominantly dark black, with a contrasting bright orange beak and eye-ring. This coloration stands out significantly against the light, blurred green background foliage and even against the darker brown branch. There is a high contrast difference between the bird's dark body and the lighter green environment. Neither the color nor the texture of the bird's feathers blend with the surrounding environment, indicating an absence of effective camouflage in this particular setting."
+}

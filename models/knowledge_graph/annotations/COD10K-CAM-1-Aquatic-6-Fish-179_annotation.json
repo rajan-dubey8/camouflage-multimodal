@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of dense, branching coral, likely a species of stony coral (e.g., Acropora). The coral branches are primarily light brown to tan, covered with numerous small, textured polyps. Many of these polyps feature pale yellowish-green tips, while the overall coral structure presents a rough, irregular texture with shaded crevices.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "There are two fish present in the image. The fish on the left exhibits highly effective camouflage. Its mottled coloration, a mix of dark brown, grey, and lighter speckles, almost perfectly mimics the color and varied patterns of the coral branches. Furthermore, its irregular body shape and rough texture blend seamlessly with the bumpy, polyp-covered surface of the coral, making it very difficult to distinguish from its surroundings. This demonstrates strong color blending, pattern matching, and shape disruption. The second fish, positioned to the right, is yellowish-green with a prominent yellow head and eye. While its greenish hue shows some color resemblance to the pale yellowish-green tips of certain coral polyps, its smoother texture and more defined fish shape, particularly the bright eye, make it more noticeable compared to the first fish. However, due to the exceptional camouflage of the left fish, the overall assessment is that camouflage is effectively present for the organism 'Fish' in this environment."
+}

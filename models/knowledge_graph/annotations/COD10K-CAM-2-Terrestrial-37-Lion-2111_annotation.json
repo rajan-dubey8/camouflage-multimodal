@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dense field of tall, dry savanna grass. The grass stalks are slender and vertical, predominantly in shades of golden-brown, light brown, and desaturated tan, with some darker shadows and lighter highlights. The texture is fine and feathery, creating a somewhat uniform yet intricate pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shape disruption / Shadow hiding",
+  "explanation": "The lion in this image is highly camouflaged. Its tawny, golden-brown fur color blends exceptionally well with the dry, golden-brown savanna grass, resulting in high color similarity and low contrast difference. The tall, dense grass physically obscures much of the lion's body, breaking up its outline and disrupting its shape. This makes it very difficult to distinguish the lion from its environment, as its form is not clearly defined against the background. The partial concealment also aids in shadow hiding, further reducing its visibility."
+}

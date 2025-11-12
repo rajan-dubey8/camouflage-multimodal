@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Modern kitchen interior with lake view",
+  "background_description": "The image features a modern kitchen with dark tiled floors, dark cabinetry, and stainless steel appliances. A large central island with a light grey countertop occupies the foreground, holding a wooden cutting board with fruits and a water bottle. Large windows spanning one wall offer a panoramic view of a wide body of water (likely a lake or bay) with distant land, trees, and residential houses under an overcast sky. The interior is brightly lit by natural light from the windows, creating reflections on the shiny dark floor.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organisms (animals, insects, fish) are visible in the image. The scene primarily depicts a human-made interior environment, specifically a modern kitchen, with a view of an outdoor landscape. Therefore, no camouflage is present."
+}

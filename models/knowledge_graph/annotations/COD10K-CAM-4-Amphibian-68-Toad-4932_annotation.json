@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of the base of two large tree trunks with rough, furrowed, grayish-brown bark. The ground between and around the tree bases is a mix of dark soil, patches of green grass, some dried leaves, and small green plant sprouts. Sunlight filters through foliage in the upper background, casting some highlights and shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad is exceptionally well camouflaged, blending seamlessly with its immediate environment. Its mottled brown and gray skin coloration closely matches the dark soil, dried leaves, and the textured tree bark against which it rests. The bumpy, irregular texture of its skin further mimics the rough bark and uneven ground, contributing to excellent pattern matching. Its natural body shape is also somewhat irregular, which, combined with its position against the varied textures of the tree base and ground, helps in shape disruption, breaking up its outline. The overall low contrast between the toad and its surroundings makes it very difficult to spot without close inspection, indicating a highly effective camouflage strategy."
+}

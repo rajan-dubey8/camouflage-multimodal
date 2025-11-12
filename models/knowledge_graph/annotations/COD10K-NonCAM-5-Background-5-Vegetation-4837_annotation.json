@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Winter forest scene with bare branches",
+  "background_description": "The image depicts a deciduous forest scene, likely in winter or early spring. The foreground features a textured tree trunk on the left and numerous bare, thin branches. The background is composed of blurred tree trunks and more bare branches, creating a soft, muted grey and brown palette with hints of white sky. Small white specks, possibly snow or ice particles, are visible in the air.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image shows a forest environment with bare trees and branches. While a bird's nest (or similar animal drey) is visible among the branches, no animal, insect, or fish (i.e., no actual organism) is present in the image. According to the specified rules, if no organism is visible, the entity_type is 'Environment', and camouflage is explicitly marked as 'No Camouflage' with a score of 0.0."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hippopotamus",
+  "background_description": "The background consists primarily of murky, brownish-green water in the immediate foreground and midground, where the hippopotamuses are partially submerged. Further back, there is a blurry bank with dull green, possibly reedy or grassy vegetation.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The hippopotamus displays a form of color blending camouflage. Its dark gray-brown skin tone closely matches the murky, brownish-green water and the muddy riverbanks that form its natural habitat. While hippos are large animals and not easily 'hidden' in the traditional sense, their coloration provides a degree of crypsis, allowing them to blend into their aquatic environment, especially when submerged or partially submerged. The overall muted color palette of the hippo and its surroundings contributes to a medium color similarity, reducing the contrast and making it less conspicuous in its natural environment, rather than standing out sharply."
+}

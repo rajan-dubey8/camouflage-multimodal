@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of blurred, vibrant green grass, indicating an outdoor, natural environment. There are slight variations in lighting, creating subtle shadows and highlights within the green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.25,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The tiger exhibits a natural disruptive pattern camouflage with its distinctive orange, black, and white stripes. This pattern is inherently designed to break up its outline and blend into environments like tall grasses, dense foliage, and dappled sunlight, mimicking shadows and light. However, in this specific image, the tiger is positioned against a relatively uniform, bright green grass background. The vivid green color of the background provides low color and texture similarity with the tiger's primary orange and black fur, resulting in high contrast. While the tiger possesses camouflage, its effectiveness is diminished in this particular scene, making it easily discernible."
+}

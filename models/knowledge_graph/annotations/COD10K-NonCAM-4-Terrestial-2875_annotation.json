@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Grey squirrel",
+  "background_description": "The background consists of dry, earthy soil with sparse patches of light green and yellowish-brown grass, along with some fallen twigs and plant debris. The overall color palette is muted browns, grays, and tans, typical of a natural ground environment in an open area.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The grey squirrel exhibits natural camouflage through color blending. Its fur, which is primarily grey with brownish highlights on its back and tail, closely matches the earthy tones of the dry soil, sparse dry grass, and fallen debris in the background. This strong color similarity helps the squirrel blend into its natural environment, making it less conspicuous to predators. The fluffy texture of its tail also offers some textural resemblance to the uneven ground and dry vegetation. While its distinct shape is still visible, the overall coloration significantly aids in concealment within this habitat."
+}

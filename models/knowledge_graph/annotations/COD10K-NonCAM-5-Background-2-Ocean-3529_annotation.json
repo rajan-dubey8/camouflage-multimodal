@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Distant open-water fish",
+  "background_description": "The image features an underwater coral reef environment with various types of stony corals, including large brain corals and flat, reticulated coral structures, predominantly in shades of brown, tan, and some dull green. The upper and distant parts of the image show clear, deep blue ocean water with suspended particulate matter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.85,
+  "camouflage_type": "Color blending",
+  "explanation": "A very faint, slender, elongated fish is visible in the distant blue water. Its silvery-blue coloration allows it to blend almost seamlessly with the surrounding open ocean, making it difficult to detect. This high degree of color similarity and the low contrast between the fish and the water are key to its effective camouflage, which is primarily achieved through color blending and potentially countershading, mimicking the light conditions and hue of the open water. The fish's smooth appearance is also similar to the largely featureless background of the open water."
+}

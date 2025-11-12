@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mushroom coral",
+  "background_description": "The background consists of a bed of grey and light brown coral rubble and small irregular stones, interspersed with some finer detritus. A red plastic grate is partially visible on the left side, indicating an artificial environment like an aquarium.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The mushroom coral exhibits camouflage through color blending and textural mimicry. Its overall pale orange, tan, and white coloration with subtle pink edges closely matches the varied hues of the coral rubble and stones in its background. The ridged and bumpy texture of the coral disk also blends well with the rough, irregular surfaces of the surrounding substrate. This combination reduces its contrast and helps it integrate visually with its immediate environment, making it less conspicuous to predators or prey. Note: 'Fish' is selected for 'object_category' as the closest available marine organism category in the provided schema, acknowledging that a coral is not a fish but a sessile invertebrate."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a soft, crumpled duvet cover with a bold, high-contrast pattern. The pattern features large, irregular, abstract black shapes (resembling stylized flowers or organic forms) against a predominantly white background. There are small accents of red and blue visible on the duvet.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The cat exhibits effective camouflage due to its bicolored fur pattern (white and dark brown/black tabby) which strongly matches the high-contrast black and white pattern of the duvet cover. The cat's white fur blends seamlessly with the white areas of the bedding, while its dark fur patches align well with the black abstract shapes on the duvet. This creates a strong effect of pattern matching and color blending, significantly disrupting the cat's outline and making it blend into the busy background. The high contrast of the cat's fur also mirrors the high contrast of the duvet pattern, further aiding in visual integration."
+}

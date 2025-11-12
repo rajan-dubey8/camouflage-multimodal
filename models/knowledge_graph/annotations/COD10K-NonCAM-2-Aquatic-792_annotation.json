@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background is highly out of focus, appearing as a blurred, light-colored, mottled surface, likely gravel or rocks at the bottom of an aquarium. It consists of soft grey and white tones with some indistinct darker specks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a brightly colored orange goldfish against a light, indistinct background. Goldfish are domesticated species bred for their vibrant colors, which make them highly visible rather than concealed. The fish's brilliant orange contrasts sharply with the pale, blurry background, providing no color or texture similarity to aid in camouflage. Its prominent appearance indicates an absence of any camouflage strategy."
+}

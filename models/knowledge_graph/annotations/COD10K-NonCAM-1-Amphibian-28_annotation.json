@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green Frog",
+  "background_description": "Rocky ground composed of small, dark grey and brown pebbles with scattered dried twigs and plant debris. This terrestrial environment is characteristic of areas often found adjacent to ponds, streams, or wetlands where amphibians reside.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A green frog is clearly visible and prominently featured against a background of dark, rocky pebbles. Its distinct green and yellowish-green coloration contrasts sharply with the dark grey and brown tones of the surrounding ground, indicating a clear absence of camouflage."
+}

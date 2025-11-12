@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Egret",
+  "background_description": "The background consists of rippled water, reflecting a mix of dark blues and grays from the sky, interspersed with prominent horizontal bands of warm golden and orange light, likely from a sunset or sunrise. The water surface has a dynamic, wavy texture due to the ripples.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The egret is pure white, which creates a stark and high contrast against the dark, rippled water background with its golden-orange reflections. Its smooth, solid white form does not blend with the wavy texture or the varied blue and orange colors of the water. This strong visual contrast makes the bird highly visible and indicates an absence of camouflage."
+}

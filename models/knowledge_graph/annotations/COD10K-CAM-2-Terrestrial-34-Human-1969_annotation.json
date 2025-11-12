@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a dense woodland or forest environment. The ground is covered with dry, fallen leaves and dead grass, intermingled with patches of green undergrowth and shrubs. Several tree trunks, one very large and close to the human, are visible. Strong sunlight filters through the canopy, creating distinct patterns of light and shadow on the ground and tree trunks, suggesting a dappled light effect common in forests.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The human is wearing full camouflage attire, including a jacket, pants, and a cap, all featuring a pattern of greens, browns, and grays designed to mimic woodland textures. The colors of the clothing blend very well with the surrounding environment, matching the dried leaves, tree bark, and green foliage. The pattern effectively breaks up the human's silhouette, disrupting their shape against the complex background of dappled light and shadow, tree textures, and varied ground cover. The strong shadows cast by the trees further aid in the camouflage by creating natural dark areas that align with parts of the camouflage pattern, reducing the overall contrast and making the human less discernible."
+}

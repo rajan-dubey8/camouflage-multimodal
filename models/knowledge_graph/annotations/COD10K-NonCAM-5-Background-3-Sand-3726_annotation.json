@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal forest landscape with ocean view",
+  "background_description": "The scene depicts a dense, lush green forest with a mix of deciduous and coniferous trees in the foreground and midground. The forest meets a rocky coastline with a sandy beach. The ocean stretches into the distance, partially obscured by a light fog or haze, merging with a pale, overcast sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily displays a natural landscape comprising dense forest, a coastline with a beach and rocky shores, and the ocean under a hazy sky. There are no visible animals, insects, or fish present in the scene, therefore no camouflage is detected."
+}

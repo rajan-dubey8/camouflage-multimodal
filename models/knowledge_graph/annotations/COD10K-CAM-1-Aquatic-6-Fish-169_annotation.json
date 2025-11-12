@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a vibrant orange, irregular, and porous surface, likely a marine sponge or coral. It features numerous dark reddish-brown blotches and specks of white sediment distributed across its surface, creating a highly textured and uneven appearance. The overall texture is somewhat fibrous or net-like in places.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The fish, while possessing a translucent body with a slight orange hue, exhibits prominent and distinct horizontal stripes in vibrant red-orange, crisp white, and dark black. These linear patterns and sharp color contrasts make the fish highly visible against the irregular, porous, and blotchy texture of the orange and reddish-brown background. The fish's smooth body and clear outline, accentuated by its striped coloration, do not blend with the complex and non-linear patterns of its environment, causing it to stand out rather than being camouflaged."
+}

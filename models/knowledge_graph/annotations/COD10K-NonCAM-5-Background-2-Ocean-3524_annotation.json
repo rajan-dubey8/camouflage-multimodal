@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Zoanthid colony",
+  "background_description": "The background consists primarily of dark, irregular rocky substrate with a rough, mottled texture, appearing in shades of deep brown, black, and dark blue. There are also darker, blurred areas indicating deeper water or shadows. Some parts of the rock show tiny white specks, possibly detritus or small organisms.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a colony of marine polyps (Zoanthids) which are bright white with pale green and light blue centers, and distinct feathery tentacles. This vibrant and light coloration, along with the unique texture of the polyps, creates a very high contrast against the dark, rough, and mottled rocky substrate they are attached to. The organism stands out prominently and shows no visual characteristics of blending into its environment, therefore, no camouflage is present. (Note: 'Fish' is selected as the object_category due to schema limitations for aquatic invertebrates; taxonomically, these are cnidarians.)"
+}

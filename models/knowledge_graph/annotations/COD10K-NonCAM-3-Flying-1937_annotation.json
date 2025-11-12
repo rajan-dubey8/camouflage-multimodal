@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Weevil on a lily pad",
+  "background_description": "The background consists primarily of a large, flat lily pad exhibiting varied shades of green, yellowish-green, and reddish-brown, with subtle vein patterns visible across its surface. A portion of dark blue water is visible in the upper left corner, bordering the lily pad.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The insect, which appears to be a weevil, exhibits effective camouflage primarily through color blending. Its iridescent bronze and greenish-brown body coloration closely matches the earthy and green tones of the lily pad it rests upon. The varied hues of the lily pad, from its green center to reddish-brown edges, provide a diverse background that the insect's metallic sheen and overall color palette integrate well with. While its distinct silhouette and the shadow it casts prevent absolute invisibility, the strong color resemblance significantly reduces its prominence against the plant surface."
+}

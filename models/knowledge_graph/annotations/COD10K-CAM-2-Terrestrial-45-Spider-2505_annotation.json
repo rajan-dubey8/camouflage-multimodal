@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The spider is situated on the head of a plant, likely a sunflower or similar composite flower. The immediate environment consists of vibrant green, fuzzy plant bracts or leaves, and a central dark brown, textured seed head. Further in the background, there are blurred bright yellow elements, suggesting other parts of the flower or adjacent blooms, creating a bright, natural, and leafy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage primarily through color blending. Its vibrant lime-green body perfectly matches the hue and brightness of the surrounding fuzzy green plant bracts and leaves. While its long, spiky legs have black spots and a yellowish tint, these colors are still consistent with the natural variations found in the plant (e.g., slight yellowing or darker spots on stems/leaves). The spider's elongated body shape and splayed legs also help to subtly break up its outline against the complex textures of the plant, making it difficult to distinguish from the foliage at first glance, despite holding prey."
+}

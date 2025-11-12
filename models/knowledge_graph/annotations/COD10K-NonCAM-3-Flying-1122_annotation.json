@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Green Parrot",
+  "background_description": "The background consists of a bright blue sky, blurred green foliage from distant trees, and a prominent, light-colored tree trunk with smooth bark in the mid-ground. The lighting suggests a bright, sunny outdoor environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The parrot displays effective color blending camouflage. Its entire body is covered in various shades of green, which strongly match the green foliage visible in the background. This allows the bird to blend seamlessly with the leaves of trees, making it difficult for predators or prey to detect. While the bright blue sky and the parrot's distinct facial features (beak, eye) create some contrast, the dominant green coloration against a green environment is a clear example of natural camouflage for concealment."
+}

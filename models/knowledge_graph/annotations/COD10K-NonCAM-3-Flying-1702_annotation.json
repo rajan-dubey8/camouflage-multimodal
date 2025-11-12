@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Perching bird",
+  "background_description": "The bird is perched on a dark, rough-textured log or branch. The background immediately behind the log is out-of-focus green foliage, suggesting a natural, vegetated environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits color blending camouflage. Its predominantly grey-brown plumage with darker wings and head provides a moderate degree of color similarity with the dark, natural wooden branch it is perched upon. While the bird's texture is smooth and contrasts with the rough bark, its muted coloration helps it to merge visually with the woody elements of its environment, making it less conspicuous. The blurred green background provides less color similarity. The red eye and small white patch on the wing offer some points of contrast, making the bird observable but generally well-adapted to blend into a forest or woodland setting, reducing its visibility to predators or prey through cryptic coloration."
+}

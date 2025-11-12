@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Metallic green fly",
+  "background_description": "The insect is perched on a light green leaf with a slightly textured, possibly fuzzy, edge. The background behind the leaf is uniformly dark green and heavily blurred, indicating dense foliage or a distant green surface out of focus.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.35,
+  "confidence": 0.92,
+  "camouflage_type": "Color blending",
+  "explanation": "The insect exhibits a metallic green coloration on its body, which generally aligns with the green hues of the leaf it rests upon and the blurred green background. This color similarity offers a degree of color blending with its natural environment. However, the iridescent, shiny texture of the insect's body contrasts with the matte and slightly fuzzy texture of the leaf. Additionally, its distinct shape and bright orange compound eyes create noticeable visual cues that prevent it from being perfectly concealed. While there's an attempt at blending through color, the high reflectivity and clear outlines make its camouflage effectiveness moderate at best, resulting in a medium contrast difference."
+}

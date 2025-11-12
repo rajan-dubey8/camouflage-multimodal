@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Moose",
+  "background_description": "A sunlit field of tall grass, primarily light green with patches of yellowish-brown and some darker plant stalks visible in the foreground, suggesting a natural prairie or meadow environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image shows a moose with dark brown fur standing in a brightly lit field of light green and yellowish-brown grass. The dark color of the moose provides very low color similarity with the surrounding bright vegetation. Additionally, the fur texture of the moose is distinct from the fine, linear texture of the grass. The significant contrast in both color and brightness makes the moose highly visible against this background, indicating no effective camouflage in this specific environmental context."
+}

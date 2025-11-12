@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dry, granular surface, likely fine gravel or sand mixed with small fragments of light-colored material, possibly shell pieces or small stones. It exhibits a range of light beige, off-white, grey, and light brown tones, creating a mottled, textured appearance. The surface is uneven and appears somewhat pebbly, with some areas in soft focus, enhancing the overall diffused texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper demonstrates excellent camouflage against its environment. Its body and wing coloration, a blend of light greys, beiges, and browns, perfectly matches the tones of the granular ground, showing high color similarity. The intricate patterns and textures on its exoskeleton and wings effectively mimic the small stones, shell fragments, and general debris on the ground, contributing to high texture similarity. This combination of color and pattern blending results in a very low contrast difference, making the organism exceptionally difficult to distinguish from its surroundings. The camouflage breaks up its outline and allows it to blend seamlessly with the visual clutter of the background."
+}

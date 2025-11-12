@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of an underwater environment dominated by lush green aquatic plants, featuring broad leaves and slender stems. A prominent dark brown, textured piece of wood or root is in the foreground, providing a surface for the organism. The lighting is varied, with some areas brightly illuminated (displaying yellowish highlights) and others cast in shadow, creating a visually complex and somewhat cluttered environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Shrimp demonstrates effective camouflage by blending its translucent, mottled light brown/grey body with the surrounding environment. Its coloration and speckled patterns closely match the dark, textured surface of the wood it is resting on, reducing its contrast. The overall busy background of green aquatic plant stems and leaves, combined with varied lighting (shadows and highlights), helps to disrupt the shrimp's outline and shape, making it difficult to distinguish from the visual clutter. The transparency of its body also allows it to somewhat take on the colors and light of the background, contributing to its concealment."
+}

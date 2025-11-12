@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a forest floor covered predominantly with dried, light brown to tan leaves, many of which are large and papery with distinct veins and textures. There are also darker brown, possibly damp or decomposing, leaf fragments and soil visible. A prominent dark brown log or branch lies horizontally in the lower foreground. Scattered green foliage, including small plants and vines, is visible in the background and foreground, suggesting a shaded, natural environment with varied textures and colors.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard exhibits effective camouflage through color blending. Its dark brown body coloration closely matches the dark brown log/branch in the foreground, the darker patches of soil, and the shadowed areas of the decomposing leaf litter. While it is somewhat discernible against the very light, papery dried leaves, its overall dark hue allows it to recede into the varied brown and shadowed tones of the forest floor. This makes it less conspicuous to predators and prey, demonstrating good crypsis primarily through matching the dominant dark earthy tones of its immediate surroundings."
+}

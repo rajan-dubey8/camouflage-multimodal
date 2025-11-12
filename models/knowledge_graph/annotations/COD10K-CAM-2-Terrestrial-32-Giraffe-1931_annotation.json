@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The giraffe is positioned directly in front of a large, old tree with a thick, gnarled trunk and numerous twisted branches forming a dense canopy of small green leaves. The ground around the tree is covered in a mix of dry, yellowish-brown grass and patches of greener grass, with some shadows cast by the tree. Beyond the immediate tree, there are more scattered trees and shrubs across a savanna-like landscape under a clear, bright blue sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The giraffe displays excellent camouflage in this image. Its characteristic coat pattern, consisting of light golden-brown patches bordered by darker brown to black lines, provides significant visual blending with its environment. The lighter patches closely match the color of the dry grass on the ground and the sun-drenched areas of the tree bark. Crucially, the dark, irregular lines and patches effectively mimic the complex shadows cast by the gnarled branches and the rough texture of the tree trunk itself. This pattern acts as disruptive coloration, breaking up the giraffe's large silhouette against the varied background of bark, leaves, and dappled light, making it less discernible to predators or prey. While the giraffe is clearly visible upon close inspection, its natural patterning works effectively to obscure its form in its typical savanna habitat."
+}

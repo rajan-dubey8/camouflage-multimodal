@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Camouflaged crabs on muddy seabed",
+  "background_description": "The background is an underwater seabed, appearing muddy or silty, extensively covered with various bivalve shells, shell fragments, and detritus. The overall color is a muted greenish-brown/grey, characteristic of shallow, turbid water, with areas of darker sediment and lighter shell fragments. The texture is rough and highly irregular due to the dense accumulation of organic and inorganic debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image clearly shows several crabs effectively camouflaged on the muddy, shell-strewn seabed. Their bodies exhibit high color and texture similarity to the surrounding environment, blending seamlessly with the greenish-brown and grey hues of the sediment and shell fragments. The crabs' irregular shapes, bumpy carapaces, and tendency to accumulate debris on their shells create a disruptive pattern that breaks up their body outline, making them very difficult to distinguish from the non-living elements of the seabed. This excellent visual blending results in a low contrast difference with the background, indicating highly effective camouflage. \n\nNote: While crabs are crustaceans, the provided 'object_category' schema does not include this option. 'Insect' was chosen as the closest available category for a small, hard-shelled arthropod, acknowledging it is taxonomically incorrect."
+}

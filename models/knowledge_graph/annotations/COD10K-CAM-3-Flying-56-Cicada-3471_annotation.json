@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of large, deep green leaves with visible veins, some with minor brown discoloration. The area behind the cicada and leaves is very dark, suggesting deep shadow or nighttime conditions, with some blurry, out-of-focus lighter spots in the distant background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Cicada's body, covered in mottled grey, white, and brown patterns, strongly contrasts with the vibrant deep green leaves it is resting upon. Its overall color scheme and intricate patterns, which might typically provide camouflage against tree bark or dry foliage, do not blend with the smooth, uniform green texture and color of the leaves. The bright lighting on the cicada further accentuates its presence against the darker background and foliage, making it clearly visible rather than camouflaged in this specific image."
+}

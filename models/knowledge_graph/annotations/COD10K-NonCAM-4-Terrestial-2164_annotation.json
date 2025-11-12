@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hyena",
+  "background_description": "The background consists of a uniformly blurred, soft focus expanse of muted earthy tones, predominantly light brown, beige, and faint greyish-green, characteristic of dry savanna or grassland. There are no distinct features or textures visible due to the shallow depth of field.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The hyena exhibits effective camouflage. Its fur features varied shades of brown, grey, and reddish-brown, which not only blend with the overall earthy tones of the blurred savanna background but also create a disruptive pattern. This varied coloration helps to break up the animal's silhouette and obscure its outline against the relatively uniform background, making it harder to perceive as a distinct entity. The high color similarity and overall low contrast between the hyena and its environment contribute significantly to its camouflage. Although the background is blurred, reducing literal texture similarity, the intrinsic disruptive patterning of the hyena's coat is evident and effective in its natural habitat."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The organism is resting on the top surface of a weathered, grayish-brown wooden post. The wood exhibits a rough, textured surface with visible grain, cracks, and darker patches, possibly indicating decay or dampness. The background behind the post is heavily blurred, appearing as a soft, out-of-focus mix of light gray and white tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage against the wooden post. Its scaly skin features a mottled pattern of various shades of gray, light brown, and darker brown, which almost perfectly matches the weathered color and rough texture of the wood. The natural patterns on its skin mimic the grain and imperfections of the post, reducing its distinct outline and making it blend seamlessly with the environment. The low contrast difference between the lizard and its perch further enhances its ability to remain concealed, making it difficult to spot at first glance."
+}

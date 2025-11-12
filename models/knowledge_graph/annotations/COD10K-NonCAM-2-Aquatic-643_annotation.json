@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Guppy",
+  "background_description": "The background consists of a blurred aquatic environment, likely an aquarium, with indistinct patches of muted green, brown, and grey tones, suggestive of rocks, substrate, or distant aquatic plants. The lighting is subdued, and the background elements are out of focus.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays two guppies. One is a vibrant orange-red with a large, flowing caudal fin, and the other is a lighter color with a prominent blue and patterned caudal fin. Both fish are sharply focused and brightly colored, standing out distinctly against the dark, blurred background. Their strong coloration and clear outlines indicate no attempt at blending with the environment, confirming the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mussel-covered rocky intertidal zone",
+  "background_description": "The image depicts a vast rocky intertidal zone at low tide. The foreground and midground are dominated by rugged, dark grey to black rocks, extensively covered with vibrant green algae (seaweed) and densely packed beds of dark brown/black mussels. Small tidal pools of clear water are visible among the rocks. In the distance, the calm ocean meets a clear blue sky with sparse white clouds.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The mussels (Mytilus spp.) in the image demonstrate effective camouflage. Their dark brown to black shells exhibit high color similarity with the surrounding wet, dark rocks and darker patches of seaweed. The clustered, uneven texture of the mussel beds also shows high texture similarity with the rugged, algae-covered rocky surfaces, making them blend seamlessly into the environment. The low contrast between the mussels and their immediate background makes it difficult to distinguish individual organisms from the substrate. While their dense clustering could also be considered a form of disruptive pattern, the primary method of concealment is achieved through color blending with their rocky habitat."
+}

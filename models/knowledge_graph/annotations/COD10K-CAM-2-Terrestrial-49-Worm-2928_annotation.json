@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of several slender, compound green leaves with visible veins and slight fuzz, characteristic of a Mimosa or Acacia plant. There is also some fine white webbing (possibly spider silk or silk spun by the organism) visible on the leaves. The immediate background behind the foliage is dark, appearing black, which serves to highlight the green elements in the foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The 'Worm' (caterpillar) demonstrates strong camouflage. Its primary green coloration is an almost perfect match to the green leaves it is resting upon, providing excellent color blending. The lighter green to yellowish diagonal stripes and the fine white speckles across its body act as disruptive coloration and pattern matching, helping to break up its outline and mimic the subtle variations in light and texture found on the foliage. Although the organism is three-dimensional and bulky compared to the flat leaves, the close color and pattern resemblance significantly reduce its contrast with the background, making it very difficult for a predator to distinguish it from the surrounding plant material."
+}

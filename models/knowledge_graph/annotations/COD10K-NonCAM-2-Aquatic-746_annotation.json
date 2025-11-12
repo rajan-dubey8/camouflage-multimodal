@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Parrotfish",
+  "background_description": "The background depicts a vibrant coral reef environment, characterized by various stony coral formations covered with greenish-brown algae or sediment. The water appears clear, and some smaller marine life, including a sea urchin, is visible on the reef structure.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a brightly colored Parrotfish with distinct blue-green and reddish-brown hues. Its vibrant coloration and smooth texture stand out prominently against the rough, muted green-brown coral reef background, indicating a complete absence of camouflage."
+}

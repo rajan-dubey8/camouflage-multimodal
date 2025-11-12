@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a vibrant magenta/fuchsia flower with crumpled petals and a complex center. The flower's core features pale yellow-cream sections, bright yellow anthers covered in pollen, and delicate red/pink filaments. Behind the flower, an out-of-focus bright green background is visible, likely foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits strong camouflage, primarily through color blending. Its yellowish-green body almost perfectly matches the pale yellow-cream inner parts of the flower and the bright yellow pollen-laden anthers, where it is positioned. This creates a low contrast difference between the spider and its immediate surroundings. While its texture is smoother than the crumpled petals, it aligns well with the delicate, less textured inner components of the flower. The spider's posture, with its legs splayed and conforming to the flower's structure, also contributes to shape disruption, making it difficult to distinguish its outline from the intricate floral details. It is not immediately obvious and requires close inspection to spot."
+}

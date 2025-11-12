@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Sparrow (Song Sparrow type)",
+  "background_description": "The background consists of blurred tree branches, some covered with greenish-grey lichen or moss. Beyond the immediate branches, there is a soft, out-of-focus bokeh with warm yellow and light blue/grey hues, indicating distant foliage or sky and diffuse lighting conditions.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The bird exhibits effective camouflage primarily through a disruptive pattern, combined with color blending. Its streaky brown, grey, and white plumage closely mirrors the varied textures and earthy tones of the tree branches, including the lichen and bark. This pattern helps to break up the bird's outline and integrate it visually with the complex, dappled environment of the branches, making it challenging for predators or observers to distinguish its form against the background."
+}

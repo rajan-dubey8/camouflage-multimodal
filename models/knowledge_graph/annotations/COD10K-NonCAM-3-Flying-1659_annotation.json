@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Gull in flight",
+  "background_description": "The background consists of a large body of water. The foreground water is dark with distinct ripples and reflections. The mid-distance water is lighter gray and smoother. Beyond the water, a distant treeline with bare, dark trees is visible against a slightly lighter sky or distant land. The entire image is grayscale.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The gull is primarily bright white/light gray and is captured in flight over a dark, rippled body of water. Its light plumage creates a high contrast against the dark water surface and the distant dark trees, making it stand out clearly rather than blending in. There is no evidence of color blending, disruptive patterns, or mimicry being used for concealment in this scene. The bird is highly visible due to its brightness against the dark background."
+}

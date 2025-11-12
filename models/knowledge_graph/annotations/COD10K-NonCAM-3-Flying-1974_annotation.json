@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Gulls and pigeon on park path",
+  "background_description": "The background consists of a textured grey asphalt-like park path, patchy green grass, a dark green metal fence, and a weathered wooden park bench. The overall lighting is soft and overcast.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The birds (primarily gulls and one pigeon) in the image display distinct white, grey, and black plumage. These colors stand in high contrast against the grey asphalt path, the green grass, and the brown/grey wooden bench. Their shapes are clearly defined and easily distinguishable from their surroundings, indicating no form of camouflage is present. They are highly visible in this urban park environment."
+}

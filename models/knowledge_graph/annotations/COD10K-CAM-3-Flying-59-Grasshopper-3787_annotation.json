@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dry, arid environment covered in numerous small to medium-sized pebbles and rocks. The rocks are varied in color, predominantly light grey, off-white, beige, and reddish-brown, with some darker patches of soil. The ground between the rocks appears to be reddish-brown sand or dirt. The texture of the environment is rough and granular, characteristic of a stony, dusty terrain.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits excellent camouflage primarily through color blending. Its body is a pale, sandy beige-brown color that closely matches the dominant tones of the lighter rocks and the reddish-brown sand/dirt in the environment. The overall lightness and hue of the grasshopper seamlessly integrate with the background, making it very difficult to spot at first glance. There is very low contrast between the organism and its surroundings, and its relatively smooth yet somewhat granular texture does not stand out sharply against the varied textures of the pebbles. While not perfectly invisible, its coloration provides highly effective concealment in this specific rocky, arid habitat."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Meerkat",
+  "background_description": "A plain, uniformly colored light brown/tan background, appearing smooth and out of focus, suggesting a dry earth or sand-like environment.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The meerkat's fur exhibits shades of brown, tan, and grey, which closely match the plain, earthy light brown/tan background. This color blending helps the animal naturally camouflage in its desert-like habitat, making it less conspicuous to predators or prey. While the color similarity between the meerkat and its background is high, the distinct texture of the meerkat's fur and its clear silhouette against the smooth, out-of-focus background prevent perfect concealment, leading to a medium contrast difference."
+}

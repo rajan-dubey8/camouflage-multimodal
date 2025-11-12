@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background is an underwater scene composed of rocks densely covered with various types of marine flora. There are significant patches of branching, bushy algae in shades of pale green and teal, interspersed with clusters of reddish-brown, leafy or flattened algae. The underlying rock surfaces are visible in some areas, contributing to a mottled and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The crab demonstrates effective camouflage by blending remarkably well with its marine environment. Its carapace displays a mottled pattern of reddish-brown and pale greenish-white, which precisely matches the colors of the surrounding reddish-brown algae and the pale green/teal branching algae. The irregular, bumpy texture of its shell and the segmented form of its legs further mimic the complex and varied textures of the algae and encrusted rocks. This combination of color and pattern matching, along with a low contrast difference against the busy background, makes the crab's outline difficult to discern, successfully disrupting its shape and allowing it to integrate seamlessly into its habitat."
+}

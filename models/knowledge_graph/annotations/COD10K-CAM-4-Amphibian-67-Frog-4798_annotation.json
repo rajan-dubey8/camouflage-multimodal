@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a shallow body of water with numerous submerged rocks and pebbles of varying sizes and irregular shapes. The water appears murky or stained, giving the environment a predominant color palette of dark browns, reddish-browns, oranges, and some muted greens. There are subtle ripples and reflections on the water's surface, creating a dynamic texture over the stones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The two frogs are remarkably well camouflaged against the background of submerged rocks. Their skin coloration, particularly the dorsal surfaces, closely matches the reddish-brown and yellowish-brown tones of the wet stones and the murky water. The larger frog's legs exhibit darker mottled patterns that blend seamlessly with the irregular textures and varied hues of the pebbles, effectively disrupting its outline. While their eyes provide some distinct contrast, the overall body shape and color allow them to merge almost indistinguishably with the environment. The wet sheen on their skin also mirrors the wet surfaces of the stones, enhancing the illusion of being part of the substrate rather than distinct organisms."
+}

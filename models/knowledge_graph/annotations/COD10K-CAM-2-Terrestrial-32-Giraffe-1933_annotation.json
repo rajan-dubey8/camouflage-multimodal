@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background consists of a steep, rugged rocky hillside under a clear blue sky. The rocks are large, irregular, and vary in color from light tan and beige to orange, reddish-brown, and dark brown, suggesting different mineral compositions and weathering. There are numerous shadows and highlights on the rock faces, creating a broken, complex visual texture. Sparse, dry-looking vegetation, appearing as bushes and scrub with muted green, yellow, and brown tones, is scattered amongst the rocks, contributing to the overall dappled and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Giraffe exhibits significant camouflage against this rocky, scrub-filled hillside. Its characteristic reticulated pattern, composed of varying shades of tan, light brown, and darker brown, blends remarkably well with the multi-colored rocks and dry vegetation. The earthy tones of its coat closely match the oranges, browns, and tans of the sun-drenched rocks, as well as the muted colors of the sparse bushes. The broken-up pattern of the giraffe's fur also mimics the visual complexity of the background, including the irregular shapes of the rocks and the dappled light and shadow created by the environment's uneven terrain and vegetation. While the giraffe's large size makes it somewhat discernible, its natural patterning effectively disrupts its outline and allows it to blend into the visually 'noisy' background, making it less conspicuous to a casual observer."
+}

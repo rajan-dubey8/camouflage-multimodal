@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of a light, somewhat muted greyish-green tank wall. The bottom of the tank is covered with light-colored, varied-sized gravel, with some darker detritus visible amongst the pebbles. The water appears clear, showing reflections on the tank glass.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "Multiple brightly colored goldfish are clearly visible against a plain background and gravel, exhibiting no form of camouflage."
+}

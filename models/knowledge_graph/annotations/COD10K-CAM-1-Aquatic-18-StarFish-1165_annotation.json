@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Marine Invertebrate",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a vibrant and complex marine environment, likely a coral reef or rocky substrate. It features various encrusting organisms, corals, and algae, displaying a rich palette of red, orange, pink, yellow, and some darker brown/black areas. The textures are highly irregular, lumpy, porous, and intricate, with many crevices and shadowed areas. The lighting suggests an underwater setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The StarFish exhibits strong camouflage in this image. Its predominant red-orange coloration closely matches the dominant hues of the surrounding coral and other marine growths in the background, which are also rich in reds, oranges, and pinks. Furthermore, the starfish's rough, textured surface with its subtle pattern remarkably mimics the irregular, bumpy, and complex textures of the coral and rocks. This high degree of color and texture similarity significantly reduces its visual contrast with the environment, making it blend seamlessly into the vibrant, visually busy marine habitat. While its overall shape is discernible upon close inspection, its features are effectively disrupted by the background's complexity, making it difficult to distinguish from its surroundings."
+}

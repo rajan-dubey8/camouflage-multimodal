@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Steenbok",
+  "background_description": "The background consists of dry, sandy-brown soil with sparse patches of yellowish-green and dark green low-lying vegetation. The textures are generally soft and blurred, indicative of a natural, open environment, likely a savanna or grassland.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Steenbok exhibits effective camouflage through color blending. Its reddish-brown fur closely matches the colors of the dry, sandy soil and dried vegetation in the background. This high degree of color similarity, combined with a generally low contrast difference between the animal and its surroundings, allows it to blend seamlessly into its natural habitat. The overall effect makes the animal harder to spot by predators."
+}

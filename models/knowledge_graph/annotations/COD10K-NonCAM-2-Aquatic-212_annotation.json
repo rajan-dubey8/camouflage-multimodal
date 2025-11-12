@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background consists of dark blue, blurry open water, suggesting an underwater environment with limited visual detail, possibly a deeper part of the ocean or a large aquarium tank. There are hints of darker shapes in the far distance, but the immediate surroundings are primarily deep blue water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Rockfish with distinctive orange and white mottled patterns. The fish is well-lit and stands out prominently against the uniform dark blue water background, indicating a high contrast and no attempt at camouflage. Another fish is partially visible and blurred in the background."
+}

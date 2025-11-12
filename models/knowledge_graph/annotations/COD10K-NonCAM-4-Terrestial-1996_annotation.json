@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The background consists of a large, weathered rock surface. It features a mottled pattern with dominant light grey and white areas, interspersed with patches of bluish-green and yellowish-brown, likely from lichen growth and mineral variations. The texture is rough, irregular, and granular.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel exhibits camouflage through color blending with its rocky environment. Its fur, a mix of brown and grey tones, closely matches the dominant grey, white, and earthy patches found on the weathered rock surface. The irregular, slightly shaggy texture of its fur also provides a moderate textural similarity to the rough, mottled rock, helping to break up its outline and reduce its overall contrast against the background. While not perfectly invisible, these features make it less conspicuous than if it were a contrasting color."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with sea caves",
+  "background_description": "The image features a rugged coastal landscape composed of dark, stratified rock formations with several sea caves at water level. The cliffs are steep and rocky, with patches of green grass and sparse vegetation growing on the upper sections and ledges. The water in the foreground is a greenish-blue, typical of shallow coastal waters, with white foam from waves crashing against the rocks and entering the caves. The overall texture is rough and natural, with varying shades of grey, brown, and dark green.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The scene exclusively depicts a natural coastal environment with rock formations, sea caves, water, and some vegetation. Therefore, there is no camouflage to assess."
+}

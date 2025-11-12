@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Puma",
+  "background_description": "The background consists of a natural, wild landscape with rolling hills or uneven terrain. It features dry, sparse yellowish-brown grasses, patches of darker green-grey low-lying shrubs or bushes, and scattered rocks or exposed earth. The overall color palette is earthy and muted, with browns, tans, olive greens, and greys, suggesting a dry or semi-arid environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The puma exhibits effective camouflage through color blending. Its fur is a uniform sandy-brown or tawny color, which highly matches the dry grasses, soil, and muted tones of the natural environment. This lack of distinct patterns and the close resemblance in color allow the puma to blend seamlessly with its habitat, making it harder for prey to detect. While the individual texture of its fur doesn't mimic specific elements like rocks or foliage, its overall natural texture and solid coloration contribute to a low contrast difference against the varied earthy background, enhancing its ability to disappear in plain sight, especially during dawn, dusk, or when stalking."
+}

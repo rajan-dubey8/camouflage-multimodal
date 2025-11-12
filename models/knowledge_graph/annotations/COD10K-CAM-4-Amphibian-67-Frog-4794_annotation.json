@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dark, murky water filled with a variety of aquatic vegetation. Long, slender, light green grass-like blades emerge from and float on the surface, while beneath the water, there are submerged darker green leaves and substantial amounts of brownish, decomposing plant matter. The water's surface reflects sunlight, creating numerous small, sparkling highlights across the scene. The overall color palette is dominated by dark greens, browns, and the deep, somewhat opaque color of the water.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The frog exhibits effective camouflage primarily through color blending. Its dark, rich brown coloration closely matches the dark, murky water and the decaying brown plant matter prevalent in the background. The wet, slightly glossy texture of its skin also helps it blend with the reflective water surface. Furthermore, the surrounding green and brown aquatic vegetation provides significant shape disruption, breaking up the frog's outline and making it harder to distinguish from the environment. The low contrast between the frog's dark body and the dark submerged background further enhances its concealment. While its texture is smoother than some of the surrounding elements, its color and placement within the chaotic vegetation contribute strongly to its ability to blend in."
+}

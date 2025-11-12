@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green Frog",
+  "background_description": "The frog is floating in dark, murky pond water with reflections on the surface. Several thin, green aquatic plant stems or reeds are visible in the foreground and background, partially obscuring the view. Submerged plant matter or debris is scattered across the dark water's surface beneath the frog.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A bright green and brown frog is clearly visible floating on the surface of dark water. Its distinct coloration, while natural for its habitat, creates a high contrast against the dark water, making it easily identifiable and confirming the absence of camouflage."
+}

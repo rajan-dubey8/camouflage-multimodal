@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background is tree bark, characterized by a highly textured, fissured, and irregular surface. It features varying shades of dark brown, reddish-brown, and greyish-brown, with prominent patches of pale green and yellowish-brown lichen growth. There are also lighter, almost white, speckles and areas that appear to be fungal or mineral deposits, contributing to a complex and varied pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly (moth, technically) exhibits excellent camouflage against the tree bark. Its wings are mottled in shades of dark grey and brown with lighter speckles, which perfectly match the varied colors, textures, and patterns of the fissured bark and the lichen growing on it. The irregular patterns on its wings blend seamlessly with the irregular patches of lichen and the natural crevices and rough surface of the bark, making its outline almost indistinguishable. The low contrast difference between the organism and its surroundings, combined with the high color and texture similarity, makes it very difficult to spot, demonstrating highly effective pattern matching and color blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Spotted Catbird",
+  "background_description": "The bird is standing on a dark, textured surface, possibly a moss-covered rock or ground with some dark mesh visible beneath its feet. The background behind the bird is a blurry, plain earthy brown or tan color, suggesting dry ground or dirt.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Spotted Catbird exhibits a clear disruptive pattern with numerous dark spots against its yellowish-cream underparts. This pattern helps to break up the bird's outline, making it harder for predators or prey to perceive its true form, especially when moving or positioned against a complex background like dappled sunlight in a forest. Additionally, its vibrant green wings provide color blending with lush foliage in its natural habitat. While the immediate background in the image is somewhat plain, the bird's coloration and patterning are evolutionary adaptations for camouflage within a natural, complex environment."
+}

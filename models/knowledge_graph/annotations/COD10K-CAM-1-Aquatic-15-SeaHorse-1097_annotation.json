@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a murky underwater environment featuring submerged, algae-covered branches or roots, interspersed with dense patches of various green and reddish aquatic plants and algae. The substrate is a mix of sand, mud, and detritus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse is exceptionally well camouflaged in this image. Its mottled brown and greenish coloration perfectly matches the tones of the algae-covered submerged branches and the surrounding aquatic vegetation. The seahorse's body texture, which appears bumpy and irregular, mimics the texture of the encrusted wood and the dense, frilly algae, further enhancing its concealment. The irregular, curled shape of the seahorse also helps to disrupt its outline against the similarly irregular shapes of the underwater environment, making it blend seamlessly rather than stand out with a distinct silhouette. The overall low contrast between the seahorse and its immediate surroundings makes it very difficult to spot at first glance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a dense cluster of dried, brittle twigs, stems, and small, withered leaves. A single reddish-orange flower is visible to the left. The background beyond this cluster is a soft, out-of-focus blur of muted green and brownish-green tones, suggesting distant foliage or ground.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly exhibits camouflage primarily through pattern matching and some color blending with its immediate environment. The pale yellow and cream sections of its wings show a medium color similarity with the dried, yellowish-brown parts of the twigs and withered leaves it is resting on. The bold black stripes, while creating high internal contrast, contribute to shape disruption by breaking up the continuous outline of the wings and visually integrating with the chaotic, irregular textures and shadows of the dense plant material. While the texture similarity is low and the butterfly would stand out against the blurry, uniform green background, its presence on the dried, complex plant structure allows its patterns to offer a degree of concealment, making it less conspicuous than it would be on a plain surface."
+}

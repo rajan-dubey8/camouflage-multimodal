@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird on tree stump",
+  "background_description": "The bird is perched on a dead, gnarled tree stump with rough, weathered bark and patches of light green lichen. Another similar dead tree trunk stands to the right, also exhibiting rough bark texture. The background behind the trees is a very bright, diffused light of an overcast sky.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits color blending camouflage through its dull brown and grey plumage which closely matches the earthy tones and mottled appearance of the dead tree stump it is perched upon, including the bark and lichen. This allows it to blend well with its immediate perch. However, the very bright, overcast sky behind the bird creates a strong silhouette, increasing its overall visibility from a distance and reducing the effectiveness of its camouflage against the broader environment, resulting in a moderate camouflage score."
+}

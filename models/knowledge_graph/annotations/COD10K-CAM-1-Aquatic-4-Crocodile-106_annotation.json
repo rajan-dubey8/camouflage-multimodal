@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of murky water, predominantly yellowish-brown in color, with significant reflections of green foliage (likely trees or bushes) and some brighter sky areas on the rippled surface. The water surface shows small disturbances and floating debris.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The crocodile's head is partially submerged in murky, yellowish-brown water with green reflections. Its dark, scaly skin provides a degree of color blending with the darker, muddier tones of the water and the shadowed areas of the reflected foliage. This natural coloration is a form of camouflage. However, its distinct rough texture and the overall contrast between its solid form and the broken, reflective water surface, especially against the brighter yellowish parts, prevent perfect concealment. While not perfectly hidden, its natural features and partial submergence contribute to a moderate level of camouflage rather than standing out completely."
+}

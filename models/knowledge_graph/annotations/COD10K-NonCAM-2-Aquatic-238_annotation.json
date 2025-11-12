@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "The background consists of a relatively uniform sandy or silty seabed, rendered in muted greenish-blue tones due to the water. There are subtle variations in the texture of the sediment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Lionfish, characterized by its distinctive reddish-brown and white stripes, and prominent, fan-like fins. Its vibrant patterns and complex shapes stand out distinctly against the plain, sandy seabed, confirming the absence of camouflage."
+}

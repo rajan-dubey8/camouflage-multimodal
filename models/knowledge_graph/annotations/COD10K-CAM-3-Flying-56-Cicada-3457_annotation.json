@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a thick, gnarled tree branch covered extensively with patches of light green and grayish-white lichen. The bark itself is dark brown to black, with a rough, textured surface. Below the branch, the background is out of focus, showing blurred tree canopy and hints of brighter sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Shadow hiding",
+  "explanation": "The Cicada is positioned on the underside of a dark, rough tree branch. Its dark brown body coloration closely matches the dark bark of the branch, allowing it to blend in effectively, especially in the shaded area. The rough texture of its body also offers some similarity to the bark's surface. While its distinct shape is somewhat visible, its overall color and placement on the darker underside of the branch reduce its contrast against the background, contributing to a good degree of camouflage."
+}

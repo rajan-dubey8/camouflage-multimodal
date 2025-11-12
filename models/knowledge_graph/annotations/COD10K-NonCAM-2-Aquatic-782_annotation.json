@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The background consists of a dense arrangement of long, wavy, cylindrical tentacles of a sea anemone. The tentacles are primarily pale greenish-blue or off-white, appearing soft and fleshy, and create a textured, somewhat uniform pattern.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The clownfish displays vibrant orange, black, and white coloration, which provides a stark contrast against the pale greenish-white tentacles of the sea anemone. Its distinct patterns and bright colors make it highly conspicuous rather than allowing it to blend into its environment. Clownfish are known for their symbiotic relationship with anemones for protection from predators due to their immunity to the anemone's sting, not for visual camouflage."
+}

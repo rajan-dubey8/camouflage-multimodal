@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is situated on the bark of a tree trunk. The bark is rugged, deeply fissured, and features a mix of dark brown, grey, and lighter whitish-grey patches, likely due to lichen or weathering. Green, feathery foliage (resembling juniper or cypress branches) is visible in the foreground and background, some in sharp focus and others blurred, suggesting a natural outdoor setting with dappled light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Mantis exhibits excellent camouflage against the tree bark. Its body coloration is a mottled grey with speckles of darker tones, almost perfectly matching the grey and lighter patches of the bark where it rests. The texture of its exoskeleton is rough and irregular, mimicking the fissured and granular surface of the bark, including areas that appear to be covered in lichen. This strong color and texture similarity, combined with the mantis's somewhat flattened and elongated shape, effectively breaks up its outline, making it incredibly difficult to distinguish from the surrounding tree trunk. The low contrast between the mantis and its immediate background contributes significantly to its successful concealment."
+}

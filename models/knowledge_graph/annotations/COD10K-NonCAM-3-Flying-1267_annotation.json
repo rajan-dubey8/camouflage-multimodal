@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Dark-eyed Junco",
+  "background_description": "The background consists of a prominent tree trunk with deeply ridged, rough bark in shades of grey, dark brown, and patches of lighter grey and white lichens. Several bare branches and a few dry, curled brown/orange leaves are also visible, suggesting an autumn or winter forest environment. The distant background is blurred, showing muted tones of trees and sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Dark-eyed Junco displays partial camouflage through color blending. Its dark slate-gray head and back provide a medium color similarity with the darker tones and shadows found within the rough, greyish-brown tree bark and branches. While its white belly creates a contrast, the overall muted color palette of the bird allows it to blend somewhat into the cool, subdued colors of its natural winter forest environment, especially when positioned against darker bark or in shaded areas. The texture of its smooth feathers, however, does not match the rough bark, resulting in low texture similarity."
+}

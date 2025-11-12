@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Dark-eyed Junco",
+  "background_description": "The background consists of dense, out-of-focus tree branches and foliage. The branches are brown, often covered with patches of light-colored lichen. There are numerous green leaves, some showing hints of yellow, indicating a deciduous tree or shrub. The distant background appears to be a bright, overcast sky, heavily blurred.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's plumage, featuring a dark grey/black head and upper chest with a pale tan/white belly, provides a degree of color blending within its natural woodland environment. Its darker upper parts can blend with shadowed areas of branches and foliage, while its lighter belly offers some visual continuity with brighter sky patches or dappled light. Although not perfectly matching any single background element, its muted, natural tones reduce its overall conspicuousness. The dense network of branches and leaves further aids its concealment by partially obscuring its outline, making it less immediately obvious."
+}

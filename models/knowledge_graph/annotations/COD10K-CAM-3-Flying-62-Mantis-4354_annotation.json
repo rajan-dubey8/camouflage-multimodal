@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists primarily of various green leaves. A large, prominent, vibrant green leaf with clear venation is in the foreground, under which the mantis is positioned. Other leaves are visible behind, some slightly out of focus, creating a dense, leafy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The Mantis exhibits excellent camouflage. Its body color is a vibrant green, almost perfectly matching the surrounding leaves, especially the large leaf it is clinging to. The elongated, slender form of its body and legs contributes to it blending in with the stems and petioles of the plant, a form of mimicry. While the actual texture of its exoskeleton differs from the leaf's venation, its overall shape and color reduce the visual contrast significantly, making it very difficult to spot at first glance. The mantis is positioned in a way that further integrates it into the plant's structure."
+}

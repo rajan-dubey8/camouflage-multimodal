@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater plant bed",
+  "background_description": "The image depicts a shallow body of water dominated by extensive, dense growths of golden-yellow to brownish-yellow submerged aquatic vegetation, likely algae or small plants. Darker patches of water or the bottom are visible beneath and between the plant masses. The texture is intricate and organic, with many fine, branching structures.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image. The scene exclusively shows an aquatic environment with dense submerged vegetation, therefore no camouflage is present for any organism. The contrast difference refers to the visual contrast present within the environmental elements themselves, primarily between the bright yellow vegetation and the darker water/subsurface."
+}

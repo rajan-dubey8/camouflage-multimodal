@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Dark bird on conifer branch",
+  "background_description": "The bird is perched on a branch of a golden-yellow conifer, likely a juniper or arborvitae, characterized by dense, feathery, scale-like foliage. The background behind and above the bird is a clear, bright light blue sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bird's dark, almost black plumage creates a strong visual contrast against both the vibrant yellowish-green foliage of the branch it is perched upon and the light blue sky in the background. There is no matching of colors or textures with the immediate environment, nor any disruptive patterning that would help it blend in. Consequently, the bird is easily visible and does not exhibit any form of camouflage."
+}

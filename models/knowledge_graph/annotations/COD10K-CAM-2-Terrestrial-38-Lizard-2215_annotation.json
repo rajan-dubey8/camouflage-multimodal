@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dry, arid terrain featuring reddish-brown and tan sandy soil mixed with numerous small, irregularly shaped pebbles and larger, rough-textured rocks of similar earth tones. There are also sparse, dry, greenish-brown blades of grass emerging from the soil.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard demonstrates excellent camouflage. Its body coloration, a sandy light brown/tan, almost perfectly matches the surrounding desert soil and rocks. Furthermore, its textured, spiky skin and horned head closely mimic the rough, pebbly texture of the ground and the rocky formations. The scattered, irregular spikes on its back break up its outline, making it difficult to distinguish its form from the surrounding small stones and debris. The overall effect is a highly effective blend of color, pattern, and shape with its arid environment, making it very hard to spot."
+}

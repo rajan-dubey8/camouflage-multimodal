@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists primarily of a large, prominent reddish-brown to bronze-colored leaf. This leaf has a distinct vein structure, a slightly textured or bumpy surface, and a few small perforations. To the left and in the more distant background, there is blurred, vibrant green foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The mantis demonstrates excellent camouflage by closely matching the reddish-brown/bronze coloration of the leaf it is resting upon. Its slender, elongated body and legs contribute to its concealment, as they mimic the appearance of a small twig or a part of the plant's structure. The low color and luminosity contrast between the mantis and the leaf makes it very difficult to spot at first glance, allowing it to blend seamlessly with its immediate environment."
+}

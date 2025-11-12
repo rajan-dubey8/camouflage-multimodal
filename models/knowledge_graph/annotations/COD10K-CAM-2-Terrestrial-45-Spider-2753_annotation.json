@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of the rough, irregular bark of a tree. It is mottled with various shades of gray, white, and green, indicative of lichen growth and weathered textures. The surface is uneven with cracks and protrusions, creating a complex visual pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider exhibits exceptional camouflage by perfectly matching the colors and textures of the tree bark and the lichen growing on it. Its body is irregularly shaped, resembling a knot or growth on the bark, which effectively disrupts its outline. The mottled gray and white coloration, along with its bumpy texture, blends seamlessly with the surrounding environment, making it incredibly difficult to distinguish from the tree itself. The contrast difference between the spider and its immediate background is very low, further enhancing its ability to disappear into the bark."
+}

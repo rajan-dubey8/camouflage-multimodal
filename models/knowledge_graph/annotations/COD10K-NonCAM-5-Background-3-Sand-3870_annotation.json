@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Clifftop mountain landscape",
+  "background_description": "The image captures a vast landscape dominated by a large flat-topped mountain or mesa with prominent, layered vertical cliffs. The top and sloping sides of the mountain are covered in lush green grass and vegetation, showing some natural fissures and pathways. The cliffs themselves are characterized by shades of grey and brown rock with visible horizontal stratification. In the background, a wide body of water (likely a lough or bay) stretches towards the horizon, bordered by distant, hazy landmasses with visible towns and agricultural fields. The sky above is clear blue with some wispy white clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural landscape, specifically a clifftop mountain with a bay and distant landforms. There are no visible organisms (animals, insects, or fish) present in the scene. Therefore, no assessment of camouflage for an organism can be made. As per the rules, if no organism is visible, camouflage presence is 'No Camouflage', the score is 0.0, and similarity metrics are 'none'."
+}

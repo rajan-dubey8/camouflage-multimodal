@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists primarily of a light pinkish-brown, branching coral structure with a porous, granular texture from its polyps. In the out-of-focus areas further back, there are hints of green algae or other submerged marine vegetation and blurry rock/reef structures, suggesting a coral reef or shallow marine environment with some particulate matter in the water.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image. Its body coloration, a mottled pattern of light brown, darker brown stripes, and small white spots, closely matches the earthy, pale pinkish-brown tones of the surrounding coral. The stripes and spots on its body help to break up its outline and blend with the porous, textured surface of the coral, preventing it from appearing as a solid, distinct object. Furthermore, its elongated, slender body shape allows it to align with the branching structures of the coral, mimicking its form and making it difficult to distinguish from the environment. The overall low contrast difference between the pipefish and the coral further enhances its ability to disappear visually within the habitat."
+}

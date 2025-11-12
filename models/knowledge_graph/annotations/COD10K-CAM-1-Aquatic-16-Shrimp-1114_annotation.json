@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The organism is situated within a dark, rocky burrow or crevice. The surrounding environment consists of dark sediment mixed with small pebbles, and patches of deep purple and reddish-orange organic growths, likely sponges or algae. The overall lighting is dim, emphasizing the shadows within the burrow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The organism, a Mantis Shrimp (referred to as Shrimp as per instructions), is not effectively camouflaged in this image. Despite being partially concealed within a dark burrow, its most prominent features, particularly the large, iridescent green eyes, bright orange antennae, and distinct body shape, create a strong visual contrast against the dark and textured background. The colors and textures of its visible parts do not blend with the surrounding sediment or organic growths, making it easily detectable. The primary factor hindering camouflage is the high contrast and unique coloration of its eyes and appendages."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky beach and ocean",
+  "background_description": "The scene depicts a coastal landscape with a clear blue sky and scattered white clouds overhead. A distant green forested coastline with rocky cliffs extends along the horizon, meeting a calm blue ocean. In the foreground, there is a sandy beach with numerous large, dark rocks heavily covered in various types of seaweed, ranging in color from dark brown to greenish-black. Gentle waves are visible near the shore.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural environment consisting of a beach, ocean, sky, and forested coastline. There are no visible organisms (animals, insects, or fish) present in the scene. Therefore, no camouflage is detected or applicable."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a complex underwater environment, likely a rocky reef or seabed. It features various textures and colors including dark reddish-brown, purplish, and greenish encrustations (possibly coralline algae, sponges, or hydroids) on rocks. There are also patches of brighter orange and yellow, resembling sponges or small pebbles, particularly on the lower right and bottom. Dark crevices and shadowed areas add to the visual complexity, creating a highly mottled and heterogeneous environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits exceptional camouflage, blending almost perfectly with its complex underwater environment. Its body displays a mottled pattern of reddish-browns, greens, and speckled white/orange patches that precisely match the colors and intricate textures of the surrounding encrusted rocks, algae, and sediment. The irregular shape and textured surface of the fish, with its bumps and protuberances, mimics the rough, organic contours of the substrate, effectively breaking up its outline. This combination of color blending, detailed pattern matching, and shape disruption makes the fish incredibly difficult to discern from the background, serving as a highly effective form of cryptic camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a rough, textured rock surface, likely a crevice or recess. It is characterized by varying shades of grey and brown rock, with prominent patches of vibrant green moss or lichen, and some lighter, almost white, textured areas. The surface appears uneven and earthy.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider exhibits excellent camouflage. Its abdomen features a mottled green and white pattern that perfectly mimics the patches of green lichen and lighter textures on the rock surface, achieving high color similarity. The cephalothorax and legs are a combination of brown and grey tones with dark banding and spiky hairs, blending seamlessly with the rough, irregular texture and darker hues of the surrounding rock. This intricate pattern matching, along with its position tucked into a natural crevice, effectively breaks up its outline and reduces contrast, making it extremely difficult to distinguish from its environment."
+}

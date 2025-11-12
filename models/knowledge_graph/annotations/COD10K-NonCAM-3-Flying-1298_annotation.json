@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The immediate background consists of dark brown, rough-textured tree branches and a tree trunk. In the foreground, there is a vibrant orange, partially eaten fruit (resembling a melon) with black seeds, on which the bird is feeding. The distant background is blurred with muted green and brown tones.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird's upper plumage (grayish-brown) shows some minor color blending with the dark brown tree branches it is perched on. However, its prominent and brightly colored orange-rufous underparts create a high contrast with the dark bark background, making the bird highly visible. Furthermore, the bird is actively feeding on a vibrant orange fruit, which, along with its distinct shape and contrasting colors, prevents any effective concealment through camouflage."
+}

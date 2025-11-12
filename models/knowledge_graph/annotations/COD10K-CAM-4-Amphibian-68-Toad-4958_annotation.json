@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of damp, dark brown soil, interspersed with vivid green blades of grass. Scattered throughout the scene are numerous long, segmented, reddish-brown organic structures, resembling dried catkins or similar plant detritus, creating a rich, textured ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The toad exhibits excellent camouflage in this environment. Its mottled skin coloration, a mix of earthy browns, greens, and yellows, perfectly matches the varying hues of the dark soil, green grass, and reddish-brown organic debris. The irregular, bumpy texture and patterns on its skin closely mimic the rough texture of the fallen plant matter and the uneven ground. The toad's low-lying posture also helps it blend into the shadows and contours of the ground, further disrupting its outline. The combination of color matching, pattern disruption, and integration with the environmental textures makes it very difficult to distinguish the toad from its surroundings."
+}

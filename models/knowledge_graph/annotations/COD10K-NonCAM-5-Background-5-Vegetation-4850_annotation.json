@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Prairie fire",
+  "background_description": "The background consists of dry, golden-brown grasses and shrubs on a prairie landscape. Sparse, bare trees are visible throughout the scene. The sky above is hazy with thick smoke, displaying shades of grey and yellow-brown, with some glimpses of light blue sky. A significant wildfire with bright orange and yellow flames is actively burning across the mid-ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a prairie grassland actively burning. While the main subject is the environment, a human figure wearing a bright yellow jacket is faintly visible in the mid-ground amidst the dry grass and smoke. This yellow attire contrasts sharply with the dominant colors of the scene (brown grass, grey smoke, orange flames) and does not blend with any environmental elements. The individual's clothing is designed for high visibility rather than concealment, thus no camouflage is present for the visible organism."
+}

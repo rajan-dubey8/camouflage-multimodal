@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Teal duck",
+  "background_description": "The background consists of dark, uneven rocks, heavily covered in green and dark green moss and lichen. Some areas of the rock are darker, almost black, while others show hints of grey. The texture is rough and irregular, creating a mottled, speckled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The teal duck's plumage features a mottled pattern of light brown, grey, and dark brown spots and streaks. This coloration and pattern highly resemble the irregular textures and varying shades of green, grey, and dark moss-covered rocks in the background. The disruptive patterning on its feathers helps break up its outline, making it blend seamlessly with the uneven, textured rocky environment. This strong visual similarity in both color and texture makes the bird difficult to distinguish from its surroundings, indicating effective camouflage."
+}

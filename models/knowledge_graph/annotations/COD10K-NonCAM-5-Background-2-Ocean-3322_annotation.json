@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Octopus",
+  "background_description": "An underwater scene dominated by a vibrant coral reef. The foreground features large, complex brain coral structures with intricate ridges and valleys in shades of beige, light brown, and cream. Branching gorgonian corals, yellowish-brown in color, extend upwards and outwards. The background shows more diffuse coral structures and the clear blue-green ocean water, with some light penetrating from above. The overall environment is rocky and textured.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "An octopus is expertly camouflaged within the coral reef. Its skin coloration perfectly matches the light brown and beige tones of the surrounding brain coral, exhibiting high color similarity. Furthermore, the octopus has adapted its skin texture to mimic the bumpy, ridged, and intricate patterns of the coral, demonstrating high texture similarity. The octopus's body contours are also integrated with the irregular shapes of the coral, making its outline extremely difficult to discern. This combined use of color blending and texture/shape mimicry results in a very low contrast difference with its environment, making it nearly invisible and a prime example of effective camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background is a sandy beach surface, composed of numerous fine to coarse sand grains. The sand exhibits a varied palette of colors including light beige, off-white, light brown, dark grey, and hints of orange/reddish hues. There is a small, dark burrow entrance in the sand to the right of the crab, indicating a potential hiding spot or home.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The crab exhibits excellent camouflage primarily through color blending and pattern matching. Its carapace and legs are a mottled mix of light beige, white, and reddish-brown speckles, which almost perfectly mimic the diverse color palette and granular texture of the surrounding sand. The translucent nature of its thin legs also aids in shape disruption, making its outline less distinct and harder to perceive against the background. While the crab's overall form is still discernible upon close inspection, its color and texture integration with the environment are remarkably effective at reducing its detectability."
+}

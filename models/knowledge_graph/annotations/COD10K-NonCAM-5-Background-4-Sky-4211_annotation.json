@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky and foliage",
+  "background_description": "The image features a clear blue sky with sparse, wispy white clouds scattered across it. Framing the sky are branches from trees adorned with a mix of green and yellowish-green leaves. A portion of a light-colored building structure is visible on the right side.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an environmental scene comprising a cloudy blue sky, tree foliage, and a section of a building. There are no visible organisms such as animals, insects, or fish present that could exhibit camouflage, therefore no camouflage is detected."
+}

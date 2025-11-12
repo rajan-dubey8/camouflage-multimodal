@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background features a bright blue sky with sparse white clouds. In the midground, there are numerous dark tree branches with sparse green leaves. The Mockingbird is perched on a tall, slender metal pole, which has a distinct turquoise/green patina. A large, dark, green-patinated metal sculpture (possibly an animal head) is also visible in the lower left foreground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird is clearly visible, perched on a turquoise-patinated metal pole, silhouetted against a bright blue sky. Its grey-brown plumage offers very low color similarity to the blue sky, green leaves, or the distinct turquoise of the pole. There is no texture matching, pattern matching, or shape disruption that would allow it to blend into this environment. The bird stands out visually due to its contrasting color and distinct form against the smooth pole and bright sky, making it easily detectable."
+}

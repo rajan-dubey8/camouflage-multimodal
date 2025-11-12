@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists primarily of a lime-green painted surface or wall, exhibiting some light reflections and subtle textures. Interspersed throughout are numerous green leaves, varying slightly in shade and form, and several dark brown, textured branches and vines, some of which are out of focus in the foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The chameleon exhibits effective camouflage through strong color blending. Its vibrant green coloration is nearly identical to the surrounding green leaves and the dominant green hue of the background wall. This high color similarity makes the organism blend seamlessly into its environment, especially amongst the foliage. While its distinct shape and eye are discernible upon closer inspection, the overall effect is one of a well-hidden animal, relying on its green pigment to merge with the leafy and green-painted setting."
+}

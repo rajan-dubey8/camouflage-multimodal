@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background is a vibrant underwater reef scene consisting of rough, mottled dark brown and grey rocks, interspersed with various corals and sponges. There is a prominent bright yellow, textured sponge or coral formation at the top, a duller greenish textured coral below it, and a branching reddish-brown coral at the bottom left. The overall environment is rich in texture and varied in color, with areas of red, green, yellow, and various shades of grey and brown.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Pipefish in this image is a distinct bright orange color, which creates high contrast against the predominantly darker and more textured reef environment. Its smooth, elongated body does not match the rough and irregular textures of the surrounding rocks and corals. Although there are some yellow and reddish elements in the background, the Pipefish's vibrant orange does not effectively blend with any significant portion of the environment, making it clearly visible to a keen observer."
+}

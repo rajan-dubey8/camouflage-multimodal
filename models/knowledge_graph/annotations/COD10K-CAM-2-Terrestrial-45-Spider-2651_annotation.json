@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of granular, sandy soil mixed with small pebbles and fragments of organic matter. The dominant colors of the ground are various shades of orange, reddish-brown, tan, and light yellow, interspersed with darker specks of black and grey. Some dried twigs and what appear to be pine needles are scattered, along with a prominent vibrant green blade of grass in the lower right foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider exhibits effective camouflage against the sandy, pebbly ground. Its body coloration, featuring mottled reddish-browns, tans, and light creams, closely matches the diverse color palette of the soil, pebbles, and dried organic matter. The patterns on its abdomen (mottling) and cephalothorax (stripes) help to break up its outline and mimic the visual texture of the ground, making it difficult to distinguish from the surrounding environment. The overall low contrast difference between the spider and its immediate surroundings further enhances its concealment. While its texture is not identical to the granular sand, the combination of color and pattern provides a strong blending effect."
+}

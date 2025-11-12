@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dark, murky water, appearing somewhat stagnant with various particles and debris floating on or submerged within it. The water surface has a slightly reflective and disturbed texture, with visible specks of lighter material and blurred shapes beneath the surface. A distinct, elongated piece of light-colored debris is visible floating near the toad to the right.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad demonstrates effective camouflage, primarily through color blending and pattern matching. Its dark gray body tones closely match the murky color of the water, leading to high color similarity. While its skin has a slightly rougher texture compared to the water, the presence of numerous small particles and debris on the water's surface helps to create a similar visual 'noise,' contributing to a medium texture similarity. The patterns on its head, including the lighter central stripe and speckled sides, subtly break up its outline, making it less distinct against the irregular backdrop of the water and floating debris. Although its eyes and the lighter stripe provide some contrast, they are not pronounced enough to make the toad stand out sharply, resulting in a medium contrast difference. The limited visible portion of its head further aids in its concealment within this aquatic environment."
+}

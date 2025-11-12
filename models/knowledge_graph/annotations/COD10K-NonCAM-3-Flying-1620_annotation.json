@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull",
+  "background_description": "The foreground consists of a light grey, somewhat textured stone wall or path. Behind the bird, there is vibrant green grass and some darker green foliage from trees or shrubs. In the far background, a wide expanse of deep blue sea under a bright sky is visible. A dark tree trunk is partially visible on the left.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The seagull's distinct white and grey plumage, bright yellow beak, and orange feet stand out prominently against the varied background of light grey stone, green grass, and deep blue sea. Its colors and textures do not blend with any element of its immediate surroundings, making it highly conspicuous. There is no attempt at color matching, disruptive patterning, or mimicry that would suggest camouflage."
+}

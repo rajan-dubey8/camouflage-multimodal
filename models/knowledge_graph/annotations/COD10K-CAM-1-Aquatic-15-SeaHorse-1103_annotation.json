@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a complex underwater reef environment. It features various marine growths including branching blue/purple sponge-like structures, a large porous reddish-brown sponge, and a mottled rocky or coralline substrate covered with algae and smaller encrusting organisms. The overall texture is highly irregular and varied, with colors ranging from dark greens and browns to blues, purples, and light beige/orange.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse in this image displays excellent camouflage. Its body coloration, a mix of off-white, light beige, and mottled darker spots, closely matches the surrounding coral, sponges, and rocky substrate. The rough, bumpy texture of its skin effectively mimics the irregular surfaces and growths of the reef, helping to break up its outline and integrate it into the environment. The seahorse is positioned next to a porous reddish-brown sponge and branching blue structures, further aiding in shape disruption. The low contrast between the seahorse and its immediate surroundings makes it very difficult to distinguish at first glance, indicating successful color blending and pattern matching with its habitat."
+}

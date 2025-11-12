@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "American Robin",
+  "background_description": "The background consists of damp, dark brown soil with scattered leaf litter, small twigs, and some sparse green sprouts. The ground texture is irregular and uneven, characteristic of a forest floor or garden bed.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The American Robin is not camouflaged in this environment. Its vibrant orange breast creates a stark and high contrast against the dark brown soil and muted background elements, making it highly conspicuous. While its gray back feathers might blend somewhat with certain background tones, the overall effect of its plumage, particularly the bright orange, prevents effective concealment. The bird's smooth feathery texture also differs significantly from the rough, granular texture of the ground."
+}

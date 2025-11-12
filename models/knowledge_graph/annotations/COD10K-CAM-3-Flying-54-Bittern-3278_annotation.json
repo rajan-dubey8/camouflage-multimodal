@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of an uneven terrain covered with various sizes of rocks and boulders. The rocks display a mottled texture with shades of grey, brown, and black, some covered with patches of light green lichen. Sparse, dry brown grasses and small green plants grow between the rocks, adding to the varied texture. The overall environment suggests a rugged, possibly mountainous or tundra-like landscape.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage in this image. Its plumage is a complex pattern of speckled white, light grey, dark grey, and brown, which almost perfectly matches the colors and textures of the rocky, lichen-covered, and sparsely vegetated environment. The disruptive coloration on its feathers breaks up the bird's outline, making it very difficult to discern its distinct shape against the irregular background. The varied tones in its feathers mimic the shadows and highlights on the rocks, reducing overall contrast and allowing it to blend seamlessly with the natural surroundings. This combination of color blending, pattern matching, and shape disruption makes the bird extremely well-hidden."
+}

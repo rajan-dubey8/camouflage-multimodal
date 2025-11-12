@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Raccoon",
+  "background_description": "The background consists of uniformly bright green grass, slightly out of focus, creating a soft, verdant backdrop. The grass appears well-maintained, suggesting a lawn or meadow-like environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The raccoon's grey and black fur, prominent black facial mask, and banded tail create a high contrast against the bright green grass background. There is no significant color blending or texture matching between the animal's fur and the surrounding environment. While raccoons possess markings that might aid in disruptive patterning in more complex, shadowed, or varied natural settings (like forests or urban clutter), in this open, uniformly green grassy environment, the raccoon stands out clearly and is not camouflaged."
+}

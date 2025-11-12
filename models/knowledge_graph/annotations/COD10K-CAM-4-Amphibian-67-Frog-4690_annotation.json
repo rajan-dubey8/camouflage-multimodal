@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dark, murky water with reflections of tall, slender green and brown aquatic plant stems. Several small, oval-shaped leaves, some pale green and some dry brown, are floating on the water's surface. Faint submerged aquatic vegetation is also visible beneath the surface.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits camouflage primarily through color blending. Its green and yellowish-green skin tone offers a moderate match to the green plant stems reflecting in the water and some of the pale green floating leaves. While the murky water itself is a darker, desaturated background, the frog's position amongst the vegetation helps break up its outline. However, its distinct shape, bright eyes, and the reflective sheen on its wet skin create a moderate contrast, making it discernible upon closer inspection. It is not perfectly hidden, but its coloration is suitable for its aquatic environment among plants."
+}

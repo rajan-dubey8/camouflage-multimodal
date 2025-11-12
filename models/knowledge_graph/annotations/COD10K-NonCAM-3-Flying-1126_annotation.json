@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is resting on a broad, light green leaf with a visible central vein. The immediate background is slightly blurred green foliage, while the further background is a soft, out-of-focus expanse of vibrant green, suggesting a dense vegetated environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's wings are predominantly dark (black/dark brown) with prominent, sharply defined white and iridescent blue patches. These colors and bold patterns stand in stark contrast against the uniform green of the leaf it's resting on and the lush green foliage in the background. There is no resemblance in color, pattern, or texture to the surrounding environment, making the butterfly highly visible rather than camouflaged. Its appearance is conspicuous."
+}

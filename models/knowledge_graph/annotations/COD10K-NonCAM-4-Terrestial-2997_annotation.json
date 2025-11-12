@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Moose",
+  "background_description": "The background consists of a bright, sunlit field of green and yellowish-brown tall grasses, which appear somewhat blurred. The texture is soft and natural, with varying shades of green, yellow, and brown from the dried stalks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The moose's dark brown fur contrasts significantly with the predominantly bright green and yellowish-brown grassy background. While a moose's coloration might offer some blending in a dense, dark forest or against soil and tree bark, in this bright, open grassy field, its large, dark form stands out. There is low similarity in both color and texture between the animal and its immediate surroundings, resulting in a high contrast difference."
+}

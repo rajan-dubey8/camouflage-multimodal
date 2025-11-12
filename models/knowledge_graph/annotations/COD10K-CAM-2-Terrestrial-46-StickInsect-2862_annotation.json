@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "StickInsect",
+  "background_description": "The background consists primarily of large, vibrant green leaves with prominent veins, some of which are in focus, and others are slightly blurred. Beyond the immediate leaves, there are more blurry green foliage and bright, overexposed areas suggesting direct sunlight or clear sky filtering through the canopy, creating a natural, leafy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The StickInsect demonstrates effective camouflage by blending remarkably well with its leafy environment. Its primary body color is a bright green, almost perfectly matching the hue of the large leaf it rests upon. The elongated, slender body shape and thin legs allow it to mimic the stems or veins of the plant, contributing to shape disruption. While the insect has a subtle darker stripe running along its back and its antennae are distinctly striped black and white, and the tip of its abdomen is a contrasting reddish-orange, these details do not significantly disrupt the overall illusion of being part of the plant when viewed from a distance. The high color similarity and form factor make it difficult to distinguish from the foliage at a glance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with clouds and tree foliage",
+  "background_description": "The image displays a clear blue sky with scattered wispy white cirrus clouds stretching across the frame. From the left and bottom edges, lush green foliage and branches of several trees frame the view, with a denser canopy visible towards the lower middle and right.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an outdoor environment, specifically a blue sky with clouds and tree foliage. No organisms (animals, insects, or fish) are visible within the frame, therefore, no camouflage is present or applicable."
+}

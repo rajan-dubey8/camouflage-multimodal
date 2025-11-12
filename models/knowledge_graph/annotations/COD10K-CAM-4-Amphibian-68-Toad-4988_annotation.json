@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dark, reflective water in the foreground, with a large, damp wooden log or root structure above it. The log shows mottled textures with shades of brown and greenish-grey, indicative of wet bark or moss. Small pieces of floating debris, likely leaves, are present in the water around the toad. The overall environment is dim, with some dappled light reflecting off the water and wet surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The toad exhibits effective camouflage through a combination of color blending, pattern matching, and shadow hiding. Its mottled brown and greenish-grey skin coloration closely matches the damp, textured wood of the log and the dark, murky water it is submerged in. The bumpy texture of its skin also harmonizes with the rough bark and the irregular surface of the water. The toad's position partially submerged under the log leverages shadow hiding, further obscuring its form. While its eyes are somewhat distinct, the overall body shape is disrupted by the water line and surrounding natural elements, making it difficult to distinguish from the environment at first glance."
+}

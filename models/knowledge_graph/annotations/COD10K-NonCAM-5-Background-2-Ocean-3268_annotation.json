@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean beach",
+  "background_description": "The scene depicts a tranquil ocean beach at what appears to be dawn or dusk. The sky is a gradient of soft, pale blues and light pinks/purples, transitioning into a light grey-blue horizon. The ocean water is a muted grey-blue with gentle waves, some forming white foam as they break near the sandy shore. The foreground consists of damp, light brown sand with the foamy edge of the water receding.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environment consisting of an ocean, sky, and sandy beach. No organisms (animals, insects, or fish) are visible in the scene that could exhibit camouflage."
+}

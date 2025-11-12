@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a complex underwater environment. It features various types of marine flora, including tall green seagrass-like plants, dense clumps of dark red algae, and brownish-green branching algae, all growing on and around irregular, rough-textured rocks. The rocks themselves are mottled with shades of light tan, brown, and grey. There is also some sandy or gravelly substrate visible, and the water is clear.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The seahorses in the image exhibit effective camouflage. Their bodies are mottled with shades of tan, brown, and grey, which closely match the colors of the surrounding rocks and various types of algae (red, brown, green). The rough and textured surface of the seahorses further enhances this blending by mimicking the irregular textures of the rocks and dense marine plant life. The patterns on their skin also contribute to shape disruption, breaking up their distinctive outline and making them less conspicuous against the busy, multi-textured background. This combination of color matching, texture mimicry, and pattern disruption significantly reduces their visibility, allowing them to blend well into their environment."
+}

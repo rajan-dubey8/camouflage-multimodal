@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Emperor Angelfish",
+  "background_description": "The background consists of a blurry, mottled aquatic environment with dark brown and greenish hues, possibly indicating rocks, coral, or substrate. There are some faint, out-of-focus lighter areas and possibly suspended particles in the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The Emperor Angelfish is brightly colored with vibrant blue and yellow stripes, a yellow tail fin, and a distinct light blue/white head with dark markings. It stands out significantly against the dark, blurry background, indicating no camouflage."
+}

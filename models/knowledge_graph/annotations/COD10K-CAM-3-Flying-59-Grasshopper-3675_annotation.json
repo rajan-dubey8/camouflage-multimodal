@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a blueberry bush branch with numerous light green, developing blueberries, some small white flowers, and scattered dried-up brown floral remnants. The deeper background is a soft-focus blur of green foliage and some brighter highlights.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The small dark brown grasshopper is subtly camouflaged against the blueberry bush. While the overall plant is predominantly green with white flowers, the grasshopper's dark brown and mottled coloration closely matches the dried-up brown floral remnants present on the branch. Its small size and position amidst the clustered berries, stems, and dried elements also contribute to its blending, making it difficult to spot initially. The contrast is not stark due to the presence of similarly colored natural debris, allowing for effective color blending in specific areas of the plant."
+}

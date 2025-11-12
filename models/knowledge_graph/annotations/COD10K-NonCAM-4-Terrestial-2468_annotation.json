@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background consists of a natural savanna-like environment. The immediate foreground is covered in sparse green grass. Further back, there are numerous trees and bushes with varied foliage, some appearing dense with small green leaves, others with more bare, dark branches. The ground beyond the immediate grass appears to have drier, lighter-colored vegetation and soil. The sky is overcast and light gray/white. The overall color palette includes greens, browns, grays, and tans.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The giraffe exhibits camouflage through its disruptive pattern of irregular brown and tan patches. This pattern helps to break up its large body outline, making it less distinguishable against the varied textures and dappled light of its natural savanna habitat, which includes trees, shrubs, and dry grasses. The color palette of its coat (browns and tans) also blends effectively with the dried vegetation and tree trunks in the background, providing good color similarity despite the presence of green grass in the immediate foreground. The combination of color blending and disruptive patterns makes it harder for predators to pick out the giraffe, especially when standing amongst trees or in varying light conditions."
+}

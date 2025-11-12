@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a shallow, murky green-brown pond in the foreground, bordered by a sandy bank with small rocks, dried tree branches, and stumps. In the mid-ground and background, there is dense, vibrant green foliage and trees, with some areas appearing darker due to shadows or dense canopy. Several other birds and nests are also visible on the bank and in the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Heron, with its light grey plumage, is positioned on a light sandy bank. While its color bears some minimal resemblance to the pale sand and light-colored deadwood branches in its immediate vicinity, it creates a stark contrast against the predominant dark green foliage of the background and the murky green-brown water. The bird's distinct silhouette and upright posture are easily discernible, and there are no patterns or textures on its body that effectively blend it with the surrounding complex environment. As a result, the Heron stands out clearly rather than blending in."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a vibrant green plant stem upon which the grasshopper is perched. Surrounding this stem are broad, long leaves, primarily green with distinct white or cream-colored vertical stripes. The background elements are mostly out of focus, creating a soft, blurred effect of green and white foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The grasshopper, which appears to be brown or tan, is positioned on a vibrant green plant stem. The surrounding leaves also feature bright green and distinct white stripes. This significant color difference between the grasshopper's body and its immediate green and white environment causes it to stand out clearly. Despite the elongated shape that could potentially aid in blending with stems, its contrasting coloration makes it easily discernible. There is also a noticeable contrast in texture between the grasshopper's segmented body and the smoother plant surfaces."
+}

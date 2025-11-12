@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "House Sparrow",
+  "background_description": "The bird is perched on a dark grey, slightly worn metallic rain gutter. Above the gutter, the background is a clear, uniform light blue sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": "0.0",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The House Sparrow is clearly visible against the dark grey metallic gutter and the bright blue sky. Its brown, white, and grey plumage does not match the color or texture of either background element, creating a high contrast that makes the bird easily detectable. Therefore, it is not camouflaged in this environment."
+}

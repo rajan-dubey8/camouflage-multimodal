@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a finely textured beach or shoreline environment, densely covered with a mix of small, varied pebbles, sand grains, and shell fragments. The colors of the substrate range from white, light beige, and tan to various shades of brown and dark grey/black, creating a granular and highly mottled pattern. A larger, out-of-focus light brown conical shell is visible in the upper background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab demonstrates exceptional camouflage, primarily through pattern matching and color blending. Its carapace and legs are covered in a highly irregular, speckled pattern of white, light grey, and dark brown/black. This pattern precisely mimics the visual characteristics of the surrounding substrate, which is a mix of multicolored sand, pebbles, and shell fragments. The high degree of color and texture similarity, combined with the low contrast difference, makes the crab's outline and form very difficult to discern from its environment, allowing it to blend almost seamlessly into the background."
+}

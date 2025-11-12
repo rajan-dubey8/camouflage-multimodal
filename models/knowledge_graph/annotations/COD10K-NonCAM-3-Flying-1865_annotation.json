@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red-breasted Merganser",
+  "background_description": "Calm, rippling water with a muted grey-blue/green color, reflecting the light from an overcast sky. The water surface shows subtle dark lines from the ripples.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Red-breasted Merganser swimming on water. The bird's dark grey-brown body and reddish-brown head with its prominent crest and distinct shape create a noticeable contrast against the lighter grey-blue/green water. While the overall tones are muted, there is no significant color or texture matching between the bird and its watery background that would suggest effective camouflage. The bird is clearly visible and does not appear to be attempting to blend into its environment."
+}

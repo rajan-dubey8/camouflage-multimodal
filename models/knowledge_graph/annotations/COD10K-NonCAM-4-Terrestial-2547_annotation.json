@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras",
+  "background_description": "The background consists primarily of dry, light brown/tan sandy or dirt ground, interspersed with large dark grey/black rocks. Some sparse green vegetation is visible near the rocks. The scene is brightly lit with areas of direct sunlight and distinct shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The zebras, with their distinct black and white stripes, stand out prominently against the light brown, sandy ground and dark rocks. There is minimal color or texture similarity between the zebras and their immediate environment. The high contrast of their stripes makes them easily discernible, indicating a lack of effective visual camouflage in this specific bright, open setting. While zebra stripes may serve other biological functions like disruptive coloration in herds or against biting flies, they do not provide concealment here."
+}

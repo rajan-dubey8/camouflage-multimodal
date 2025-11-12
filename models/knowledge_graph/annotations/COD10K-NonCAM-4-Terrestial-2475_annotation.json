@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The squirrel is perched on a dark, weathered tree stump or log. The wood has deep, natural grooves and appears somewhat moist, with patches of vibrant green moss growing on its surface. The background behind the stump is softly blurred, displaying muted tones of green, grey, and brown, typical of an overcast forest or woodland setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel exhibits camouflage primarily through color blending. Its grey-brown fur, with hints of reddish-brown on the tail and face, closely matches the natural tones of the dark tree bark and the muted greens and browns of the woodland environment. This coloration provides low contrast against its surroundings, allowing it to blend effectively into the natural environment, especially when stationary or partially obscured. While clearly visible in this focused image, its natural pelage is adapted for concealment within its habitat."
+}

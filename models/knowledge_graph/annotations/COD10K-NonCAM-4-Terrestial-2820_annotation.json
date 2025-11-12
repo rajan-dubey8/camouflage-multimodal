@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Polar bear",
+  "background_description": "The background consists of a large, rough, grey rock formation, likely part of a zoo enclosure. The rocks display various shades of grey, from light to dark, with visible textures and some cracks. There are hints of green moss growing on the lower rock surfaces where the bear is standing. The lighting is somewhat diffused, creating subtle shadows and highlights on the rock surfaces.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a polar bear, an animal known for its white fur, which typically provides excellent camouflage in snowy and icy Arctic environments. However, in this specific image, the polar bear is positioned against a backdrop of dark grey rocks. Its light-colored fur stands out significantly against the darker, rough texture of the rocks, creating a high contrast difference. There is low color similarity between the bear's creamy-white fur and the grey rocks, and low texture similarity between its dense fur and the hard, uneven rock surface. Therefore, in this current environment, the polar bear is not camouflaged and is highly visible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Domestic cats",
+  "background_description": "The background consists of dense green foliage, including various types of grasses and leafy plants in the foreground, transitioning to taller, drier golden-brown reeds and some exposed gravelly earth in the upper mid-ground. The textures are a mix of fine blades of grass, broader leaves, and slender, rigid stalks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "Two domestic cats are visible in a natural setting of green grass and dry reeds. Their predominantly white and black fur creates a strong color and luminance contrast against the green foliage and golden-brown dry grass, making them highly visible. There is no indication of color blending, disruptive patterns, or mimicry that would aid in concealing them within this environment. The cats stand out clearly."
+}

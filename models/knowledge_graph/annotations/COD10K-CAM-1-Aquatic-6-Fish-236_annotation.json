@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of dry, cracked, light brown to tan soil in the foreground, transitioning to a calm body of water in the mid-ground. Sparse, desaturated green and brown vegetation grows along the water's edge. In the far background, palm trees are silhouetted against a hazy, light blue sky, indicating an arid or semi-arid environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The dried fish is remarkably camouflaged against the arid, cracked ground. Its desaturated, light brown and grey scales perfectly match the color palette of the sandy/muddy soil. While the fish maintains its distinct shape, its texture, created by the dried scales, blends effectively with the rough, granular surface of the ground, further reducing its visibility. The overall low contrast between the fish and its surroundings makes it difficult to distinguish at a glance, despite being out of its natural aquatic environment. This blending is an outcome of its dried state matching the environment, rather than an active biological camouflage for a living organism."
+}

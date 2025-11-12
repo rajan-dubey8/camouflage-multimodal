@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists primarily of a body of water, likely a shallow pond or marsh, with a muted gray-blue color reflecting the sky. The water surface shows subtle ripples and some indistinct reflections. Sparse aquatic vegetation, including thin grass-like plants and floating organic debris, is visible in various parts of the water, particularly along the edges and in the deeper background, adding shades of muted green and brown.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Great Blue Heron exhibits color blending camouflage. Its predominantly gray, brownish-gray, and whitish plumage helps it blend with the muted tones of its wetland environment. The subtle grays of its feathers harmonize with the gray-blue water and sky reflections, while the brownish tones can blend with the sparse aquatic vegetation and muddy banks typical of its habitat. Although the heron is a large bird and is clearly visible in this image due to its active posture and the presence of the snake, its natural coloration is intrinsically designed to reduce its contrast and visual prominence against its background, making it less conspicuous to both prey and predators in its natural marshy environment. The contrast is not stark, and the overall color palette of the bird aligns well with the muted natural colors around it."
+}

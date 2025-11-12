@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of natural green foliage, including broad leaves and small green buds. There are also distinct small yellow flowers or flower buds visible beneath and around the butterfly, indicating a vibrant garden or natural outdoor environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly features a striking pattern of black wings with bright white and light blue spots and streaks. This distinct coloration creates a high contrast against the surrounding green leaves and yellow flowers. There is no visible attempt at color matching or texture blending with the background. The butterfly's pattern makes it highly visible in this environment, rather than allowing it to blend in, thus indicating the absence of camouflage for concealment. While the pattern could serve other purposes like warning coloration or disruptive display, it does not provide concealment in this scene."
+}

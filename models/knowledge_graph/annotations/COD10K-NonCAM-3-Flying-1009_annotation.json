@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wood Stork",
+  "background_description": "The background consists of a ground covered densely with reddish-brown pine needles and patches of green grass, with several small rocks scattered. Behind the bird, there is a dense thicket of thin, dry, brown branches and some green foliage, likely from shrubs or trees, all bathed in warm, golden light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Wood Stork's bright white plumage creates a stark contrast against the dark, earthy, and warm-toned background, which is composed of reddish-brown pine needles, dry branches, and green vegetation. Its distinct form is clearly visible and is not broken up by any patterns or colors that would blend it into the environment. Neither its color nor its texture matches the surrounding elements, resulting in a very high contrast difference and no observable camouflage."
+}

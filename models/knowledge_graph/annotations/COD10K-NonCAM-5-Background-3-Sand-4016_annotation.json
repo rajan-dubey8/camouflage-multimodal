@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach with ocean waves",
+  "background_description": "The background consists of a clear blue sky transitioning to a lighter hue near the horizon, a deep blue ocean with white breaking waves crashing onto a sandy beach. Distant rocky islands or a coastline with sparse dark vegetation are visible in the mid-ground. The sand on the beach shows texture from wind patterns and small scattered clumps of debris.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, fish, etc.) is visible in the image. The image purely depicts a natural environment consisting of a sandy beach, ocean, sky, and distant landmasses. Therefore, camouflage is not present."
+}

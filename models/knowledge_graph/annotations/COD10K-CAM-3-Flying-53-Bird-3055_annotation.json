@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of dark, murky water heavily covered with numerous white and light grey foam bubbles. The water surface is highly textured and irregular, creating a chaotic and mottled pattern across the entire frame. The overall color palette is dominated by dark grey, blue-grey, and white.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits effective camouflage primarily through color blending. Its grey plumage closely matches the dark, frothy water and its lighter areas (head, neck streaks) blend with the white foam. While the bird's distinct shape is still somewhat discernible, the highly textured and busy background of water and bubbles helps to disrupt its outline and internal patterns. The streaky patterns on the bird's feathers, especially on its back and neck, offer a moderate degree of pattern matching with the chaotic, mottled appearance of the water's surface, preventing it from standing out sharply. The overall effect is that the bird blends into its environment rather than being immediately obvious."
+}

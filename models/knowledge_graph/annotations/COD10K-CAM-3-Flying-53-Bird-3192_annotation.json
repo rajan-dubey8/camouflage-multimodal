@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of a large, weathered, dead tree trunk and branches with rough, fissured, and peeling bark. The bark displays various shades of gray, brown, and hints of lighter, faded tones. Behind and between the branches, a clear, light blue sky is visible, creating a contrasting backdrop in some areas.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits excellent camouflage against the dead tree it is perched on. Its plumage, a mix of mottled browns, grays, and whites, very closely matches the color palette of the weathered, fissured bark. The irregular patterns on its feathers, particularly on its chest and head, mimic the rough texture and patchy appearance of the tree trunk, effectively breaking up its outline (shape disruption). While some parts of the bird are silhouetted against the clear blue sky, reducing the overall camouflage effect in those specific areas, the primary intention of its coloration appears to be blending with the tree. The color and texture similarity between the bird and the bark are high, resulting in a low contrast difference when viewed against the tree itself."
+}

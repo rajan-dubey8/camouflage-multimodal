@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rat",
+  "background_description": "The rat is resting on a dark, weathered wooden surface with visible grain and texture. The background behind the rat is significantly blurred, displaying soft, muted tones of grey, brown, and hints of dull green, suggesting an outdoor, possibly urban or natural, environment like soil, distant foliage, or obscured structures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The rat exhibits effective color blending camouflage. Its brownish-grey fur closely matches the dark, muted tones of the weathered wooden surface it is perched on and the blurred, earthy-toned background. The texture of its fur also generally aligns with the rough, non-uniform textures found in its natural or urban environment, helping it to disappear into the surroundings and reduce its visibility to predators."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of murky, dark green water densely covered with various aquatic plants. There are fine, wispy submerged plants, small, bright green to yellowish floating leaves (resembling duckweed), and some reddish-brown submerged stems and roots. The water surface shows dappled sunlight and reflections, creating a complex and textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.78,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits effective camouflage primarily through color blending with its aquatic environment. Its green skin tones closely match the vibrant green and darker green hues of the floating and submerged vegetation. The frog's textured skin also blends well with the 'busy' and varied textures of the surrounding plants, which helps to break up its outline. While its prominent eyes are somewhat visible, the overall effect is one of blending seamlessly into the complex coloration and structural elements of the pond, making it quite difficult to spot without close inspection."
+}

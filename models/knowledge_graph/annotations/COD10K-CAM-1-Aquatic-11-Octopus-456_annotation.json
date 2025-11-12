@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a dark, rocky crevice or cave entrance, densely covered with various types of marine algae and detritus. The textures include rough rock surfaces, fine sand or sediment, and numerous branching and leafy algal structures in shades of brown, reddish-brown, and dull green. The environment appears dim, typical of an underwater, possibly shaded or deeper, rocky habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The octopus exhibits excellent camouflage, blending remarkably well with its marine environment. Its skin displays a mottled pattern of browns, whites, and reddish tones that precisely match the colors of the surrounding algae-covered rocks and detritus. Furthermore, the octopus's skin texture appears highly rugose and bumpy, mimicking the rough, uneven surfaces and the various forms of marine vegetation. It is positioned within a dark crevice, utilizing shadow hiding to further conceal its form. This combination of color matching, pattern disruption, textural mimicry, and strategic positioning makes the octopus incredibly difficult to discern, with only its eye being a more distinct feature."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background is an underwater rocky or coral reef environment, dominated by rough, irregular surfaces covered in a mix of light and dark brown, green, and grey algae, detritus, and encrusting organisms. There are crevices, a darker shadowed area, and some patches of fine sand or gravel. Textures are varied and complex, providing many places for concealment. The fish is partially emerging from a shadowed crevice.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Pattern matching / Color blending / Shape disruption",
+  "explanation": "The Fish exhibits excellent camouflage. Its body features a complex pattern of dark brown/black bands and blotches over a lighter greenish-grey base. These colors and patterns closely match the mottled, algal-covered rocky substrate and shadowed crevices of its environment. The irregular banding effectively breaks up the fish's outline, making it difficult to discern its true shape against the varied textures and light/shadow play of the background. The color similarity ensures it blends seamlessly with the dominant hues of the reef, while the texture similarity mimics the rough, encrusted surfaces. This combination of color blending, pattern matching, and shape disruption makes the fish very difficult to spot, especially as it hides partially within a crevice."
+}

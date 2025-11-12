@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Jackfish",
+  "background_description": "The background consists of deep, murky blue-green open water on the left, transitioning to lighter, more vibrant turquoise water near submerged structures on the right and top. There are visible patches of green algae or mossy growth on what appear to be rocky ledges or artificial rock formations, suggesting an aquarium environment or shallow coastal area. Particulate matter is suspended in the water, and a school of smaller, silvery fish is visible in the blurry background.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Jackfish with a silvery body and distinct features, swimming in open water. Its coloration and form do not blend with the surrounding water, algae, or rocks, indicating a complete absence of camouflage."
+}

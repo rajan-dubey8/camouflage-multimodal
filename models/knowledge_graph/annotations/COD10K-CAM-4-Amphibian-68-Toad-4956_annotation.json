@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dark, wet, muddy soil interspersed with numerous small, bright green, round-leafed aquatic plants (possibly duckweed or similar) floating on the surface. There are also darker, submerged or decaying leaves and some stringy plant debris. The overall texture is varied, with patches of smooth mud, bumpy plant clusters, and the rough surface of decaying leaves.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad is exceptionally well camouflaged in this image. Its mottled grayish-brown coloration perfectly matches the dark, wet mud and the decaying leaves that form a significant part of the background. While bright green plants are present, the toad is strategically positioned within the darker, more organic debris, where its color provides a high degree of blending. The toad's rough, bumpy skin texture also closely mimics the uneven surface of the mud and the texture of the decaying plant matter, contributing to pattern matching. Its irregular shape, when hunched, further helps to disrupt its outline and make it appear as just another lump of earth or debris, demonstrating shape disruption. The contrast between the toad and its immediate dark surroundings is very low, making it difficult to discern at first glance despite the surrounding vibrant green."
+}

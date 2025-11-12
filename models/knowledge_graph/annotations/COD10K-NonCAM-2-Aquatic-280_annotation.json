@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Ornate Ghost Pipefish",
+  "background_description": "The background consists primarily of clear, deep teal-blue open water. A vibrant strip of green, wavy algae or seaweed is visible in the upper left, providing some structure in the environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays an Ornate Ghost Pipefish, identifiable by its elongated body, numerous frilly appendages, and intricate pattern of reddish-brown, black, and white/yellow spots. It stands out distinctly against the teal water and the green algae, confirming the absence of camouflage as per the dataset context."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Brown bird on tree branch",
+  "background_description": "The scene depicts two birds in a natural, outdoor setting. The foreground bird is perched on a rough, gnarled tree branch with dark brown and grayish bark textures. In the mid-ground and background, there are blurred elements including another dark bird, more tree trunks, and parts of tropical fruits (a sliced papaya and a banana peel containing pulp, likely acting as a feeder), presenting a mix of earthy browns, muted greens, and vibrant orange/yellow tones.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The prominent brown bird exhibits color blending camouflage. Its rusty-brown plumage closely matches the earthy tones of the surrounding tree bark and general dried vegetation, which helps it to blend into its natural habitat. While the bird's smooth feather texture contrasts with the rough texture of the bark, its coloration significantly reduces its visibility against the background. The contrast difference is medium as the bird is clearly discernible, but its colors integrate well with the environment, making it less conspicuous than if it were a brighter or contrasting color. The black bird in the background stands out more due to its high contrast against the blurred background."
+}

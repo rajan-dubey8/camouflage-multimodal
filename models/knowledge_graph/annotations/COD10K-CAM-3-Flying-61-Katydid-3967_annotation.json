@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a thick, gnarled tree branch heavily covered with prominent patches of white and light grey-green lichen, sections of dark brown rough bark, and smaller areas of green moss. Behind the main branch, there is a soft-focus green blur indicating distant foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Katydid exhibits exceptional camouflage, blending almost perfectly with the tree branch. Its body color is a mottled light grey-green with darker speckles, precisely matching the varied shades and patterns of the white and light green lichen, as well as the darker bark and moss patches on the branch. The insect's textured, bumpy surface and irregular, jagged edges effectively mimic the rough, granular texture of the lichen and the natural irregularities of the bark, disrupting its outline. The overall contrast between the Katydid and its background is very low, making it extremely difficult to distinguish the organism from the natural surface of the branch without close inspection."
+}

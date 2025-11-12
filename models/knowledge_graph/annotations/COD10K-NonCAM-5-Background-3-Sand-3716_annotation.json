@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal dunes and misty landscape",
+  "background_description": "The scene features a sandy foreground with gentle ripples, leading to a weathered wooden fence composed of rough logs. Beyond the fence lies a field of tall, vibrant green dune grass. In the mid-ground, there are forested hills partially obscured by a soft mist or fog, which blends into a cloudy, overcast sky. The overall color palette includes warm sandy browns, various shades of green, muted grays and whites of the sky and mist, and desaturated grays of the wooden fence.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image. The scene exclusively depicts a natural environment, including sand, grass, a wooden fence, distant hills, and a misty sky. Therefore, there is no subject present to exhibit camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater environment, predominantly covered in reddish-brown, finely textured marine algae or coral. There are small white specks scattered across the surface, giving it a mottled appearance. Towards the bottom right, there's a darker, broader segment of seaweed or kelp. The overall texture is dense and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The fish exhibits excellent camouflage, blending remarkably well with its marine environment. Its body coloration, a mottled reddish-brown with lighter specks, precisely matches the dominant hues and irregular textures of the algae-covered substrate. The patterns on its body and fins are intricate and broken, mimicking the varied and uneven surface of the background. This high degree of color and texture similarity, along with low contrast, makes the fish very difficult to distinguish from its surroundings, effectively concealing it from potential predators or prey."
+}

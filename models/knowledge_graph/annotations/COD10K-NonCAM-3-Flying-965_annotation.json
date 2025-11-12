@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Paper Kite butterflies",
+  "background_description": "The background consists of blurred green foliage, likely leaves and stems, with clusters of small white flowers that feature tiny yellow centers. The lighting suggests an outdoor natural environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features two Paper Kite butterflies (Idea leuconoe), which are characterized by their prominent black and white patterns. These patterns create a high contrast against the predominantly green foliage and white/yellow flowers of the background. This distinct coloration is known as aposematism or warning coloration, signaling to predators that the butterflies are toxic or unpalatable, rather than serving to blend into their environment. Therefore, camouflage is not present."
+}

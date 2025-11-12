@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Skunk Clownfish",
+  "background_description": "The background consists of a vibrant coral reef environment, dominated by numerous light pink to off-white sea anemone polyps with bulbous tips. Behind the anemones, darker, reddish-brown coral or rock structures are visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright yellow Skunk Clownfish with a distinct white stripe on its head and back, nestled among pale sea anemones. Its vivid coloration makes it stand out prominently against the pastel background, indicating a complete absence of camouflage."
+}

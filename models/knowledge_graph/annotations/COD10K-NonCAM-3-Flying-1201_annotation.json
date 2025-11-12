@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Limpkin",
+  "background_description": "The background is dark and heavily out of focus, appearing as blurred masses of dark green and black, indicative of deep, shadowy foliage or vegetation. There are no distinct textures visible in the background, only soft color gradients.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage, while composed of natural earthy tones (brown and grey), does not effectively blend with the dark, out-of-focus green and black background. The bird's bright red eye and vivid yellow-green beak create a strong contrast against the dark surroundings, making it highly visible rather than camouflaged. There are no discernible patterns or coloration strategies that would suggest effective concealment in this specific environmental context."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blackbird",
+  "background_description": "The bird is perched on a weathered light brown wooden fence with visible grain and vertical planks. The background behind the fence is blurred, featuring green foliage (likely bushes or trees) and a distinct vertical light brown wooden post further back.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The blackbird displays no camouflage in this scene. Its solid black plumage with a bright yellow beak and eye-ring contrasts sharply with the light brown wooden fence it is perched on and the green/brown blurred background. There is a high contrast in color and brightness, and the bird's smooth feather texture does not match the grainy wood or the varied texture of the foliage, making it highly conspicuous."
+}

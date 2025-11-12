@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The animal is positioned on a rough, greyish-brown rocky surface, typical of a riverbank or pond edge, indicating a terrestrial area adjacent to an aquatic environment. The upper background is dark and indistinct, suggesting deep shadow or a nighttime setting, which creates a strong contrast with the illuminated foreground. A small, bright green plant-like bud is visible on the rock in the foreground.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a toad resting on a rocky surface. Its mottled brown, beige, and yellowish coloration, combined with its warty skin texture, allows for a natural resemblance to the rough, earthy tones of the rock and surrounding environment. However, the toad is distinctly visible and not employing any active camouflage strategy."
+}

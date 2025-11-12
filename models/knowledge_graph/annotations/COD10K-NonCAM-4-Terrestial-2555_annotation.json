@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists primarily of light brown, sandy soil, indicating a dry, open environment. There are scattered shadows from overhead foliage or structures, creating dappled light. Sparse green plants and a large rock are visible on the right side. In the upper left background, the legs of another zebra are partially visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebra displays a classic disruptive pattern through its black and white stripes. While the high contrast of the stripes makes the animal immediately visible against the light brown sandy background in this static image, zebra stripes are a known form of camouflage. They work by breaking up the animal's outline, making it difficult for predators (especially color-blind ones like lions) to distinguish individual animals, especially in a herd or under dappled light conditions. This effect is known as 'dazzle camouflage' or 'motion dazzle'. The black and white patterns do not blend with the colors or textures of the immediate sandy ground, resulting in low color and texture similarity, but the pattern itself serves a camouflaging function by distorting perception."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense mix of green grass blades and abundant dry, yellowish-brown reeds and fallen grass stalks. The ground is partially visible as darker soil patches, creating a textured environment with varied linear patterns and earthy tones. Sunlight creates distinct areas of light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern in this image displays exceptional camouflage, blending seamlessly with its reedy and grassy environment. Its plumage features a complex pattern of streaky browns, buffs, and dark stripes that perfectly mimic the dry, dead reeds and grass stalks in the background. This allows for high color similarity with the dominant earthy tones of the environment. The fine, linear streaks on its feathers also provide high texture similarity, breaking up the bird's solid form and creating effective pattern matching with the vertical and diagonal lines of the surrounding vegetation. The overall contrast difference between the Bittern and its immediate surroundings is very low, making its outline difficult to discern and effectively disrupting its shape. This combination makes the Bittern incredibly hard to spot, especially if it were to hold still in its typical 'reed-like' pose."
+}

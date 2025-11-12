@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical beach",
+  "background_description": "The foreground features a wide expanse of fine, light beige to off-white sand, marked with footprints and large, shallow depressions forming handwritten letters. The mid-ground is a body of clear, shallow, turquoise water, fading into a darker blue ocean further out. The horizon separates the water from a light blue sky with scattered white clouds, suggesting a partly overcast day.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment consisting of a sandy beach, ocean, and sky. While there are two human figures visible in the distant water, they are clearly discernible and not attempting to camouflage themselves. The writing in the sand is an artificial mark made by humans, not an organism. Since no organism is present and exhibiting camouflage, and the human figures are clearly visible, no camouflage is detected in this scene."
+}

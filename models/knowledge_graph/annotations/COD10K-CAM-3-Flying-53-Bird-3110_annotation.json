@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a muddy, marshy ground covered extensively with dry, broken, and upright plant stalks and debris. There are patches of shallow water reflecting light, along with sparse green sprouts. The overall color palette is earthy browns, greys, and dark muted greens.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird's plumage, featuring intricate patterns of dark browns, blacks, and lighter tans/buffs, perfectly matches the heterogeneous environment of dry, broken plant stalks, muddy ground, and debris. Its streaked and mottled feathers effectively blend with the irregular textures and varied colors of the background, breaking up its silhouette and making it very difficult to distinguish from the surrounding clutter. The dark stripes and spots align with shadows and dark soil, while lighter areas merge with dry vegetation, resulting in low contrast difference. This combination of color blending, pattern matching, and shape disruption provides excellent camouflage."
+}

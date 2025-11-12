@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of several slender, vertical, green plant-like stalks, likely seagrass or marine algae, which are partially covered with fine detritus or epiphytic growth, giving them a slightly textured and mottled appearance. Behind these stalks, the water appears very dark, suggesting depth or shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage through a combination of color blending and shape mimicry. Its slender, elongated body, with a yellowish-green coloration and iridescent patches, perfectly matches the hue and form of the surrounding marine plant stalks. The subtle dark spots on its body further help to break up its outline and blend with any irregularities or detritus on the vegetation. Its positioning parallel to the stalks enhances the illusion that it is merely another part of the plant structure, making it incredibly difficult to distinguish from the environment. The low color and contrast difference between the pipefish and the background stalks effectively conceal its presence."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Flamingo",
+  "background_description": "The background is a uniformly dark green, heavily blurred and out-of-focus, suggesting dense foliage or distant water. It provides a soft, untextured backdrop with a consistent dark hue.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The flamingo's prominent light pink plumage, combined with its distinct black-tipped bill and yellow eye, creates a very high contrast against the dark green, blurred background. The colors and textures do not blend, and the animal is clearly visible and stands out significantly from its environment, indicating a complete absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Northern Mockingbird",
+  "background_description": "The bird is standing in a terracotta-colored planter filled with dark brown soil mixed with white perlite or small stones. Behind the planter is a light beige, textured wall, with a shadow falling on its left side.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Northern Mockingbird, with its grey and white plumage, is distinctly visible against both the dark brown soil and the light beige wall in the background. Its coloration does not significantly blend with the colors of the immediate surroundings, nor does its feathered texture mimic the granular soil or the textured wall. There is a clear contrast between the bird's silhouette and its background, making it easily detectable. Therefore, no effective camouflage is present in this scene."
+}

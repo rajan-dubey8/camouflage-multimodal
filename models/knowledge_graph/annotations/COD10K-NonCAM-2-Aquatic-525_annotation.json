@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background depicts an aquarium environment with dark, textured rocks or substrate covered in some green algae, alongside vibrant artificial pink and purple plastic plants. The bottom features a light-colored gravel seabed and a small, light-toned artificial structure (like a miniature bridge or house).",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright golden-orange goldfish with long, flowing fins. Its vivid color and distinct form stand out prominently against the dark, textured aquarium background and the colorful artificial plants, indicating a clear absence of camouflage."
+}

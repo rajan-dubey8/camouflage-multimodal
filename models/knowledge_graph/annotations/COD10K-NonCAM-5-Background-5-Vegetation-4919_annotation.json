@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban roadside greenery and sidewalk",
+  "background_description": "The scene displays a neatly maintained urban environment featuring a light grey paved sidewalk with rectangular stone pavers, some showing slight wear and dappled shadows. Adjacent to the sidewalk is a narrow border of dark green, thin, grass-like plants, followed by a dense bed of leafy green shrubs. The shrubbery exhibits varying shades of green, with brighter areas illuminated by sunlight and darker areas in shadow. Two tree trunks with rough, brown bark emerge from within the shrubbery. In the background, a dark grey asphalt road and a black metal barrier with yellow stripes are visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image primarily depicts an urban landscape consisting of a sidewalk, various green plants, trees, a road, and a barrier. Therefore, there is no camouflage present."
+}

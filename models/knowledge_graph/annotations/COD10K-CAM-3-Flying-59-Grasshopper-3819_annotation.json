@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of numerous long, narrow blades of green grass, some in sharp focus in the foreground and mid-ground where the grasshopper is perched, and others blurred in the background. The grass varies in shades of green, from vibrant lime to deeper forest green, creating a dense, natural, and slightly shadowy environment. The textures visible on the in-focus blades show fine lines and a slightly fibrous quality.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits strong camouflage due to its excellent color blending with the environment. Its body is a vibrant green, almost perfectly matching the hue of the surrounding grass blades it is resting on. This high color similarity significantly reduces its visibility. The contrast difference between the grasshopper and the grass is low, making it difficult for the eye to pick out its outline immediately. While its shape is distinct from the straight blades of grass, and its texture is smoother, the overwhelming color match allows it to blend seamlessly into its natural habitat, making it effectively camouflaged."
+}

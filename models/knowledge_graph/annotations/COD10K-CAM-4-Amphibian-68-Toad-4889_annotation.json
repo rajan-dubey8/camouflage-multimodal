@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a rough, textured concrete or rock wall, predominantly light grey with darker weathered patches and streaks of vibrant green moss in various sections. The ground below the wall is covered with damp, dark brown to black decaying leaves, interspersed with lighter, dry brown leaves and small pieces of debris, giving it a mottled and uneven texture. The overall environment is earthy and rustic.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage by blending its coloration and skin texture with its immediate environment. Its grey-brown, mottled skin with lighter flecks closely matches the rough, textured concrete/rock wall behind it and the damp, decaying leaves on the ground. The bumpy, granular texture of its skin remarkably mirrors the irregular surfaces of the wall and the varied textures of the leaf litter and debris. This high similarity in both color and texture results in a very low contrast difference between the toad and its surroundings, making its outline indistinct and difficult to perceive. The toad's squat, irregular shape further aids in merging seamlessly with the heterogeneous ground cover, avoiding any prominent silhouetting."
+}

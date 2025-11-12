@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Other",
+  "object_name": "Crab",
+  "background_description": "The background consists of fine, granular beach sand, predominantly golden-yellow with subtle orange and light brown hues. The surface is uneven, showing individual sand grains and slight undulations, creating a textured appearance. The scene is brightly lit by sunlight, casting minimal shadows directly around the crab. In the mid-ground to the right, a small, dark, elongated object, possibly a piece of debris or a shell fragment, is partially embedded in the sand.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab exhibits strong camouflage, effectively blending with its sandy environment. Its carapace and legs are colored in mottled shades of sandy-beige, light brown, and faint orange-red, which highly match the dominant golden-yellow and orange hues of the surrounding sand. The intricate patterns and speckling on the crab's body closely mimic the granular texture and varied coloration of the sand, achieving excellent pattern matching. This combination significantly reduces the contrast between the organism and its background, making it difficult for predators to distinguish its outline. While color blending is also present, the specific patterns on its body are crucial for disrupting its shape against the heterogeneous sand texture."
+}

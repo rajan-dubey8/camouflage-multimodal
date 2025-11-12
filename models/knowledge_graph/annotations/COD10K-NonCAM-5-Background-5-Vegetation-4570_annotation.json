@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Pond surface with duckweed and aquatic plants",
+  "background_description": "The scene depicts an aquatic environment, likely a pond or a marshy area, with dark water partially covered by a dense layer of small, bright green duckweed (Lemna minor). Various larger aquatic and semi-aquatic plants with broad and narrow green leaves are visible, growing from the edges and within the duckweed layer. Some dark plant debris, submerged leaves, and thin branches are also present in the clearer, darker water areas.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No animal, insect, or fish is visible in the image. The scene exclusively depicts an aquatic environment dominated by various types of green vegetation and water, with no detectable organism attempting to conceal itself. Therefore, camouflage is not present."
+}

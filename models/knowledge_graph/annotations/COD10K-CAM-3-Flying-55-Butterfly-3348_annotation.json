@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense shrub or plant with numerous clusters of bright yellow flowers. These flowers are small and tightly packed. Interspersed among the flowers are many dark to medium green leaves, some appearing waxy or textured, and a few lighter green buds or new growth. The environment is vibrant and leafy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's wings are predominantly dark brown/purple with prominent white, orange, and black 'eyespots' and other distinct markings. This coloration and pattern create a high contrast against the bright yellow flowers and various shades of green leaves in the background. The butterfly's appearance does not blend with the colors or textures of its immediate environment, making it stand out clearly rather than being camouflaged. The 'eyespots' are a form of defense (mimicry or startle display) rather than camouflage."
+}

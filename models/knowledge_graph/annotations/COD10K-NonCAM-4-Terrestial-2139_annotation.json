@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Domestic cat",
+  "background_description": "The background consists of dark grey to brownish-grey concrete steps with a coarse, granular texture. Some green foliage is visible on the far right side.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The main subject, a white domestic cat, is highly conspicuous against the dark, rough concrete steps. Its bright white fur creates a strong visual contrast with the background, making it easily detectable. There is no color blending, disruptive patterning, or mimicry that would allow it to conceal itself in this environment."
+}

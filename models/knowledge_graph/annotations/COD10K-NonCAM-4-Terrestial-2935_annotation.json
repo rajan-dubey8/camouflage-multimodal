@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown bear",
+  "background_description": "The background consists of a lush green grassy field with various smaller plants, some appearing to be dandelions with white seed heads or yellow flowers, and darker small plants with buds or seed pods. The overall texture is soft and vegetative.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The brown bear's fur color, a mix of medium and darker browns, contrasts sharply with the vibrant green of the grassy background. While brown fur can offer camouflage in forest environments, rocky terrains, or dry fields, it stands out clearly against the lush green vegetation seen in this image. There is a strong visual difference in both color and texture between the bear and its immediate surroundings, making it highly visible."
+}

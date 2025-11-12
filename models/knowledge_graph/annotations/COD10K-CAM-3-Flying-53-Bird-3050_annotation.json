@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of dense, dark green foliage, including numerous leaves and branches. Behind this foliage, large areas of very bright white light are visible, appearing to be either direct sunlight or artificial light sources (possibly a greenhouse roof), creating a high-contrast environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's plumage is predominantly white. While it stands in stark contrast to the dark green leaves and branches immediately surrounding it, a significant portion of the background behind the bird is intensely bright white (sky or artificial light). The bird's white color blends very effectively with these bright background elements, making its outline less distinct and its presence less immediately obvious when viewed against the light. This color blending with the bright background light provides a considerable degree of camouflage, even though it contrasts with the darker foreground elements."
+}

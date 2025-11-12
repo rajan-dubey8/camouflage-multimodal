@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists of a gently sloping hillside, primarily covered in various shades of green grass and interspersed with dense, dark green bushes and shrubs. In the immediate foreground, tall, mixed green and brownish-green grasses dominate the view. Further back, a utility pole stands vertically, and small white specks (likely sheep) are visible on the upper slopes. The overall lighting is diffuse, suggesting an overcast day.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit exhibits effective camouflage primarily through color blending. Its reddish-brown fur closely matches the dried, brownish-tan blades of grass and the underlying earth in its immediate vicinity. It is also partially obscured by the taller green grasses and a small bush, which physically break up its outline and provide cover. While its shape is still discernible, especially its head and ears, the similar coloration and the disruptive effect of the surrounding vegetation significantly reduce its visibility against the varied textures and colors of its environment. It's not perfectly invisible, as there's still a noticeable contrast in some areas, but it is well-hidden for its natural habitat."
+}

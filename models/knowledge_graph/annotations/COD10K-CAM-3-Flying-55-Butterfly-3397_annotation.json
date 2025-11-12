@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of the textured bark of a tree, displaying various shades of grey, light brown, and off-white. It features deep crevices, rough ridges, and some flatter, smoother areas, with varying levels of focus across the surface. The overall impression is one of natural, rugged organic texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly exhibits exceptional camouflage against the tree bark. Its wings feature a complex, mottled pattern of light brown, dark brown, and off-white hues that precisely match the dominant colors and tonal variations of the bark. The intricate, irregular lines and shapes on the wings effectively mimic the cracks, ridges, and rough texture of the tree surface, creating a strong visual illusion of texture similarity. This combination of color blending and pattern matching severely disrupts the butterfly's outline, making it extremely difficult to distinguish from its environment. The overall contrast difference between the butterfly and the bark is very low, contributing to its near-invisibility."
+}

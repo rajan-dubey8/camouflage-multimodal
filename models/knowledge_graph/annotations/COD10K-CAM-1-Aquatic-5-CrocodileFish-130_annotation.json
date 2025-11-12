@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "CrocodileFish",
+  "background_description": "The background consists of a sandy seabed mixed with small rocks, coral rubble, and larger, darker rock or coral formations in the deeper background. The colors are predominantly muted greys, whites, browns, and some reddish-brown tones from coral fragments. The light is somewhat dim, characteristic of an underwater environment, casting subtle shadows and enhancing textural variations.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The CrocodileFish exhibits exceptional camouflage. Its body color and intricate mottled patterns of white, grey, and dark brown perfectly match the sandy, rocky, and coral rubble seabed. The irregular, bumpy texture of its skin and fins also closely mimics the rough, fragmented surfaces of the surrounding environment, making it blend seamlessly with the substrate. The flattened body shape and the irregular, jagged outline of its body and fins further contribute to shape disruption, breaking up its recognizable form against the varied background. The low contrast difference between the fish and its immediate surroundings, coupled with its matching colors and textures, makes it incredibly difficult to distinguish, allowing it to remain hidden from predators and prey effectively."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a natural, rocky, and earthy environment. There are numerous large, light-colored rocks, some covered with patches of green moss, intermingled with dark brown soil and fallen leaves/debris. Various green plants and shrubs, including cypress-like foliage and broad-leafed plants, are present, creating areas of both bright sunlight and deep shadow. A tree trunk is visible towards the right.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.85",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The cat's mottled grey and light brown fur, with subtle darker tabby stripes, provides a moderate degree of color blending with the light-colored, sun-dappled rocks and the darker earthy ground. The varied light and shadow across the terrain, combined with the cat's fur pattern, create some pattern matching that helps to disrupt its outline against the irregular textures of the rocks and dirt. The cat is positioned in a somewhat shadowed area, further aiding in breaking up its form. While not perfectly hidden, its coloration and position make it less conspicuous and allow it to blend reasonably well with the complex natural environment, rather than standing out starkly. Its distinct shape and texture, however, prevent it from achieving a higher degree of camouflage."
+}

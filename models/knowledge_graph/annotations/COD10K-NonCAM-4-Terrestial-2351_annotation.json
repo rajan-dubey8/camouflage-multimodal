@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras",
+  "background_description": "The background consists of a dusty, light-colored dirt road in the foreground, transitioning to sparse, dry grass and low-lying vegetation in the midground. The sky is overcast and appears very light gray, almost white, creating a diffused lighting condition. The overall scene is muted in tone, typical of a savanna or grassland environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebras in the image display a distinct black and white striped pattern. This pattern does not achieve camouflage through color or texture blending with the immediate background, which consists of muted grays of dirt and dry grass. Instead, zebra stripes are a classic example of disruptive pattern camouflage, often referred to as 'dazzle camouflage'. This type of camouflage aims to break up the outline of the animal, making it difficult for predators (like lions) to distinguish individual zebras within a herd, ascertain their size, speed, or direction, especially during movement or in low light. The high contrast stripes create visual confusion rather than concealment, hindering a predator's ability to focus on a single target."
+}

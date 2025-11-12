@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists primarily of a large, intricate crinoid (feather star) with multiple deep blue, branching arms covered in numerous small, bright yellow pinnules, creating a dense, feathery texture. Below and behind the crinoid, the seafloor is composed of dark brown to reddish-brown granular sand and small rocks, appearing somewhat dim and muted.",
+  "color_similarity": "low",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The GhostPipefish exhibits excellent camouflage through mimicry and shape disruption. While its vibrant red and white coloration does not perfectly match the dominant blue and yellow of the adjacent crinoid or the dark brown seafloor, its highly ornate, frilly, and spiky body morphology remarkably mimics the complex, branching structures of the crinoid and other sessile invertebrates found in its reef habitat. The intricate patterns and jagged outline of the fish effectively break up its body shape, making it difficult for predators to recognize it as a distinct organism. It appears to be an integral part of the surrounding complex biological structures rather than a separate fish. The high texture similarity to the crinoid, despite color differences, is key to its successful blending."
+}

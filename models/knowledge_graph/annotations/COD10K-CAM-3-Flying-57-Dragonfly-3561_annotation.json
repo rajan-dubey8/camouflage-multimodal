@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists primarily of calm, slightly rippled water with a greenish-yellow hue, indicative of reflections from surrounding foliage or algae. There are also lighter, almost white, irregular patches on the water's surface due to light reflections. The dragonfly is perched on a slender, light brown/grey wooden stick or twig, which is partially submerged in the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly, with its dark brown body and prominent amber-colored wings, stands out distinctly against the greenish-yellow water and the light brown stick. There is a clear color contrast between the insect and its surroundings. Its defined shape and unique colors, particularly the amber wings, do not blend with the rippled water's texture or the stick's woody surface. The overall effect is that the dragonfly is highly visible rather than camouflaged."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Yellow bird",
+  "background_description": "The background consists of blurred green foliage, including broad leaves and plant stems. The bird is perched on a thick green stem with some darker brown markings.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's vibrant yellow plumage creates a very strong contrast against the green background foliage and stem. There is no visual similarity in color or pattern between the bird and its surroundings, making it highly conspicuous rather than camouflaged. Its bright coloration serves to make it stand out, likely for display or communication, not concealment."
+}

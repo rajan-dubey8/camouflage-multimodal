@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Fly",
+  "background_description": "The background consists of a vibrant, deep red flower petal, appearing soft and out-of-focus due to shallow depth of field. There are slight variations in the red hue and some delicate, thin, pale structures or stamens are visible, adding minor textural details against the otherwise smooth appearance of the petal.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The fly's body is predominantly dark grey and black with speckles, and it has prominent reddish-brown compound eyes. This coloration creates a strong contrast against the vivid, uniform red of the flower petal background. The fly's textured, hairy body also differs significantly from the smooth appearance of the petal. There is no visual blending in terms of color or texture, indicating that the fly is not camouflaged in this environment and is highly visible."
+}

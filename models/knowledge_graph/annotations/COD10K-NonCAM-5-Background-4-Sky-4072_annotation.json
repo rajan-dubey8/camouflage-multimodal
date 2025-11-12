@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird in sunset landscape",
+  "background_description": "The background consists of a dramatic sunset sky, featuring a gradient from dark blue at the top to vibrant orange and yellow hues at the horizon. A silhouetted bare tree with a fluffy cloud behind its upper branches occupies the left side of the frame, and a dark ground line is visible at the very bottom. The bird itself is a small, dark silhouette against the bright orange part of the sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A small bird is visible as a distinct, dark silhouette against the bright, vibrant orange sunset sky. This creates a high contrast in both color and luminosity between the bird and its background, making it highly visible and clearly not camouflaged. There is no attempt at blending, disruptive patterning, or mimicry with the environmental elements."
+}

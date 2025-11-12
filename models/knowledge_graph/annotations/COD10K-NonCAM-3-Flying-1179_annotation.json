@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tanager",
+  "background_description": "The bird is perched on a textured brown tree branch. The background consists of dense, lush green foliage with various shades, some leaves are in sharp focus while others are blurred. There's also a faint, out-of-focus light purple hue, possibly from a flower, deeper in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bird's vibrant orange head and underside, combined with its dark wings featuring white patches, create a very high contrast against the predominantly green leafy background and brown branches. Its prominent coloration makes it stand out significantly rather than blending in, indicating no camouflage is present. Such bright plumage is typically used for mating displays or species recognition."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Fly",
+  "background_description": "A plain, light beige or off-white painted wall surface with a subtle, slightly uneven texture and some minor specks. The lighting creates a soft shadow beneath the organism.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fly is clearly visible against the light-colored wall. Its dark legs, striped body (yellowish-grey and dark bands), and prominent reddish compound eyes create a high contrast with the plain beige background. There is no significant color blending, disruptive patterning, or mimicry that would help it blend into this specific environment. The texture of the fly (hairy body, spiky legs, delicate wings) also starkly differs from the smooth wall surface."
+}

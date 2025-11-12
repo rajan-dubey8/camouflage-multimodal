@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dark, porous rock covered in patches of light grey lichen and small amounts of green moss and sparse, dry, brown-green vegetation. The midground and background are out of focus, showing a mix of similar earthy tones, browns, greys, and muted greens from low-lying vegetation and soil.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits effective camouflage through a combination of color blending and pattern matching. Its brown, white, and reddish-orange plumage closely matches the earthy tones of the dark rock, grey lichen, and sparse, dry vegetation in its environment. The streaky and mottled patterns on its chest and back help to break up its outline and blend with the varied textures of the background, such as the lichen on the rock and the small plants, making it less distinct from its surroundings. While not completely invisible, it blends remarkably well into the rugged, natural setting."
+}

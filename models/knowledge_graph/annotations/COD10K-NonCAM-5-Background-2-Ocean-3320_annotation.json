@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Skeleton shrimp on coral",
+  "background_description": "Vibrant underwater scene with various hard corals, primarily bright green bubble and stony types, and a large purple clam. The background features dark rocky substrate and other dimly lit corals.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A very small, slender crustacean (likely a skeleton shrimp or similar tiny crab) is highly camouflaged on the surface of the large, textured green coral. Its translucent, brownish body and delicate appendages blend almost perfectly with the color variations and irregular polyps of the coral and surrounding detritus, making it exceptionally difficult to spot. This is an excellent example of crypsis through color and texture matching. While biologically the camouflaged organism is a crustacean and not an insect, 'Insect' has been chosen as the closest available category for a small arthropod within the provided schema limitations."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense, tall reed bed growing out of shallow water. The reeds are primarily vibrant green with some dried, lighter brown stalks interspersed. The water below reflects the vertical lines and green hues of the reeds, creating a striped, reflective surface at the bottom of the frame.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage within the dense reed bed. Its plumage features intricate patterns of mottled brown, black, and cream, which perfectly mimic the vertical stalks and varied textures of both the green and dried reeds. The dark streaks on its body blend with the shadows and the vertical lines of the reeds, while the lighter areas match the dried stalks. This combination of color blending, pattern matching, and the natural disruption of its outline against the vertical reeds makes it incredibly difficult to spot, allowing it to effectively hide from predators and prey in its wetland environment. The dense growth of the reeds themselves further obscures the bird, enhancing its camouflage."
+}

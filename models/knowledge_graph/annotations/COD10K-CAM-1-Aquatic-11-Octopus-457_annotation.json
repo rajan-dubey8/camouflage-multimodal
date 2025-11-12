@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Other",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a complex marine substrate, primarily composed of sandy patches, small rocks, detritus, and various types of marine algae or seaweed. There are mottled brown, reddish, and grayish areas with fine granular textures, indicating a shallow, rocky-sandy seafloor environment. Portions of the background show dense, hair-like algal growths and some sparse, reddish-brown coral or plant material.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Octopus exhibits exceptional camouflage in this image. Its skin coloration perfectly matches the mottled browns, whites, and reddish tones of the sandy, rocky, and algal substrate. The octopus's dermal papillae are highly extended, creating a textured surface that mimics the rough, irregular shapes and granular appearance of the surrounding detritus, small stones, and seaweed, making its outline extremely difficult to discern. The complex patterning on its skin blends seamlessly with the varied textures and colors of the seafloor, effectively disrupting its body shape and allowing it to integrate almost perfectly into the environment. The contrast between the octopus and its background is remarkably low across its visible parts."
+}

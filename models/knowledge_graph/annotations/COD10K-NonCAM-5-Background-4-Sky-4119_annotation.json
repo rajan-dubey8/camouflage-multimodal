@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Disused industrial area",
+  "background_description": "The scene depicts an overcast sky with streaky grey clouds dominating the upper half. Below, a disused industrial area features a long, dark, covered structure (possibly a shed or platform) on the left, characterized by metal framework and a low roof. On the right, a building is partially obscured by dense, dark green foliage and bushes. In the foreground, an overgrown concrete path or road shows remnants of train tracks. Distant modern buildings, an elevated concrete bridge, and other urban structures are visible under the cloudy sky, suggesting an urban or semi-urban industrial setting.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an urban industrial environment, including buildings, structures, natural vegetation, and an overcast sky. There are no visible animals, insects, or fish present anywhere in the frame. Since camouflage is a biological adaptation for organisms to blend with their surroundings, its detection is not applicable in a scene devoid of any living entities. Therefore, no camouflage is present."
+}

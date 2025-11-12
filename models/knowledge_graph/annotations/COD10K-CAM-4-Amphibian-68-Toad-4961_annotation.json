@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of calm, reflective water with a dominant golden-brown hue, likely from reflections of sunlight on reeds or dried vegetation. The water surface is disturbed by numerous small ripples, creating concentric circles and distorting reflections. Some darker, cooler blue-grey tones are also visible in the water, especially closer to the toad's reflection. A few slender green plant stems emerge from the water, one prominently on the right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The toad's head is clearly visible, protruding from the water. While its dark grey-brown body color does show some minor similarity to the darker reflective patches in the water, the predominant background color is a warm golden-brown against which the toad stands out. Most notably, the toad's bright yellow eyes are highly contrasting and draw immediate attention, making it easily discernible. The texture of its wet, slightly bumpy skin is also distinct from the smooth, reflective, and rippled water surface. Despite being partially submerged, which is a common concealment behavior, its coloration and prominent features in this specific lighting and environment do not provide effective visual camouflage."
+}

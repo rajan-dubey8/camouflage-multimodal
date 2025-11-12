@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of dry, sandy earth with various small rocks and pebbles. There are distinct changes in elevation and texture, indicating a burrow entrance where the owl is situated. The colors are predominantly light to medium browns, tans, and off-whites, with some darker shadows and small patches of blurred green vegetation with yellow flowers in the foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The owl exhibits effective camouflage by blending remarkably well with its arid environment. Its plumage is a mosaic of browns, tans, and light streaks that closely match the color palette of the sandy, dry earth and small rocks surrounding its burrow. The streaked and mottled patterns on its feathers disrupt its outline and mimic the varied textures and granular nature of the soil, preventing it from standing out as a singular, distinct shape. Its position within the burrow's entrance also leverages natural shadows, further integrating it into the background and reducing harsh contrasts. While its bright yellow eyes are a distinct feature, the rest of its body achieves a high degree of concealment through color and pattern matching, making it difficult to spot at a glance."
+}

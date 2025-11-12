@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird on a branch",
+  "background_description": "The background consists of natural elements, including a textured tree trunk on the left and a thinner horizontal branch where the bird is perched. The distant background is a soft, blurred bokeh of green foliage and lighter brown/beige patches, indicating a woodland or forest environment. The branches show varied shades of brown and grey bark with some lighter lichen or fungal growths.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits effective camouflage primarily through color blending. Its olive-green plumage on the back and wings closely matches the green foliage of its natural habitat, which is visible in the background. The reddish-brown cap and the greyish-beige underside also blend well with the browns and lighter tones of the tree branches and dappled light typically found in a forest environment. This color coordination helps the bird blend seamlessly with its surroundings, reducing its visibility to predators and prey. While its feather texture is distinct from the bark, the overall color harmony is strong, making it difficult to spot."
+}

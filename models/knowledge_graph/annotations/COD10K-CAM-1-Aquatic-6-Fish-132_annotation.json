@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a mix of dark, wet-looking rocks with shades of dark grey, green, and hints of rusty brown, interspersed with areas of light brown, granular sand or sediment. The rock surfaces appear textured and uneven, possibly with some algal growth or detritus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The fish is exceptionally well camouflaged. Its body exhibits a mottled pattern of sandy-brown, gold, and dark grey speckles that perfectly match the granular texture and dominant colors of the surrounding sand/sediment and the textured rocks. The lighter speckled areas blend with the sand and lighter rock patches, while the darker stripe along its back and tail integrates with the deeper, shadowed tones of the wet rocks. This combination of color blending and pattern matching effectively breaks up the fish's outline and minimizes any contrast with the background, making it very difficult to spot."
+}

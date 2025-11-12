@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists primarily of dense, tall, dried grasses or reeds, displaying shades of light brown, tan, and yellowish-brown. Interspersed within the grasses and in the foreground are several bare, dark brown, thorny branches and twigs, some appearing to be dead trees or shrubs. The overall environment suggests a marshy or wetland area during a dry season, with a generally muted, warm color palette.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Heron is not camouflaged in this image. Its distinct grayish-blue plumage stands out sharply against the predominantly warm, yellowish-brown tones of the dried grasses and reeds. The smooth texture of its feathers also contrasts with the linear, rough textures of the surrounding vegetation and branches. While some branches partially obscure parts of the Heron, its overall silhouette, color, and texture differences make it highly visible, rather than blending into the environment. The orange beak also provides a strong visual cue that makes it easily detectable."
+}

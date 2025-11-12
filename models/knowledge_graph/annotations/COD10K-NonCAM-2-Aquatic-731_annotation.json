@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sergeant Major Damselfish",
+  "background_description": "The aquatic environment features a rocky or coral substrate covered in various shades of green and brown algae, suggesting a shallow reef or coastal area. The water itself contains fine particulate matter, giving it a slightly murky appearance, with areas of dark blue and green water visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Sergeant Major Damselfish with prominent black and bright yellow vertical stripes on a light grey body. This coloration stands out significantly against the muted, algal-covered rocky background, indicating no camouflage."
+}

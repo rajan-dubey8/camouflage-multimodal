@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a complex underwater coral reef environment. It features various types of coral, including large plate-like corals with intricate, wave-like textures in shades of brown and beige, and branching corals with knobby surfaces. There are also darker, more amorphous coral or rock structures, some with purplish-red hues, creating a very textured and irregular backdrop. The lighting is dim overall, with shadows and pockets of deeper darkness, suggesting a crevice or an area under an overhang.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.7",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The fish exhibits good camouflage by blending with the complex coral reef environment. Its body coloration, a mottled pattern of browns, whites, and dark patches, closely resembles the varying colors and textures of the surrounding corals and rock formations. The irregular outline of its body, particularly the head and dorsal area, helps to disrupt its shape against the equally irregular reef, making it harder to discern as a distinct organism. It is also positioned within a shadowy crevice, utilizing shadow hiding to further obscure its presence. While its bright yellow fins and large, prominent eye create some areas of higher contrast, the overall effect of its coloration, patterning, and strategic positioning allows it to blend effectively into its natural habitat."
+}

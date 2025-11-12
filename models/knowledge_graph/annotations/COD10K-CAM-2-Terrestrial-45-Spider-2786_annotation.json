@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a dense layer of forest floor debris. This includes numerous dry, decaying brown leaves (some with holes and visible vein patterns, likely oak leaves), a tangle of fine, dry pine needles, and scattered reddish-brown seed pods or small pieces of detritus. A few thin, green blades of grass are also visible, cutting across the scene. The overall color palette is dominated by earthy browns, grays, and reddish-browns, creating a complex, textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits effective camouflage through strong color blending and pattern matching with its environment. Its body and legs are a mottled grayish-brown, which closely matches the faded, dry colors of the fallen leaves and pine needles. The irregular pattern on its carapace and legs mimics the varied textures and small specks found on the decaying organic matter. Additionally, the spider's overall tone and lightness blend well with the average luminosity of the background, resulting in a low contrast difference that makes it difficult to distinguish its outline against the forest floor. While not perfectly invisible, it requires close inspection to spot, indicating successful camouflage for predator avoidance."
+}

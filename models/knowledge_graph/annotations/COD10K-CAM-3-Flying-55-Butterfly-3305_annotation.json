@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense, varied natural environment. It features numerous small, light green clover-like leaves and broader dark green leaves, intermingled with an abundance of dry, straw-colored grass blades and twigs. Patches of darker soil are visible amongst the vegetation. In the lower right portion of the image, a light grey, pipe-like object (possibly a covered hose or log) is partially visible and covered by some foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly exhibits effective camouflage primarily through pattern matching and color blending. Its wings display a mottled pattern of dark brown, white, and black, which closely resembles the varied textures and colors of the dry grass, twigs, and lighter soil elements in its surroundings. While it is resting on a green leaf, the overall irregular and broken pattern on its wings creates disruptive coloration. This visually breaks up the butterfly's distinct outline, making it significantly harder for a predator to discern its form against the cluttered, heterogeneous background of dry and green vegetation, enhancing its ability to blend in."
+}

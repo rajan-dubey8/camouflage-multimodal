@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The background consists of a murky underwater rocky substrate, largely covered with patches of dark green algae, sediment, and some lighter grey-brown rocky areas. The overall palette is muted greens, browns, and greys, with varying textures from smooth rock to algal growth.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays various coral colonies, including a prominent bright blue coral and several yellow-green corals, against a rocky underwater background. While corals are living organisms, they are not exhibiting camouflage in this scene. The blue coral stands out prominently due to its vibrant color, which contrasts sharply with the muted greens, browns, and greys of the surrounding substrate. The yellow-green corals, while sharing some greenish tones with parts of the background, are still clearly distinguishable by their distinct, intricate branching textures and brighter coloration. Neither the color nor the texture of these coral colonies allows them to blend seamlessly into their environment to avoid detection."
+}

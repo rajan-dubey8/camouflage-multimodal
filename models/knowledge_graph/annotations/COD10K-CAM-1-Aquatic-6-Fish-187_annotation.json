@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a dark, textured seabed or rocky substrate. It features a mottled mix of dark browns, greys, and reddish-browns, with a coarse, granular texture. There are also some fine, feathery or filamentous organic growths, possibly algae or hydroids, scattered across the surface, contributing to an overall complex and irregular pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The fish exhibits excellent camouflage by perfectly blending with its environment. Its body is covered in a highly mottled pattern of browns, greys, and reddish hues that precisely match the coloration of the rocky, sediment-covered seabed. The texture of the fish's skin, appearing rough and irregular, also closely mimics the granular and uneven surface of the background. There is a low contrast difference between the fish and its surroundings, making it incredibly difficult to discern its outline or form. This combination of color blending, pattern matching, and texture imitation allows the fish to disappear into the complex visual noise of the seabed, making it nearly invisible to predators or prey."
+}

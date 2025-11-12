@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coyote",
+  "background_description": "The background consists of a field of dry, light brown and golden-yellow tall grass, interspersed with patches of greener grass and some darker bare earth visible at the ground level. The textures are rough and varied from the individual blades of grass and small clumps of earth.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The coyote exhibits effective natural camouflage. Its fur color, a blend of sandy, tawny, and grayish tones, perfectly matches the dry, golden-brown tall grass and earth of its environment. This high color similarity and low contrast difference make it difficult to distinguish the coyote from its surroundings, allowing it to ambush prey or avoid detection. While the specific fur texture differs from individual grass blades, the overall mottled appearance and color variations help it integrate seamlessly with the visual 'noise' of the grassy field, contributing to strong color blending."
+}

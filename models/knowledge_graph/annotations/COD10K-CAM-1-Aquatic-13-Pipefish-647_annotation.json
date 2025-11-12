@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow underwater rocky and sandy seafloor or riverbed. It is composed of numerous irregular pebbles and small rocks of varying sizes, ranging from light grey to dark brown, often covered with a fine layer of sediment. There are patches of reddish-brown filamentous algae and some sparse green algae attached to the rocks. The overall lighting suggests clear water, illuminating the granular textures of the substrate.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The Pipefish exhibits moderate camouflage in this image. Its elongated, slender body is a muted brownish-orange color, which allows it to blend reasonably well with the reddish-brown algae and some of the darker, sediment-covered rocks and sand particles in the background. While its smooth texture contrasts with the rough, granular environment, its overall color tone and relatively low contrast with the surrounding mid-tones help it avoid standing out significantly. Its stick-like shape also contributes to its cryptic appearance, potentially mimicking a piece of debris or plant matter, though this is primarily color-based blending with the direct environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal waters with offshore wind farm",
+  "background_description": "The image depicts a wide expanse of coastal waters under a clear, pale blue sky. In the foreground, the water is a murky reddish-brown, indicative of shallow, possibly muddy or sandy, conditions, with subtle surface ripples. A red and dark grey marker buoy stands in this foreground water. Towards the midground, the water transitions to a darker, more grey-blue hue, meeting the horizon line. Stretching across the distant horizon are numerous white offshore wind turbines, appearing somewhat hazy and blended with the sky due to distance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an environmental scene consisting of coastal waters, sky, and man-made offshore wind turbines. There are no visible organisms (animals, insects, or fish) present in the frame. Therefore, camouflage is not applicable and not detected in this image."
+}

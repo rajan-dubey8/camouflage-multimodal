@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wren",
+  "background_description": "The bird is perched on a sturdy tree branch covered densely with patches of light green lichen and dark bark. The background consists of blurred green foliage and other tree branches, suggesting a woodland or forest environment with soft, diffused lighting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The wren displays effective camouflage primarily through color blending. Its mottled plumage, featuring various shades of brown, tan, and white, closely matches the earthy tones of the tree bark and provides a high degree of color similarity with the surrounding natural environment. While the branch itself has bright green lichen, the bird's overall coloration harmonizes with the natural light and shadow patterns found in a woodland habitat. The streaked and dappled feathers further help to break up its silhouette against the varied textures of the branch and foliage, reducing its contrast and making it harder for predators or prey to spot it."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow seabed with a mix of light brown and beige sand, interspersed with numerous small pebbles, shell fragments, and some larger irregularly shaped rocks. There are also darker patches of what appears to be detritus or algae, particularly in the upper right quadrant. The overall texture is granular and heterogeneous, with varying shades of sandy browns, grays, and muted greens.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Pipefish exhibits excellent camouflage against the seabed. Its body color features a mottled pattern of sandy browns, beiges, and greenish-gray tones, which very closely match the varying colors of the sand grains, small pebbles, and shell fragments on the seafloor. The granular and speckled texture of the Pipefish's skin effectively mimics the heterogeneous texture of the substrate, making it difficult to distinguish its body from the surrounding environment. The contrast between the Pipefish and its background is very low, blurring its outline and preventing it from standing out visually. This combination of color blending and pattern matching allows the Pipefish to seamlessly integrate with its sandy and pebbly habitat."
+}

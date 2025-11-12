@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sheep",
+  "background_description": "The background consists primarily of large, angular, and irregularly shaped rocks, appearing to be granite or a similar type of igneous rock found in mountainous terrain. The rocks exhibit a range of grey and brownish-grey tones, with some areas showing darker patches of moss or lichen, adding green and dark textural variation. The surfaces are rough, textured, and weathered. There's a hint of a misty sky or distant mountains in the upper right.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Sheep's fur exhibits a dusty grey-brown coloration that remarkably aligns with the dominant grey and brownish-grey hues of the surrounding rocks, particularly the lighter, weathered surfaces. This strong color similarity significantly reduces its visual distinction from the environment. Although its fur texture is soft and fine, contrasting with the rough, jagged rock surfaces (low texture similarity), its overall tonal value closely matches the background, resulting in low contrast difference. The organism is also strategically nestled among the large rocks, which helps break up its silhouette and utilizes natural shadows and crevices for concealment, further enhancing its camouflage despite the textural disparity. The combination of effective color blending and positional concealment makes it blend well with its rocky habitat."
+}

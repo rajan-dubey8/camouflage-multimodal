@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Beach sunrise",
+  "background_description": "The scene depicts a sunrise or sunset over a calm ocean from a beach perspective. The sky transitions from a soft, pale blue-grey at the top to warmer hues of orange and yellow near the horizon, where the sun is partially obscured by faint clouds, casting a diffused glow. Dark, silhouetted palm fronds frame the top corners of the image. The ocean surface is relatively calm, reflecting the sun's light in a subtle streak. The foreground consists of a sandy beach with several dark, irregular rocks breaking the water's edge.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene, specifically a beach at sunrise or sunset. There are no visible animals, insects, or fish present in the image. Therefore, there is no organism to evaluate for camouflage. As per the rules, if no organism is visible, camouflage is not present."
+}

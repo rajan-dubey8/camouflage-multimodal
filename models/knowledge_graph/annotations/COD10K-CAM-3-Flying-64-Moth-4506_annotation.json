@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of rough, deeply fissured tree bark, primarily in shades of dark brown and grey. Patches of lighter, greyish-white and green lichen are interspersed across the bark's surface, contributing to a highly varied and textured environment. The right side of the image shows a blurred, out-of-focus green background, but the moth is positioned entirely on the bark.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth demonstrates excellent camouflage against the tree bark. Its wings feature a complex, mottled pattern of greys, browns, and speckles that perfectly mimic the varied hues and textures of the rough bark and the surrounding lichen. The irregular, broken patterns on its wings effectively disrupt its body outline, making it incredibly difficult to discern as a distinct object. The overall luminance and chromaticity of the moth closely match its immediate background, resulting in a very low contrast difference. This masterful combination of color blending, intricate pattern matching, and shape disruption allows the moth to blend almost seamlessly into its environment, making it nearly invisible to predators."
+}

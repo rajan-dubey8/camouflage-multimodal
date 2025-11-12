@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blackbird",
+  "background_description": "The background consists of a rough, weathered stone wall or parapet in the mid-ground, showing patches of grey-green moss and possibly some icy residue. Behind the wall, a hazy, muted winter landscape unfolds with bare deciduous trees on gentle slopes, some distant fields showing patches of snow, all under an overcast, light grey sky. The overall color palette of the background is muted greens, greys, browns, and whites.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The subject is a Blackbird (Turdus merula), characterized by its uniformly black plumage and a distinct bright orange beak. It is perched on a stone wall against a misty winter landscape. The bird's dark, solid black color creates a strong visual contrast against the much lighter, muted grey sky, the mottled grey-green and brown tones of the stone wall, and the hazy grey-brown of the distant bare trees and snow-dusted fields. There is no visual blending of colors or textures between the bird and its environment; instead, its dark form and bright beak make it highly conspicuous. Therefore, no camouflage is present."
+}

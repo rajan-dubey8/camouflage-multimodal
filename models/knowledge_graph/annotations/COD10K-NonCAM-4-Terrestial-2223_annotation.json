@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The organism is positioned on a large, rugged rock formation. The rock displays various shades of dark grey and brown, with a rough, textured surface showing cracks and irregularities. In the background, a body of blue water with gentle ripples and reflections from sunlight creates a blurred effect.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The otter's dark brown fur shares some general color tones with the dark grey and brown rock it is resting on. However, its distinct mammalian shape, the texture of its wet fur, and the visible highlights on its body prevent it from blending seamlessly into the environment. It is clearly visible against both the rock and the bluer water background, indicating no effective camouflage is present in this scene."
+}

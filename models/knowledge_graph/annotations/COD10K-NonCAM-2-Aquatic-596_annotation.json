@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Squirrelfish",
+  "background_description": "The background features a vibrant and diverse coral reef environment. It includes various types of sponges, notably numerous tube sponges in shades of brown, purple, and white, as well as some yellow cup-like structures. There are also textured coral formations and rocky areas with patches of algae or encrusting organisms, displaying a mix of blues, greens, browns, and lighter coral tones. The water is clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Squirrelfish is brightly colored in a reddish-orange hue with lighter fins, making it highly conspicuous against the varied textures and colors of the coral reef background. Its distinct coloration and smooth scales do not blend with the surrounding porous sponges or rough corals, confirming the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of dry, reddish-brown fallen leaves, likely eucalyptus, varying in size and showing some texture and natural folds. Interspersed among the leaves are thin, light green to pale yellow strands of dry grass or pine needles. A few small, vibrant green leaves are visible near the bottom left, adding a minor splash of contrasting color. The lighting creates some shadows, adding depth to the forest floor texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Katydid's coloration, particularly its abdomen with bold, bright red and blue stripes, creates a very high contrast against the muted browns, pale greens, and yellows of the dry leaves and grass that form its environment. While its head and thorax have some mottled grey/white, which could slightly blend with dappled light, the prominent and vivid abdominal colors make the organism stand out significantly rather than blend in. Its shape and texture also do not mimic any specific element in the immediate surroundings, further reducing any potential camouflage. The bright colors suggest aposematism (warning coloration) rather than crypsis."
+}

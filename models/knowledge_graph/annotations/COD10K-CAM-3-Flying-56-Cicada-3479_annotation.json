@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a thick, yellowish-tan bamboo pole on the left and a darker, weathered wooden beam on the right, positioned diagonally. Both structures have a somewhat rough texture. A dark, fibrous rope is tied around the bamboo pole and extends onto the wooden beam. In the upper and left parts of the image, out-of-focus green leaves from a tree or plant are visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Cicada is remarkably camouflaged against the dark, weathered wooden beam. Its body and wings display a complex pattern of dark browns, greys, and subtle lighter markings, which closely mimic the natural variations, cracks, and textured surface of the aged wood. The intricate veining on its wings blends seamlessly with the fibrous and irregular texture of the beam, as well as the dark rope near it. This strong color blending and pattern matching significantly reduce the contrast between the cicada and its immediate environment, making it difficult to distinguish at first glance."
+}

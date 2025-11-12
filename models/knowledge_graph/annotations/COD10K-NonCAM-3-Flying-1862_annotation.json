@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists of out-of-focus, dense green foliage, likely trees or bushes. The colors are predominantly dark to medium green, with some hints of lighter green and yellow in sunlit areas, creating a soft, blurred texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Blue Heron is primarily grey and blue, which contrasts significantly with the vibrant, blurred green foliage of the background. While herons often use their coloration to blend with water, sky, or rocky environments, in this specific image, the bird's distinct grey/blue plumage stands out clearly against the dominant green, making camouflage ineffective. There is no disruptive patterning or mimicry that helps it blend with this particular background, and its outline is clearly visible."
+}

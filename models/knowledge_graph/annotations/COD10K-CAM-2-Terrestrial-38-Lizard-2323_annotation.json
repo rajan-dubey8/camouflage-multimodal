@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of weathered, rough-textured wooden planks or logs and a large, partially moss-covered greyish rock under which the lizard is partially hidden. In the mid-ground and background, there is blurred green foliage and dry, brown leaves, suggesting a natural, vegetated environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard exhibits effective camouflage through color blending with its immediate environment. Its body is a mottled brown and grey, which closely matches the weathered tones of the wooden plank it rests upon and the underside of the large grey rock above it. The subtle patterns on its scales also blend with the natural textures of the wood grain and the rock. The lizard's position, partially in the shadow cast by the rock, further reduces its visibility by minimizing stark contrasts and creating a softer outline, making it difficult to discern at first glance. There is no significant color or luminance contrast that would make it stand out."
+}

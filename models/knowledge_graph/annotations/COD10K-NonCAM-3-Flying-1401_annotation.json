@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird on rock",
+  "background_description": "The background consists of a body of water with a vibrant green hue, indicating possible algae or reflections of dense foliage. The water surface shows subtle ripples. In the foreground, a large, grey, textured rock serves as a perch for the bird. Overhanging green leaves from trees or branches are visible at the top of the frame, some in focus and some blurred.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage, which is predominantly olive-brown on its back and wings with a distinctive black and white striped head pattern, does not offer effective camouflage in this specific environment. Its colors contrast significantly with the grey, granular texture of the rock it is perched upon and the vibrant green, rippled water behind it. The distinct markings on its head and its overall shape make it stand out rather than blend in with its immediate surroundings, indicating no active camouflage is being employed here."
+}

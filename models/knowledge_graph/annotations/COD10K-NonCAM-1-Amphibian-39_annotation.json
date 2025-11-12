@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Common Frog",
+  "background_description": "A terrestrial environment composed of dense green moss, dry straw-like grass, and fresh green blades of grass. This damp, vegetated ground is characteristic of habitats often found adjacent to ponds, streams, or other aquatic environments where amphibians reside.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Common Frog (an amphibian) resting on a mix of moss and grass. Its brown, earthy coloration provides some natural blending with the dry vegetation and soil tones present, but it stands out distinctly against the vibrant green moss and individual fresh green grass blades. The frog's outline and color differences make it easily discernible, confirming that no active camouflage is present."
+}

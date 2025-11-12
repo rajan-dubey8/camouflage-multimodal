@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a dense, varied underwater environment with multiple types of marine algae and seaweed. These include fine, branching, wispy structures in shades of olive green, brown, and reddish-brown, along with more solid, irregular rocky or coral-like surfaces covered in mottled growth. There's a general impression of murky water and particulate matter, typical of a busy underwater habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The SeaHorse is exceptionally well camouflaged in this image. Its body coloration, which ranges from reddish-brown to pinkish-brown, perfectly matches the dominant hues of the surrounding marine algae and rocky substrate. Furthermore, its unique morphology, characterized by numerous dermal filaments, appendages, and a highly irregular, bumpy texture, allows it to mimic the branching and frilly structures of the seaweed. This visual similarity in both color and texture makes it incredibly difficult to distinguish the seahorse from the dense background. Its overall shape is also disrupted by these appendages, preventing a clear outline from being perceived against the varied environment, which is a key aspect of mimicry in this context."
+}

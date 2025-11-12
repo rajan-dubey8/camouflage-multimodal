@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of coarse-grained sand mixed with various natural debris, including dark strands of dried seaweed or organic matter, small pebbles, and lighter, finer sand particles. The overall color palette is muted, ranging from light beige to dark grey-brown.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The crab demonstrates effective camouflage by blending remarkably well with its sandy and debris-filled environment. Its coloration, a mottled mix of grey, brown, and light specks, perfectly matches the varying hues of the sand grains and detritus. The texture of its shell appears rough and granular, mimicking the individual sand particles and small organic fragments, which helps to disrupt its outline. The overall contrast difference between the crab and its immediate surroundings is very low, making it difficult to distinguish the organism from the background at a casual glance. Its relatively small size further aids in this blending, allowing it to appear as just another piece of debris on the sandy surface."
+}

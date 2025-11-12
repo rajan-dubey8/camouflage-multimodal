@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dense thicket of dry, thorny bushes and tall, yellowish-brown dried grass. Scattered green leaves are visible among the branches. The ground appears dry and sandy. The scene is illuminated by strong sunlight, creating dappled light and shadow patterns through the vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The lions in this image exhibit effective camouflage. Their tawny, yellowish-brown fur color blends almost perfectly with the dry, golden-brown grass and the neutral tones of the dried branches and sandy ground. The dense, thorny bushes provide excellent cover, breaking up their outlines (shape disruption) and casting dappled shadows that further obscure their forms. The interplay of light and shadow, combined with the visual clutter of the branches and grass, significantly reduces the contrast between the lions and their environment, making them difficult to spot at first glance. This is a classic example of color matching and concealment within dense vegetation."
+}

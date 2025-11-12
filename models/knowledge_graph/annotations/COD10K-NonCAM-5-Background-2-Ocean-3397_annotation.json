@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Giant clams and branching coral reef",
+  "background_description": "Underwater reef scene with various types of coral, including prominent branching coral structures (Acropora species), and a rocky substratum. The background features muted blues, greens, and browns from the water, algae, and underlying coral structures, with areas of sediment and darker shadowed crevices.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features an underwater coral reef with two large clams and branching coral. The vibrant blue giant clam (likely Tridacna maxima) is not camouflaged; its bright, contrasting colors make it highly visible against the reef, potentially for warning or to maximize light exposure for symbiotic algae. However, the larger, darker clam to its right exhibits camouflage. Its heavily ridged, patterned shell and muted dark grey/green coloration allow it to blend effectively with the shadowed, textured rocky and coral background. Its disruptive patterns help break up its outline, and its colors match the surrounding environment's tones, reducing its contrast and making it less conspicuous to predators or prey."
+}

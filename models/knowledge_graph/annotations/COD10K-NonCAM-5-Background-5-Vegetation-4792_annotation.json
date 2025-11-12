@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Insects on a seed head",
+  "background_description": "The background consists of a highly blurred natural environment, featuring soft out-of-focus areas of green foliage, brown earthy tones, and lighter, possibly sunlit, patches. The textures are indistinct due to the shallow depth of field, with a prominent dark, spherical, textured seed head in the foreground, supported by a yellowish-green stem.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "Multiple small insects are present on the dark, bumpy seed head. Several of these insects exhibit excellent camouflage. Their dark coloration closely matches the deep brown/black hues of the seed head, resulting in high color similarity. Furthermore, their small size and irregular shapes allow them to integrate seamlessly with the complex, textured surface of the seed head, mimicking its natural bumps and crevices. This high texture similarity and low contrast difference make them very difficult to distinguish from the seed head itself, effectively concealing them from casual observation. While one lighter-colored insect is more visible, the presence of other well-camouflaged individuals supports the 'Camouflage' assessment."
+}

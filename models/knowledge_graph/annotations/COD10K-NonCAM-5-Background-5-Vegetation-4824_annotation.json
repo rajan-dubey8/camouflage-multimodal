@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Usnea lichen",
+  "background_description": "The immediate background consists of a brown-grey tree branch with rough bark, partially covered by patches of grey-green crustose lichen. The distant background is a soft, out-of-focus grey-green blur, likely distant foliage or an overcast sky. Water droplets are visible on the lichen and the branch, indicating a damp environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Usnea lichen exhibits camouflage primarily through color blending. Its yellowish-green hue harmonizes with the overall natural color palette of its habitat, blending with the muted greens and greys of other lichens and the distant background. While its stringy texture is distinct from the smooth parts of the branch, it contributes to an overall organic, complex appearance that allows it to blend into the textured, vegetative environment where such growths are common, making it less conspicuous to an observer. The slight contrast against the bare branch is mitigated by its complex form and the soft lighting."
+}

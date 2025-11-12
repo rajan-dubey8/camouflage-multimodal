@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background environment is a shallow, murky body of water reflecting the overhead sky and dark tree canopy. The water's surface is disturbed by ripples and shimmering highlights from the sun, creating a dynamic texture. Submerged within the water are dark plant debris, sediment, and patches of green, moss-like vegetation, especially visible along the water's edge on the right side of the image. The overall impression is one of natural, organic clutter.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog demonstrates effective camouflage primarily through color blending. Its mottled green and brownish-black skin tones closely match the dark, reflective surface of the water, the submerged organic material, and the patches of green vegetation. The partial submergence of the frog, with only its head visible just above the water line, further minimizes its discernible shape and helps it blend seamlessly with the complex background. The busy reflections and ripples on the water's surface also contribute to breaking up the frog's outline, making it difficult to spot at first glance due to the low contrast difference between the organism and its immediate surroundings."
+}

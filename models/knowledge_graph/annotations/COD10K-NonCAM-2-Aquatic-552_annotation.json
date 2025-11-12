@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of dark, murky green-blue water with visible ripples, reflections, and some small floating plant debris on the surface. The water appears to be still in some areas and gently disturbed around the animal.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an otter with its head out of the water. Its light greyish-brown fur and distinct facial features stand out sharply against the darker water, indicating no attempt at camouflage."
+}

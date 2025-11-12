@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tree canopy",
+  "background_description": "A dense overhead view of green tree leaves with dappled sunlight filtering through, revealing patches of bright blue sky. The foliage exhibits varying shades of green, from light lime where illuminated to darker forest green in shaded areas. Visible branches are subtly integrated within the leaf network.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a tree canopy and sky, with no visible animal, insect, or fish. Therefore, no organism is present, and camouflage cannot be evaluated or detected."
+}

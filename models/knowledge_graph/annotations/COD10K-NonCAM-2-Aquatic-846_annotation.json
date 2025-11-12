@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Peacock Bass",
+  "background_description": "The background consists of an underwater environment, likely an aquarium, featuring a speckled gravel or pebble substrate at the bottom, a dark brown piece of wood or root, and blurry green aquatic plants in the upper left. The water in the deeper background appears dark, almost black, suggesting shadows or depth.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Peacock Bass exhibits strong camouflage primarily through a disruptive pattern. Its body is marked with irregular dark bands and blotches over a base of yellowish-green. These patterns, combined with the fish's overall coloration, blend effectively with the varied textures, light, and shadows found in its natural freshwater habitat, which typically includes submerged vegetation, roots, and mottled substrates. The dark markings help to break up the fish's outline against the darker elements and shadows in the background, while the yellow-green tones match the lighter areas and aquatic plants. This combination makes it difficult for predators or prey to discern the fish's true shape and location."
+}

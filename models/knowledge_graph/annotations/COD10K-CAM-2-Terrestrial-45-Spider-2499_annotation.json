@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of a dry, brown, textured piece of bark or a decaying leaf, positioned vertically. It has an irregular, somewhat rough surface with varying shades of brown and hints of grey, characteristic of weathered wood or dried foliage. Behind this, there are blurred, darker brown and reddish-brown tones, indicating a deeper, out-of-focus background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits excellent camouflage against its environment. Its body and legs are a mottled greyish-brown with intricate dark patterns that perfectly match the color and texture of the dry bark or decaying leaf it is resting on. The irregular patterns on its carapace and abdomen, along with the banded legs, mimic the rough, variegated surface of the wood. The overall tone of the spider is very similar to the background, resulting in low contrast. While the bright green prey it is holding stands out significantly, the spider itself, as an organism, is highly camouflaged due to its effective color blending and pattern matching with its immediate surroundings."
+}

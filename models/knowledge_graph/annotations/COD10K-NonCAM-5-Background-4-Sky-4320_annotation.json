@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with cirrus clouds",
+  "background_description": "The image displays a vast expanse of sky dominated by wispy, translucent cirrus clouds. The sky itself is a soft blue-grey hue, with a subtle gradient. The clouds are elongated and feathery, illuminated by a warm, yellowish-orange light, suggesting either sunrise or sunset. The overall texture is smooth and ethereal, with subtle variations in light and shadow defining the cloud formations.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image exclusively depicts an environmental scene, specifically a sky with cirrus clouds. Therefore, camouflage presence cannot be assessed, as there is no subject to exhibit camouflage against its surroundings."
+}

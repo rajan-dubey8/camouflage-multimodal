@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow underwater sandy seabed. There are numerous irregular patches of light greenish-brown algae or detritus scattered across the fine-grained, off-white sand. The overall environment appears somewhat turbid, giving a muted, diffuse lighting effect.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Pipefish exhibits good camouflage through color blending. Its elongated body is a light, muted off-white/grey color, which closely matches the dominant tone of the sandy seabed. While its smooth texture contrasts with the granular sand and rougher algal patches, its overall low contrast and similar coloration to the brighter background elements help it to blend in and reduce its visibility to potential predators or prey. Its slender shape, while distinct, is muted by the color matching."
+}

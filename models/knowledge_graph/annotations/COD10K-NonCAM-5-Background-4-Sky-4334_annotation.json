@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mirrored cloud formation",
+  "background_description": "The scene features a deep indigo-blue sky partially covered by large, bright white to dark grey cumulus clouds. The image is horizontally mirrored, creating a striking symmetrical cloud structure. The clouds exhibit significant volumetric texture and varying light conditions, with bright highlights and deep shadows.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene, specifically a symmetrical cloud formation in the sky. There are no visible organisms (animals, insects, or fish) present in the image. Consequently, the concept of camouflage, which pertains to an organism blending with its environment, does not apply to this scene. The 'contrast_difference' is rated 'high' due to the strong visual contrast between the bright white clouds and the dark blue sky."
+}

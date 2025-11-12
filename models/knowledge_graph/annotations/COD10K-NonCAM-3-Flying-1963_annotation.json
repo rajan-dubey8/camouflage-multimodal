@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "White butterfly",
+  "background_description": "The main background for the butterfly is a vibrant pink Cosmos flower with a yellow-orange central disc. The overall background behind the flower is blurred, appearing as soft green and darker out-of-focus areas, indicative of foliage and distant elements in a garden setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The white butterfly is highly visible against the contrasting vibrant pink petals of the flower. Its pale coloration and distinct shape do not blend with the bright background, making it conspicuous rather than camouflaged. There is no attempt at color matching, texture mimicry, or disruptive patterning that would help it hide in this environment."
+}

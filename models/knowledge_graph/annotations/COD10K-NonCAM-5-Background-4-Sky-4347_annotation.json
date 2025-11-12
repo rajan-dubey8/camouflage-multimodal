@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky over forested hills",
+  "background_description": "The image features a vast sky with a mixture of bright white, light grey, and dark grey clouds against a clear blue sky. The clouds vary in shape and density, with some appearing fluffy and others more elongated. Towards the bottom of the image, a dark silhouette of a forested hill or mountain range is visible, indicating dense tree cover below the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The scene solely depicts a natural environment comprising a cloudy sky and a forested landscape, therefore, camouflage is not applicable."
+}

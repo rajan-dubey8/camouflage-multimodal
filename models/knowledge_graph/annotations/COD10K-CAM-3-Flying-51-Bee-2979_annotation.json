@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists of a weathered wooden plank with horizontal wood grain. The upper portion is covered in extensively chipped and peeling bright yellow paint, revealing the darker wood underneath. The lower portion primarily shows exposed, dark grayish-brown wood with distinct horizontal grain lines. A rusty metal bolt, also partially covered in yellow paint, is visible on the right side, casting a shadow below it. The overall texture is rough, cracked, and uneven.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bee, with its characteristic yellow and black striped abdomen and relatively defined shape, does not effectively blend with its environment. While the background features areas of yellow paint, these are chipped, faded, and irregular, contrasting with the bee's vibrant and distinct striped pattern. The bee's body texture is also smoother and more uniform than the rough, peeling wood and paint. Although the bee is small and positioned near a yellow-painted area, its specific patterns and clear outline ensure it remains readily discernible against the background's chaotic textures and varying colors. There is no significant color blending, pattern matching, or shape disruption that aids in concealment."
+}

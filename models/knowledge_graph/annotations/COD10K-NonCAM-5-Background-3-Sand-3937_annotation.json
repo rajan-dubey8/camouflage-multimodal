@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand dunes desert",
+  "background_description": "The background consists of vast, undulating sand dunes. The textures are smooth with fine-grained sand, sculpted into soft curves by wind. Colors range from bright golden yellow and warm orange-brown in sunlit areas to deep, rich brown in the extensive shadows, indicating strong, direct lighting.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural desert environment characterized by large sand dunes. No organisms (such as animals, insects, or fish) are visible within the frame. As there is no living subject present, camouflage cannot be assessed. The scene itself exhibits high contrast due to the interplay of bright sunlit sand and deep shadows cast by the dune formations."
+}

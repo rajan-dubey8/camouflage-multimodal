@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background consists of a seabed with a mix of sandy/gravelly textures and blurred greenish-brown elements, likely algae or detritus. The immediate surrounding environment appears to be rocky or sandy, covered with similar mottled patterns and colors as the fish.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The ScorpionFish exhibits excellent camouflage. Its body coloration, a mottled mix of browns, greens, whites, and dark spots, perfectly matches the sandy, rocky, and algal textures of its environment. The irregular, bumpy skin and dermal flaps further break up its outline, making it appear indistinguishable from the surrounding substrate. This combination of color blending, pattern matching, and shape disruption results in a very low contrast difference between the fish and its background, making it extremely difficult to spot. Only the bright yellow interior of its open mouth provides a slight visual cue, but the rest of its body is remarkably well hidden."
+}

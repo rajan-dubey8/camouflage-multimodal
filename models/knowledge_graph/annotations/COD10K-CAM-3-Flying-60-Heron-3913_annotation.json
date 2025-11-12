@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of dense tree foliage with numerous green leaves, varying in shade from lighter greens where illuminated to darker, shadowed greens. The heron is perched on a prominent, gnarled, dark brown tree branch with a rough texture, which is surrounded by the leafy canopy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Heron is not camouflaged in this image. Its pale grey and white plumage, particularly its body and head, creates a strong contrast against the dark green leaves and the dark brown, gnarled tree branch it is perched on. The heron's smooth feather texture also does not match the rough bark or the clustered, varied texture of the foliage. Its distinct shape and color make it highly visible and easily discernible from the surrounding environment."
+}

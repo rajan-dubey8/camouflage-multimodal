@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mbuna Cichlid",
+  "background_description": "Dark, deep blue open water with some blurry shapes of other fish in the distant background, suggesting an aquarium or deep water environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrantly blue Mbuna Cichlid in the foreground and a bright yellow Electric Yellow Cichlid further back. Both fish exhibit distinct, striking colors that contrast sharply with the dark water background, making them highly visible and indicating no camouflage."
+}

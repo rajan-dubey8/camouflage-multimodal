@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Coral",
+  "background_description": "The background consists of a dark blue to black hexagonal plastic grid, likely a frag rack in an aquarium or holding tank. Below the grid, a lighter, possibly white or light blue, surface is visible through the grid openings. Other colorful coral fragments (pink, purple, blue-green) are present in the surrounding water, out of focus.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The main subject is a light-colored coral, likely a large polyp stony (LPS) coral, with prominent bumps and folds, displaying hues of light beige, yellow, and blue. It is positioned on a dark blue/black hexagonal plastic grid. There is a high contrast in both color and texture between the coral and its immediate background (the dark grid). The coral's appearance does not blend with or mimic the man-made grid structure, indicating a clear absence of camouflage in this specific artificial environment. The schema provided limited object categories for organisms; 'Fish' was selected as the closest available category for a marine animal despite corals being invertebrates."
+}

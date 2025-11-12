@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background is an underwater coral reef environment, consisting of large, irregularly shaped rocks and corals. These display a mottled pattern of various earthy colors, including dark reddish-brown, pale pinkish-white, dull green, and significant shadowed areas. There are also some black sea urchins with prominent spines and some soft coral/anemone structures. The overall texture of the reef is rough, bumpy, and highly organic, with crevices and overhangs.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The moray eels in this image demonstrate moderate camouflage. Their greenish-brown to tan bodies, adorned with darker speckles, allow them to blend effectively with the earthier tones present in the rocky coral environment. They are nestled deep within a dark crevice, which provides excellent shadow hiding, obscuring their outlines and reducing their overall visibility. The irregular speckled pattern on their skin further aids in pattern matching with the mottled and varied textures of the surrounding rocks and corals, making their form less distinct. While their relatively smooth skin texture contrasts somewhat with the rough, granular coral, and brighter patches of coral introduce some contrast, their overall coloration, pattern, and strategic use of the shadowed crevice significantly reduce their detectability, making them blend rather than stand out."
+}

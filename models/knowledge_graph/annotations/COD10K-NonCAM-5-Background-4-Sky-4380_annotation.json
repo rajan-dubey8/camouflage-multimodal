@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Snowy mountain and fjord landscape",
+  "background_description": "The scene features a dramatic and intense sky with dark, heavy storm clouds partially illuminated by a bright, golden-orange light, indicative of either sunrise or sunset. Below the tumultuous sky, snow-capped mountains stretch across the horizon, their peaks dusted with white. In the foreground, a rugged, dark rocky shoreline, covered in a thin layer of snow, meets a calm body of water, likely a fjord or large lake, which reflects the somber light of the sky. The overall environment is cold, wild, and rugged.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment, a snowy mountain and fjord landscape under a dramatic sky. No animal, insect, or fish is visible within the frame. Therefore, there is no organism present that could be employing camouflage. As per the rules, if no organism is visible, camouflage is considered absent."
+}

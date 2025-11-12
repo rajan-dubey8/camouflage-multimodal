@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of a dense, intricate network of thin and thicker brown branches, many with small thorns, creating a complex, textured backdrop. Interspersed among the branches are various green and some reddish-brown leaves. Patches of a bright blue sky are visible in the upper background, suggesting an outdoor, possibly sunny environment. The overall impression is a natural, woody, and leafy arboreal habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The chameleon exhibits strong camouflage through a combination of color blending and pattern matching. Its body displays a mottled pattern of vibrant greens, earthy browns, and dark patches, which highly mimic the colors and textures of the surrounding green leaves and woody brown branches. The rough, scaly texture of its skin further helps it to blend with the bark of the branches. While its distinct shape is somewhat visible, particularly due to the prominent white/light green stripe along its side, the overall coloration and patterning make it difficult to discern from its immediate environment, especially at a distance. The complex network of branches also helps to break up its outline, contributing to shape disruption."
+}

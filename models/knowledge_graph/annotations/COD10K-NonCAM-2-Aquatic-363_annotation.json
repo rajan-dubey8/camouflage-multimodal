@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Glassfish",
+  "background_description": "The background is dark and appears to be dimly lit water, possibly within an aquarium. There are blurry, lighter, granular elements at the bottom, suggesting a gravel substrate.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Glassfish, characterized by its translucent body and distinct pink coloring along its fins and spine. Its form and vibrant (though possibly artificial) colors stand out clearly against the dark, featureless background, indicating no attempt at camouflage."
+}

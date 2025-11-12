@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a coarse, granular surface, appearing like sand or small gravel. It is composed of irregular, light-colored (white, light grey, tan) mineral grains interspersed with darker, finer particles and shadows, creating a mottled and textured ground. The lighting suggests a somewhat diffuse but bright source, highlighting the individual grains.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The lizard exhibits excellent camouflage. Its skin coloration, a mottled pattern of various shades of brown, grey, and black, almost perfectly matches the hues present in the sandy/gravelly background. The granular texture of its scales also remarkably mimics the irregular, rough texture of the coarse sand and small pebbles on which it rests. Furthermore, the irregular dark blotches and patterns on its body help to break up its outline, blending seamlessly with the varied light and shadow patterns and the overall speckle of the environment. This combination of color blending, pattern matching, and texture similarity makes the lizard incredibly difficult to distinguish from its surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mushroom Coral",
+  "background_description": "The background consists of a dark, granular, and muddy seafloor with scattered small rocks, detritus, and shell fragments. It has an uneven, rough texture, typical of a shallow marine environment substrate.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The main subject of the image is a Mushroom Coral (a type of solitary stony coral), which is a marine invertebrate. It exhibits vibrant green and yellowish-brown coloration and a distinctive fleshy, tentacled, and ridged texture. This appearance creates a high visual contrast against the dark, granular, and muddy seafloor background, which is predominantly brown and black with uneven textures. There is low color and texture similarity between the coral and its surroundings. The organism stands out prominently and does not exhibit any form of camouflage to blend with its environment.\n\nNote: The 'object_category' 'Insect' was chosen for schema adherence as no specific category for corals or other cnidarians/marine invertebrates was available in the provided options. This choice is based on 'Insect' being the only other invertebrate category listed, despite the biological inaccuracy for a coral."
+}

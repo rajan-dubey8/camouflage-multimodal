@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a dense cluster of soft coral or anemone polyps. These polyps are predominantly a pale cream to off-white color, featuring distinct dark brown, textured patterns that appear as stripes or ridges, often spiraling or encircling parts of the polyps. The overall texture of the background appears soft, fleshy, and somewhat intricate.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits strong camouflage in this image. Its body is predominantly pale, almost translucent, which creates a high color similarity with the light cream/off-white parts of the soft coral polyps it is among. The subtle brown markings and speckles on its head and dorsal area also show a degree of pattern matching with the dark brown stripes and ridges on the coral. The contrast between the fish and its immediate background is very low, making it difficult to discern its outline against the similarly colored and patterned environment. While the pipefish's texture is smoother than the more ridged coral, its color and general form effectively disrupt its visibility, allowing it to blend remarkably well."
+}

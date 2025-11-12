@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "American Toad",
+  "background_description": "A typical habitat for the American Toad includes shallow freshwater environments such as ponds, slow-moving streams, or marshy areas, characterized by muddy banks, submerged rocks, and emergent aquatic vegetation like reeds and algae.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an American Toad, distinguished by its warty, earthy-toned skin with reddish-orange spots. It is resting on a human hand, which provides a stark contrast to its natural coloration and texture, making it highly visible with no indication of camouflage."
+}

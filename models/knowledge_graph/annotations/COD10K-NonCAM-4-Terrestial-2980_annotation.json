@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Meerkat",
+  "background_description": "The background consists of sandy, light brown earth with scattered small pebbles and rocks, creating a granular and uneven texture. There is a slight mound or potential burrow entrance visible in the upper background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The meerkat exhibits effective camouflage through color blending. Its fur is primarily sandy brown and grey, with darker brown stripes on its back, which very closely matches the color palette of the sandy, rocky desert environment. This high degree of color similarity minimizes the contrast between the animal and its surroundings, making it difficult to distinguish. The texture of its fur, while distinct from granular sand up close, blends well in the overall scene. The dark stripes also provide a degree of disruptive patterning, helping to break up its outline against the uneven ground."
+}

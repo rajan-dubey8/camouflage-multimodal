@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Anhinga",
+  "background_description": "The background is an out-of-focus, blurry expanse of natural green foliage, presenting varying shades of dark to medium green with no discernible textures or distinct features.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Anhinga is clearly visible and does not exhibit camouflage in this image. Its dark brown and black plumage with distinctive white streaking on the neck and head creates a high contrast against the soft, blurry green background. The bird's form and coloration do not blend with the surrounding environment, making it stand out rather than conceal itself. There is no significant color or texture similarity between the bird and the background to suggest any form of camouflage."
+}

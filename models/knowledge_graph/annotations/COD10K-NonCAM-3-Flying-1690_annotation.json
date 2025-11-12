@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background consists of a dense wetland environment. It features a mix of green, live reeds and numerous dry, brown, and decaying fibrous plant stalks. Dark water is visible in some areas between the vegetation, with small floating green plants (possibly duckweed) on the surface. The overall impression is a tangled and natural aquatic plant habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The duck exhibits effective camouflage primarily through excellent color blending with its wetland environment. Its plumage, a mottled mix of browns, grays, and tans, closely matches the dry reeds, decaying vegetation, and shadowed water of its habitat. The speckled patterns on its feathers contribute to this blending by mimicking the visual complexity and texture of the surrounding plant matter, making it difficult to discern the bird's outline. The low contrast between the bird and its immediate surroundings further enhances its concealment, allowing it to blend seamlessly into the background while resting."
+}

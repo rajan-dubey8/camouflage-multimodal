@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral formation",
+  "background_description": "The scene is an underwater coral reef. The foreground features a large, branching soft coral with a textured, tree-like appearance and muted brown-pink coloration. The background consists of hazy blue-green water with visible suspended particles, revealing various other coral structures (some stony, some encrusting, some branching) on the seafloor. The overall color palette is dominated by blues, muted browns, and tans, with some darker green/reddish patches on the substrate.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a coral reef ecosystem. While corals are living organisms, the schema's 'Organism' category and associated camouflage analysis rules are specifically for animals, insects, or fish attempting to blend into their surroundings. The coral itself is a sessile part of the environment, not actively camouflaging. There are no other visible animals (fish, insects, mammals, etc.) present in the image that are attempting to camouflage. Therefore, the scene is categorized as an 'Environment' and no camouflage is detected."
+}

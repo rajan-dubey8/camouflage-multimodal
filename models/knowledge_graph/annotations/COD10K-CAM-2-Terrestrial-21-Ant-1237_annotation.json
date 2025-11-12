@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The ant is situated on a vibrant fuchsia/magenta petal of a large daisy-like flower. The flower features a bright yellow-green central disc surrounded by white and yellow florets. The petal surface is smooth with gentle curves. Out of focus green foliage is visible in the background around the edges of the flower.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The ant is dark brown to black in color and is positioned on a vibrant fuchsia-colored flower petal, adjacent to the bright yellow and white flower center. This creates a very strong visual contrast between the dark ant and the highly saturated, bright background elements. The ant's color, shape, and texture do not blend with the flower in any way, making it stand out prominently rather than being camouflaged."
+}

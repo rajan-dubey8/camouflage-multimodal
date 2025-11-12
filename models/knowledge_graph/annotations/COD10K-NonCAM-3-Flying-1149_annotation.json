@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blue Tit",
+  "background_description": "The bird is perched on a vibrant green conifer branch with dense, needle-like leaves. The background is a soft, highly blurred bokeh with warm, light brown and beige tones, featuring multiple prominent lens flares indicating a bright light source, likely the sun.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Blue Tit displays vivid blue, yellow, and white plumage, which stands out significantly against both the green conifer branch it is perched on and the soft, warm-toned, blurred background. The bright colors and distinct patterns are designed for species recognition and display, not for blending into this specific environment. Therefore, no camouflage is present; the bird is highly conspicuous."
+}

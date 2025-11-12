@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a soft, out-of-focus blur of natural greens and yellows/golds, indicative of lush foliage or vegetation bathed in sunlight. The organism is perched on a prominent, dry, brown wooden stick or twig with a textured, slightly pitted surface.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The mantis exhibits effective camouflage primarily through color blending. Its vibrant green body and wings closely match the dominant blurred green tones of the background foliage, allowing it to blend well with the general environment. While it is perched on a distinctly brown, dry stick, which offers less texture similarity, some of its leg segments display yellowish-orange hues that align with the warmer tones of the stick and the sunlit background. The mantis's elongated body shape also contributes to a general resemblance to a twig or leaf, though its specific posture and placement on this particular stick make its outline somewhat discernible. Overall, its coloration provides significant concealment against a natural leafy backdrop."
+}

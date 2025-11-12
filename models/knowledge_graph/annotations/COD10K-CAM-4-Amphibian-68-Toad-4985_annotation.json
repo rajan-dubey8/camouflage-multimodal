@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists primarily of dark brown, wet, gravelly mud, with numerous small, irregularly shaped pebbles and rocks. Patches of standing water reflect the light, creating a slightly glistening effect. Sparse aquatic or semi-aquatic vegetation, including small green leaves and thin reddish-brown stems, is also present around the edges and within the water.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its dark, mottled brown and grey coloration precisely matches the wet, gravelly mud and small pebbles of its environment. The bumpy, warty texture of its skin closely mimics the irregular shapes and rough surface of the surrounding gravel, effectively breaking up its outline and making it difficult to discern from the background. The low contrast between the toad's body and the wet ground further enhances its concealment. The irregular pattern on its back blends seamlessly with the varied textures and tones of the substrate, making it almost invisible upon first glance."
+}

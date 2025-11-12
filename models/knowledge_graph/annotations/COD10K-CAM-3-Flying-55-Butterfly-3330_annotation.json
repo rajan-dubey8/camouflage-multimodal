@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense cluster of small white flowers, likely from an umbellifer plant, with prominent green stems, developing flower buds, and some darker green foliage visible beneath. The overall texture is intricate and somewhat 'busy' due to the numerous small flowers and plant structures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterflies exhibit excellent camouflage against their natural environment. Their wings are a mosaic of white and irregular, mottled yellowish-green patterns. The white areas of the wings blend seamlessly with the clusters of small white flowers in the background, while the yellowish-green patches mimic the color and texture of the green stems and developing flower buds. The irregular, broken pattern on their wings also effectively disrupts their outlines, allowing them to merge with the intricate and 'busy' visual texture of the plant. This combination of color matching and pattern disruption makes the butterflies very difficult to distinguish from their surroundings."
+}

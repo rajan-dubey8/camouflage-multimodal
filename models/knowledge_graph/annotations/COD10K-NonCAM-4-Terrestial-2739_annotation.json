@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The background consists of a light-colored, rough stucco wall above and dark, weathered wooden fence posts below. The fence posts show vertical grain and some wear.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The squirrel's fur, a mix of grey-brown on its back and reddish-brown on its underside and tail, stands out clearly against the artificial background. Its colors do not match the light, textured stucco wall or the dark, weathered wooden fence. There is a strong color and texture contrast, making the squirrel easily visible rather than camouflaged."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Pagurian",
+  "background_description": "The background consists of a complex underwater rocky or coral environment, heavily populated with various marine growths. Dominant colors are earthy tones of brown, orange, and yellow, with some reddish patches. The textures are rough, porous, and highly irregular, indicative of sponges, detritus, and encrusting organisms. Shadows and varying light levels create depth and visual complexity.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Texture matching / Shape disruption",
+  "explanation": "The Pagurian, likely inhabiting an encrusted shell, demonstrates effective camouflage. The shell itself is covered in marine growth, primarily appearing as lumpy, irregular orange and reddish structures. These colors and textures blend remarkably well with the surrounding sponges and other benthic organisms in the background, creating high texture similarity and medium color similarity. The irregular shape of the encrusted shell helps to disrupt the typical outline of a crab, making it harder to discern as a distinct organism. While the Pagurian's eyes (blue with black pupils) and some of its antennae/bristles are a contrasting element that stands out, the overall body and shell achieve significant blending with the complex, colorful, and textured marine environment."
+}

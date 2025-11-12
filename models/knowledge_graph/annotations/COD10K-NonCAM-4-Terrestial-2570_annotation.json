@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of dark greyish-brown rocky and earthy ground in the foreground, transitioning to darker earth and thick, dark wooden logs or branches further back. There are hints of blurry green foliage in the distant background, suggesting a natural, possibly riparian, environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The otter exhibits a moderate degree of camouflage primarily through color blending. Its dark, greyish-brown fur tones are similar to the dark earth, rocks, and decaying wood prevalent in its environment. This natural coloration helps the otter blend into the shaded areas and varied textures of its habitat, reducing its visibility to predators or prey. While the otter's form is distinctly visible, its coloration minimizes the overall contrast difference with the background, especially against the darker elements like the logs and shaded ground."
+}

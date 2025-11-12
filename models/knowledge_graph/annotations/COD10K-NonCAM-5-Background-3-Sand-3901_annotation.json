@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical beach with kayak",
+  "background_description": "The foreground features a light brown sandy beach with fine texture, showing some ripple marks and a few small stones and debris. A prominent bright yellow kayak is resting upside down on the sand, tethered by a reddish-brown rope. The midground consists of a calm, grey-green ocean surface with gentle waves, dotted with several small boats. The background showcases large, verdant karstic islands and mountains, partially obscured by low-hanging grey clouds and mist. The sky above is dominated by thick, dark grey storm clouds, indicating overcast weather.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment comprising a beach, ocean, islands, and a cloudy sky, along with a man-made yellow kayak in the foreground. There is no animal, insect, or fish organism present that is attempting to conceal itself. The bright yellow color of the kayak strongly contrasts with the neutral tones of the sand, water, and sky, making it highly conspicuous rather than camouflaged. Therefore, camouflage is not present in this scene."
+}

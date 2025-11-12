@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Oscar fish",
+  "background_description": "The background consists of dark, blurred, and mostly uniform water, likely within an aquarium or tank, with a slightly lighter, diffuse halo immediately surrounding the bright fish, indicating plain, untextured surroundings.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a bright yellow Oscar fish with prominent features. Its vibrant coloration stands out significantly against the dark, uniform background, making it highly conspicuous and unequivocally indicating the absence of camouflage."
+}

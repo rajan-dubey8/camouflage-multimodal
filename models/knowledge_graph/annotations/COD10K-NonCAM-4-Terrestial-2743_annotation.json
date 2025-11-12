@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Wild rabbit",
+  "background_description": "The background consists of loose, dark brown and grayish-brown soil mixed with small pebbles, dry twigs, and sparse green foliage including broad leaves and small grass sprouts. The lighting is diffused, casting soft shadows, and there's a denser patch of bright green leaves behind the rabbit.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The wild rabbit exhibits effective camouflage through color blending. Its fur is a mottled mix of browns, grays, and reddish-browns, which closely matches the colors of the dry soil, dead leaves, and sparse vegetation in its immediate environment. The texture of its fur also blends well with the granular and irregular textures of the ground. While the rabbit is clearly visible in this well-lit photo, its natural coloration significantly reduces its contrast against the typical woodland or garden floor, making it harder to spot by predators in its natural habitat. The white tail is a notable exception but is usually tucked or used as a warning signal when fleeing."
+}

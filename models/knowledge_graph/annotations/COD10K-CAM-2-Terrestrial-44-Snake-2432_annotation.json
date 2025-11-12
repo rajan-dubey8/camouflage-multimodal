@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a forest floor covered in loose, granular soil, a substantial amount of dry, fallen brown and reddish-brown leaves, and numerous pieces of dead wood and dry twigs. There are also larger, dark, rough-textured elements, likely rocks or tree roots, providing shadowed areas. A few small green leaves are scattered throughout the foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The snake exhibits outstanding camouflage, primarily through pattern matching and color blending. Its body is covered in a complex pattern of dark browns, reddish-browns, tans, and grays, which perfectly mimics the mottled appearance of the dry leaves, soil, and scattered dead wood on the forest floor. The irregular blotches and bands on its scales effectively break up the snake's outline, making it appear less like a distinct organism and more like a part of the ground debris. The overall color palette and textural appearance of the snake are highly similar to its surroundings, resulting in a very low contrast difference. This combination makes the snake extremely difficult to spot against its natural habitat."
+}

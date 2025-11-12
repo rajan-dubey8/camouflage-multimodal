@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of an underwater rocky or coralline environment, dominated by irregular, rough surfaces. The primary colors are various shades of yellowish-brown, reddish-brown, and darker earthy tones, likely from encrusting algae or sessile marine organisms. There are also visible dark spines from a sea urchin at the top right, and some lighter, possibly sandy or bare rock patches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The SeaHorse exhibits effective camouflage primarily through excellent color blending with its environment. Its yellowish-orange body, with subtle darker markings and ridges, perfectly matches the dominant yellowish-brown and reddish-brown hues of the surrounding rocky substrate. The overall contrast difference between the seahorse and its background is low, making it visually merge into the environment. While its texture isn't identical to the rough rocks, it is not smooth and creates enough visual ambiguity to contribute to its blending. Its natural upright posture also helps it integrate with the vertical elements of its habitat, making it difficult to discern from the irregular background."
+}

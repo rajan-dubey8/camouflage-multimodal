@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a dense scattering of various-sized pebbles and small stones, ranging in color from light beige, off-white, and grey to reddish-brown, dark brown, and black, with some hints of green and orange. The textures are rough and granular, typical of beach or riverbed gravel. Some larger stones show patterns and lighter patches. A piece of clear, glassy material is also visible on the left.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab's carapace exhibits a mottled pattern of browns, beiges, and off-whites that almost perfectly matches the varied colors and granular textures of the surrounding pebbles and small stones. Its irregular shape and textured surface help it blend seamlessly with the rocky environment, making its outline difficult to discern. The low contrast difference between the crab and its immediate background contributes significantly to its effective camouflage, primarily through pattern matching and color blending with the gravel."
+}

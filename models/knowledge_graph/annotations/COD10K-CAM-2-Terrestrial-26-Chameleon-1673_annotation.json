@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of light brown/beige paving stones, likely concrete or natural stone, which appear dry and have a rough, granular texture. Distinct darker lines or grout connect these stones, and the surface shows some unevenness and scattered darker specks. The area is brightly lit by sunlight, casting prominent shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The chameleon displays effective camouflage by closely matching the color and texture of the paved surface it rests upon. Its skin features a mottled pattern of various shades of brown, beige, and dark greyish-green, which mimics the irregular coloration and granular texture of the stones and the darker grout lines. This combination of color blending and pattern matching helps to disrupt its silhouette and integrate its appearance with the rough, varied background, making it challenging to spot despite being in direct light. The overall contrast between the chameleon and its immediate surroundings is low."
+}

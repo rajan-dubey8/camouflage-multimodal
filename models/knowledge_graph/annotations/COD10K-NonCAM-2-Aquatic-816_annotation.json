@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blood Parrot Cichlid",
+  "background_description": "The background consists of dark, slightly blurry water, a bed of vibrant green and white speckled gravel, and a dark brown log-like aquarium decoration with some lighter spots. The overall environment appears to be an indoor aquarium.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish, identified as a Blood Parrot Cichlid, is brightly colored in prominent pink and white tones, with a distinct orange-red eye and a dark black patch on its dorsal fin. These vibrant colors create a high contrast against the dark background water, the bright green gravel, and the brown log decoration. There is low color and texture similarity between the fish and its surroundings. The fish is highly visible and stands out prominently, indicating that no form of camouflage is present. This species is typically bred for its distinctive appearance in aquariums, not for natural concealment."
+}

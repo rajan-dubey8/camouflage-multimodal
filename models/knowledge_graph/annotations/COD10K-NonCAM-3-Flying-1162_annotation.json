@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Red Admiral butterfly",
+  "background_description": "The background is a flat, light grey, mottled stone surface, likely granite or concrete, with subtle variations in shade and small dark specks, indicative of a paved or natural rock ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly, a Red Admiral, displays prominent and contrasting colors (bright orange, stark black, and white spots) on its wings. These vivid patterns stand out sharply against the light grey, speckled stone background. The coloration is not designed for blending with this environment and instead creates high contrast, making the butterfly easily visible. Therefore, no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Chalk Basslet",
+  "background_description": "The aquatic environment appears to be an aquarium, featuring out-of-focus soft coral or live rock structures in shades of brown and pink/purple in the foreground and lower midground. The upper and mid-background show muted, blurry green and yellowish hues, suggesting either distant aquatic plants or a simple aquarium background. Another blurry blue fish is partially visible in the left background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A Chalk Basslet (Serranus tortugarum) is clearly visible in the center of the image. Its distinct orange-pink body with white and bluish vertical stripes contrasts sharply with the blurry coral and muted background colors, indicating no camouflage."
+}

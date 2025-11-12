@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus Fish",
+  "background_description": "The background consists of dark, murky water, likely within an aquarium, with some faint particulate matter suspended. A clear vertical divider is visible, and there are small, light-colored pebbles or gravel at the bottom left.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays multiple Discus fish, one strikingly red and others with patterned bodies, against a dark aquarium background. Their distinct colors and patterns make them highly visible, indicating no camouflage is present."
+}

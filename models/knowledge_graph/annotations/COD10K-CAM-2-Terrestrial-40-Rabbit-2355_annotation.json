@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background is primarily a vast, gently sloping green grassy field, with varying shades of green indicating slight undulations and sun exposure. In the distance, there is a low stone wall at the top of the slope. The immediate foreground on the left features tall, dry stalks of grass and weeds, casting elongated shadows across a darker, shadowed patch of grass.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit's brownish-grey fur provides a moderate level of camouflage against the natural tones present in the grassy field environment. While its color differs from the dominant vibrant green of the grass, it bears a resemblance to drier patches of vegetation, exposed soil, or shadowed areas within the field. This color blending helps to break up its outline and prevents it from standing out dramatically. However, its distinct shape and texture against the more uniform grass, coupled with a medium contrast difference, mean it is not perfectly hidden but still achieves a functional level of concealment for its natural habitat."
+}

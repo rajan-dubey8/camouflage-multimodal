@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Northern Shoveler",
+  "background_description": "The background consists of rippled water, reflecting warm, subdued tones of brown, golden-orange, and grey, characteristic of calm water under ambient light or reflecting a muddy bank or sky at certain times of day. The surface shows gentle waves and reflections.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.4,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Northern Shoveler, particularly the female or juvenile shown, possesses mottled brown plumage which is a form of color blending camouflage adapted for wetland and marshy environments. These cryptic colors are intended to help the bird blend with mud, reeds, and dappled light on water. In this specific image, while the duck's brown body does exhibit some medium color similarity with the brownish-golden hues of the rippled water, its distinct form, upright posture with spread wings, and the bright undersides of its flight feathers create a high contrast against the background. The textural difference between the feathers and the water's ripples is also low in similarity. Consequently, despite possessing inherent camouflage characteristics, the bird is highly visible and not effectively hidden in this particular scene and posture."
+}

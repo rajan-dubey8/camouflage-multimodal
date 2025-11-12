@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Green flowering plants with blurred background",
+  "background_description": "A deeply blurred, out-of-focus background with soft bokeh lights in shades of green and yellowish-green, suggesting distant foliage or sunlight filtering through trees.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts green flowering plants against a blurred natural background. No animal, insect, or fish is visible in the scene. According to the rules, if no organism (animal, insect, or fish) is present, camouflage is not applicable, and the entity type is classified as 'Environment'."
+}

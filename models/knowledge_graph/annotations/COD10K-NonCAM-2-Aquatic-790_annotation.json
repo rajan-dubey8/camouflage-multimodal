@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Striped Cichlid",
+  "background_description": "A murky, greenish-brown aquatic environment with indistinct blurry shapes, likely submerged vegetation or debris, and varying light penetration. A dark, out-of-focus vertical structure is visible on the far right.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The fish exhibits a clear disruptive camouflage pattern with bold, dark vertical stripes against a lighter, yellowish-brown body. This pattern helps to break up its perceived outline and shape, making it difficult for predators or prey to distinguish the fish as a single entity within the visually cluttered, murky green and brown aquatic environment. The high contrast of the stripes on its body effectively creates false edges, while the overall coloration provides a medium similarity to the background tones."
+}

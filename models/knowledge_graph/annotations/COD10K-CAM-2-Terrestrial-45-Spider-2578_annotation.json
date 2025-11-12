@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The organism is situated on a large, vibrant yellow flower with numerous textured petals radiating outwards from a central disk. The central disk is a dense cluster of smaller florets displaying warmer hues of yellow, orange, and reddish-brown. The petals show variations in light and shadow, with some creases and natural texture visible. The background beyond the flower is out of focus, appearing as blurred greens and browns.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits strong camouflage, primarily through excellent color blending with its environment. Its body is a pale yellow-green color that very closely matches the bright yellow petals of the flower it is resting upon. This close color match significantly reduces its visibility against the floral background. While the spider's relatively smooth body texture and rounded shape are not identical to the crinkled texture and linear forms of the petals, the overwhelming success of its color matching minimizes contrast and makes it very difficult to discern the spider from the flower, rendering it highly camouflaged to both predators and prey."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists primarily of dry, reddish-brown soil with numerous patches of dry, straw-like grass and some sparse green grass blades. Small pebbles and debris are scattered on the ground, and a darker, possibly wooden or concrete, edge is visible in the upper left of the frame. The environment appears arid or dry.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Owl demonstrates excellent camouflage in this image. Its plumage is a mosaic of browns, tans, and off-white spots, which remarkably match the colors of the dry, reddish-brown soil and the interspersed dry grass blades. The spotted pattern on its feathers mimics the texture and visual irregularities of the ground, including small stones and dried vegetation, effectively breaking up its outline (shape disruption). While its bright green eyes create a focal point and stand out, the rest of its body blends almost seamlessly with the environment, making it very difficult to spot if not for its direct gaze. The overall effect is a high degree of color and pattern matching that allows the owl to disappear into its natural habitat."
+}

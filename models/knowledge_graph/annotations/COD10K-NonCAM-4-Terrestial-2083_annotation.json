@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness with cubs",
+  "background_description": "The background consists of a chain-link fence behind the lioness, with lush green foliage visible beyond it. The immediate ground where the lioness and cubs are resting is composed of reddish-brown earth mixed with patches of dry, light-brown grass and some sparse green growth. The area has varying light, with sunlit and shaded spots.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lioness and her cubs exhibit natural color blending camouflage. Their tawny, sandy-brown fur color closely matches the reddish-brown earth and the dry, light-brown grass of their immediate resting area. This coloration is a classic adaptation for blending into savanna and grassland environments, which are characterized by similar earthy tones. While the presence of a chain-link fence and greener foliage in the deeper background creates some visual contrast, their primary coloration allows for a noticeable degree of concealment against the ground they are on. The camouflage is effective in terms of color matching, though there is a difference in texture between their fur and the rough ground."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense arrangement of olive tree leaves. These leaves are elongated, leathery, and display various shades of green, from dark emerald in shaded areas to lighter, yellowish-green where sunlight hits directly. Some leaves show minor damage or irregularities. Patches of blurred blue sky are visible in the background, suggesting an outdoor, bright environment. The lighting is strong, creating highlights and shadows on the foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly exhibits excellent camouflage primarily through color blending. Its wings, when closed, are a pale greenish-yellow, which very closely matches the color of the sun-drenched olive leaves it is resting upon. The lighter parts of the leaves and the butterfly's wings share a similar hue and brightness. While the texture of the butterfly's wings is slightly fuzzy, it doesn't create a significant visual discrepancy with the leaf surfaces, which also have subtle variations and imperfections. The low contrast between the butterfly and its immediate background makes it difficult to distinguish at first glance, allowing it to blend seamlessly with the foliage. The shape of its closed wings also somewhat mimics a folded or damaged leaf, contributing to the overall concealment."
+}

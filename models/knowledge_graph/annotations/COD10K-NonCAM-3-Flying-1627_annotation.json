@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Yellow-crowned Night-Heron",
+  "background_description": "Shallow, dark muddy water with visible reflections of light, interspersed with numerous thin, upright grass-like plants. The plants vary in color from vibrant green to brownish-green and dry brown, typical of a flooded field or wetland environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Yellow-crowned Night-Heron exhibits a degree of camouflage through color blending. Its mottled dark grey and blue-grey plumage, combined with speckles, helps it blend with the muted, varied tones of the muddy water and the dark and brown stems of the sparse vegetation in the wetland environment. While the bird's distinct shape and head markings are visible, its overall coloration is cryptic, making it less conspicuous in its natural habitat by reducing its contrast against the background."
+}

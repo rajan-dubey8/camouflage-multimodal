@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is resting on a weathered, light brown to grey wooden log. The log has prominent horizontal grain lines, cracks, and a rough texture. In the background, out of focus, there is lush green foliage with some clusters of small purple flowers.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage against the wooden log. Its skin coloration, a mottled pattern of grey, brown, and tan, perfectly matches the weathered, desaturated color of the wood. The scaly texture of the lizard's skin also closely resembles the rough, grainy surface and cracks of the log, contributing to high texture similarity. Furthermore, the lizard's irregular pattern of light and dark patches helps to break up its outline (shape disruption) and blend with the wood's natural variations, resulting in a low contrast difference. This combination of color, texture, and pattern matching makes the lizard very difficult to spot at first glance, effectively concealing it in this environment."
+}

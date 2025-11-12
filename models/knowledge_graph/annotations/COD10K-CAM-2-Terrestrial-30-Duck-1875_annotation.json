@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background consists of a dense wall of tall, vertical green reeds or grass, with some drier, brownish stalks interspersed. The lower portion of the image shows dark, calm water reflecting the surrounding vegetation. There are areas of bright sunlight and deep shadow within the reeds, creating a varied texture and color palette.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The duck's mottled brown and grey plumage provides good color blending with the varied earthy tones, including the darker, shaded greens and browns found within the dense reeds and the water. While the vibrant green of the reeds isn't a perfect match for the duck's primary feather colors, its position deep within the vegetation, combined with the dappled light and shadow, helps to break up its outline and reduce its overall contrast against the background. The vertical lines of the reeds also contribute to shape disruption, making the duck less conspicuous. It is partially obscured, enhancing its concealment."
+}

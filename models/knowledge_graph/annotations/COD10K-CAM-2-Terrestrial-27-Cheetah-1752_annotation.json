@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The background consists of an open savanna or grassland environment. The immediate foreground and midground are covered in dry, straw-colored grass, interspersed with patches of greener vegetation. Further back, there are scattered trees, some appearing bare or with sparse foliage, and several fallen logs. The lighting is bright, creating a natural, somewhat muted palette of browns, tans, and muted greens.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The cheetah exhibits excellent camouflage in this natural habitat. Its base coat color, a light tan-yellow, closely matches the dominant dry, straw-colored grass that covers the ground. This provides high 'Color blending'. The distinctive black spots on its fur serve as 'Pattern matching', effectively breaking up the cheetah's outline (disruptive coloration) and mimicking the varied textures, shadows, and dappled light found within the tall grass and sparse vegetation. Although the standing cheetah is visible, its patterns and colors allow it to blend seamlessly into the environment, especially when it is still or moving slowly. There is also a second cheetah lying down to the right, which is much harder to discern due to its low profile and effective blending, further emphasizing the camouflage's efficacy. The overall contrast difference is medium; while the spots create internal contrast, the cheetah's general coloration prevents it from starkly standing out against the background."
+}

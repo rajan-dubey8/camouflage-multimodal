@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Ostrich",
+  "background_description": "The background is a uniformly colored, light orange-brown or tan surface, appearing smooth and out of focus, typical of an arid or sandy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The ostrich's plumage, particularly the dusty brown and tan feathers visible on its head and neck, exhibits a high degree of color similarity with the plain, light orange-brown background. This effective color blending, combined with a low contrast difference, indicates camouflage. Ostriches naturally use their coloration to blend into the arid and semi-arid environments they inhabit, making it harder for predators to spot them against sandy or dry earth."
+}

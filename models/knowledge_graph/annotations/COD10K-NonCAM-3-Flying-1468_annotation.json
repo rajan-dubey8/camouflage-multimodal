@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a cluster of bright red-orange flowers with slender, reddish stamens. The immediate background is a soft, out-of-focus blur of green and muted grey/pink hues, suggesting distant foliage and ambient light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly exhibits bright orange wings with prominent black veins and white spots, outlined with a distinct black border. These colors and patterns create a high contrast against both the red-orange flower it is resting on and the blurred green and grey background. Its vibrant appearance makes it highly conspicuous, indicating a lack of camouflage. Such bold coloration is often associated with aposematism (warning coloration) rather than concealment."
+}

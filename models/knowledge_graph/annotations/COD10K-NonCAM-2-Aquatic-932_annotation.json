@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish in anemone",
+  "background_description": "The background consists of a large sea anemone with numerous long, slender, yellowish-brown tentacles that have lighter, almost fluorescent green tips. Behind and beneath the anemone, there is a rocky coral reef environment, showing textures of encrusting corals and rocks in muted blue-grey and brown tones, suggesting depth or underwater lighting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The clownfish exhibits a vivid, bright red coloration with distinct white and light blue stripes, making it highly conspicuous against the olive-green/yellowish-brown tentacles of its host anemone and the darker, muted tones of the coral reef background. There is a strong color contrast and no apparent attempt to blend with its surroundings. Clownfish rely on the protective stinging tentacles of the anemone for defense, rather than using camouflage to avoid predators."
+}

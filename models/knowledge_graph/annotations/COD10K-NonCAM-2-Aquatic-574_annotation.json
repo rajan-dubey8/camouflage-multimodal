@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Red Zebra Cichlid",
+  "background_description": "The background depicts a vibrant and diverse coral reef environment. It features various types of corals, including stony and branching structures in shades of green, blue, purple, and red. The water above is a clear, bright blue, with sunlight appearing to filter down from the surface, creating a slightly hazy effect in the mid-ground. Several small, colorful fish are visible among the corals.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright orange fish, likely a Red Zebra Cichlid, swimming above a colorful coral reef. Its distinct orange coloration sharply contrasts with the blue water and multi-colored corals, making it highly visible and indicating no camouflage."
+}

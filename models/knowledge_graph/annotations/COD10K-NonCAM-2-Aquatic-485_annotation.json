@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi Fish",
+  "background_description": "The aquatic environment is a shallow pond or water feature with dark green water, showing significant reflections of overhead foliage and sky on its rippled surface. A concrete or stone edge is visible in the foreground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays several Koi fish, which are vibrant orange and reddish-orange, some with black markings. Their bright coloration stands out distinctly against the dark green water and reflections, confirming the absence of camouflage."
+}

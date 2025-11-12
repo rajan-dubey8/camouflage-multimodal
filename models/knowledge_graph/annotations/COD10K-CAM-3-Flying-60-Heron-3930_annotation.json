@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of dense tree foliage with numerous small, elongated leaves ranging from medium green to a lighter, slightly silvery-green hue. There are also visible brown-grey branches and twigs forming an intricate, irregular pattern. The deeper background is a more uniform, blurred dark green mass of trees.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Heron is not camouflaged in this image. Its light grey and white plumage stands out significantly against the predominantly green foliage and brown branches of the tree. While there are some lighter green tones in the leaves, the heron's overall color palette does not blend with the background's greens and browns. Furthermore, its distinct shape, including its long neck, sharp beak, and long legs, creates a clear silhouette and form that contrasts sharply with the irregular, fine textures and shapes of the leaves and twigs. There is a high contrast difference in both color and luminance between the bird and its surroundings, making it easily detectable."
+}

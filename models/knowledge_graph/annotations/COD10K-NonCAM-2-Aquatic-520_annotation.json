@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of dark green-brown water with visible ripples, reflections, and bubbles around the swimming otter. The water appears to be a freshwater environment, possibly a river or a large pond.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an otter swimming with its head above the water, creating splashes and ripples. Its dark brown fur stands out against the green-brown water, indicating no camouflage is present. The animal is highly visible."
+}

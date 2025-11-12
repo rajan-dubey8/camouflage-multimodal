@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pufferfish",
+  "background_description": "The background consists of dark, deep open water, appearing almost black, with faint specks of particulate matter visible. There are no prominent structures like coral, rocks, or sand.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Pufferfish with a bright yellow head and greenish-grey body, featuring a distinctive white mouth. Its colors and form stand out strongly against the dark, featureless background, indicating no attempt at camouflage."
+}

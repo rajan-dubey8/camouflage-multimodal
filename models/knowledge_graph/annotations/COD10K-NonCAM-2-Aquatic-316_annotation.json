@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Kole Tang",
+  "background_description": "The aquatic environment features a light-colored sandy seabed with scattered small pebbles. In the foreground, there's a distinct yellow-orange plate-like coral with vibrant pink edges. The mid-ground and background consist of various corals and rocky structures, including tall, branched reddish-brown soft corals (gorgonians) and darker, irregular rock formations covered with what appears to be purple-red encrusting algae or sponges.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Kole Tang is clearly visible with its yellowish-tan body transitioning to a darker rear, standing out distinctly against the light sandy seabed and the varied colors and textures of the corals. There is no attempt at blending or hiding, confirming the absence of camouflage."
+}

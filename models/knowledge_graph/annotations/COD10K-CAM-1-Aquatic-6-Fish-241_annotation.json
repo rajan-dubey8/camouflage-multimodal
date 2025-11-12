@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists primarily of dark, irregular rocky surfaces interspersed with patches of light-colored sand. The rocks have a rough texture and are often dotted with small white or light-colored specks, likely sand or tiny organisms. The scene appears to be shallow water, with some slight ripple or reflective effects on the surface, casting subtle variations in light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The fish exhibits excellent camouflage by perfectly matching the mottled pattern and coloration of its environment. Its body is covered in a complex pattern of dark (black/dark brown) patches and lighter (white/grey) speckles, which directly mimic the dark rocks sprinkled with light sand particles. The irregular borders of these patterns on the fish help to break up its outline, making it difficult to distinguish from the similarly textured and patterned substrate. Both color and texture blend seamlessly with the background, resulting in a very low contrast difference between the fish and its surroundings."
+}

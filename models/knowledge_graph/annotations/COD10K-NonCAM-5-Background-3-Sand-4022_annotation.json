@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical coastline",
+  "background_description": "The scene depicts a tropical coastal environment with a prominent rocky shoreline in the foreground, characterized by eroded limestone rocks in shades of grey, beige, and brown, with some greenish algal growth near the waterline. The ocean water is a vibrant turquoise and teal with gentle waves. In the mid-distance, a sandy beach is visible, lined with numerous palm trees and colorful resort buildings and umbrellas. A small red and white lighthouse stands on a distant rocky outcrop. The sky above is a clear light blue with some wispy clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily displays a tropical coastal environment, encompassing rocky shorelines, ocean water, a sandy beach, and distant resort features. While a few small birds are visible in the sky and perched on the rocks, they are not the main subject and do not exhibit any form of camouflage. No other organisms attempting to blend into the environment are present, thus no camouflage is detected."
+}

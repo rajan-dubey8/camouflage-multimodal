@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Birds in flight",
+  "background_description": "The background consists of a vast sky, transitioning from light blue overhead to warm orange and pink hues near the horizon where the sun is setting. Scattered white and grey clouds are present, particularly on the left. Below the horizon, there is a silhouette of dense dark vegetation, likely trees and wetland grasses, bordering a calm body of water that reflects the sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image contains several small birds flying in the sky. These birds are visible as distinct, dark silhouettes against the much brighter backdrop of the setting sun and the sky. Their dark appearance contrasts sharply with the light blue and warm orange tones of the sky, making them highly visible rather than camouflaged. There is no evidence of color blending, disruptive patterns, or mimicry with the atmospheric or cloud textures."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of dry, granular soil or dirt. It is characterized by an uneven, textured surface with numerous small pebbles, sand grains, and dirt clumps. The dominant colors are various shades of light brown and tan, with darker brown and grey patches, suggesting a mix of soil and mineral components. The environment appears to be under direct sunlight, creating subtle shadows beneath the larger soil particles.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits excellent camouflage by perfectly blending with its environment. Its body coloration features mottled patterns of light brown, tan, grey, and darker specks, which very closely match the varying hues and tones of the granular soil. The textured, hairy appearance of the spider, particularly on its legs and abdomen, mimics the rough, uneven texture of the ground, including the small pebbles and dirt clumps. The irregular patterns on its body effectively break up its outline, preventing it from standing out as a distinct shape. This combination of color matching, pattern disruption, and textural resemblance results in a very low contrast difference between the spider and its surroundings, making it incredibly difficult to spot against the dirt."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a barren, rocky landscape with numerous small to medium-sized pebbles and rocks in various shades of grey, brown, and reddish-brown. Sparse, low-lying vegetation, some appearing reddish-green and some dry, straw-like grasses, is scattered throughout. A light dusting of frost or ice covers parts of the ground and vegetation, adding a subtle whitish-blue shimmer. The overall texture is highly granular and mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage, blending seamlessly with its rocky and sparsely vegetated environment. Its plumage features a complex pattern of grey, brown, and white flecks and intricate barring that perfectly matches the colors and granular textures of the surrounding pebbles, rocks, and dried vegetation. This high color and texture similarity, combined with a low contrast difference, effectively disrupts the bird's outline, making it extremely difficult to distinguish from the background. The subtle mottling and barring on its feathers mimic the granular appearance of the ground, including the light dusting of frost, further enhancing its concealment by appearing as just another textured element of the environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Moose and calf",
+  "background_description": "A dense summer forest undergrowth featuring tall green leafy plants and stems, interspersed with clusters of purple fireweed flowers. The background shows slightly darker green foliage from trees or shrubs.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The moose and its calf are clearly visible against the bright green and purple backdrop of the dense vegetation. Their dark brown/grey and reddish-brown fur colors provide a high contrast against the vibrant green leaves and purple flowers, making them stand out significantly. There is no evidence of color blending, disruptive patterns, or mimicry that would aid in their concealment within this specific environment. Therefore, no camouflage is present."
+}

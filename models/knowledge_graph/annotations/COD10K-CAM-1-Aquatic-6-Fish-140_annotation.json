@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater environment with a dense arrangement of irregular, rough-textured rocks or dead coral pieces. These formations are varied in size and shape, creating numerous crevices and shadows. The colors of the substrate range from greenish-grey, dull brown, and dark grey to lighter beige and off-white patches, with a generally muted and mottled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage by effectively blending with its rocky underwater environment. Its body is dark grey to black, densely covered with small, irregular white spots. This pattern strikingly mimics the mottled and variegated surface of the surrounding rocks and coral, which are themselves composed of darker grey/brown areas interspersed with lighter greenish-grey and beige patches. The high density of white spots on the fish's dark body creates a visual 'texture' that aligns well with the rough, irregular surfaces of the rocks. Furthermore, the fish's somewhat irregular shape and its position nestled amongst the rocks help to disrupt its outline against the complex background, reducing the contrast difference and making it difficult to distinguish as a separate entity from the environment."
+}

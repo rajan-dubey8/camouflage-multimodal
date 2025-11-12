@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Rosy Starling",
+  "background_description": "The bird is perched on a slender branch adorned with several elongated seed pods, which display a mix of reddish-brown, muted green, and yellowish tones. The background consists of a clear, bright blue sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Rosy Starling's distinct coloration, featuring light tan/pinkish underparts and a dark head and wings, creates a high contrast against the bright, clear blue sky background. While it is perched among reddish-brown and greenish-yellow seed pods, its specific feather colors and patterns do not visually blend with these elements. There is no disruptive patterning, color blending, or mimicry evident that would help it merge with its surroundings; rather, it stands out clearly, especially against the uniform blue sky."
+}

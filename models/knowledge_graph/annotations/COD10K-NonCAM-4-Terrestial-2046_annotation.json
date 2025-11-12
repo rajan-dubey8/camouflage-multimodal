@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sea Lion",
+  "background_description": "The background consists of large, rugged, light-colored rocks, predominantly grayish-white and off-white, with visible cracks, shadows, and an uneven, rough texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The sea lion's brownish-tan fur creates a clear contrast against the much lighter, grayish-white rocky background. While sea lions commonly rest on rocks, their coloration does not significantly blend with this specific light-colored, craggy environment. The texture of its smooth fur also differs significantly from the rough, jagged rock surfaces. Consequently, the animal is easily distinguishable, indicating no effective camouflage is present."
+}

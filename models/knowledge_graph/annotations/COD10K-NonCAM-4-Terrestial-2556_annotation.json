@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rhino calf and adult",
+  "background_description": "The rhinos are lying on dry, reddish-brown to tan sandy ground, which appears dusty with some subtle texture from small pebbles or disturbed earth. In the background, there's a blurred blue structure and some dark vertical poles, suggesting an artificial enclosure or zoo environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The rhinos exhibit a degree of color blending with their immediate surroundings. Their thick, dusty grey-brown skin color closely matches the dry, sandy earth they are resting on. The texture of their skin also has some similarity to the granular ground. This natural crypsis helps them to blend passively with their typical arid or semi-arid environments. However, their large size, distinct bodily forms, and the clear distinction created by shadows prevent them from being effectively hidden or difficult to spot in this particular scene, resulting in a low camouflage score despite the presence of color blending."
+}

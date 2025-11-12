@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tinfoil Barb",
+  "background_description": "The background consists of a solid, bright green wall, likely a painted aquarium backdrop. On the left side, there's a dark grey, textured cylindrical object, resembling an aquarium filter or heater. In the lower right corner, there are dark, spiky, artificial plant structures. The water appears clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Tinfoil Barb fish with a silver-grey body and a distinct bright red caudal fin, along with yellowish pelvic/pectoral fins. Its vibrant coloration and reflective scales stand out distinctly against the solid green aquarium background and artificial environment, indicating a high contrast and no attempt at camouflage."
+}

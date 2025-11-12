@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background consists of murky, dark blue-green open water with numerous small, scattered white particles suspended throughout. The upper part of the image shows light refraction and possibly the water surface or tank lid.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a reddish-brown Rockfish swimming in murky open water. Its distinct coloration and shape stand out against the darker background, indicating a clear absence of camouflage."
+}

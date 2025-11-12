@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a forest floor covered with dry, fallen leaves, twigs, and organic debris. There is dappled sunlight filtering through, creating varied patches of light and shadow across the ground. A blurry green leaf and a thick, out-of-focus branch are visible in the foreground, partially obscuring the view.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog demonstrates excellent camouflage, primarily through color blending. Its dorsal coloration, a mix of light tan, beige, and reddish-brown, almost perfectly matches the hues of the dry, decaying leaves and organic litter on the forest floor. The dappled sunlight further enhances this effect by creating varied light and shadow patterns on both the frog's body and its surroundings, effectively breaking up its outline and making it blend seamlessly into the visual noise of the environment. The dark stripe extending from its eye also contributes to its crypsis by blending with darker shadows or debris. The overall low contrast difference between the frog and its immediate background makes it very difficult to spot."
+}

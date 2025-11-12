@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Dense, blurred green foliage, consistent with lush aquatic plants or emergent vegetation at the edge of a water body, with lighter, out-of-focus areas in the upper background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A toad, identified as an Amphibian, is clearly visible in the foreground. Its mottled brown and reddish-orange skin with warty texture stands out distinctly against the soft, green background, which is interpreted as aquatic vegetation according to the dataset context. The animal's features do not blend with its surroundings, confirming the absence of camouflage."
+}

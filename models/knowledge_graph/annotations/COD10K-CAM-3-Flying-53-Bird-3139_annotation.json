@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense arboreal environment. The prominent features are a thick tree trunk with rough, textured bark covered in grayish-green lichen, and a gnarled branch extending from it, also covered in similar textures. Various green leaves, some sharply in focus in the foreground and others blurred in the midground and background, create a natural, verdant canopy. The lighting is diffused, contributing to the subdued color palette of the tree components.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits outstanding camouflage, blending almost seamlessly with its environment. Its plumage features a mottled pattern of grays, browns, and whites that remarkably matches the colors and intricate textures of the tree bark and the lichen covering the branch and trunk. The bird's elongated, upright posture, with its head tilted upwards, makes it strongly resemble a broken stump or an extension of the tree branch itself, effectively disrupting its avian outline and shape. This combination of highly similar colors, matching patterns, and a posture that mimics an inanimate object results in very low contrast differences between the bird and its surroundings, making it incredibly difficult to spot. The presence of the white egg on the branch, while not camouflaged itself, reinforces the stillness and integration of the bird into its perch."
+}

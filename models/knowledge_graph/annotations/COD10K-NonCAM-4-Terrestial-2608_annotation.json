@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk",
+  "background_description": "The background consists of a field of tall, mostly dry and light green grasses in the foreground and mid-ground. Behind the grasses, there is a dense coniferous forest composed of dark green pine or fir trees. Several fallen logs and pieces of deadwood are scattered across the grassy ground, adding brown and grey textures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The elk exhibits natural camouflage through color blending. Its coat features a lighter tan/brown on the body and darker brown on the neck, legs, and face. These colors closely match the dry, light brown grasses of the immediate foreground and the darker brown of fallen logs and tree trunks in the background. The darker fur on its neck and legs also blends with the shadows and the darker tones of the coniferous forest. While the elk is visible, its coloration significantly reduces its contrast against the natural environment, aiding in concealment within its typical habitat of grasslands and forests."
+}

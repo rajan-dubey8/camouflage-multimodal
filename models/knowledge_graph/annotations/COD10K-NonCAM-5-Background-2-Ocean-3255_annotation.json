@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background consists of a vibrant and complex coral reef ecosystem. It features various types of corals, including large plate-like corals with white and beige tips, branching corals, and numerous irregular rocky formations covered in dark green and brown algae. There are significant areas of deep shadow, indicating depth and low light conditions.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "A fish is subtly present in the upper-left quadrant of the main image, partially obscured by the large plate coral and the shadowy background. Its dark, muted coloration closely matches the deep greens and browns of the surrounding algae-covered rocks and the shadowed crevices of the reef. This excellent color blending makes it difficult to distinguish from the environment, especially given the low-light underwater conditions. While its smooth texture differs from the rough reef, its overall low contrast and matching color scheme provide effective camouflage."
+}

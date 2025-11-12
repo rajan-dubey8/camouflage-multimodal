@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ancient stone head in jungle",
+  "background_description": "The scene depicts a dense, lush jungle environment dominated by various shades of green foliage. There are large tree leaves, smaller vines, and grassy plants, all contributing to a verdant and overgrown appearance. Tree trunks are visible amidst the dense vegetation.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No living organism is visible in the image. The primary subject is an ancient stone head statue, an inanimate object, partially covered by dense jungle vegetation. Camouflage is a biological adaptation for organisms to blend into their environment, thus it is not applicable here."
+}

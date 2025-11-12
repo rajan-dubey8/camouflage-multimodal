@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a collection of dry, fallen leaves (ranging from reddish-brown to faded grey-brown), small dark grey and lighter textured stones/pebbles, and various pieces of dried plant debris and soil. The overall environment is earthy, muted, and has a rough, irregular texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage in this image. Its body coloration, a mottled light grey-brown with darker speckles, perfectly matches the dried leaves, stones, and dusty ground. The granular and rough texture of its exoskeleton blends seamlessly with the irregular surfaces of the dry leaves and small pebbles surrounding it. There is very low contrast between the grasshopper and its immediate environment, making it exceptionally difficult to distinguish from the natural debris. Both its specific color matching and its patterned surface contribute to its effective concealment, making it almost invisible without close inspection."
+}

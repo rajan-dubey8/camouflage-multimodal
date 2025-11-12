@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a large, vibrant yellow flower with numerous overlapping petals and a textured central disk, where the butterfly is resting. Behind the flower, there is a deep, blurred blue background, likely representing the sky or distant foliage out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly is well camouflaged against the yellow flower it is perched on. Its wings display a predominant yellow and orange coloration with intricate dark brown/black patterns. These yellow/orange hues closely match the bright yellow of the flower petals, leading to a high degree of color similarity. The patterns on the butterfly's wings also contribute to camouflage by mimicking the natural textures, shadows, and variations present on the flower, helping to disrupt its outline. While the butterfly's dark patterns create some internal contrast, and the blue background provides a strong contrast to the entire flower-butterfly ensemble, the organism itself blends effectively with its immediate substrate, the flower, rather than standing out against it."
+}

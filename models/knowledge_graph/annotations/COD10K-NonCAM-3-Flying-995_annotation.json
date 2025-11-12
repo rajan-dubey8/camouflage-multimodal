@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red-winged Blackbird",
+  "background_description": "A clear, vibrant blue sky dominates the background, with sparse, light brown/tan tree branches visible, likely from a deciduous tree without leaves, suggesting winter or early spring.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Red-winged Blackbird is prominently displayed against a clear blue sky. Its dark black plumage, combined with the distinctive bright red and yellow shoulder patches, creates a very high contrast with the background, making the bird highly visible. There is no attempt at color blending or texture matching with the environment (sky or bare branches) to suggest camouflage. The bird's coloration is primarily for species recognition and territorial display rather than concealment."
+}

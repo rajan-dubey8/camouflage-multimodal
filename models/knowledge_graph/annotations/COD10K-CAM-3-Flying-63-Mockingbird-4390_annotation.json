@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of a dense network of thin, bare, grey-brown branches and twigs, likely from deciduous shrubs or trees in a dormant state. The bird is perched on a weathered, grey-brown wooden post or stump, which is part of this woody environment. Beyond the immediate branches, the background is softly blurred, showing lighter, hazy areas (possibly sky or distant light) and darker, indistinct shapes of distant trees or foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mockingbird demonstrates a degree of camouflage through color blending with its environment. Its grey dorsal plumage closely matches the muted grey-brown hues of the bare branches and the weathered wooden post it is perched on, allowing it to integrate into the overall desaturated palette of the scene. While its white ventral plumage and prominent white wing/tail markings create some contrast and make its outline visible, the primary grey coloration helps it blend with the woody textures and tones, preventing it from distinctly standing out against the background. The countershading (darker top, lighter bottom) also helps to reduce the appearance of its three-dimensionality by counteracting shadows."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blue Jay",
+  "background_description": "The background consists of blurred green foliage, likely trees or bushes, creating a soft, out-of-focus bokeh effect with various shades of green and some sunlit yellow highlights. The bird is perched on a light-colored, weathered wooden bird feeder with a distinct blue roof.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Blue Jay's vibrant blue, white, and black plumage stands out significantly against both the green foliage background and the light brown wooden bird feeder. Its distinctive coloration provides a high contrast, making it easily visible rather than blending into its surroundings. Blue Jays are known for their striking appearance, which is not primarily used for camouflage in this type of environment."
+}

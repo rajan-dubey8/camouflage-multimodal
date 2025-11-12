@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion cubs",
+  "background_description": "The background consists of dry, reddish-brown earth with patches of sparse green grass and scattered dried leaves and twigs. In the mid-ground, there is a chain-link fence with denser, dried-out vegetation behind it. The overall environment presents a mix of earthy tones, dry textures, and some green elements.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion cubs exhibit effective camouflage through color blending. Their tawny-brown fur color closely matches the dry, earthy tones of the ground, dried grass, and sparse vegetation in the background. This high color similarity and relatively low contrast difference between the cubs and their immediate surroundings help them blend into the environment, making them less conspicuous to prey or potential threats. This is a common adaptation for lions in their natural savanna habitats."
+}

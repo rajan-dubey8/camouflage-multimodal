@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background is predominantly dark green to black, out-of-focus, suggesting distant foliage or shadow. The immediate environment of the organism is a vibrant green plant stem with small, delicate, light-green pinnate leaves and developing buds, strongly illuminated by a light source from the right.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Worm (caterpillar) exhibits excellent camouflage primarily through color blending. Its body is a vibrant shade of green that perfectly matches the fresh green leaves and stem of the plant it is positioned on. This high color similarity makes it very difficult to distinguish from its immediate environment. While its segmented body texture is not identical to the smooth plant surfaces, the overall organic appearance and color congruence are highly effective. The low contrast difference between the organism and the plant part it's on allows it to blend seamlessly, making it challenging for a predator to visually separate it from the foliage, despite the organism and plant standing out against the dark, blurred background."
+}

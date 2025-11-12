@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists primarily of dense, tall, dry grasses and reeds, presenting a dominant yellowish-brown to golden-brown color palette. There are some sparse patches of green vegetation visible closer to the ground, especially in the lower parts of the image. The grass stalks are mostly vertical, creating a textured environment with numerous linear elements and natural shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Tiger exhibits excellent camouflage in this image. Its tawny-orange fur color closely matches the dominant dry, golden-brown hue of the surrounding tall grasses, allowing for high color similarity. Furthermore, the tiger's distinctive black stripes serve as a remarkable form of pattern matching, mimicking the vertical lines and shadows cast by the dense grass stalks. This striped pattern effectively breaks up the tiger's silhouette (shape disruption), making its continuous form difficult to discern amidst the busy linear textures of the vegetation. The combination of color blending and pattern matching results in a low contrast difference between the tiger and its environment, making it blend in exceptionally well."
+}

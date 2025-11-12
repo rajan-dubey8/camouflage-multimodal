@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Roseate Spoonbill",
+  "background_description": "The background consists of dense, tall, vertical marsh vegetation with varying shades of green, olive, and some dry brown stalks. Below the vegetation, there is dark, shallow water reflecting some light, creating a mottled blue-black surface with organic debris.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Roseate Spoonbill's prominent pink body and white neck and head create a high contrast against the dark green and brown marsh vegetation and the underlying dark water. While the bird is partially obscured by the vertical reeds, its vibrant and distinct coloration does not blend with the natural environment, making it easily detectable rather than camouflaged. Therefore, no effective camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Marine fish",
+  "background_description": "The background consists of deep, dark blue aquatic environment, likely ocean water, appearing somewhat blurry and featureless. There is a faint, darker outline of another fish or object in the deep background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits effective camouflage through color blending. Its body is predominantly shades of blue, ranging from light iridescent blues to darker blues with subtle yellowish stripes. These colors closely match the deep blue tones of its aquatic background, allowing it to blend seamlessly into the water. The lack of significant contrast between the fish's coloration and the surrounding environment makes it difficult for predators or prey to easily distinguish its outline, a classic example of countershading and overall color matching common in marine species."
+}

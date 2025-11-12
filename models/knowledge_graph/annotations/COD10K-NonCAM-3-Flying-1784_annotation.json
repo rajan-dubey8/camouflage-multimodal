@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-crowned Night Heron",
+  "background_description": "The background is highly blurred, featuring out-of-focus elements of a human-made structure with predominant soft purple and white hues, interspersed with blurred dark green foliage and patches of bright green grass at the lower part of the frame.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Black-crowned Night Heron is prominently displayed in sharp focus, contrasting strongly with the extremely blurred background. Its light greyish-white plumage, dark head, and striking red eyes do not blend with the purple, white, and green tones of the environment. The sharp definition of the bird against the soft, indistinct background further enhances its visibility, indicating a complete lack of camouflage in this specific setting."
+}

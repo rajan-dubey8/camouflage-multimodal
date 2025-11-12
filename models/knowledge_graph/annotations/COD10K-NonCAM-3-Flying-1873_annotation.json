@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Flamingos",
+  "background_description": "The background is very dark, almost black, and appears out of focus, suggesting dense shadows or deep foliage in a natural outdoor setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The flamingos, with their light pinkish-white feathers and vibrant pink beaks, stand out prominently against the dark, almost black, and blurred background. There is a high contrast in both color and brightness between the birds and their environment. Their distinctive coloration and shape are clearly visible and do not blend with the surroundings, indicating no form of camouflage is present. Flamingos are generally not known for camouflage; their coloration often serves other purposes."
+}

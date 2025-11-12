@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Shallow seabed with sand and rocks",
+  "background_description": "The background is an underwater scene depicting a shallow seabed. It primarily consists of light yellowish-tan sand, clearly sculpted into undulating ripples by water currents. Interspersed throughout the sandy bottom are various sized pebbles and larger rocks, which exhibit a range of colors from light grey to darker brown and greenish hues. Small fragments of dark, stringy organic debris, likely algae or decaying plant matter, are also visible on the sand surface.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "No clear organism (animal, insect, or fish) is distinctly visible in the image. The image primarily showcases a natural underwater environment composed of sand, rocks, and some detritus. As there is no identifiable living creature, there is no camouflage present to assess."
+}

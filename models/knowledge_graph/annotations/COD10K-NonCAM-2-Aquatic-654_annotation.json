@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Black Triggerfish",
+  "background_description": "The background consists of clear, vibrant turquoise-blue open water, with visible light refractions and ripples on the surface creating dynamic patterns. There are no discernible seabed features like coral, sand, or rocks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a dark-bodied fish, identified as a Black Triggerfish, swimming in bright turquoise-blue water. Its dark coloration creates a strong visual contrast against the light background, making it stand out prominently, thus confirming the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The frog is partially submerged in shallow, murky water. The water contains a mixture of organic debris, including visible green blades of grass, reddish-brown submerged plant matter, and darker decaying leaves/stems. The surface of the water reflects light, creating some bright bokeh effects in the background. A blurred light-colored stick is visible in the foreground, partially obscuring the frog's body.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits effective camouflage. Its skin displays a mottled pattern of olive-green and brown hues, which perfectly matches the diverse colors of its environment – the green grass, brown decaying matter, and the murky water itself. The texture of its warty skin also blends well with the rough, organic textures of the submerged debris. The overall contrast between the frog and its surroundings is low, making its outline indistinct. This combination of color, texture, and low contrast allows the frog to blend seamlessly into its aquatic habitat, making it difficult to discern from the background at first glance."
+}

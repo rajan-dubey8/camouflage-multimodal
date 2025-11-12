@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The leopard is resting on a bed of dry, light brown straw or grass. The background is softly blurred, showing muted tones of brown, tan, and some dull green, consistent with a natural forest floor or savanna environment, possibly with some faint fencing visible at the top.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The leopard's coat exhibits excellent natural camouflage. Its tan and yellow-brown base color highly resembles the dry grass, fallen leaves, and soil present in the background, demonstrating high color similarity. The distinctive black rosettes form a disruptive pattern, which helps to break up the animal's outline against dappled light and shadows found in its natural habitat, making it harder for prey or predators to identify its form. While the leopard is clearly visible in this direct portrait, its fur pattern is inherently designed for effective concealment in appropriate environments."
+}

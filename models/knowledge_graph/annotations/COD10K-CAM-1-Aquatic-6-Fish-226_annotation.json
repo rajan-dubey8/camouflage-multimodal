@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a sandy seafloor with varying shades of light brown, grey, and olive. There are small pebbles, scattered debris, and some fine organic matter (like thin branches or algae fragments) on the surface. The sand shows subtle ripples and irregularities.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The fish exhibits excellent camouflage by perfectly matching the color and texture of the sandy seafloor. Its body coloration, a mottled mix of light browns, greys, and olive tones, blends seamlessly with the sand grains and small pebbles. The speckled pattern on its skin mimics the granular texture of the substrate, effectively breaking up its outline. The overall contrast difference between the fish and its environment is very low, making it difficult to distinguish its form. While its eyes are slightly more prominent, the rest of its body is incredibly well-hidden, demonstrating effective color blending and pattern matching."
+}

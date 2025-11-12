@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of a dark, granular seabed composed of fine to medium-grained sand or volcanic rock. The overall color is dark blue-grey with hints of brown and purple, indicating a low-light marine environment. The texture is rough and particulate, with small irregular shapes of grains and scattered tiny debris. There's a small cluster of greenish algae or detritus visible towards the bottom right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The GhostPipefish exhibits excellent camouflage against the dark, granular seabed. Its body coloration, featuring mottled patterns of dark brown, reddish-brown, and purplish hues, closely matches the dark, variegated tones of the sand and small rocks. The irregular, often lumpy texture of its body and its large, fan-like fins further enhance its camouflage by mimicking detritus, dead plant matter, or bits of coral/rock. The pattern of speckles and spots on its body also blends with the granular texture of the environment. While the bright yellow eye stands out slightly, the overall shape and coloration effectively disrupt its outline and allow it to blend seamlessly into the background, making it difficult to distinguish from inanimate debris."
+}

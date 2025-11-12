@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "A clear, uniform light blue sky with no clouds. A dark, thin barbed wire fence runs horizontally across the middle of the frame.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, a reddish-brown passerine, is highly conspicuous against the plain light blue sky. Its plumage color and pattern do not blend with the sky, nor does it mimic the barbed wire it is perched upon. There is a high contrast between the dark bird and the bright background, making it easily detectable and showing no signs of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral formations on sandy seafloor",
+  "background_description": "The upper portion of the image shows clear, deep blue ocean water with subtle light ripples on the surface, indicating the presence of overhead sunlight. The lower half features a sandy seafloor with gentle undulations and darker areas suggesting depth or sediment variations. In the foreground, a large, prominent mound of beige and light brown coral exhibits a highly textured, lumpy, and cauliflower-like surface. Smaller, similar coral formations are visible further back on the sandy bottom.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts an underwater environment primarily featuring a large coral formation and a sandy seafloor. While coral is a living organism, in the context of the provided `object_category` options and its sessile, structure-forming nature, it is classified as a component of the 'Environment'. There are no visible animals, insects, or fish in the image that are attempting to camouflage. The coral formation itself is a distinct and prominent feature of the seafloor, not an organism camouflaged within the environment."
+}

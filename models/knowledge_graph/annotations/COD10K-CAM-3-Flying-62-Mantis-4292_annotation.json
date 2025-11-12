@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists primarily of an intricate network of dry, dark brown, rough-textured branches and twigs. Behind these woody elements, there is a blurry backdrop of green foliage and lighter brown/tan ground cover, suggesting an outdoor, natural environment with diffused sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The mantis demonstrates exceptional camouflage in this image. Its body is a mottled greyish-brown, almost perfectly matching the color of the dry, rough branches it is perched on. Beyond color, its highly textured and irregular body surface, with bumps and angular forms, closely mimics the gnarled bark and broken aspects of the woody environment. This combination of color blending, texture matching, and shape mimicry (resembling a dead twig or bark) results in a very low contrast difference between the mantis and its immediate surroundings, making it incredibly difficult to spot and effectively camouflaged."
+}

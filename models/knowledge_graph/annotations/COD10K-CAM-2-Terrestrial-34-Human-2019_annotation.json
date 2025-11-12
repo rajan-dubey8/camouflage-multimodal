@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a dense, dark forest environment. A large tree trunk covered in vibrant green ivy occupies the left side. The ground or a fallen log, covered in moss and some sparse green grass, supports the organism. The overall lighting is dim, casting deep shadows and making the distant background almost entirely black.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The human is wearing advanced camouflage, including a ghillie suit-like top and patterned military fatigues, which are highly effective in this dense, dark forest environment. The greens and browns of the attire, particularly the leafy material of the ghillie suit, blend seamlessly with the green ivy covering the tree trunk and the mossy log. The varied patterns and textures, especially the three-dimensional elements of the ghillie suit, significantly disrupt the human silhouette, making it difficult to distinguish the figure from the surrounding foliage and shadows. The dark boots and the weapon also merge into the dark background. The overall low contrast between the organism and its surroundings contributes significantly to its successful concealment."
+}

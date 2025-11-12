@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Caterpillar",
+  "background_description": "The caterpillar is positioned vertically on the densely packed seed head of a plant, likely a type of wild carrot or Queen Anne's Lace. The plant features numerous radiating thin, light yellowish-green stems, each terminating in a small, dark reddish-brown, somewhat spiky seed pod. The overall structure forms an inverted cone or basket shape. The background behind the plant is a soft, out-of-focus, uniform green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The caterpillar exhibits a striking, high-contrast banded pattern of white and dark purplish-brown. This bold coloration makes it highly visible against the muted tones of the plant's light yellowish-green stems and the darker, but distinct, reddish-brown seed pods. There is no significant color or pattern matching with the plant's structure or the uniform green background. The sharp, defined stripes of the caterpillar create a strong visual contrast, causing it to stand out rather than blend in with its environment."
+}

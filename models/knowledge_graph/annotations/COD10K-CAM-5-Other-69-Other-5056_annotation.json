@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sharks on coral reef",
+  "background_description": "The background consists of a diverse underwater coral reef ecosystem. The reef is rich with various types of corals, exhibiting complex, irregular textures and a muted color palette of blues, grays, browns, with some patches of green and light beige/white. Above the reef, the water transitions to a clearer, deep blue open water column.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features two sharks swimming above a coral reef. The sharks display effective color blending through countershading, a common camouflage strategy in marine life. Their darker dorsal (upper) sides blend with the deep blue water above when viewed from above, while their lighter ventral (lower) sides help them disappear against the brighter surface light when viewed from below. Their overall grey-blue coloration also closely matches the ambient blue tones of the water and the muted hues of the coral reef, significantly reducing their visibility. Although their smooth texture contrasts with the rugged coral, their form and color help them integrate into the underwater environment rather than stand out prominently."
+}

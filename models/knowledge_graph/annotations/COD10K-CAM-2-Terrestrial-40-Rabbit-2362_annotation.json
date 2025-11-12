@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists primarily of dark brown, somewhat clumpy soil with scattered small grey pebbles and debris. Patches of vibrant green grass and larger, broad green leaves of a plant (resembling dock leaves) are interspersed throughout the soil. The environment appears natural and somewhat unkempt, typical of a field edge or disturbed ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.7",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit exhibits effective camouflage through a combination of color blending and partial shape disruption. Its mottled brownish-grey fur closely matches the dark brown soil and dried vegetation patches, making it difficult to discern at first glance. The texture of its fur, with its varied tones and slight roughness, also mirrors the uneven, pebbly texture of the ground, contributing to high texture similarity. While there are bright green leaves that contrast with its fur, these leaves also serve to partially obscure the rabbit's form, breaking up its outline and aiding in shape disruption. The overall contrast difference between the rabbit and its immediate surroundings (the soil) is low, allowing it to blend rather than stand out. It is not perfectly hidden, but its natural coloration and the cover provided by the foliage significantly reduce its visibility."
+}

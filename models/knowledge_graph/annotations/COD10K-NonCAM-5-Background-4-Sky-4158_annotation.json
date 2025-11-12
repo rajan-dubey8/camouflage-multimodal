@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban sky and buildings",
+  "background_description": "The background features a bright blue sky with scattered white cumulus clouds. Below the sky, there is an urban landscape consisting of modern, light-colored apartment buildings with multiple balconies, green trees with dense foliage, and a large, curved building with a glass upper section. Distant mountains with green slopes are visible behind some of the buildings. A street light and parts of an overhang are also present.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an urban environment featuring buildings, trees, and a sky with clouds. There are no visible animals, insects, or fish present in the scene. Therefore, the concept of camouflage is not applicable, as there is no organism to observe for camouflaging properties."
+}

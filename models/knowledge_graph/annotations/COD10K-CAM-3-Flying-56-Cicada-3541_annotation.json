@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a tree with a prominent brown, textured trunk and numerous green leaves, some of which are brightly illuminated by sunlight while others are in shadow. Two fruits, one yellow-orange (likely an orange) and one green, are visible among the leaves. The cicada exuvia is located on a sunlit section of the main tree trunk.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada exuvia (shed skin) exhibits strong camouflage. Its golden-brown, somewhat translucent color closely matches the sun-drenched, warmer brown tones of the tree trunk it is attached to. While its segmented texture is visible upon close inspection, the overall rough texture of the exuvia blends well with the coarse, furrowed bark of the tree. The contrast difference between the exuvia and its immediate background is low, making it visually integrate into the natural environment of the tree trunk and making it not immediately obvious to a casual observer. This is primarily a case of color blending with some textural similarity."
+}

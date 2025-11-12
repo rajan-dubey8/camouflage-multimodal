@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The organism is positioned on a rugged, wet rock surface, which is predominantly dark brown and reddish-brown. Patches of what appears to be reddish-brown algae or moss are present on the rock, adding texture and color variation. The surface is glistening from wetness, possibly due to rain or sea spray, visible as droplets in the blurry, light grey background (likely an overcast sky or distant water).",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The organism, identified as a Gecko (though visually resembling a crab in the image), exhibits strong camouflage against its environment. Its dark, mottled greenish-brown coloration, along with its texture, closely matches the wet, rough, dark brown and reddish-brown rocks covered in algae. The irregular shape of the organism's body blends effectively with the uneven contours and textures of the rock, breaking up its outline. This combination of high color and texture similarity, coupled with low contrast difference and shape disruption, makes it very difficult to spot the organism against its natural background."
+}

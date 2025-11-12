@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Northern Mockingbird",
+  "background_description": "The background consists primarily of a bright, clear blue sky with some soft, wispy white clouds. The bird is perched on a slender, bare brown branch with some lighter green/white lichen, which also stands out against the sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Northern Mockingbird's gray and white plumage, while natural colors, contrasts significantly with the bright blue sky and white clouds that form its immediate background. Its silhouette is clearly defined, and there is no blending of colors or patterns with the open sky environment. The bird is highly visible, indicating a lack of effective camouflage in this specific scene."
+}

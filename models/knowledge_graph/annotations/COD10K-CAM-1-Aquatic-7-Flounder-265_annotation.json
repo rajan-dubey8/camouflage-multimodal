@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a light sandy seafloor, appearing somewhat muted due to being underwater. The sand has fine to medium grains with slight variations in tone and texture across the surface, and some small debris or algae particles are scattered.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Flounder demonstrates excellent camouflage in this image. Its flat body is pressed close to the sandy bottom, minimizing any shadow and disrupting its overall shape. The fish's skin coloration is a mottled mix of light browns, grays, and subtle bluish spots that closely mimic the color and granular texture of the surrounding sand. This high degree of color and pattern matching makes the organism blend almost seamlessly with its environment, making it very difficult for predators or prey to detect."
+}

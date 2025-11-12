@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mussels",
+  "background_description": "The environment is a rocky intertidal zone, densely covered with dark, often black or dark blue-green mussels, and vibrant bright green, stringy algae (seaweed). The rocks themselves are dark grey to brown. There are small pools of clear water reflecting the bright blue sky with scattered white clouds. The distant horizon shows the ocean meeting the sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The mussels exhibit effective camouflage through color blending. Their dark shells (black, dark blue, and dark brown) closely match the color of the underlying rocks and the dark, tangled algae present in the intertidal zone. The irregular and clumpy texture of the mussel beds also merges seamlessly with the rough, varied textures of the rocky shore and seaweed. This high degree of color and texture similarity, combined with low contrast against their background, makes it difficult to distinguish individual mussels from the surrounding environment, thus providing protection from predators."
+}

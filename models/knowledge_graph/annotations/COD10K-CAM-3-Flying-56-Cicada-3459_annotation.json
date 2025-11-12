@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of rough, textured tree bark with prominent vertical ridges, deep crevices, and a general irregular pattern. Patches of vibrant, yellowish-green moss are visible growing on the bark, particularly on the left side and bottom right. The bark colors range from dark brown to lighter reddish-brown, with areas of shadow and highlight.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Cicada demonstrates excellent camouflage by seamlessly blending with its tree bark and moss environment. Its body is covered in mottled patterns of browns, grays, and greenish-gold, which precisely match the colors of the textured bark and the vibrant moss patches. The rough, irregular texture of the cicada's body further mimics the rugged surface of the tree bark. The translucent wings, while distinct in shape, also contribute to the camouflage with their yellowish-green tints and dark veining, which echo the background's patterns and allow some of the bark to show through, effectively disrupting the cicada's overall shape. The combination of color, texture, and pattern similarity makes the cicada very difficult to distinguish from its surroundings."
+}

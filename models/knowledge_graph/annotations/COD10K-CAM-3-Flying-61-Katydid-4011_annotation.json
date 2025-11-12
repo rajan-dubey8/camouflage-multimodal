@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of a large, dark to medium green leaf with visible veins and irregular light and dark patches. There are also several small, irregular brown and white spots, possibly indicating damage or fungal growth. The lighting is somewhat dappled, creating areas of shadow and highlights on the leaf surface.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid demonstrates excellent camouflage against the large green leaf. Its entire body, especially its wings, is a shade of green that very closely matches the color of the leaf, allowing for effective color blending. The texture of its wings, with their intricate veining and slightly bumpy surface, mimics the natural texture and imperfections of the leaf, contributing to the visual blend. While the organism's distinct shape is still somewhat visible, particularly its head and antennae, the overall low contrast between its body and the background makes it difficult to distinguish at a glance. The slight variations in color and texture on the leaf itself also help to break up the Katydid's outline, aiding in its concealment."
+}

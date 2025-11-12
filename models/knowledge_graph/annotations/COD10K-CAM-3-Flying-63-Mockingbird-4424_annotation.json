@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of a tall, weathered wooden utility pole, a large cylindrical white transformer mounted on the pole, numerous black electrical wires and cables attached to insulators, and a clear, bright blue sky dominating the upper and right portions of the image. The bird is perched on a thin metallic wire.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird is perched on a thin wire with a prominent, bright blue sky directly behind it, making it highly conspicuous. Its gray and white plumage creates a strong contrast against the vibrant blue, and its distinct silhouette is clearly visible. There is no blending with the textures of the wooden pole, the white transformer, or the black wires. The bird stands out visually and does not exhibit any form of camouflage in this specific environment."
+}

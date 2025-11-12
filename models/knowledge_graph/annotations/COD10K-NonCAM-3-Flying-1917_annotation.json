@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle on a leaf",
+  "background_description": "The background consists primarily of several vibrant green leaves with visible vein patterns and a slightly textured surface. A reddish-brown stem runs diagonally in the lower left, with some areas of the foliage softly blurred in the background, showing varying shades of green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect, which appears to be a beetle, has a distinct brownish-orange coloration on its body and elytra, which contrasts sharply with the vibrant green leaves it is resting on. There is no significant color blending, disruptive patterning, or mimicry of the leaf's texture or shape that would allow it to merge with the foliage. Its form and color make it easily discernible against its background, indicating an absence of camouflage."
+}

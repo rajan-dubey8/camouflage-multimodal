@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of an overcast, grey-white sky with some patches of lighter blue visible towards the top right. A tall, gnarled, dark, and seemingly dead tree branch occupies the lower and central part of the image, providing a perch for the bird.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird is clearly visible and stands out against its environment. It is perched prominently at the top of a dead tree branch, silhouetted against a bright, overcast sky. While the bird's brown and tan plumage shares some muted tones with the weathered, dark wood of the branch, its overall form creates a distinct outline against the much brighter sky. There is a high contrast difference between the dark bird and the light sky, making it very easy to spot. Neither its color, pattern, nor shape allow it to blend into the sky or the gnarled texture of the branch from this vantage point."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dark green body of water, likely a pond or shallow lake, showing some subtle reflections. In the foreground, the frog is resting on dark grey, rough-textured rocks. Thin, light-colored plant stems or reeds are visible, partially blurred, across the upper part of the image.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a frog sitting on rocks by a body of water. While its green and brown coloration provides some natural blending with the environment, the animal is distinctly visible and easily identifiable against its background, indicating no active camouflage."
+}

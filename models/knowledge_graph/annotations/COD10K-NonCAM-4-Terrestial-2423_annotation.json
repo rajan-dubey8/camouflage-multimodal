@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coyote",
+  "background_description": "The background consists of a dusty, light greyish-brown dirt road or path on the left, transitioning to dry, yellowish-brown, sparse grass and light green scrub on the right. The overall environment appears natural and somewhat arid.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The coyote exhibits effective camouflage primarily through color blending. Its fur is a mix of light brown, tan, and greyish tones, which remarkably matches the colors of the dry, yellowish-brown grass and the dusty light brown dirt path. This high color similarity and low contrast difference between the animal's coat and its environment significantly reduce its visibility, allowing it to blend seamlessly into this natural habitat for both hunting and avoiding detection."
+}

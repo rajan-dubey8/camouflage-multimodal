@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dense, mixed green and some dried grass blades, along with other small ground cover plants. The lighting suggests dappled sunlight, creating varying shades of green, brown, and yellow. There are also small, light-colored seed heads on some grass stalks. The foreground also contains similar grass and foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The frog demonstrates effective camouflage primarily through color blending and pattern matching. Its dorsal surface is a mottled mix of greens and browns, which closely matches the vibrant green grass and the darker, more muted tones of the underlying dried vegetation and shadows in its environment. The irregular patterns on its skin help to break up its outline, making it harder to distinguish from the varied textures of the surrounding foliage and soil. Furthermore, the frog is nestled amongst the blades of grass, which partially obscure its body, contributing to shadow hiding and further reducing its visibility. While its eyes are somewhat distinct, the overall effect is that the frog blends remarkably well with its natural habitat."
+}

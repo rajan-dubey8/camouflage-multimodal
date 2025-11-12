@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists of blurred green foliage, indicative of trees or shrubs, with some areas appearing brownish-green. It creates a soft, out-of-focus bokeh effect.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Great Blue Heron is clearly visible against the blurred green and brown foliage background. Its grey-blue plumage provides a distinct contrast, and its sharp form stands out against the soft, out-of-focus environment. While herons possess natural coloration that aids in blending into marshy or reedy environments when stationary, in this context of open flight against a general forest background, no active camouflage mechanism is observed, and the bird is easily detectable."
+}

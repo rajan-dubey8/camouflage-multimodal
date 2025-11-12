@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Maroon Clownfish",
+  "background_description": "The background consists of a vibrant coral reef environment. The foreground shows large, textured, yellowish-beige soft corals or anemones with prominent polyps. The middle ground and background are darker and blurrier, revealing other branching coral structures in shades of purple and grey, suggesting a deeper or less illuminated part of the reef.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Maroon Clownfish, identifiable by its dark body color (brownish-red) and the single prominent white stripe behind its eye. Its distinct coloration and patterns stand out significantly against the lighter, yellowish-beige coral and the darker, blurry background, indicating no camouflage."
+}

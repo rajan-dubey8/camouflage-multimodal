@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background consists of a sandy underwater seabed, predominantly light brown/sandy in color, with scattered darker patches of fine sediment or small detritus. On the right side, there are clumps of green and brown algae or seaweed attached to rocks or the seafloor. The water above is murky with a greenish-blue tint.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Stingaree is effectively camouflaged against the sandy seabed. Its dorsal coloration is a light sandy grey, which closely matches the predominant color of the surrounding substrate, resulting in high color similarity. Its flattened body shape allows it to lie very close to the bottom, disrupting its outline and making it blend seamlessly with the flat contours of the seafloor. This combination of color matching and form-fitting to the environment minimizes contrast and makes it difficult for predators or prey to spot it, showcasing both color blending and shape disruption as key camouflage mechanisms."
+}

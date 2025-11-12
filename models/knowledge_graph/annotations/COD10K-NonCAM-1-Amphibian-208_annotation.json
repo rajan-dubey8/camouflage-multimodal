@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree Frog",
+  "background_description": "Dark, murky freshwater environment at night, featuring dark, indistinct submerged plant stems and leaves, which serve as a perch for the amphibian.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "A bright green tree frog with large, dark eyes is clearly visible, perched on dark foliage. Its vibrant coloration creates a strong contrast against the dark background and dark plant elements, indicating no camouflage is present."
+}

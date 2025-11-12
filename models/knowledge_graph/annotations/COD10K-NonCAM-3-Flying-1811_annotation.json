@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mourning Dove",
+  "background_description": "Blurred outdoor setting featuring muted green foliage, possibly a shrub or tree, and indistinct lighter elements that could be part of a structure like a fence or window frame. The overall background is soft-focused with neutral and desaturated green/gray tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mourning Dove exhibits effective camouflage primarily through color blending. Its plumage is a soft, muted brownish-gray, which is highly effective in blending with natural terrestrial environments such as dirt, tree bark, dry leaves, and urban structures. The dark spots on its wings also contribute to breaking up its outline, although the dominant mechanism here is color matching. The bird's coloration closely matches the neutral and desaturated tones present in the blurred background, helping it to disappear into its surroundings and avoid detection by predators or prey. The low contrast between the bird and its environment further enhances this blending effect."
+}

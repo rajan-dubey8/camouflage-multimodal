@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mountainous landscape with cloudy sky",
+  "background_description": "The image features a vast sky dominated by layers of scattered, light grey and white clouds, with patches of clear light blue sky visible between them. Below, a range of dark, verdant mountains covered in dense vegetation stretches across the horizon. A tall, light-colored structure (possibly a tower) is faintly visible on one of the mountain peaks, and a dark utility pole is seen on the far right.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment consisting of a mountainous landscape under a cloudy sky. There are no visible animals, insects, or other organisms present in the scene. As camouflage applies to organisms blending into their environment, its presence cannot be assessed, and thus it is classified as 'No Camouflage'."
+}

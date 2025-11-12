@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of an underwater environment with a mix of sandy substrate, fine detritus, and possibly encrusting organisms or algae. There are also some darker, murky areas and fine, stringy organic matter, creating a cluttered and textured seabed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The SeaHorse exhibits excellent camouflage, blending almost seamlessly with its environment. Its mottled grey, brown, and off-white coloration perfectly matches the sandy, detritus-covered substrate and the surrounding encrusted surfaces. The rough, bumpy texture of its skin further enhances this camouflage by mimicking the irregular textures of the background. There is a low contrast difference between the SeaHorse and its surroundings, and its patterned body helps to disrupt its overall shape, making it very difficult to distinguish from the environment. This is a clear example of both color blending and pattern matching, making it highly inconspicuous."
+}

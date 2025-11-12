@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background features vibrant green grass in the foreground and beneath the lion. To the left, there is a large, dark brown, textured tree trunk. Behind the lion on the right, there is a wall constructed from irregularly shaped grey stones, indicating an artificial or contained environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The lion is clearly visible against the background. Its tawny and darker brown mane colors do not blend with the vibrant green grass or the grey stone wall behind it. While a lion's natural coloring typically provides excellent camouflage in dry grasslands and savanna environments, the artificial and verdant setting in this image prevents any effective concealment. There is a high contrast in both color and texture between the lion and its immediate surroundings."
+}

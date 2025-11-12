@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a vibrant and diverse underwater reef environment. It features large patches of encrusting organisms such as bright pink/magenta/red coralline algae or sponges, interspersed with striking lime green patches, and darker reddish-brown to almost black areas with fine white speckles, possibly dead coral or dark algae. There is also a translucent pale purple tube-like structure visible on the left side. The overall texture of the background is rough, irregular, and varied.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits good camouflage against the complex reef background. Its body features alternating light reddish/pinkish-brown bands and lighter yellowish/greenish segments, which closely match the dominant colors present in the environment – the vibrant pink/red coralline algae and the bright lime green algal patches. The yellowish head further blends with the lighter green areas. The elongated, slender shape of the pipefish, combined with its striped pattern, helps to break up its outline against the variegated and textured background, making it less distinct to a casual observer. While its smooth body texture doesn't directly mimic the rough background, the effective color and pattern matching contribute significantly to its blending, making it difficult to spot."
+}

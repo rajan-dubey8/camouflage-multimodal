@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "People on inflatable raft",
+  "background_description": "The background consists of a vast ocean expanse with frothy white waves in the immediate foreground, transitioning into clear turquoise water with visible ripples and then a deeper blue-grey towards the horizon. Above the horizon, there's a cloudy sky with varying shades of white and grey clouds against a pale blue backdrop.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features two people on a bright red inflatable raft in the ocean. The vibrant red color of the raft and the contrasting shapes of the people make them highly visible against the surrounding blue and turquoise water. There is no attempt at blending with the environment in terms of color, texture, or pattern, resulting in a distinct absence of camouflage."
+}

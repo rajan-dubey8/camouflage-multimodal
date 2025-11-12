@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a dense underwater rocky reef or coral formation. It features a highly textured surface with irregular shapes, bumps, and crevices. The dominant colors are various shades of reddish-brown, dark brown, and some patches of lighter pinkish-red and yellowish-orange. There are deep shadows and a generally mottled appearance from the organic growths and rock textures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.15",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The fish, which appears to be a type of moray eel, is highly visible against its environment. Its body features a stark, high-contrast pattern of broad white stripes on a dark brown/black background. While the dark parts might somewhat blend into the shadowed crevices, the prominent white stripes do not match any significant color or pattern element in the surrounding reef. The background is mottled and textured with various irregular colors and growths (reddish-brown, dark brown, pink, yellow), but it lacks the sharp, geometric, high-contrast banding present on the fish. The smooth texture of the fish also contrasts sharply with the rough, bumpy, and irregular textures of the coral and rock. This combination of distinct pattern, high internal contrast, and smooth texture makes the fish stand out rather than blend in."
+}

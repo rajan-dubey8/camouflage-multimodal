@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a dark, layered rock face with reddish-brown and grey tones, possibly damp or covered in sparse moss/lichen. There are small patches of dry grass growing between the rock layers. Dense, dark green foliage is visible in the upper background, and bright, out-of-focus green leaves from a tree branch obscure parts of the foreground, creating a dappled and partially hidden viewing plane.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The owl exhibits effective camouflage by blending remarkably well with its rocky environment. Its brown and grey-mottled plumage closely matches the earthy, reddish-brown and grey hues of the layered rock face. The texture of its feathers, while distinct up close, blends with the rough, varied surface of the rocks from a distance. The overall low contrast between the owl and its immediate surroundings, combined with the dim, somewhat shaded lighting on the rock face, helps to obscure its outline. Furthermore, the out-of-focus green foliage in the foreground adds visual clutter, making it harder to spot the owl initially and enhancing the camouflage effect by providing a natural screen."
+}

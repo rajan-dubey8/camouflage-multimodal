@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bison",
+  "background_description": "The background consists of a verdant grassy hillside, characterized by varying shades of green, from bright spring green in sunlit areas to darker green in shadows. Scattered throughout the grass are numerous light-colored, rocky outcrops and boulders. To the left, a large coniferous tree with dense dark green foliage and a visible rough-barked trunk provides shade.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bison's dark brown, shaggy fur stands out prominently against the vibrant green grass and lighter rocks of its immediate environment. There is a high contrast in both color and luminance between the animal and its surroundings. Its large size and distinct silhouette are clearly visible, indicating no attempt at color blending, disruptive patterning, or mimicry to conceal itself in this particular setting. Therefore, no camouflage is present."
+}

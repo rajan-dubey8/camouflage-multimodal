@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background is a dense, shadowy forest environment. It features numerous tree trunks of various sizes and bark textures, ranging from smooth, light-barked saplings to older trees with rough, dark, furrowed bark. There's abundant dark green foliage from leaves and bushes, creating a cluttered, textured environment. Patches of reddish-brown, possibly dried leaves or pine needles, are visible deeper in the forest. The lighting is dim, contributing to a generally low-contrast, dark overall impression with natural shadows throughout.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The human is exceptionally well camouflaged within the dense forest environment. The individual is wearing a camouflage pattern (likely multi-cam or similar woodland pattern) that effectively mimics the colors and textures of the surrounding trees, foliage, and shadows. The greens, browns, and dark tones of the camouflage blend seamlessly with the green leaves, brown tree trunks, and the dim, shadowed areas of the forest floor. The intricate pattern of the clothing works to break up the recognizable human silhouette, preventing the formation of a distinct outline. This 'shape disruption' is further enhanced by the cluttered nature of the background with its overlapping branches and leaves. The low contrast between the camouflaged figure and its immediate surroundings makes it very difficult to spot, requiring close inspection to differentiate the human from the natural forest elements."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a branching gorgonian coral, predominantly light pinkish-white with numerous small, round, reddish-orange protrusions or polyps covering its surface. The deeper background behind the coral branches is dark, appearing black.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pygmy Seahorse (SeaHorse) in the image demonstrates exceptional camouflage. Its body color, a mottled white/pink with bright reddish-orange spherical tubercules, perfectly matches the coloration of the gorgonian coral it inhabits. Furthermore, the seahorse's textured skin, covered in these small bumps, replicates the irregular, bumpy surface of the coral branches. This combination of highly similar colors and textures makes the seahorse virtually indistinguishable from the coral, creating very low contrast and allowing it to blend seamlessly into its environment."
+}

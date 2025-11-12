@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The aquatic environment is an aquarium featuring a light-colored gravel substrate. The tank is decorated with several artificial plants, including tall green grass-like plants and smaller colorful ones with pink and orange accents. There are also brown rocks or driftwood pieces. The background is dark, and reflections are visible on the glass on the right side of the tank.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays three distinct fish: a large, bright yellow Goldfish with flowing fins in the foreground, a smaller white Goldfish behind it, and a large, dark-colored Pangasius Catfish in the upper left background. Their vibrant colors and clear outlines contrast sharply with the artificial plants, rocks, and substrate, ensuring they are easily discernible and not camouflaged."
+}

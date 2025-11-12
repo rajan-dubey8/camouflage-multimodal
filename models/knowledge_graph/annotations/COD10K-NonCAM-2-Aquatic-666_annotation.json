@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Oscar Fish",
+  "background_description": "The background consists of vibrant green, tall, blade-like aquatic plants, likely artificial, in greenish-tinted water with some visible particulate matter.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays an Oscar fish with its distinct dark body and striking reddish-orange patterns. It is sharply defined against the bright green aquatic plants and the greenish water, making its presence highly noticeable and confirming the absence of camouflage."
+}

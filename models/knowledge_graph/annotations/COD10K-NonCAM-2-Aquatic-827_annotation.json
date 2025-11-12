@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Damselfish",
+  "background_description": "The background consists of blurred underwater elements, featuring dark blue/grey tones in the upper right, indistinct light green/yellow blurs, and some muted, out-of-focus rocky or sandy textures with hints of purple/green in the lower left. The overall environment appears somewhat dim and distant.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Damselfish displays a distinct pinkish-purple body with noticeable yellow fins. These colors do not blend with the blurred, darker blue/grey and muted green/yellow tones of the immediate underwater background. The fish's form and coloration are clearly visible and stand out, indicating no effective camouflage in this particular scene."
+}

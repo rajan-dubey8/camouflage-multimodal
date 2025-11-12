@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef environment",
+  "background_description": "The image depicts an underwater coral reef scene with clear turquoise water. The seafloor is a mix of light sandy patches and rocky formations. Dominant features include large, flat, fan-shaped purple gorgonian corals and clusters of brown, branching sea whips or soft corals. There are also smaller, darker coral structures scattered throughout the rocky areas.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image displays a vibrant underwater coral reef. While corals are living organisms, they are sessile and form part of the environment. There is no distinct animal (such as a fish, crab, or octopus) visible within the scene that is actively attempting to camouflage itself against the corals, sand, or rocks. The scene is presented as a general environmental landscape rather than focusing on a camouflaged organism."
+}

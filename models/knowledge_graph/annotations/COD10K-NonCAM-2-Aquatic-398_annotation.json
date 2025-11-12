@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Striped Bass",
+  "background_description": "The background consists of deep blue, clear open water, likely within an aquarium setting. There are no prominent features such as coral, rocks, sand, or algae, only the uniform blue water and some light refraction/bubbles near the surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays multiple Striped Bass, identifiable by their distinct silvery bodies and prominent dark horizontal stripes. These fish stand out significantly against the uniform deep blue water background, demonstrating no visual camouflage."
+}

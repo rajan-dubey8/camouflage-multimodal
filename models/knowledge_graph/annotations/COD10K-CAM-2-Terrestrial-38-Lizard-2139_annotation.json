@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a rough, uneven surface, likely tree bark or rock, heavily encrusted with patchy, light grey-green and white lichens. There are also exposed areas of darker, mottled brown and grey underlying material, showing a complex, varied texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Texture matching / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage. Its skin coloration perfectly matches the various tones of the lichen-covered bark/rock, featuring mottled patches of grey, brown, white, and subtle greenish hues that directly mimic the background. The lizard's rough, scaled texture also blends seamlessly with the irregular, encrusted surface of the environment. The intricate patterns on its body align well with the patchy distribution of lichens and the natural variations in the bark/rock, effectively disrupting its outline and making it incredibly difficult to distinguish from its surroundings. Even its shape, with its angular features, helps it merge with the rough contours of the surface, making it almost invisible."
+}

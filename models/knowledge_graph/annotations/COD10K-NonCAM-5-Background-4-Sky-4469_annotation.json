@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky over trees",
+  "background_description": "The image displays a dynamic sky scene with a deep blue background. Numerous clouds are present, ranging from bright white, heavily illuminated by visible sunlight breaking through, to darker grey and blue-grey clouds. The bottom portion of the image shows a dark, silhouetted treeline or forest against the sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environmental scene comprising a cloudy sky and the silhouette of trees. No organism (animal, insect, or fish) is visible within the frame. Therefore, the concept of camouflage is not applicable."
+}

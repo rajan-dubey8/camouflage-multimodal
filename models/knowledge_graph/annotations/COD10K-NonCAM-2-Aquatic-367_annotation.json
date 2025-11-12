@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cichlid",
+  "background_description": "The background consists of clear, vibrant blue water, likely an aquarium setting, with a dark, ribbed filter or intake structure visible in the top left corner. The environment appears artificial and lacks natural textures like rocks or plants, aside from the filter.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Cichlid fish with distinct vertical stripes and a visible body shape against a plain blue aquarium background and a black filter. Its coloration and pattern, along with the plain background, make it highly visible, confirming the absence of camouflage."
+}

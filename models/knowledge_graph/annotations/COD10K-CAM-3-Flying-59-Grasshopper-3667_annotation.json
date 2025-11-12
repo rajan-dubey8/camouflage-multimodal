@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of lush green foliage, primarily large leaves. The leaves in the foreground show distinct vein patterns and a slightly textured, smooth surface. Areas further in the background are out of focus, creating a softer, blurred green environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits excellent camouflage primarily through color blending. Its entire body is a vivid green, almost perfectly matching the hue and brightness of the surrounding leaves. This high degree of color similarity makes it extremely difficult to distinguish the organism from its leafy background. While the grasshopper's body has a slightly granular texture compared to the smoother surface of the leaf, and its eyes provide a small point of contrast, the overall visual difference in color and tone is minimal, resulting in very low contrast and effective blending. Its typical shape is also masked by the strong color match with its environment."
+}

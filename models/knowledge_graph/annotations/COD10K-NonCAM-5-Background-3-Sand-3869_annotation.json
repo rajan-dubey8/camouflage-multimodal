@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal landscape",
+  "background_description": "The scene depicts a vibrant rocky coastline with numerous boulders, many covered in bright green moss or algae. Interspersed among the rocks are small tide pools reflecting the clear blue sky. In the mid-ground, a steep hill or cliff rises, featuring both lush green slopes and sections of light-colored, possibly chalk or limestone, rock formations. The sky is a brilliant blue with a few scattered white clouds, and the ocean can be seen in the distance to the left.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, insect, or fish is visible in the image. The scene exclusively portrays a natural rocky coastal environment. Therefore, no camouflage is present or being evaluated."
+}

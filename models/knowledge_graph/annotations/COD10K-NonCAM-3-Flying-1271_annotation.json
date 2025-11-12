@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Green Heron",
+  "background_description": "The background consists of shallow, murky water densely filled with submerged and floating aquatic vegetation. This includes numerous decaying brown and dark green leaves and stems, mixed with patches of greener plant growth. The overall impression is a complex, textured surface of organic detritus and water, with varied shades of brown, muted green, and dark blue-grey from the water.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Green Heron exhibits effective camouflage in its wetland habitat. Its plumage features dark greens on the back and head, reddish-brown on the chest, and dark grey-brown wings, which closely match the muted tones of the submerged and floating decaying vegetation and dark water. The varied colors and patterns on its body allow it to blend seamlessly with the complex, fragmented background of leaves and stems, making it difficult for both predators and prey to spot. The contrast between the bird and its environment is low, further aiding its concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green frog",
+  "background_description": "The background consists of a textured, grey rock surface on which the frog is resting. Surrounding this are blurred green leaves and foliage in the foreground and background, suggesting a lush, natural, and potentially aquatic environment. There are also darker, shadowy areas, possibly indicating water or deeper vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits effective camouflage primarily through color blending. Its vibrant green skin closely matches the surrounding green leaves and foliage, making it blend seamlessly into the vegetated parts of its habitat. The darker spots and mottled patterns on its back, along with yellowish underparts, also help to break up its outline and blend with the mixed textures and varied lighting of the rock and shadowy areas, contributing to a disruptive pattern effect even though color blending is the primary strategy. The overall effect reduces the contrast between the frog and its diverse natural environment, making it difficult for predators or prey to spot."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of an underwater sandy and pebbly substrate, partially covered with patches of light brown and greenish detritus or short algae. The texture is granular and uneven, with various small rocks and sand particles. The area behind the pipefish is out of focus, showing a blurred continuation of the seafloor.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The pipefish is not effectively camouflaged in this image. Its body displays distinct reddish-brown bands against a yellowish-white base, and a prominent reddish-white fan-like tail fin. These colors and patterns create a high contrast against the muted, granular sandy and pebbly substrate, which is predominantly brown, green, and gray. The smooth texture of the pipefish also differs from the rough background. While pipefish are often masters of camouflage, in this specific pose and environment, its markings make it quite discernible."
+}

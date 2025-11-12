@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dense layer of dried, fallen leaves. These leaves are primarily in shades of tan, light brown, and darker reddish-brown, with mottled patterns and visible veins. Some leaves appear slightly curled or damaged, creating a varied and textured surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shape disruption / Mimicry",
+  "explanation": "The mantis exhibits excellent camouflage in this image. Its body color perfectly matches the dried brown and tan hues of the fallen leaves, providing high color similarity. The mantis's slender, elongated body, particularly its wings, mimics the shape and texture of a dry twig or a vein on a leaf, leading to high texture similarity and effective shape disruption. The overall contrast difference between the mantis and its immediate surroundings is very low, making it extremely difficult to distinguish from the leaf litter at first glance. Its posture and form allow it to blend seamlessly into the chaotic pattern of the dried leaves."
+}

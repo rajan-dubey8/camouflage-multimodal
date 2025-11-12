@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ladybug",
+  "background_description": "The background consists of a vibrant green leaf, visible with some texture, veins, and minor damage, suggesting a natural outdoor environment. The rest of the background is a soft-focused blur of green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The ladybug exhibits bright red-orange coloring with distinct black spots, which creates a high contrast against the green leaf background. This coloration is a form of aposematism, a warning signal to predators indicating that the insect is toxic or unpalatable, rather than a form of camouflage intended for concealment. Therefore, it is not camouflaged."
+}

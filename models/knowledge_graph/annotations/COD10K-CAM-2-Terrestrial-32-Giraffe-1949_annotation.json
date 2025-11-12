@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background features a large, gnarled tree with bare, irregularly shaped branches, some of which have sparse green leaves. The tree bark exhibits a mottled texture with varying shades of light grey, reddish-brown, and darker brown, likely due to lichen growth and natural bark patterns. Thin, string-like structures or vines hang between some branches. Beyond the immediate tree, a blurry, dense, dark green forest or hillside is visible under an overcast sky.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The giraffe displays effective camouflage against the background of the large tree. Its characteristic patchy coat pattern, with shades of brown and tan, closely aligns with the mottled and textured appearance of the tree bark, which also exhibits variations in light grey, reddish-brown, and dark brown tones from bark patterns and lichen growth. This high color similarity and moderate texture similarity between the giraffe's patches and the bark creates a 'pattern matching' and 'color blending' effect. The irregular patches on the giraffe's coat also serve as 'shape disruption', breaking up its large outline against the complex background of intertwining branches and textured bark. While its distinct head and the overall scale of the animal are still discernible, the camouflage significantly reduces its visual contrast and makes it blend into the arboreal environment, especially when viewed from a distance or if it were to remain still."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Seahorse",
+  "background_description": "The background is a clear, vibrant blue aquatic environment, likely an open water column or a large aquarium tank, with fine suspended particulate matter. No complex seabed features like coral reefs or rocks are visible, just uniform blue water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays multiple small, reddish-orange seahorses against a bright blue aquatic background. Their distinct coloration and shape make them highly visible and stand out sharply from their surroundings, confirming the absence of camouflage."
+}

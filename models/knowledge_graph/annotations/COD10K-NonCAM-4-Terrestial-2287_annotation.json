@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of a rocky seashore or riverbank, characterized by numerous smooth and irregular pebbles and larger stones in various shades of grey, brown, and hints of greenish algae. Scattered amongst the rocks, particularly in the mid and far background, is a considerable amount of dark brown and yellowish-brown seaweed and algae, creating a somewhat cluttered and textured environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The otter demonstrates color blending camouflage. Its dark brown, wet fur closely matches the muted, dark tones of the wet rocks, pebbles, and the dark brown and yellowish seaweed present in its immediate environment. While the otter's distinct form is still visible, the similarity in color palette and the somewhat irregular, wet texture of its fur help it to visually integrate with the cluttered, natural setting of the shoreline. The contrast difference is medium, allowing it to blend reasonably well without being completely concealed."
+}

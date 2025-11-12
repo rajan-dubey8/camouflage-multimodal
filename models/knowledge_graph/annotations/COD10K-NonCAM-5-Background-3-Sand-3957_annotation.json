@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach and ocean coastline",
+  "background_description": "The scene depicts a wide, expansive sandy beach under a clear blue sky. The sand in the foreground is wet and dark brown, reflecting the sky, transitioning to lighter, drier golden-brown sand further up the beach. The ocean to the left features dark blue-green water with white foamy waves breaking near the shore. In the distance, a long stretch of dark green, rugged coastline or cliffs is visible, receding into the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively displays a natural environment consisting of a beach, ocean, and distant coastline. There are no visible organisms (animals, insects, or fish) present in the frame that would be attempting to use camouflage. Therefore, camouflage is not applicable."
+}

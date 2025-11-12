@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dense, wet ground cover composed of various green leaves, slender green and brown stems, and areas of shallow muddy water. A prominent large reddish-orange leaf lies on the right, interspersed with smaller brown dried leaves and other plant debris. The environment is cluttered and rich in varied plant textures and colors, typical of a damp, vegetated ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper is highly camouflaged in this image. Its primary method of concealment is color blending; its body is a vibrant green that perfectly matches the fresh green leaves and stems dominating the background. Furthermore, its elongated, slender body shape allows it to blend seamlessly with the linear forms of the surrounding plant material, effectively disrupting its outline and making it incredibly difficult to distinguish. The low contrast between the organism and its environment, coupled with its excellent color and form mimicry, renders it nearly invisible."
+}

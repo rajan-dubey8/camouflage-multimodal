@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lake sunset with silhouetted trees",
+  "background_description": "The image captures a serene sunset over a body of water, likely a lake or wide river. The sky displays a gradient from deep blue overhead to warm orange and yellow hues near the horizon, where the setting sun is visible as a bright disc reflecting on the water. The foreground features prominent dark silhouettes of tree branches with maple-like leaves, framing the scene. The surface of the water in the immediate foreground is covered with dark, circular lily pads and other aquatic vegetation. Distant shorelines with trees are also visible as dark silhouettes against the vibrant sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment at sunset, featuring a lake, trees, and aquatic plants. No animals, insects, or fish are visible in the scene. Therefore, there is no organism present that could exhibit camouflage, and the conditions for camouflage detection are not met."
+}

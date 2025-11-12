@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a dark, granular beach surface, likely sand and small pebbles, mixed with what appears to be numerous pieces of sea glass or varied small stones. The colors are predominantly dark greys, black, brown, and off-white, with scattered translucent amber, orange, and occasional green fragments. The texture is rough and uneven, with many small, irregularly shaped particles creating a speckled, heterogeneous visual field. The foreground is blurred, while the area immediately surrounding the crab is in sharp focus.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The crab demonstrates excellent camouflage by blending almost seamlessly with its sandy and gravelly environment. Its exoskeleton displays a mottled pattern of dark grey, black, and off-white, which very closely matches the color variations and speckled appearance of the surrounding sand and small stones. The crab's relatively small size and its low profile on the ground, partially nestled into the sand, further enhance its concealment by disrupting its outline and making it harder to distinguish from the granular background. The combination of color blending and pattern matching effectively breaks up its form, making it difficult for a predator or observer to spot it against the visually noisy backdrop."
+}

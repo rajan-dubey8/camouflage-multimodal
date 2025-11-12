@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Brown Pelican",
+  "background_description": "A calm body of water, likely an ocean or large bay, with deep blue-green colors. The surface shows subtle ripples and reflections, indicating movement and ambient light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Brown Pelican is prominently visible against the dark blue-green water background. Its distinct white neck, yellowish head, and varied brown plumage create a high contrast with the water, especially the lighter colored parts. While pelicans exhibit countershading (darker dorsal side, lighter ventral side) which can offer some camouflage from different perspectives (e.g., against the sky from below), in this frontal/side view, the bird's features and overall silhouette are clearly defined and do not blend into the water or the barely visible perch. Therefore, active camouflage is not present in this specific scene."
+}

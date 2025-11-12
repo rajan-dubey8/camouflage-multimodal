@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of rough, grey concrete walls and ground, heavily covered with various organic debris. This includes numerous brown and reddish-brown dried leaves, patches of dark green moss, and general detritus. A prominent spiderweb structure on the right side is also thickly adorned with small leaves, creating a very cluttered, textured, and irregular environment. The lighting creates areas of shadow and varied tones across the surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage, blending remarkably well with its environment. Its mottled dark brown and green coloration closely matches the damp concrete, patches of moss, and the various decaying leaves scattered around it. The warty, irregular texture of its skin further enhances this blend, resembling the rough surfaces and organic debris. Its squat, irregular shape, combined with the surrounding clutter of leaves and shadows, effectively disrupts its outline, making it appear as just another lump of organic matter or a shadowed stone. There is minimal contrast between the toad and its immediate surroundings, making it highly inconspicuous and difficult to spot without close inspection."
+}

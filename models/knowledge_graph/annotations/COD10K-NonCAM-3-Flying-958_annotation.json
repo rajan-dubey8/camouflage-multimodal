@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Alpine Chough",
+  "background_description": "The background consists of small to medium-sized pebbles and gravel, predominantly light grey and white with some earthy tones, creating a mottled and rough texture typical of a rocky or stony ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The Alpine Chough's body is almost entirely black, with a bright yellow beak and vibrant orange legs. This coloration creates a stark visual contrast against the light grey and white pebbled background. There is no evidence of color blending, disruptive patterns, or mimicry that would help the bird blend into its surroundings. The bird's features stand out prominently, indicating an absence of camouflage for this particular scene."
+}

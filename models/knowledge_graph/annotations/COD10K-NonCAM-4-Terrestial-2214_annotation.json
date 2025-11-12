@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Wolf",
+  "background_description": "The wolf is situated amidst dark, rugged rocks in the foreground and mid-ground. The background beyond is blurred, displaying muted earthy tones of brown, grey, and hints of dark green, indicative of a natural, possibly forested or rocky environment with sparse vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The wolf displays effective camouflage primarily through color blending. Its fur, a complex mix of grey, brown, and tan with darker accents, closely matches the dominant earthy and rocky hues of its immediate surroundings and the blurred natural background. This coloration significantly reduces the visual contrast between the wolf and its environment, helping to break up its outline and make it less conspicuous in its natural habitat."
+}

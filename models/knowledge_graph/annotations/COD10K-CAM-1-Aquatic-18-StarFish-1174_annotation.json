@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a seafloor covered in fine, pale-colored sand or gravel, with some scattered darker specks. Above the seafloor, the water appears dark, almost black, with hints of blue and purple light reflecting throughout. To the far right, there is a dark, irregularly shaped rock or coral structure.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The StarFish in this image, which appears to be a Crown-of-Thorns Starfish, does not blend effectively with its environment. While its underlying body color is a pale whitish-blue (likely influenced by the ambient lighting) which shares a very general light tone with the sand, its prominent features create strong visual contrast. The starfish has numerous distinct dark purple/brown spikes and dark spots that stand out clearly against its lighter body and the pale sandy bottom. The rough, spiky texture of the starfish is also fundamentally different from the fine, granular texture of the sand. Its large, irregular shape forms a clear silhouette against both the lighter sand and the dark water background, making it easily discernible rather than camouflaged."
+}

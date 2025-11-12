@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-capped Chickadee",
+  "background_description": "The bird is perched on a brown tree branch with visible textured bark. The background is heavily blurred, showing soft, muted tones of gray, green, and brown, suggestive of distant foliage or a natural wooded environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Black-capped Chickadee exhibits distinct black, white, and gray plumage, most notably its black cap and bib contrasted with white cheeks. While these are natural colors, they create a high contrast against the muted, blurred background and the textured brown branch. The bird's form and coloration do not effectively blend with the visual patterns or textures of its immediate environment, making it easily visible rather than camouflaged. Its primary defense mechanism in this specific instance is not crypsis through color blending or mimicry."
+}

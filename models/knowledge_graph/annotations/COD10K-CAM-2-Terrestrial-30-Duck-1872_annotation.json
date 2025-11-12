@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background is dominated by a dense, vertical array of tall, slender, vibrant green reeds or marsh grasses. These reeds rise from dark water, which reflects the surrounding vegetation and the sky, creating patches of dark green, blue-black, and some lighter reflections. The water surface shows subtle ripples and contains some submerged or floating vegetation, contributing to a visually complex, linear, and partially obscured environment typical of a wetland or marsh.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The duck is well camouflaged primarily due to the dense arrangement of the tall, vertical reeds which effectively disrupt its shape and obscure its body. The duck's mottled brown and grey plumage provides a medium degree of color blending with the darker tones of the water and the shadowed areas within the reeds, rather than directly matching the vibrant green of the reeds themselves. The broken visual field created by the reeds makes it difficult to perceive the duck as a distinct, solid object, significantly reducing its contrast and making it challenging to spot at first glance. While its feathered texture contrasts with the smooth reeds, the physical obstruction and shape disruption are highly effective."
+}

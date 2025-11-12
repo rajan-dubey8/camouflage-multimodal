@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky tidal pool",
+  "background_description": "The image displays a close-up of rugged, porous rock formations, likely a coastal or intertidal zone, partially submerged in shallow, clear turquoise water. The rocks exhibit a wide range of colors including reddish-brown, dark olive-green, grey-blue, and patches of dark purple/black with fine speckles. The textures are rough, pitted, and uneven, consistent with eroded limestone or coral.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image predominantly features a complex rocky marine environment. While there are areas that suggest the presence of sessile marine life (e.g., the dark speckled patch resembling a colony of invertebrates), these organisms do not constitute the *main* subject of the image as distinct animals, insects, or fish. The 'main subject' is clearly the environment itself—the rugged rock formations and the water. Therefore, according to the rules, the entity type is 'Environment' and camouflage is not reported for the environment as a main subject."
+}

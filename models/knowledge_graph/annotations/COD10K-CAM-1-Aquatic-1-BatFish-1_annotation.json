@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "BatFish",
+  "background_description": "The background consists of a seabed covered in coarse sand, small pebbles, and irregular rock fragments. The colors are predominantly light grey, sandy beige, various shades of brown, and some areas with darker reddish-brown or purplish encrusting organisms or algae. The texture is rough and granular.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The BatFish demonstrates effective camouflage against the seabed. Its body coloration, a mix of light beige on the ventral side and mottled grey/brown with dark horizontal stripes on the dorsal surface, closely matches the varied tones of the sandy and pebbly substrate. The dark stripes serve as disruptive coloration, breaking up the fish's outline and mimicking the irregular shadows and debris patterns on the seafloor. Its flattened body shape and tendency to lie on the bottom further reduce its visibility by minimizing its silhouette. While its skin texture is smoother than the rough sand, the strong color and pattern matching, combined with low overall contrast, make it blend well with its environment."
+}

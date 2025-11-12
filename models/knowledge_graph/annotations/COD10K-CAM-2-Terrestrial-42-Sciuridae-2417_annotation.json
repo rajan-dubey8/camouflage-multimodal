@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sciuridae",
+  "background_description": "The background consists entirely of snow, forming a burrow or tunnel entrance. The snow is predominantly white with subtle variations in tone, including soft blue-grey shadows within the deeper parts of the burrow. The surface of the snow appears soft and powdery, with a few small dark specks of debris scattered sparsely.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Sciuridae exhibits excellent camouflage in this snowy environment. Its fur is almost entirely white, perfectly matching the dominant color of the surrounding snow. This high degree of color similarity makes the animal's body blend seamlessly with the background. The texture of its fur also appears soft and blends well with the powdery texture of the snow. While its small black eyes and dark nose provide some contrast, these features are minimal and do not significantly disrupt the overall blending effect. The organism is also partially obscured within a snow burrow, further enhancing its concealment. This is a classic example of color blending camouflage, allowing the animal to remain inconspicuous in its habitat."
+}

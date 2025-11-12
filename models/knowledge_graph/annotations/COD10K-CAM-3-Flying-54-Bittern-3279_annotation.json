@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense, complex arrangement of vegetation along a muddy, shallow body of water. The immediate foreground is dark, murky water with numerous thin, dark, tangled branches and sticks. Directly behind this, where the Bittern is located, is a thick wall of reeds and grasses. These are a mix of dry, straw-colored stalks and some greener, broader leaves, creating a highly textured and varied pattern of vertical lines, diagonals, and shadows. Further back, the vegetation continues, appearing drier and more matted, with hints of green. The overall color palette is dominated by browns, tans, greys, and muted greens.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern is exceptionally well camouflaged in this image. Its plumage features a complex pattern of streaky browns, tans, and off-white speckles that almost perfectly replicate the colors and textures of the surrounding dry reeds and grasses. The vertical streaking on its body mimics the vertical orientation and irregular shapes of the plant stalks, effectively breaking up its silhouette. The mix of lighter and darker tones on its feathers matches the interplay of sunlight and shadow within the dense vegetation, making it extremely difficult to distinguish the bird from the cluttered background. This combination of color blending, pattern matching, and shape disruption allows the Bittern to disappear seamlessly into its marshy habitat, making it very hard to spot even upon close inspection."
+}

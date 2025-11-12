@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a shallow underwater seabed, primarily composed of light-colored sand and fine gravel. Scattered throughout are small shell fragments, darker pebbles, and some dark green algal growth or detritus. The water above is slightly murky with a greenish tint.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The fish exhibits excellent camouflage through both color blending and pattern matching. Its body coloration is a mottled mix of light beige, off-white, and brownish-grey, which almost perfectly matches the sandy, gravelly substrate it rests upon. The darker speckles and lines on its skin mimic the varied texture of small pebbles, shell fragments, and detritus found on the seabed. This combination significantly reduces its visual contrast and makes its outline difficult to discern against the irregular background, allowing it to blend seamlessly with its environment."
+}

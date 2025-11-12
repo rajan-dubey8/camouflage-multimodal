@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a densely packed bed of numerous rounded, smooth pebbles of various sizes, ranging in tone from light gray to dark gray, forming an irregular, mottled texture along a shore or riverbank. Below this pebble line is calm, reflective water, mirroring the environment. The image is monochromatic, emphasizing tonal differences.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.9",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The bird exhibits a patchy, piebald plumage of dark and light areas. In this grayscale image, these patches create a disruptive pattern of varying gray tones. The surrounding environment is a bed of pebbles, which also presents a highly irregular pattern of light and dark gray tones and shadows. The bird's plumage allows for a degree of tonal blending and pattern matching with the background clutter, making its outline less distinct and harder to immediately discern from the pebbles. While its feathery texture differs from the smooth stones, the overall blotchy appearance helps it merge visually with the mottled surface of the pebbles, providing effective camouflage through pattern disruption rather than perfect mimicry of individual pebble shapes or textures."
+}

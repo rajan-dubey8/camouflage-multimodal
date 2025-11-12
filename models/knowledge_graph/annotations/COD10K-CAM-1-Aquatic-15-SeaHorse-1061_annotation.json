@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorse is situated in a vibrant underwater environment, surrounded by dense clusters of yellowish-brown kelp or algae, and thick, encrusted ropes or branching marine structures covered in dark reddish-brown sponges and other growth. Sunlight filters down from the blue water surface above, creating a dappled light effect.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse exhibits excellent camouflage, blending seamlessly with its cluttered marine habitat. Its mottled brown and yellowish coloration perfectly matches the surrounding kelp and the encrusted structures it clings to. Furthermore, the seahorse's irregular, bumpy body texture and dermal appendages mimic the rough, intricate surfaces of the kelp leaves and the various growths on the ropes, making it incredibly difficult to distinguish its outline. The overall low contrast between the seahorse and its immediate background further enhances its concealment, demonstrating effective color blending, pattern matching, and shape disruption."
+}

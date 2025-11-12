@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Kudu",
+  "background_description": "The background consists of dry, sparse savanna vegetation, characterized by shades of light brown and tan from dry grass, and muted grayish-brown from bare, twiggy branches and distant bushes. The overall environment is arid and desaturated, typical of a dry season bushland.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Kudu exhibits effective camouflage primarily through color blending and a disruptive pattern. Its grayish-brown coat color closely matches the muted tones of the dry grass and bare branches in the savanna background, offering high color similarity. The distinctive vertical white stripes along its body serve as a disruptive pattern, breaking up its large outline and making it harder for predators to distinguish its form against the visually 'busy' and vertically oriented textures of the surrounding bush and tall grass. This combination helps it blend seamlessly into its natural habitat, despite its size."
+}

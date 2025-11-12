@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of several overlapping dry, fallen leaves, predominantly in shades of brown, tan, and reddish-brown. The leaves exhibit visible veins, some crinkling, and a generally organic, matte texture. The scene is brightly lit by direct sunlight, casting distinct shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper demonstrates excellent camouflage through color blending. Its entire body is a uniform warm brown/tan color that almost perfectly matches the sunlit areas of the dry leaves it rests upon. The color similarity is very high, making the organism's body itself difficult to discern from the background. While the texture of the grasshopper (smoother, more chitinous) differs somewhat from the crinkled, veined leaves, the overall organic feel and lack of strong contrasting patterns help it blend. The primary factor reducing its perfect concealment is the distinct shadow it casts, which creates a sharp outline and contrast against the bright leaf surface. However, the organism's body, without considering its shadow, shows very low contrast with its immediate environment."
+}

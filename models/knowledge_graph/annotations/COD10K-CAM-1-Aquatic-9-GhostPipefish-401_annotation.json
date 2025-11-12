@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of a dark, deep-water environment. The upper portion is mostly black, indicating open water or extreme depth with little light. The lower portion, where the GhostPipefish is resting, is a rough, textured substrate, likely a rocky bottom or coral reef, with mottled shades of dark brown, reddish-brown, and some patches of lighter orange and yellowish tones. The surface is uneven and appears to have detritus or small marine growth.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Shape disruption / Mimicry",
+  "explanation": "The GhostPipefish exhibits strong camouflage despite its vibrant yellow coloration. Its primary method of concealment is through extreme shape disruption and mimicry. The fish's body is covered in numerous frilly, leaf-like appendages and irregular protrusions that break up its outline, making it difficult to discern as a distinct organism. This morphology allows it to effectively mimic detritus, seaweed, or fragments of coral or sponges. While its bright yellow color creates some contrast against the darker overall background, there are yellowish and orange patches within the textured substrate that it partially blends with in terms of hue. The irregular, rough texture of the background also complements the fish's own highly textured and ornate surface, further enhancing its blending. Its transparency in fins also aids in its concealment. The combination of its intricate form, which mimics surrounding marine elements, and partial color matching, makes it well-camouflaged."
+}

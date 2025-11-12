@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull",
+  "background_description": "The background features dark, rippling water with deep blue and grey tones. The bird is perched on a dark, wet rock with a rough, uneven texture, showing shades of brown and possibly green moss.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, a seagull, is characterized by its largely white and light grey plumage. This coloration stands in stark contrast to the dark brown, textured rock it is perched on and the dark, deep blue water in the background. The bird's light body creates a high visual contrast against its darker surroundings, making it highly visible and not camouflaged in this specific environment. There is no color blending, disruptive patterning, or mimicry that would allow it to blend in."
+}

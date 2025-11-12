@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background is a dense collection of lush green foliage, featuring large, broad leaves with visible veins, some appearing glossy or wet. Scattered throughout are clusters of small, vibrant pink flowers. Towards the bottom of the frame, finer, grass-like green plants are visible, creating a multi-layered green environment with variations in shade and texture due to lighting and density.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The butterfly displays a striking pattern of iridescent, bright green bands against a dark green to black wing background. While the overall color palette includes green, matching the dominant color of the foliage, the specific hue, intensity, and geometric pattern of the butterfly's bright markings create a high visual contrast with the more subdued, varied greens and natural textures of the surrounding leaves. The smooth texture of the butterfly's wings also contrasts with the veined and often wet appearance of the plant leaves. Consequently, the butterfly stands out clearly against its environment rather than blending in."
+}

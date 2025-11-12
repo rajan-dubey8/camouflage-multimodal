@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Betta fish",
+  "background_description": "The aquatic environment is an aquarium with clear water. The bottom is covered with artificial, brightly colored, polished gravel stones in shades of red, yellow, and green. The tank glass shows some faint marks and possibly minor algae growth on the surface and the stones.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant iridescent blue-green Betta fish. Its distinct coloration strongly contrasts with the artificial, brightly colored gravel on the aquarium floor, making it highly visible and conspicuous. There is no attempt at or evidence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "White-handed Gibbon",
+  "background_description": "The background consists of lush, dense green foliage and tree branches, appearing slightly out of focus. The gibbon is perched on a thick, grey, gnarled tree branch or artificial climbing structure with a rough, textured surface, and a metal chain is visible wrapped around a part of it.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The White-handed Gibbon's light, creamy white fur with a dark face provides a strong visual contrast against the dark green background foliage and the grey, textured branch it is sitting on. Its fur texture is also distinctly different from the rough bark and smooth leaves. This significant difference in color, texture, and contrast makes the gibbon highly visible and clearly not camouflaged in this environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface with boat wake",
+  "background_description": "The image depicts a wide expanse of open ocean under a clear, bright blue sky. The majority of the foreground and mid-ground is dominated by the churning white foam and spray created by a boat's wake, contrasting with the deeper blue of the surrounding sea.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.99,
+  "camouflage_type": "None",
+  "explanation": "The image solely displays an environmental scene, specifically the open ocean with the turbulent wake of a moving boat. No animals, insects, or fish are visible within the frame. Therefore, there is no organism present to evaluate for camouflage, and thus camouflage is not applicable."
+}

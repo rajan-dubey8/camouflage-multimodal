@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tabby cat",
+  "background_description": "The background consists of light-colored (off-white/beige) walls, a portion of a light brown/beige sofa or furniture, and a visible staircase with white risers and a banister. The environment appears to be an indoor domestic setting with smooth wall textures and a fabric texture from the sofa.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The tabby cat, with its distinctive brown, black, and tan striped fur, is highly visible against the plain, light-colored walls and domestic furniture of the background. Its colors and patterns do not blend with the smooth, uniform textures or colors of the indoor environment. The contrast between the cat and its surroundings is high, indicating a clear absence of camouflage in this setting."
+}

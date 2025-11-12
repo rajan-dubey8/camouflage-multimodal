@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of green, elongated seagrass blades, both in sharp focus in the foreground and blurred in the midground and background. There are also hints of a light brown, sandy or muddy seabed in the blurry background. Small detritus particles or epiphytes are visible on the seagrass stems.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Pipefish exhibits good camouflage, primarily through shape disruption and texture similarity. Its body is covered in numerous frilly, branched appendages, especially around its head and dorsal region, which effectively break up its outline and make it resemble detritus or algae growing on the surrounding seagrass. The muted green and brown coloration on parts of its body also helps it blend with the plant matter and sediment. While a distinct yellow/orange patch on its side and some darker patterns create some contrast, the overall effect of the irregular shape and textured surface makes it difficult to discern from the complex, textured environment of seagrass and debris."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dry, sandy ground interspersed with various sizes of light brown and tan rocks, pebbles, and small, dry twigs or plant debris. The environment appears arid and rocky, with strong sunlight casting distinct shadows, creating a mottled texture of light and dark areas.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The lizard demonstrates excellent camouflage against its rocky and sandy environment. Its body coloration, a mix of sandy browns, tans, and darker greys, perfectly matches the dominant hues of the rocks and dry earth. The textured, scaly skin of the lizard mimics the rough, granular surface of the rocks and ground, enhancing the blending effect. Furthermore, the lizard's darker patterns on its back and sides align well with the shadows and darker crevices in the background, helping to break up its outline and obscure its shape. The overall effect makes the lizard very difficult to spot at first glance, indicating effective color blending, pattern matching, and utilizing existing shadows for concealment."
+}

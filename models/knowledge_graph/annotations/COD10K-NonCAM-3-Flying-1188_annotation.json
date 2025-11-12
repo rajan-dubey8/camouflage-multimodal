@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blue Tit",
+  "background_description": "The background consists of blurred green foliage, likely leaves or bushes, suggesting a natural outdoor environment. The bird is perched on a horizontal, smooth, light brown wooden or bamboo branch.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Blue Tit is clearly visible against the background. Its vibrant blue cap, white cheeks, yellow belly, and black eye-stripe create a strong contrast with the muted green foliage and brown branch. There is low color and texture similarity between the bird and its immediate surroundings. The bird's coloration is designed for species recognition and display, not for blending into this specific environment for concealment."
+}

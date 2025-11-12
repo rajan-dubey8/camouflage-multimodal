@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Oranda Goldfish",
+  "background_description": "The background consists of clear, still water, likely within an aquarium or tank, with a dark, indistinct backdrop and some scattered particulate matter or reflections visible on the glass or in the water. There is a faint line visible at the bottom, suggesting a tank floor.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an Oranda Goldfish with its distinctive large head growth (wen) and bright orange and white coloration. The fish stands out prominently against the plain, dark background of the aquarium, indicating no attempt or presence of camouflage."
+}

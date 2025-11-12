@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a surface covered with numerous small, irregularly shaped pebbles embedded in a dark, likely asphalt or tar, matrix. The pebbles vary widely in color, including shades of black, dark grey, brown, tan, white, and lighter greys. Some areas appear slightly wet, adding reflective qualities and variations in tone. The overall texture is granular, rough, and highly heterogeneous.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.68,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits a good degree of camouflage against this pebbled surface. Its dark brown coloration, with subtle mottling, closely matches the darker brown and grey pebbles, as well as the dark asphalt between them. The frog's slightly textured skin also somewhat mimics the granular texture of the small stones. While its shape provides some contrast, its overall color and pattern help it to blend effectively, making it less conspicuous than if it were a contrasting color. This is an example of color blending and pattern matching, where the organism's features align with the complex, varied background."
+}

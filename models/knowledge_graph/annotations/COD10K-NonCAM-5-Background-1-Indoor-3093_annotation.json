@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Desk interior with computer mouse",
+  "background_description": "The scene depicts a desk in an indoor environment. The background features a stack of books with various titles, a grey computer monitor with a visible screen, a dark cordless telephone, and a small brown teddy bear. A human hand is also partially visible pointing towards the monitor. The desk surface is somewhat reflective, especially near the glowing mouse.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily shows an indoor environment filled with inanimate objects such as a computer mouse, books, a monitor, and a telephone. There are no living organisms attempting to conceal themselves. The main subject, a computer mouse, is an artificial object and does not possess camouflage characteristics. Its bright red optical light makes it highly visible, demonstrating high contrast rather than any attempt at concealment."
+}

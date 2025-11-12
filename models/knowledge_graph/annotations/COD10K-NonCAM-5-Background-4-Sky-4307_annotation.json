@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Stormy sky",
+  "background_description": "The image displays a sky filled with heavy, dark grey clouds, indicating an overcast or stormy weather condition. The clouds show various shades of grey, with some areas appearing almost black and others lighter, reflecting or being illuminated by a strong light source in the bottom right corner. A small patch of blue sky is visible in the bottom left, contrasting with the dominant dark cloud cover. The cloud textures are soft, varied, and turbulent.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a stormy sky with heavy clouds and varying light conditions. There are no visible animals, insects, or any other organisms present in the frame. Therefore, there is no subject to evaluate for camouflage."
+}

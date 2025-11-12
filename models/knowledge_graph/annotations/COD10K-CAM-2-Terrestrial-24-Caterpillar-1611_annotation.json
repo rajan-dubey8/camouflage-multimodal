@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Caterpillar",
+  "background_description": "The background consists of a tree branch with highly textured bark. It features areas of reddish-brown bark, interspersed with extensive patches of light grey, white, and greenish lichen. The surface is rough, uneven, and covered with various bumps and granular textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The caterpillar exhibits exceptional camouflage against the tree bark and lichen. Its body color perfectly matches the light grey, greenish, and brown tones of the surrounding lichen and bark, making it incredibly difficult to distinguish. Furthermore, its irregular shape and rough, bumpy texture mimic the natural contours, crevices, and growths (like lichen patches) found on the tree branch, effectively disrupting its outline. The small dark spots on its body also blend with minor imperfections or shadows on the bark. This combination of color blending, pattern matching, and shape disruption results in near-perfect concealment."
+}

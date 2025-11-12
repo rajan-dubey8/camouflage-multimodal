@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Misty mountain landscape with bare trees and streetlights",
+  "background_description": "The scene depicts a misty mountain landscape under an overcast sky. Rolling hills and mountains are largely obscured by dense, low-hanging clouds or fog, which gives the background a soft, muted grey-blue appearance. In the foreground, several leafless trees with dark, slender branches are silhouetted against the lighter sky, alongside modern streetlights with white poles. The overall color palette is dominated by various shades of grey, dark green/blue from the mountains, and the stark black of the tree branches.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively features a natural environment comprising mountains, mist, bare trees, and artificial elements like streetlights. No animals, insects, or any other organisms are visible within the frame that could be evaluated for camouflage. Therefore, camouflage is not present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The background consists of a large tree trunk on the left with textured bark displaying shades of gray and dark brown. The central and right portions of the image are dominated by a dense tangle of crisscrossing tree branches of varying thickness, many of which are gnarled, thorny, or have a rough, textured surface. Sparse green leaves and blurred, lighter areas are visible in the deeper background, suggesting a shaded forest or woodland setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Frogmouths in this image demonstrate exceptional camouflage. Their mottled plumage, comprising shades of grey, brown, and reddish-brown, flawlessly matches the colors of the tree trunk and the various branches they are perched upon. The intricate patterns on their feathers mimic the rough, textured bark and the gnarled surfaces of the surrounding branches, effectively breaking up their body outlines. This combination of color blending, pattern matching, and the birds' posture (one tucked against the trunk, another perched amongst branches) makes them incredibly difficult to distinguish from their arboreal environment, greatly reducing their visibility."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a natural, somewhat dense environment, rendered in grayscale. In the immediate vicinity of the tiger, there is a large, rough-textured rock or log, partially covered by dry, wispy grasses, various twigs, and some small leafy plants in the foreground. Further back, there are indistinct tree trunks and dense foliage, creating a dappled effect of light and shadow. The overall environment is busy and textured.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.6",
+  "confidence": "0.9",
+  "camouflage_type": "Pattern matching / Shape disruption",
+  "explanation": "The tiger cub demonstrates effective natural camouflage through pattern matching and shape disruption. Its black stripes against lighter fur (visible as varying shades of grey in this grayscale image) serve to break up its body outline. These patterns visually merge with the linear elements of the dry grass, twigs, and the dappled light and shadow created by the dense background foliage. Although the cub's face is clearly visible, its distinctive stripes help to disrupt its overall form, making it less distinct against the busy, textured background. The luminance levels of its coat align reasonably well with the varying shades of the environment, contributing to a medium level of color (grayscale) and texture similarity. While not perfectly hidden due to its direct gaze and prominent face, the inherent camouflage properties of its coat are functional within this environment."
+}

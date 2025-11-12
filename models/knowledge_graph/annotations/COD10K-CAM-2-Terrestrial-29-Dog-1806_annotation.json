@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Dog",
+  "background_description": "The background consists of a ground partially covered in fresh, uneven white snow. Visible through and around the snow are numerous small, dark brown, grey, and black pebbles or gravel, creating a mottled texture. There are also clear footprints visible in the snow, suggesting recent activity.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The dog's coat is a distinct black and white pattern. While the white fur blends somewhat with the white snow, the prominent black patches create a very high contrast against the snowy background. These large black areas make the dog highly visible and easily detectable. The dog's fluffy texture also differs significantly from the granular snow and pebbles. Despite the background containing some dark pebbles, the black patches on the dog do not mimic their scattered pattern or scale effectively enough to provide camouflage. The overall effect is that the dog stands out clearly against the environment."
+}

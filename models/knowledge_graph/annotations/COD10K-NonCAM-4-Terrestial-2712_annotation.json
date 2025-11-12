@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mallard Duck",
+  "background_description": "The background consists of rippled water, creating horizontal lines and distorted reflections. Strong, bright vertical lines, likely from a white fence or similar structure, are reflected in the water, appearing as broken white columns against darker water areas. The water's surface displays varying shades of grey, silver, and dark blue-green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Mallard duck's distinctive plumage, with a dark green head, brown body, and white underparts, does not effectively blend with the rippled water and its strong, bright vertical reflections. The bird's form and color patterns create a clear contrast against the background's textures and varying shades, making it highly visible. There is no attempt at concealment through color matching, disruptive patterns, or mimicry with the specific visual elements of this environment."
+}

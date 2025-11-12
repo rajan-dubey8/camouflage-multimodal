@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Animal",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a vast, wet sandy beach at a low angle, likely during sunrise or sunset given the warm, golden light. The sand is rippled with undulations and small depressions, some holding shallow pools of water reflecting the sky. In the mid-ground and far distance, dark, forested hills or mountains are visible under a partly cloudy sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The StarFish exhibits effective camouflage through strong color and texture blending. Its body color, a muted sandy brown/beige, perfectly matches the hue of the wet sand, especially under the warm, golden light of dawn or dusk. The granular texture of the StarFish's surface also closely resembles the sand grains and small debris on the beach, contributing to its integration. The low contrast between the organism and its immediate environment makes it difficult to distinguish at first glance. Although its star shape is distinct, it is lying flat and partially covered, softening its outline and minimizing its visual prominence against the rippled sand."
+}

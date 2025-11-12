@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The environment is an African savanna characterized by dry, light brown sandy ground, sparse green and brown bushes, and numerous leafless or semi-leafless trees and woody scrub. The distant horizon features a hazy blue sky meeting distant hills.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The giraffe's distinctive patterned coat, with its irregular brown patches and lighter tan lines, provides effective disruptive pattern camouflage. This pattern helps to break up the animal's large silhouette against the varied textures and dappled light of the savanna environment, which includes dry ground, sparse bushes, and trees. The earthy colors of its coat also blend well with the surrounding vegetation and soil, making it more difficult for predators to spot, especially at a distance or when partially obscured by foliage."
+}

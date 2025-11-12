@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense, uneven layer of dried autumn leaves and thin, dark twigs scattered on a forest floor. The leaves exhibit a variety of brown hues, ranging from dark, almost black-brown to reddish-brown, golden-brown, and lighter tan shades. Many leaves are curled, crinkled, or partially decomposed, creating a complex texture with natural shadows and highlights. The overall impression is one of a rich, organic ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog is exceptionally well camouflaged against the backdrop of dried leaves and twigs. Its skin exhibits a highly varied coloration that perfectly matches the different shades of brown, reddish-brown, and dark grey found in the surrounding leaf litter. The mottled and patterned texture of its skin further enhances this by mimicking the irregular surfaces and patterns of the decaying leaves. Furthermore, the frog's body posture and irregular shape blend seamlessly with the jumbled forms of the leaves, effectively disrupting its outline and making it incredibly difficult to distinguish from the environment. This combination of color, texture, and pattern matching, along with shape disruption, makes its presence almost imperceptible at first glance."
+}

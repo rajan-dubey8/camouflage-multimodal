@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of large, light grey to dark grey granite-like rocks with a granular, rough texture. There are numerous thin, dry woody twigs and branches, scattered dried brown leaves, and sparse patches of green vegetation. The scene is illuminated by direct sunlight, creating strong highlights and shadows, contributing to a mottled appearance across the rocky surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage. Its body is adorned with a mottled pattern of dark grey/black and bright white patches, which remarkably mimics the variegated colors and textures of the granite-like rocks and the interplay of sunlight and shadow on them. The dark areas of the lizard blend seamlessly with the shaded crevices and darker rock surfaces, while the white patches resemble sun-bleached rock or bright reflections. The rough, scaly texture of its skin also closely matches the granular surface of the rocks, further enhancing the illusion. This combination of color blending and pattern matching effectively breaks up the lizard's outline, making it very difficult to distinguish from its rocky environment."
+}

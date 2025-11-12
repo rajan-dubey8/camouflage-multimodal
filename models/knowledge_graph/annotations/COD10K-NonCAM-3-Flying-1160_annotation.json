@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Streaked Flycatcher",
+  "background_description": "The background consists of out-of-focus natural foliage, primarily vibrant green leaves, with scattered blurs of orange and reddish hues, suggesting blooming flowers or autumn leaves on distant trees. The bird is prominently perched on a distinct, light-colored artificial structure, possibly a decorative lamp post finial, which has a ribbed, translucent appearance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Streaked Flycatcher's plumage, characterized by its brown body, white throat/chest, and distinct black and white head markings (dark cap, prominent white supercilium), does not blend with the highly blurred green and orange background foliage. Furthermore, the bird is perched on a light-colored, artificial structure that contrasts sharply with its own coloration and the natural environment. The bird's form and distinct coloration make it highly visible and easily discernible in the scene, indicating no active camouflage."
+}

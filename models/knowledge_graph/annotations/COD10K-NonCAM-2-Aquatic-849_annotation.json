@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Grey seal pup",
+  "background_description": "A sandy beach environment with fine, light brown and beige sand. The scene shows strong shadows cast by what appears to be bright sunlight, and there are sparse strands of dry grass visible in the foreground and midground.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The grey seal pup exhibits color blending camouflage. Its light greyish-white fur, particularly prominent where sunlit, helps it blend moderately with the light, sandy tones of the beach. While the fluffy texture of its fur is distinctly different from the granular sand, and its form is clearly visible in this close-up, the overall coloration reduces contrast with the environment. This natural coloration is thought to help pups blend with lighter backgrounds, including sand or snow/ice, reducing their visibility to predators."
+}

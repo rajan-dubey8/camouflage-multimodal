@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coyote",
+  "background_description": "The background consists of dry, sandy-colored earth with a fine, granular texture. There are sparse patches of dull green vegetation in the mid-ground and small scattered stones. The overall environment appears arid or semi-arid, with muted earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The coyote's fur exhibits a grayish-brown and tawny coloration that highly matches the dry, sandy, and dusty ground it is resting on. This color blending effectively reduces the visual contrast between the animal and its environment, allowing it to merge with the background. While the fur texture is different from the soil, the muted tones and lack of strong disruptive patterns on its coat contribute to a medium texture similarity, further enhancing its camouflage by making it less discernible in its natural habitat."
+}

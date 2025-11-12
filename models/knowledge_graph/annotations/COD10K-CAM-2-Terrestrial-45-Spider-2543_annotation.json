@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a weathered wooden surface, likely a plank or beam, characterized by prominent horizontal wood grain lines. The surface is adorned with patches of greenish-yellow growth (likely algae or lichen), reddish-brown undertones of the original wood, and irregular whitish-gray areas, possibly faded wood or mold. The overall texture is rough, uneven, and somewhat granular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider demonstrates exceptional camouflage, making it very difficult to spot against the weathered wooden background. Its body and angular legs are a light grayish-brown, almost perfectly matching the faded, whitish-gray patches and lighter brown tones present on the wood surface. The spider's flattened, irregular shape and the way its legs splay out mimic the natural cracks, grooves, and irregular textures of the wood grain and the fungal/algal growth. This precise pattern matching, coupled with high color and texture similarity and a very low contrast difference, effectively disrupts the spider's outline and allows it to seamlessly blend into its environment."
+}

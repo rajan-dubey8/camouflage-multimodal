@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a vibrant pink flower with numerous thin, strap-like petals. This flower is part of a branch adorned with many oval-shaped, reddish-purple leaves. The background behind the plant is a blurred, light brown to tan color, suggesting out-of-focus ground or distant foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's dull grey-brown and reddish-brown wing coloration, while somewhat muted, creates a strong visual contrast against the vibrant, almost neon pink flower it is resting upon. Its body and wing outline are distinctly visible against the bright petals. Although the reddish-brown tones might share a very slight hue with the surrounding reddish-purple leaves, its placement on the bright flower and the difference in texture prevent any effective blending with its immediate environment."
+}

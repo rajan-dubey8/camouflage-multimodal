@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Green Weevil",
+  "background_description": "The background consists of various shades of green foliage. The immediate foreground is a vibrant green leaf with visible veins and a slightly textured, possibly hairy, surface. The rest of the background is blurred green foliage, indicating a natural, leafy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The insect exhibits strong color blending with its environment. Its light blue-green coloration closely matches the vibrant green of the leaf it is resting upon and the surrounding blurred green foliage. This high degree of color similarity and low contrast difference makes the insect well-camouflaged, helping it to remain undetected by predators or prey within this leafy habitat."
+}

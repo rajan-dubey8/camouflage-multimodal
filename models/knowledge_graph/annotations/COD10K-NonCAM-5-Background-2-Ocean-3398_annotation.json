@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background primarily features a dense formation of branching coral, predominantly greenish-brown with lighter, almost white tips on the branches. Beyond the main coral, the water appears deep blue-green with blurred outlines of larger, rounded coral structures in the distance and a sandy or rocky seafloor in the foreground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The small yellow fish are clearly visible against the greenish-brown coral and blue-green water. Their bright coloration creates a high contrast with the surrounding environment, and their smooth body texture does not match the intricate, branching structure of the coral. There is no attempt at color blending, mimicry, or disruptive patterning to conceal them, making them stand out rather than blend in."
+}

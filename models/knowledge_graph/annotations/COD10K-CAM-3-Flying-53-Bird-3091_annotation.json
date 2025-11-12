@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a rocky, mountainous terrain with large boulders and smaller rocks covered in patches of various colored lichens (greens, greys, yellows, whites) and sparse, low-lying vegetation showing autumn colors (reddish-browns, some green moss). The distant background is blurry, showing similar rocky textures and earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits strong camouflage, primarily through color blending and pattern matching. Its mottled brown, grey, and white plumage closely resembles the colors and textures of the lichen-covered rocks and sparse, autumnal vegetation in the environment. The speckling and dappled pattern on its back and head mimic the patchy, rough appearance of the rock surfaces and lichens. While the white underside creates some contrast against the darker rock, the upper body's coloration and pattern integrate remarkably well, making the bird blend into its rocky habitat and difficult to discern at first glance."
+}

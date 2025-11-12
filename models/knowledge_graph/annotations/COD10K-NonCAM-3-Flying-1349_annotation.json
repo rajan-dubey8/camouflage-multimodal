@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Finch",
+  "background_description": "The bird is perched on a weathered, rough-textured wooden beam. The background is a soft-focus, dark, muted brownish-green, suggesting distant natural foliage or a shaded outdoor environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The finch exhibits natural camouflage through color blending. Its plumage, consisting of olive-green, brown, and grey tones, closely matches the muted, natural colors found in its typical habitat of trees and dense foliage, which is reflected in the blurred background. While the bird is clearly visible in sharp focus and has some contrasting white wing markings, its overall coloration helps it blend with similar environmental tones, reducing its conspicuousness to predators or prey. The texture of its feathers does not strongly mimic the background or the wooden perch, and the contrast is moderate, allowing the bird to be seen but not stand out excessively against a natural backdrop."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Soft coral",
+  "background_description": "The soft coral is attached to a rocky substrate, which is covered with various marine growths and algae, presenting a textured, grayish-green and brownish appearance. The background behind this substrate and coral is dark, indicative of deep water or shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.45,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The soft coral, despite being a distinct organism, exhibits camouflage primarily through disruptive patterning. Its highly textured and multi-polyped surface creates an irregular shape that breaks up its overall outline, making it harder to discern as a single, clear entity from the visually complex and 'noisy' environment of a coral reef. While its light beige color and frilly texture differ significantly from the immediate darker, rough rocky substrate in this specific photo, this complex, disruptive form is a key element of camouflage for many sessile organisms in a diverse reef ecosystem, helping them blend into the general visual clutter of their habitat rather than matching a single element."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background is an underwater coral reef environment, densely covered with various hard and soft corals, sponges, and rock formations. Colors range from deep reddish-browns, purples, and dark greens to lighter pinks, oranges, and off-white encrusting organisms. The textures are highly irregular, bumpy, porous, and mottled, creating a busy and complex visual field.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits effective camouflage in this coral reef environment. Its elongated, slender body shape allows it to blend with various coral structures or debris. The organism's coloration, a mix of yellowish-white and brown stripes with red accents, closely matches the diverse color palette of the surrounding corals and rocks, contributing to high color blending. The intricate, wavy stripe pattern on its body also serves as pattern matching, breaking up its outline and making it harder to distinguish from the highly textured and visually complex background of the reef. While not entirely invisible, its features significantly reduce its visibility against the busy backdrop."
+}

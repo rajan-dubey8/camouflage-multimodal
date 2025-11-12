@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of an uneven forest floor or dry ground, dominated by a dark, weathered tree stump or log on the left. The ground around it is covered with a mix of dry earth, fallen leaves, small twigs, pine needles, and patches of light green and white lichen and moss. The overall color palette is earthy, with browns, greys, and muted greens, suggesting a dry, wooded environment with varied textures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits strong camouflage through color blending. Its light brown to bronze coloration, along with a subtle darker dorsal stripe, closely matches the earthy tones, dried vegetation (twigs, leaves), and patches of lichen/moss present in its immediate environment. The varied, cluttered texture of the background, with its multiple elements, helps to disrupt the lizard's smooth, elongated form, making it less distinct. The low contrast between the lizard's body and the surrounding ground makes it blend seamlessly, requiring careful observation to spot. The subtle stripe on its back further aids in pattern matching with linear elements like twigs or plant stems."
+}

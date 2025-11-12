@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is resting on a vibrant green leaf. The surrounding environment consists of lush, healthy green foliage, with some leaves highlighted by direct sunlight, creating bright lime green areas. The background behind the immediate plant is very dark and out of focus, likely representing deep shadow or distant, indistinct elements, with some faint wisps of spiderweb visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly exhibits excellent camouflage through color blending. Its wings are a bright, vibrant lime green, almost perfectly matching the hue and saturation of the sunlit green leaf it is resting upon. This strong color similarity makes the butterfly blend seamlessly with the foliage, making it difficult to discern at first glance. While the texture of its wings (with visible veins) is distinct from the smooth leaf surface, and its antennae are a contrasting brown, the overwhelming color match significantly reduces its visual detectability against the green background. The contrast between the butterfly/leaf and the dark background, however, is high, but the camouflage is effective within the immediate leafy environment."
+}

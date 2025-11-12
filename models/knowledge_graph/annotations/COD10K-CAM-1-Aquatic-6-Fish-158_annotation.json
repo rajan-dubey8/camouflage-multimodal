@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a vibrant coral reef scene underwater. It is dominated by dense formations of dark, intricate branching gorgonian corals, some appearing almost black against the deep blue water visible in the upper and right portions of the image. In the foreground and midground, there are lighter, feathery soft corals with a pale, whitish-gray coloration, creating a stark contrast with the darker corals. The substrate beneath the corals is rocky and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits effective camouflage through a combination of color blending and pattern matching. Its body is covered in a mottled pattern of dark brown/black spots and irregular blotches on a lighter gray/tan base. This coloration closely mimics the varied hues and textures of the surrounding coral reef, with the dark spots blending with the shadows and the dark branching gorgonian corals, and the lighter areas resembling the pale soft corals and rocky substrate. The disruptive patterning breaks up the fish's outline, making it challenging for a predator to distinguish its form against the complex and irregular background of the reef. While not entirely invisible, its appearance significantly reduces its detectability in this environment, especially when viewed from a distance or with slight movement."
+}

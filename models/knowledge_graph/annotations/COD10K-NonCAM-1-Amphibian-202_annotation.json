@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "Shallow freshwater pond with emergent vegetation and muddy banks, typical habitat for amphibians.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A frog with distinct black spots and stripes is clearly visible resting on a human hand, with a blurred green and blue background. Its bright and contrasting patterns make it stand out significantly against the hand, indicating no camouflage."
+}

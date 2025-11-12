@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Coral Squat Lobster",
+  "background_description": "The immediate background for the camouflaged organism is a large coral colony, likely a Euphyllia or similar species, characterized by a reddish-brown fleshy base with numerous rounded polyps, each tipped with a lighter, often translucent or greenish-blue coloration. Surrounding the coral, the substrate consists of varied light-colored pebbles and gravel.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, transparent coral squat lobster (a type of crustacean, categorized as 'Insect' due to schema limitations for small arthropods) is camouflaged within the polyps of a coral colony. Its semi-transparent body and faint bluish markings perfectly match the color and translucent appearance of the coral's polyps. The creature's form and texture blend seamlessly with the irregular, bumpy surface of the coral, making it exceptionally difficult to distinguish from its host. This results in high color and texture similarity, and a very low contrast difference, effectively hiding the organism."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of murky, greenish-brown water, reflecting some light on its surface. Numerous pieces of natural debris are visible, including submerged and floating dry reeds, thin grass blades, and other decaying plant matter, creating a cluttered and textured environment. Some greener plant parts are also present.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage through color blending and pattern matching. Its skin is a mottled brown and olive-green with darker spots, closely matching the color of the murky water and the various pieces of dry and decaying plant debris (reeds, leaves) floating and submerged in the pond. The irregular pattern on its skin further helps to break up its outline, making it difficult to distinguish from the surrounding clutter of natural materials. The overall low contrast between the frog and its environment, combined with the fragmented visual input from the surrounding debris, effectively conceals the organism."
+}

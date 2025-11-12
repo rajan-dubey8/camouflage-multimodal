@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of stratified rock or petrified wood, displaying distinct horizontal layers of varying colors and textures. The dominant colors are yellowish-beige, light brown, and darker brownish-black, with a somewhat rough and granular surface. A narrow channel of shallow, clear water flows horizontally through a crevice, revealing ripples and reflections on its surface and the submerged textures of the rock below.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The crab demonstrates effective camouflage through color blending. Its carapace and legs exhibit a yellowish-brown to golden hue with mottled patterns that closely match the colors and general texture of the surrounding stratified rock and the shallow water it inhabits. The organism is positioned within a natural crevice, utilizing shadow hiding to further obscure its shape and outline, making it difficult to discern against the varied background. The similarity in coloration and texture, combined with its strategic placement, significantly reduces its visibility."
+}

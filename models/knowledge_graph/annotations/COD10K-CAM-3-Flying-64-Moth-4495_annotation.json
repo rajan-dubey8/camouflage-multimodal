@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of various natural elements typical of a forest floor, including pieces of dark brown bark and decaying wood, some covered with vibrant green moss. There are also dried, straw-like plant stems and leaves, and loose, dark brown soil/detritus. The overall environment is earthy, with a mix of rough textures and muted brown tones, punctuated by patches of bright green.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth exhibits excellent camouflage through color blending and pattern matching. Its wings are a muted light brown/tan with subtle darker lines, which perfectly mimic the dried plant stems, bark, and dead leaves in its immediate surroundings. The fuzzy body also contributes to blending with the rough, organic textures of the background. The moth's resting posture, with wings folded, also contributes to its disguise, making it resemble a piece of wood or a fallen leaf, thus disrupting its animal shape. There is very low contrast between the moth and its environment, making it incredibly difficult to spot at first glance."
+}

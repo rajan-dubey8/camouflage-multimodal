@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background environment consists of dark, rich soil or mulch scattered with small dried twigs and leaf debris. Patches of vibrant green grass and other low-growing foliage are interspersed throughout, creating a varied texture and color palette. The scene is illuminated by bright sunlight, casting distinct shadows and highlighting elements.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog exhibits effective camouflage through a combination of color blending and pattern matching. Its dorsal surface features a mottled pattern of dark green and irregular dark brown/black blotches. These colors closely match the surrounding green foliage and the dark tones of the soil, dry leaves, and shadows. The irregular blotchy pattern helps to disrupt the frog's outline, breaking up its body shape against the varied textures and forms of the background. While direct sunlight illuminates parts of the frog, creating some contrast, its inherent coloration and patterning make it blend remarkably well with its natural habitat, making it challenging to spot at first glance."
+}

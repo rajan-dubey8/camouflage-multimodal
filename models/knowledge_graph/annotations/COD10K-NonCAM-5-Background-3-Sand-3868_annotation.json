@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal landscape",
+  "background_description": "The scene features a diverse coastal environment under a clear blue sky. The foreground is dominated by a wide sandy beach interspersed with numerous large, rugged, light brown to grey rocks, some partially covered in small pools of water or reddish-brown seaweed. The midground shows the ocean with gentle waves breaking, and the background consists of steep, rolling hills or cliffs covered in green vegetation and exposed lighter-colored rock formations.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a natural coastal environment comprising a rocky beach, sand, ocean, and hills. No animals, insects, or fish are visible within the frame, either explicitly or subtly camouflaged. Therefore, there is no camouflage present in this scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The moth is perched on a sturdy tree branch with deeply cracked and textured bark. The bark displays a mix of muted grey, brown, and subtle green tones, indicative of age or possibly lichen growth. The background behind the branch is out of focus, showing a soft gradient of light green and pale beige, suggesting distant foliage or a natural diffuse light source.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth exhibits excellent camouflage against the tree branch. Its wings are mottled with patterns of light grey and darker speckles, which remarkably mimic the irregular, cracked, and textured surface of the bark. The overall color palette of the moth, consisting of various shades of grey and white, closely matches the greyish-brown and slightly greenish hues present on the branch. The fuzzy texture of the moth's body further contributes to this blend, creating a non-distinct outline that melts into the rough bark. The contrast between the moth and its immediate environment is very low, making it difficult for a predator to distinguish the moth from the branch's natural features. This combination of color blending and pattern matching provides highly effective visual concealment."
+}

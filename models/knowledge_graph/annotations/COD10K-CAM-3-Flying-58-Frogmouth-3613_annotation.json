@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The background consists primarily of a thick, heavily textured tree trunk with deeply furrowed and fibrous, peeling bark in shades of dark brown, grey, and hints of lighter brown where sunlight catches it. The Frogmouth is perched in a nest of interwoven twigs nestled within a crevice of this tree trunk. Beyond the immediate tree structure, there's a blurred background of green foliage and distant blue sky, indicating an outdoor, natural forest or woodland setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The Frogmouth exhibits excellent camouflage in this image. Its plumage is a mottled mix of grey, brown, and white, perfectly matching the colors and variegated patterns of the surrounding tree bark. The coarse, streaky texture of its feathers closely mimics the rough, fibrous, and peeling nature of the eucalyptus-like tree trunk. The bird's posture, with its head held high and eyes closed, further elongates its body, making it appear like a broken branch or an extension of the tree itself. It is also partially obscured by shadows and positioned within a natural crevice of the tree, further reducing its visibility by disrupting its outline. The nest itself, made of similar-colored twigs, integrates seamlessly into the overall camouflage."
+}

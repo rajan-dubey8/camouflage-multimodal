@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Tang",
+  "background_description": "The aquatic environment features a vibrant coral reef. In the foreground, there are light-colored, knobbly coral structures, possibly a type of brain coral or anemone. In the mid-ground and background, there are numerous branching, finger-like corals in shades of brown and orange. The water behind is a clear, bright blue.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright blue Blue Tang fish with distinct black markings and a yellow tail. Its vibrant coloration highly contrasts with the brown and tan coral reef background, indicating a complete absence of camouflage."
+}

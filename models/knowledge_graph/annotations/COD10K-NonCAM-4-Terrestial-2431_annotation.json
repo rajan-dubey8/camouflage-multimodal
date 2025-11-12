@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coati",
+  "background_description": "The background is largely out of focus, featuring blurred shades of green and brown, suggesting distant foliage and earthy tones. The Coati is standing on a light brown, possibly wooden, surface.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Coati exhibits color blending camouflage. Its thick fur is predominantly brown and reddish-brown, which naturally allows it to blend with the colors of its typical forest and woodland habitats, such as tree trunks, soil, and dried leaves. While the animal is clearly visible and sharply focused in this specific image, its natural coloration is an adaptation for concealment. The blurred green and brown background in the image somewhat aligns with the earthy tones of its fur, demonstrating the principle of color blending, even if the immediate visual effect in this controlled setting doesn't render it completely invisible."
+}

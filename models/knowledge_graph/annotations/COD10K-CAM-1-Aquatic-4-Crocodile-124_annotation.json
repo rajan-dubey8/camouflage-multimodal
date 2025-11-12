@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a dense, uniform mat of small, vibrant green aquatic plants, likely duckweed, covering the surface of water. There are dappled shadows from overhead foliage visible on the duckweed surface, creating variations in light and shade. A single dry brown leaf floats on the green surface in the lower-left.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The crocodile exhibits effective camouflage in this image. Its dark, rugged skin blends well with the darker areas and shadows of the water beneath the duckweed. Crucially, a significant portion of its back and tail are submerged or covered by the very same dense green duckweed that blankets the water surface, as well as a more substantial clump of aquatic vegetation directly on its back. This covering of vegetation disrupts the crocodile's outline, making it appear less like an animal and more like a patch of floating debris or an island of plants. While its exposed head has some contrast with the bright green, the overall effect of partial submersion and the physical overlay of vegetation severely distorts its reptilian shape, allowing it to blend seamlessly into the marshy, vegetation-covered water."
+}

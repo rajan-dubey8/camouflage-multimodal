@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of wet, muddy, and possibly leaf-littered ground with various shades of earthy browns, olive greens, and yellowish tones. There are numerous small water droplets reflecting light, creating shiny highlights. The surface is irregular, showing subtle textures of damp soil and organic detritus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its skin coloration, a mix of olive-brown and greenish-yellow tones, closely matches the damp, earthy background. The irregular dark brown mottling and stripes on its back and legs effectively break up its outline and blend seamlessly with the variable textures, shadows, and lighter, wet patches of the surrounding environment. The subtle sheen on parts of the toad's skin, especially its legs, also mimics the reflective water droplets on the ground. The overall effect makes the toad very difficult to distinguish from its immediate surroundings, providing strong concealment."
+}

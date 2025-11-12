@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras",
+  "background_description": "The background depicts an arid savanna or grassland landscape. A wide, light brown dirt road cuts through the scene. On either side, the terrain is covered with tall, dry, yellowish-brown grasses mixed with some patches of greener vegetation. A prominent large tree with vibrant green foliage stands on the right side of the image. In the mid-distance, smaller bushes and sparse trees are visible. The sky is a bright, clear, light grey/white.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.65,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features two zebras in a savanna environment. While the zebras' black and white stripes do not blend in terms of color or texture with the predominantly brown dirt road or the yellow-brown dry grasses, their stripes are a classic example of disruptive pattern camouflage. This pattern helps to break up the outline of the animal, making it difficult for predators to distinguish individual zebras within a herd, or to accurately judge their speed and direction when in motion. In this particular static scene, the high contrast of the stripes against the muted background makes the individual zebras visually distinct, but the pattern itself serves a camouflage function in a broader ecological context."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red squirrel",
+  "background_description": "The background consists of blurred, dry forest floor vegetation, primarily dry grass, fallen leaves, and twigs. The colors are predominantly warm earthy tones like browns, tans, and desaturated greens, creating a soft, textured, and natural environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The red squirrel's reddish-brown fur provides effective camouflage through color blending with its natural habitat. Its fur closely matches the warm, earthy tones of the dry grass, fallen leaves, and forest floor in the background. While the squirrel's distinct form is visible, the high color similarity reduces its overall contrast and helps it blend seamlessly into the environment, aiding in concealment from predators and while foraging."
+}

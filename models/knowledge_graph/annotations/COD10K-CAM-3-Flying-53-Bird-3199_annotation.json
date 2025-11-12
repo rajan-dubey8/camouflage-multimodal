@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense, intricate network of dried, straw-like plant stems, thin branches, and seed heads. The dominant colors are various shades of light brown, golden yellow, and beige, characteristic of dry vegetation, with a few slender green stems interspersed. This creates a busy, linear, and somewhat chaotic visual texture.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bird demonstrates effective camouflage primarily through color blending and shape disruption. Its yellow-green plumage shows significant tonal similarity with the golden-yellow and light brown hues of the dried plant stems and foliage in the background. The streaked patterns on its back and wings further help it merge with the textured environment, providing 'pattern matching'. Furthermore, the dense, chaotic network of fine stems and branches in the background effectively breaks up the bird's silhouette, making its distinct form harder to discern. While the bird's bright yellow on its head and chest provides some contrast, the overall effect is one of blending, making it difficult to spot at first glance."
+}

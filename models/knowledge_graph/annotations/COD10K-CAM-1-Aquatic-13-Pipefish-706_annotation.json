@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow, rocky seafloor. It features light beige and greenish sand patches, interspersed with larger rocks covered in reddish-brown and green algal growth. There are also dark, slender spines from a sea urchin visible in the upper left, casting some shadow. The overall texture is granular and mottled, with variations in color and light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image. Its elongated body is covered in a base color of pale yellow/beige, with intricate patterns of reddish-brown and white rings and dots. This coloration and pattern highly resemble the variegated textures and hues of the surrounding rocky and sandy seabed, which includes light-colored sand, patches of green algae, and reddish-brown coral or algal growth. The combination of color blending and pattern matching effectively breaks up the organism's outline and allows it to integrate seamlessly with the heterogeneous environment, making it very difficult to spot."
+}

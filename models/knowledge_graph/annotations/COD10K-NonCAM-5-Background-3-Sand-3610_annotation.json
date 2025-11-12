@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical beach",
+  "background_description": "The scene features a clear, light blue sky with scattered wispy white clouds, an expansive stretch of pale, fine-grained sand forming a pristine beach, and crystal-clear turquoise ocean water. Submerged rocks and patches of darker aquatic vegetation are visible through the transparent water near the shore. A dense line of green, leafy trees and drier shrubs borders the sandy beach further inland, indicating a coastal ecosystem.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No visible organism (animal, insect, fish, bird, reptile, amphibian, or arachnid) is present in the image for camouflage to be evaluated. The image solely depicts an environmental scene consisting of a beach, ocean, and coastal vegetation under a clear sky."
+}

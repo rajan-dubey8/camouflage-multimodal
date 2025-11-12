@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The ducks are located at the base of a tall, light-barked tree, on a patch of dark, loose soil or mulch. Surrounding this area is a vibrant green lawn. In the background, there is a paved pathway with dark grey tiles, a low concrete planter, a small green bush, and a modern building with reflective glass windows. The scene is outdoors with natural lighting.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The mother duck and her ducklings are positioned at the base of a tree, within a patch of dark soil/mulch. The mother duck's mottled brown and grey plumage exhibits medium color and texture similarity with the natural elements of the soil and the darker parts of the tree bark, aiding in pattern matching and breaking up her outline. The small ducklings are very dark and blend effectively with the shaded, dark soil, utilizing both color blending and shadow hiding. While they are not invisible, their colors and patterns significantly reduce their contrast against their immediate surroundings, making them less conspicuous than if they were in a more open or contrasting environment like the bright green grass."
+}

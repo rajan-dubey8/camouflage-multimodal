@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Downy Woodpecker",
+  "background_description": "The background consists of a thick tree trunk with peeling, textured gray and brown bark, strongly lit by sunlight creating areas of bright highlight and deep shadow. Behind the main trunk, there are out-of-focus thin branches and blurry green foliage from distant trees, indicative of a natural woodland environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Downy Woodpecker exhibits effective camouflage against the tree bark. Its black, white, and gray plumage closely matches the mottled and peeling gray, white, and dark brown tones of the bark, particularly in the interplay of light and shadow. The bird's patterned feathers, with their stripes and patches, create a disruptive pattern that breaks up its outline, making it blend seamlessly with the irregular textures and varied coloration of the tree, hindering easy detection."
+}

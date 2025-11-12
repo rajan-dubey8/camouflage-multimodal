@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rabbitfish",
+  "background_description": "The background consists of clear, uniformly blue-green open water with no visible structures, seabed, or marine flora.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Rabbitfish with distinct yellow-orange spotted patterns and yellow markings on its head. Its coloration and patterns stand out clearly against the uniform blue-green water background, indicating no attempt or presence of camouflage."
+}

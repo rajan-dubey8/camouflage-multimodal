@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rhinoceros",
+  "background_description": "The background consists of dry, light brown and grayish-tan dirt or sandy ground with some sparse, dry plant matter or hay scattered on the surface. The ground appears relatively flat and uniform in color and texture directly behind and below the rhinoceros.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The rhinoceros displays camouflage through color blending. Its thick, gray-brown skin closely matches the tones of the dry, dusty, light brown and grayish-tan ground it is standing on. This chromatic similarity helps it blend into its natural habitat, reducing its visibility to potential predators or prey, despite its large size. The texture of its wrinkled skin, however, does not significantly blend with the smoother, granular texture of the dirt background, hence texture similarity is low. The overall contrast difference between the animal and its environment is low due to the matching colors."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a cluttered ground cover composed of dry, fallen leaves in shades of brown and reddish-brown, various dried twigs and plant stems ranging from light beige to dark brown, dark soil, small pebbles, and fragments of decaying organic matter. The overall environment is earthy, muted, and texturally rich with many irregular shapes and patterns.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper is remarkably well camouflaged within its environment. Its body exhibits a range of muted browns, greys, and dull olive-green tones that perfectly match the dried leaves, twigs, and soil. The patterns on its wings and body mimic the variegated textures and striations found in dried plant material and bark. The irregular shape of the grasshopper, especially its head and thorax, breaks up its outline against the similarly fragmented and textured background, making it difficult to distinguish from the surrounding debris. The low contrast between the organism and its environment, coupled with the similar colors and textures, makes it blend seamlessly, demonstrating effective color blending, pattern matching, and shape disruption."
+}

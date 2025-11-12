@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldrim Surgeonfish",
+  "background_description": "The background depicts a vibrant and colorful coral reef environment. It features various coral formations and rocks, predominantly in shades of dark purple, blue, and brown. There are also some lighter, branching corals with greenish-blue tips and patches of pink or orange coral. The water appears clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Goldrim Surgeonfish with a pale white body and prominent bright yellow fins and eye ring. Its distinct coloration and smooth texture stand out significantly against the diverse, darker, and rougher textures of the coral reef background, confirming the absence of any camouflage."
+}

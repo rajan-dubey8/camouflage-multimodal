@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of the deeply fissured, rugged bark of a tree. The bark displays a complex pattern of cracks, ridges, and grooves, varying in color from light grayish-brown to darker greenish-brown, with prominent shadows emphasizing its texture. There are areas of sunlit highlights and shadowed crevices, creating a high-contrast, broken surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The gecko exhibits excellent camouflage against the tree bark. Its body coloration, a mottled pattern of dark greens, greys, and yellowish-white spots, closely matches the hues and varied tones present in the bark. The rough, granular texture of its skin mirrors the rugged, fissured surface of the tree bark, making it difficult to distinguish its form from the surrounding environment. The pattern of spots on the gecko's back acts as disruptive coloration, breaking up its outline and blending it with the irregular patterns and shadows of the bark. The contrast difference between the gecko and the bark is low, as both feature complex, high-frequency variations in light and dark, preventing the gecko from standing out as a distinct object. Its posture, flattened against the bark, further enhances its ability to blend seamlessly."
+}

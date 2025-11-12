@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a soft, white to off-white, textured blanket or fabric. There are subtle knitted or woven patterns visible in some areas and gentle folds and undulations, creating slight variations in light and shadow. The overall impression is one of softness and light, with a uniform color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The white cat is highly camouflaged against the white/off-white, soft, textured blanket. Its fur color closely matches the background, resulting in high color similarity. The fluffy texture of its fur also blends seamlessly with the soft fabric of the blanket, contributing to high texture similarity. This combination significantly reduces the contrast between the cat and its environment, making its outline indistinct. While its striking blue eyes and pink nose create small points of contrast, the overall body shape and fur blend effectively, making it difficult to immediately distinguish the cat from the blanket at a glance. This is a clear example of color and texture matching for camouflage."
+}

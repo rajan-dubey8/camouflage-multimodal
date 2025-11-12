@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists primarily of dry, tall savanna grass with varying shades of green, brown, and yellow, indicating both living and dried vegetation. There are also patches of darker earth visible beneath the grass, creating a textured and somewhat dappled environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.7",
+  "confidence": "0.9",
+  "camouflage_type": "Pattern matching / Color blending / Shape disruption",
+  "explanation": "The leopard's coat, characterized by its distinctive rosettes (black spots on a tan/pale yellow background), provides effective camouflage in this grassy environment. The base color of its fur blends well with the dried and lighter green grass, while the dark rosettes mimic the shadows and broken textures created by the dense vegetation and dappled light. This 'pattern matching' and 'color blending' disrupt the leopard's outline ('shape disruption'), making it harder for potential prey or predators to discern its form against the complex background. While the leopard is clearly visible in this specific pose and lighting, its inherent markings are perfectly adapted for blending into such a habitat, and it is doing a decent job of it here."
+}

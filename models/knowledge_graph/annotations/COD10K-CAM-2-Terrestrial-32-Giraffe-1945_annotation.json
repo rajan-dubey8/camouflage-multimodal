@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background consists of an African savanna woodland characterized by numerous acacia trees with distinctive flat, wide canopies and gnarled, dark branches. These trees are set against a bright, hazy sky in some areas, while in others they form dense clusters. The midground and foreground are filled with thick, green bushes and shrubs, showing variations in light and shadow. Patches of lighter, possibly dry, grass are visible in the distance between the trees. The overall lighting creates a complex interplay of sunlit areas and deep shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The giraffe demonstrates strong camouflage in this image due to its characteristic coat patterns and colors aligning effectively with its savanna environment. The tawny-brown and cream patches on its fur closely match the varied tones present in the background, including the sun-dappled bark of the acacia trees, the dry grasses, and the interplay of light and shadow created by the dense foliage. The giraffe's distinctive spotted pattern serves as excellent pattern matching, mimicking the irregular shapes and textures of the leaves, branches, and dappled light filtering through the tree canopy. This pattern also contributes to shape disruption, breaking up the large outline of the animal, making it harder to discern as a single entity against the complex background of trees and bushes. While its head and part of its neck are visible rising above the immediate foreground vegetation, its body largely blends into the middle ground, requiring focused attention to spot it."
+}

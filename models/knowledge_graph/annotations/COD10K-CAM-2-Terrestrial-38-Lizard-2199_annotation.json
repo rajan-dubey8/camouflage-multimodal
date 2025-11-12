@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of fine-grained, light gray and brown sand mixed with various small white, gray, black, and brownish pebbles. A larger, smooth, light brown and gray rock with horizontal dark gray striations dominates the foreground where the organism is positioned. In the upper left background, there are patches of small, bright green-yellow moss or lichen-like growth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage. Its skin coloration, a mottled mix of browns, grays, and sandy tones, perfectly matches the sandy ground and the light brown-gray rock it is resting on. The granular texture of its skin, possibly accentuated by clinging sand, further blends with the coarse sand and the subtly textured rock surface, creating a seamless transition. The low contrast difference between the lizard and its environment makes its outline difficult to discern, effectively disrupting its shape. This combination of color blending, pattern matching, and shape disruption makes the lizard very difficult to spot."
+}

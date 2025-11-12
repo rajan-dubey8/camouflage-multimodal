@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of deep, dark, possibly black water, suggesting a studio setup or very deep, unlit conditions. The water surface is visible at the top with reflections of the fish and small bubbles.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays several goldfish, with prominent orange, red, white, and yellow coloration. They are sharply contrasted against a dark background, making them highly visible and indicating no camouflage."
+}

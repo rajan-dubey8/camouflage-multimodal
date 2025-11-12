@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Seahorse",
+  "background_description": "The background consists of a sandy seabed with scattered patches of fine green algae or detritus. The water has a greenish-blue hue.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A seahorse is clearly visible in the image, standing upright on the seabed. Its form, color, and texture allow for clear identification against the sandy and algal background, indicating an absence of active camouflage. Its coloration and texture naturally blend somewhat with the environment, but it remains distinctly identifiable."
+}

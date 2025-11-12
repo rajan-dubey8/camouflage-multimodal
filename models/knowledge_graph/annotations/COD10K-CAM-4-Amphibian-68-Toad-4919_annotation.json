@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dark, rich potting soil inside a ceramic pot with a blue and white patterned rim. Various green plants with visible leaves are growing in the soil, some appearing blurry due to shallow depth of field. There are also small pieces of organic debris like dried leaves, twigs, and a bright pink petal scattered throughout the soil. The soil itself has an uneven, clumpy texture with some lighter specks.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its mottled brown and tan coloration perfectly matches the dark potting soil and scattered organic debris like dried leaves and small twigs. The bumpy texture of its skin further mimics the uneven, clumpy nature of the soil, enhancing the illusion of being part of the ground. Furthermore, the toad is partially submerged or dug into the soil, which helps to break up its distinct outline and reduce its profile, making it significantly harder to distinguish from the immediate environment. Only its prominent eyes are clearly visible upon close inspection, otherwise, it blends seamlessly with its surroundings, making detection difficult for predators."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The background consists of a green grassy savanna or plain, with varying shades of green indicating both fresh and slightly drier patches. A small, sparse tree is visible in the mid-ground to the left. The ground is relatively flat with some unevenness.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The cheetah exhibits camouflage primarily through its distinctive spotted coat. The tawny base color provides medium color similarity with drier grass or soil patches, while the dark, irregular spots create a disruptive pattern. This pattern breaks up the animal's silhouette, making its outline less clear against the varying textures and shadows of its savanna environment, such as tall grass, bushes, or dappled sunlight. Although the background here is largely bright green grass, which isn't a perfect match for the tawny fur, the spots still effectively disrupt the cheetah's form and blend with areas of shadow and varied ground cover found in its natural habitat."
+}

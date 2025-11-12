@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background is an intricate underwater coral reef scene, featuring a variety of coral types and textures. There are vibrant reddish-pink branching corals on the left, rough textured brown and orange coral formations towards the bottom and right, and darker, possibly blue or purple, sponge-like or encrusting structures with irregular patterns. Numerous crevices and shadowed areas are present, contributing to a complex and varied environment. The lighting is somewhat dim, accentuating the shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The fish, a moray eel, demonstrates effective camouflage. Its head is a mottled greenish-brown, which closely matches the earthy tones and somewhat granular textures of the surrounding coral and rock formations. The body, mostly visible as a dark blue/purple with a distinct reticulated (net-like) pattern, blends remarkably well with the irregular patterns and deep shadows found within the reef's crevices and against the darker, patterned background elements. The eel is strategically positioned within a shadowed crevice, using this natural hiding spot to reduce overall contrast and break up its outline. This combination of color blending, pattern matching, and shadow hiding makes it challenging to distinguish the eel from its complex environment, indicating successful camouflage."
+}

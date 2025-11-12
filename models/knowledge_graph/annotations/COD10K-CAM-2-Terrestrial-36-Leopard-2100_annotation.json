@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of dry, golden-brown and yellowish grasses, scattered sparse green foliage on small bushes and branches, and two prominent tree trunks. The ground is dry earth with some fallen leaves and debris. The lighting appears to be dappled, creating areas of shadow and highlights.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The leopard exhibits excellent camouflage in this image. Its tawny-yellow base coat perfectly matches the dry, sun-bleached grasses and earth, achieving high color similarity. The distinctive dark rosette patterns on its fur effectively mimic the irregular textures of shadows, scattered leaves, and dappled light filtering through the surrounding vegetation, creating strong pattern matching. The tall, dry grasses partially obscure the leopard's body, breaking up its recognizable outline (shape disruption). Additionally, the leopard is positioned close to a tree trunk, which aids in shadow hiding and further disrupts its shape. The overall effect makes the leopard blend remarkably well with its environment, making it difficult to discern at first glance."
+}

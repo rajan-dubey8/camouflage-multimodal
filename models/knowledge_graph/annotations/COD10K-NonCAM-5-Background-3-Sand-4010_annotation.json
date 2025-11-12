@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Windy beach",
+  "background_description": "The image displays a wide, expansive beach under an overcast or hazy sky. The foreground shows dark, damp sand with streaks of lighter, wind-blown sand creating wavy patterns across the surface. In the mid-ground, the ocean is visible with gentle waves breaking, forming white foam. A faint horizon line shows a distant coastal town or buildings. The overall color palette is muted, with shades of grey, brown, and pale blue.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment consisting of a beach, ocean, and sky, with a distant coastline. No living organisms (animals, insects, fish, birds, etc.) are visible or identifiable anywhere within the frame. Therefore, there is no subject present that could exhibit camouflage, leading to the conclusion that camouflage is not present in this image."
+}

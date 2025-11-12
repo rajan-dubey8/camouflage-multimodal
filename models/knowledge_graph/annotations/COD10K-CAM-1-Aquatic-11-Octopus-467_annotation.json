@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a coarse, rocky, and gravelly seafloor with various shades of dark brown, reddish-brown, and scattered lighter sediment particles. There is a prominent dark red, possibly sponge-like or algal-covered, material beneath and to the right of the octopus. The overall environment is uneven, with a rough, textured surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Octopus exhibits excellent camouflage. Its skin displays a complex pattern of reddish-brown, purple, and lighter mottled patches that perfectly mimic the colors of the rocky, gravelly seafloor and the dark red material it rests upon. Furthermore, its skin texture is highly irregular and bumpy, with numerous papillae that disrupt its outline and blend seamlessly with the rough, uneven textures of the surrounding environment. This combination of color matching, pattern replication, and shape disruption makes it extremely difficult to distinguish the octopus from its background, resulting in very low contrast and high similarity in both color and texture."
+}

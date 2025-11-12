@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Longhorn Cowfish",
+  "background_description": "The background consists of deep, uniform dark blue water, with minimal detail and a faint reddish blur at the bottom, possibly indicating another distant object or reflection. It appears to be an open water or aquarium environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Longhorn Cowfish is clearly visible against the dark blue, largely uniform water background. Its distinct yellowish-green coloration and angular body shape create a high contrast with the surrounding environment. There is no evidence of color blending, disruptive patterns, or mimicry to conceal the fish in this specific open water setting. While cowfish can utilize camouflage in complex reef environments, in this image, it stands out prominently, indicating an absence of effective camouflage."
+}

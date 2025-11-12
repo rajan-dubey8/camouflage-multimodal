@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Brown Moth",
+  "background_description": "The background consists of a vibrant green leaf, likely part of a plant. The leaf has a smooth to slightly textured surface with subtle veins visible, and possibly parts of other leaves or foliage in the blurred background. The dominant color is a rich green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The moth's reddish-brown coloration contrasts sharply with the vibrant green leaf it is resting on. There is minimal color blending or texture similarity between the moth's fuzzy body and the smooth green leaf surface. This high contrast makes the moth easily visible, indicating no effective camouflage in this particular setting."
+}

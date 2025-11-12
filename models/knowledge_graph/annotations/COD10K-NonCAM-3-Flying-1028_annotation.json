@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pelican",
+  "background_description": "The background consists of a body of water with a greenish-yellow hue, possibly due to algae or reflections, showing ripples on its surface. To the right, there are two distinct brown tree trunks/branches with some green foliage visible at the top. The ground beneath the bird is dark brown soil with some shaded areas and scattered debris.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The pelican's bright white plumage creates a stark contrast against its immediate surroundings, which consist of yellowish-green water, dark brown soil, and brown tree trunks. There is no significant color blending or texture matching with the background elements. The bird stands out clearly and is highly visible, indicating an absence of camouflage."
+}

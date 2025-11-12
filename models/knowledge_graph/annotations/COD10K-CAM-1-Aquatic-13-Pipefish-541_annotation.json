@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a complex underwater seafloor environment. The left side features light green to teal-colored small fragments, likely shells or pebbles covered in algal growth, interspersed with darker green, filamentous algae. The right side transitions into an orangish-brown area, appearing to be rocky or gravelly sediment with similar fragmented textures and some reddish-brown detritus or algae. The overall texture is rough and highly heterogeneous, with varying tones and light/shadow patterns. A round, light-colored object (possibly a sea urchin or rock) is visible in the bottom right.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Pipefish is camouflaged in this image primarily through shape disruption and color blending. Its long, slender, dark body allows it to blend with the elongated forms of algae strands or detritus present in the highly textured and fragmented seafloor. While its dark color creates some contrast against the lighter shell fragments and orange sediment, it is not starkly different from the darker patches of algae or shadowed areas. The irregular and visually 'busy' background also aids its camouflage by providing many elements that share its general linear form, making it harder to discern as a distinct organism rather than just another piece of the environment's organic clutter."
+}

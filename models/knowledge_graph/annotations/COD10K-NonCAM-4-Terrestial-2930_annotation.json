@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The tiger is resting on a surface of light brown wooden planks with visible grain. In the background, there is blurred green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features a tiger, an animal known for its natural disruptive camouflage pattern of orange fur with black stripes. However, in this specific scene, the tiger is resting on light brown wooden planks, which contrast sharply with its coloring and pattern. While the background includes blurred green foliage, the primary resting surface does not mimic its natural habitat (like tall grass or dense jungle undergrowth) where its stripes would help break up its outline and blend into shadows and vertical elements. The distinct orange and black pattern stands out against the wooden texture and color, leading to a low camouflage score as it is not effectively hidden in this environment."
+}

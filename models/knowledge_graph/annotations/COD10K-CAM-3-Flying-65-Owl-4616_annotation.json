@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a tree trunk with rough, textured bark in shades of light brown, grey, and dark brown, with significant patches of green moss. Behind the tree, there is a soft-focus, dark green natural forest or foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The owl exhibits excellent camouflage by perfectly matching the colors and patterns of the tree bark it is perched on. Its plumage features a complex array of mottled browns, greys, and dark streaks that closely mimic the textured surface, cracks, and varied tones of the bark, including the green moss. The intricate feather patterns align remarkably well with the natural irregularities of the tree, creating a very low contrast difference between the owl and its immediate environment. This makes it very difficult to discern the owl's outline and presence, demonstrating highly effective color blending and pattern matching."
+}

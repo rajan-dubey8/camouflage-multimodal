@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dark, murky water densely covered with various aquatic plants. These include bright green, small, round floating plants (likely duckweed), darker green filamentous algae or mosses, and patches of reddish-brown decaying plant material or submerged debris. The texture is highly varied and irregular, with dark shadowed areas interspersed with clusters of brighter vegetation and a thin, light brown stick in the upper right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog exhibits effective camouflage in this image. Its primary bright green coloration closely matches the vibrant green aquatic plants and algae that dominate parts of its immediate environment. Furthermore, the dark spots and irregular patterns on the frog's back effectively disrupt its outline, blending with the patchy, varied textures and dark shadows present in the water and surrounding vegetation. This combination of color matching and pattern disruption makes it challenging to distinguish the frog from the cluttered, natural background, requiring a careful look to fully discern its form. The overall effect is that the frog integrates well into its semi-submerged, vegetated habitat."
+}

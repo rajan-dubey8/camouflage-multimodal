@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky over forested hills",
+  "background_description": "The image features a vast sky dominated by a mix of stratocumulus and cumulus clouds. Some clouds are bright white and illuminated, potentially by a setting or rising sun, while others appear darker grey and more shadowed. The sky itself transitions from a vibrant blue to lighter hues where the clouds are thinner. Below the horizon line, a band of dark forested hills is visible, with some indistinct man-made structures and the edge of a road in the foreground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an environmental scene consisting of a cloudy sky and distant forested hills. There are no visible organisms (animals, insects, or fish) present in the frame. Therefore, the concept of camouflage, which applies to an organism blending into its environment, is not applicable in this context. All camouflage-related metrics are set to default values for 'no camouflage'."
+}

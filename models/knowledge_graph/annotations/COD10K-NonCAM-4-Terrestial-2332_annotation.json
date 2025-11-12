@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red Panda",
+  "background_description": "The background consists of blurred natural elements including earthy ground with sparse green foliage and scattered light petals or debris in the foreground. The midground and background are composed of out-of-focus greens and browns, suggesting dense forest or woodland vegetation and tree trunks.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The red panda exhibits camouflage primarily through color blending. Its reddish-brown fur closely matches the earthy tones of the ground and the reddish-brown bark, mosses, and dead leaves often found in its natural forest habitat. The darker fur on its underparts and legs also blends well with shadows and darker soil. While its white facial markings create some areas of higher contrast, the overall coloration significantly helps the animal blend into its environment, aiding in concealment from predators and prey."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pigeon",
+  "background_description": "The background consists of blurred vibrant green foliage at the top and a lighter, out-of-focus area below it. The pigeon is perched on a rough, dark brown or grey wooden beam or fence.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a pigeon with distinct dark grey, black, and white plumage, along with prominent pink feet, perched on a wooden surface. The background is a bright, blurred green foliage. The pigeon's colors and patterns, especially the dark body and contrasting white wing markings, do not blend with the vibrant green background. Its form and coloration stand out clearly against this specific environment, indicating no effective camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dark, uneven soil with scattered small gray and brown rocks, thin dried twigs, and sparse light-colored plant debris. There is also a blurry green leaf visible in the upper background, indicating some vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The frog exhibits strong camouflage. Its skin is a mottled gray-brown color, closely matching the dark, earthy tones of the surrounding soil and small rocks. Crucially, its body is covered in a layer of dust and dirt, which not only enhances color blending but also provides exceptional texture and pattern matching with the granular, uneven surface of the ground and scattered debris. This creates a very low contrast between the frog's body and its environment, making it difficult to discern its outline. The primary element that breaks this otherwise excellent camouflage is the frog's bright, luminous yellow-green eyes, which stand out prominently against the muted background and the frog's own camouflaged body."
+}

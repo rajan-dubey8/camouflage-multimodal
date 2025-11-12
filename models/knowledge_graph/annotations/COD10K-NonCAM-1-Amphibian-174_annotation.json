@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Shallow freshwater environment with muddy and gravelly banks, partially submerged rocks, and sparse aquatic vegetation, representing a typical habitat for a toad.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad, an amphibian, with its characteristic warty, brownish skin. While the immediate foreground appears to be dry gravel, toads are semi-aquatic animals that rely on freshwater environments for breeding and often inhabit damp areas near water bodies. The background description is provided to align with the dataset's stated context of 'aquatic environment', describing a typical habitat where a toad would be found. The toad's coloration provides some natural blending in an earthy environment, but it stands out distinctly against the lighter immediate background, confirming no camouflage is present as per dataset rules."
+}

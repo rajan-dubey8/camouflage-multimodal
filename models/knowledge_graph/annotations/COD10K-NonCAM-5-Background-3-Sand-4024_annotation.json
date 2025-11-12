@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Arid plain",
+  "background_description": "The scene depicts a vast, flat arid plain under a pale, overcast sky. The ground is primarily composed of reddish-orange soil and fine gravel, extensively covered with scattered small to medium-sized irregular stones and pebbles, ranging in color from dark gray and brown to black. The texture of the ground is rough, granular, and stony, stretching uniformly towards a distant, flat horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image. The image exclusively features a natural environment, specifically a wide arid plain, therefore, the concept of camouflage detection is not applicable to a non-living scene."
+}

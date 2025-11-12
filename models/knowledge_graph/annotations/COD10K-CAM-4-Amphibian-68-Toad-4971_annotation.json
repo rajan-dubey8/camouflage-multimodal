@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dry, decaying plant matter, primarily large, dried palm fronds or leaves, forming a textured and layered surface. The colors are dominated by various shades of brown, tan, dark reddish-brown, and some areas of deep shadow. The textures are fibrous, woody, and slightly rough. A blurred green plant stem is visible in the foreground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The toad in this image is not camouflaged. Its vibrant red upper body and bright blue lower body and legs create an extremely high contrast against the dull, dark brown, and tan hues of the dried plant material in the background. There is no color blending, pattern matching, or texture similarity with the environment. Instead of blending in, the toad visually stands out dramatically, indicating aposematic coloration (warning coloration) rather than camouflage."
+}

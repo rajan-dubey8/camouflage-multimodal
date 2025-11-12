@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Kitchen counter with produce",
+  "background_description": "A dark, speckled kitchen counter, possibly granite or quartz, holding various fresh green vegetables including lettuce, kale, broccoli, and spring onions. In the background, there are kitchen cabinets, a sink faucet, empty wine glasses, three dark wine bottles, and a stack of dishes. The upper cabinets are light-colored, and the lower cabinets are a light wood tone with stainless steel handles.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an indoor kitchen environment featuring various fresh vegetables on a counter. No animals, insects, or fish (organisms as defined by the rules) are present in the image. Therefore, the concept of camouflage does not apply."
+}

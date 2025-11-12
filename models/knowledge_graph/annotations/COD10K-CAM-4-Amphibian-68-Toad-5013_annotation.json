@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Small toad/frog",
+  "background_description": "The background consists of a shallow-focus environment dominated by dry leaves, twigs, and possibly dried grass. The colors are earthy tones including various shades of brown, beige, and tan. The textures are irregular and fragmented, characteristic of forest floor detritus, with some brighter spots from sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The small toad/frog exhibits excellent camouflage through color blending and texture matching. Its skin is mottled with shades of brown, beige, and grey, perfectly mimicking the colors of the dry leaves, twigs, and soil it rests upon. The bumpy, irregular texture of its skin also closely resembles the fragmented, rough textures of the surrounding natural debris, helping to break up its outline and make it difficult to distinguish from the background. The overall effect is a low contrast difference, allowing the amphibian to blend seamlessly into its environment for protection."
+}

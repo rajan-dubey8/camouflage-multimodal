@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-crowned Night Heron",
+  "background_description": "The background consists of dense, vibrant green foliage, appearing to be thin, needle-like leaves or small branches from a bushy plant. There are also darker, blurred branches visible behind and around the bird. The overall environment is lush and natural, likely a wetland or forest edge.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Black-crowned Night Heron (juvenile) exhibits cryptic coloration with its muted brown and beige plumage. While the immediate background is a vibrant green, which creates some color contrast, the bird's natural earth tones allow for a degree of blending with the darker branches and potential dried vegetation or tree trunks often found in its habitat. The dense foliage also physically obstructs parts of the bird, breaking up its outline and providing some concealment. The overall effect, while not perfect against the bright green, contributes to 'color blending' that helps it hide in varied natural settings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background depicts a rocky seabed environment with various marine invertebrates. There are several vibrant green sea anemones with distinct tentacles, some smaller white-tipped anemones attached to dark rocks, and other mottled rock formations. The water in the deeper background appears dark, suggesting a dimly lit or deeper aquatic setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Rockfish with distinctive orange-red and white mottled patterns. Its bright coloration and clear outline make it stand out prominently against the darker, rocky, and anemone-covered background. There is no visible attempt or effect of camouflage; the animal is highly visible."
+}

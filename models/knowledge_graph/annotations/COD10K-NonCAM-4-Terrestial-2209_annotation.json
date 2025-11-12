@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Mule Deer",
+  "background_description": "The background consists of dry, sparse grasses and fallen leaves in muted browns, tans, and faded greens on the ground. Behind the deer, there are large, smooth, light gray to off-white boulders. Further back, there are dense, bare deciduous tree branches, predominantly dark brown and gray, indicating a winter or late autumn season in a rocky, wooded environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The mule deer exhibits effective camouflage through color blending. Its grayish-brown fur with lighter tan legs closely matches the muted earthy tones of the dry grasses, tree branches, and rocky elements in its environment. The lack of strong contrasting patterns on its body allows it to blend seamlessly with the variable colors and textures of the background, making it less conspicuous to predators. This high color similarity and low contrast difference are key to its camouflage effectiveness."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pufferfish",
+  "background_description": "The aquatic environment consists of a sandy seabed with various sizes of smooth, light-colored pebbles and darker gravel. The background is a uniform deep blue, suggesting open water or a plain aquarium wall, with some subtle texture variations.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a pufferfish with a distinct body shape and prominent intricate dark patterns over a lighter base, along with a yellow underside. It is resting on a pebbly seabed with a deep blue background. The fish's unique patterns and colors, especially the yellow belly and dark markings, create a strong contrast against the sandy, pebbly bottom and the blue water, making it highly visible. There is no visual evidence of the fish attempting to blend into its immediate surroundings."
+}

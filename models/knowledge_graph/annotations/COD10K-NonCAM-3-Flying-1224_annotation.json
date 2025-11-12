@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "American Robin",
+  "background_description": "The background consists of dry, matted grass, fallen brown leaves, small twigs, and patches of grayish-brown soil. The overall palette is muted browns, grays, and some very faded greens, giving a very desaturated, natural ground cover appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The American Robin's plumage, particularly its distinct black head and vibrant orange-red breast, creates a strong visual contrast against the muted, dry, earthy tones of its background. While its gray back feathers share some tonality with parts of the ground, the overall striking coloration of the bird makes it highly visible and not camouflaged. There is no disruptive patterning or mimicry to blend with the textures or forms of the environment. The smooth texture of its feathers also differs significantly from the rough, fragmented texture of the dry leaves and grass."
+}

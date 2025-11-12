@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sailfin Tang",
+  "background_description": "The background features a vibrant coral reef environment with diverse corals. On the right, there's dark red-brown coral with bumpy textures and some feathery yellow soft corals. Towards the bottom and left, there are lighter-colored, possibly white or pale yellow, brain-like corals. The water is clear with a blue-green tint, indicating a well-lit shallow reef.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image shows a Sailfin Tang, easily identifiable by its distinct vertical dark and light stripes and prominent dorsal fin. Its bold pattern and colors make it stand out clearly against the varied textures and colors of the coral reef background, indicating a complete absence of camouflage."
+}

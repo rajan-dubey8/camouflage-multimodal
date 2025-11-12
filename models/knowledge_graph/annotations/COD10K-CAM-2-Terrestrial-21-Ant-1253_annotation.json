@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The ant is positioned on a thin, yellowish-green plant stem that shows some subtle reddish-brown striations. The background is a soft, out-of-focus blur of dark green foliage and other indistinct, thin, brownish-yellow plant elements, creating a deep, verdant backdrop.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The ant is black and appears shiny, creating a high contrast against the lighter yellowish-green stem it is clinging to. Its distinct, dark shape is easily discernible from the textured stem and the blurry green and brown background. There is no significant color blending, pattern matching, or shape disruption that would allow it to blend into its immediate environment or the overall background."
+}

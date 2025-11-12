@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The cheetah is resting on a small, gentle slope or mound, partially shaded by a large, thorny bush with intricate, mostly bare branches and some sparse green leaves. The immediate ground is covered with dry, light brown/tan grasses mixed with patches of green, low-lying vegetation. In the mid-ground, there are more dry golden-brown grasslands and scattered green shrubs, leading to a hazy, light brown hill in the distant background under a bright sky. The lighting suggests a sunny day with distinct shadows cast by the bush.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The cheetah exhibits excellent camouflage in this image. Its tawny-golden base coat closely matches the dry, sun-baked grasses and earth tones of the environment, providing high color similarity. The distinctive black spots on its fur create a disruptive pattern that breaks up the animal's continuous body outline, making it difficult for an observer to distinguish its shape from the irregular textures of the background vegetation, dappled light, and shadows. The cheetah's strategic position under the shade of the thorny bush further enhances its concealment by providing partial cover and integrating its spotted pattern with the busy, textured backdrop of branches and the play of light and shadow. The overall effect results in low contrast difference between the cheetah and its surroundings, making it blend seamlessly into the habitat."
+}

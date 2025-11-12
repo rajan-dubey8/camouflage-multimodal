@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Seahorse",
+  "background_description": "The background consists of dense, dark green and brown marine algae or kelp fronds, creating a textured underwater environment. The overall water appears dark, suggesting depth or low light conditions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "A bright yellow seahorse with visible texture is clearly visible against a dark green and brown seaweed background. Its vibrant coloration and distinct form make it stand out prominently, indicating no camouflage."
+}

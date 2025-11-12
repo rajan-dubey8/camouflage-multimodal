@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of a tidal or intertidal zone environment, featuring a mix of wet, dark-colored rocks (some with algae growth), glistening wet sand, and small pebbles. There are visible reflections from bright sunlight on the wet surfaces, creating highlights and shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The crab is highly camouflaged in this image due to its excellent color and texture matching with the surrounding environment. Its dark, mottled brownish-green carapace blends seamlessly with the wet, dark rocks and the patches of algae or wet mud. The granular texture of its shell also mimics the rough surfaces of the rocks and the sand. The crab's position, nestled among the rocks and partially in shadow, further reduces its contrast and makes it difficult to distinguish from the non-living elements of its habitat. The wet sheen on its shell also mirrors the wetness of the surrounding rocks and sand, enhancing the illusion of being part of the environment rather than a separate organism."
+}

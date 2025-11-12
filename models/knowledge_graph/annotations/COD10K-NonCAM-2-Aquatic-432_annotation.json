@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Common Nase",
+  "background_description": "Open, deep blue-green water with a slightly lighter, hazy area towards the top left, suggesting natural light or a light source. The background is mostly uniform with no visible complex structures like coral or rocks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two fish swimming in open, blue-green water. The larger fish in the foreground, identified as a Common Nase (Chondrostoma nasus) due to the distinctive nuptial tubercles on its head, has a pale yellowish-green and bluish-grey coloration that stands out distinctly against the darker, uniform background. The smaller, silver fish in the background also clearly contrasts with the environment. There are no patterns, colors, or textures that allow either fish to blend into the surroundings, confirming the absence of camouflage."
+}

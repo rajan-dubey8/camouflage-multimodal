@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Arctic Tern",
+  "background_description": "The background consists of a bright, partly cloudy sky. There are large, diffuse white cumulus clouds intermixed with patches of clear blue sky. The overall lighting is bright and airy.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Arctic Tern exhibits counter-illumination camouflage (a form of color blending) when viewed from below. Its predominantly white and light grey underside closely matches the brightness and color of the sky, especially the white clouds. This reduces its silhouette and makes it significantly harder for predators (such as raptors or larger gulls flying above it) or prey (fish in the water below) to spot it against the bright backdrop of the sky. While the black cap and darker primary wing feathers provide some contrast, the overall effect of the body's coloration against the bright sky is one of effective blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a large, vibrant green lily pad on which the frog is resting. There are small pools of water collected on the lily pad's surface, reflecting light. A darker, mottled green-brown leaf, possibly another lily pad or aquatic plant, is visible in the upper left corner, partially obscuring the view.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a frog perched on a bright green lily pad. Its mottled brown and green coloration, along with its distinct textured skin, provides a strong contrast against the smoother, uniformly green lily pad and the reflective water droplets. The animal is highly visible and does not exhibit any form of camouflage."
+}

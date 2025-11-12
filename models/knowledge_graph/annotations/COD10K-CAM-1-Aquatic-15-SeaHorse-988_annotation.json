@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "Underwater environment featuring prominent, heavily encrusted dark structures, likely parts of a shipwreck or artificial reef, covered in dense, organic marine growth such as dark brown, reddish-brown, and greenish algae, sponges, or corals. The background behind these structures is clear, bright blue water with some small, distant fish.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The seahorse exhibits excellent camouflage by blending almost seamlessly with the heavily encrusted marine structures. Its mottled brownish-green coloration closely matches the dark, organic growth on the surrounding objects, providing high color similarity. Furthermore, the seahorse's rough, textured body and spiky appendages, particularly on its head and dorsal ridge, mimic the irregular and fibrous textures of the algae and coral covering the background, demonstrating high texture similarity and pattern matching. This combination of color, texture, and its irregular shape helps to disrupt its outline, making it difficult to differentiate from the environment and resulting in a low contrast difference against its immediate surroundings."
+}

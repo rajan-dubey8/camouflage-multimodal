@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with ocean and vegetation",
+  "background_description": "The scene features a dark blue ocean with significant white breaking waves in the mid-ground, under a dark, overcast, cloudy sky. In the foreground, there is a coastal landmass with a mix of dark green, dense shrubbery and sparse, lighter greyish-brown rocky ground covered in some low-lying green plants.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No animal, insect, or fish is visible in the image. The scene consists entirely of environmental elements such as the ocean, sky, and coastal vegetation and land, therefore no camouflage is present or applicable."
+}

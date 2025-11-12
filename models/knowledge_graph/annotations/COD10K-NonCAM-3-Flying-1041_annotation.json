@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "White Wagtail",
+  "background_description": "The background consists of blurred tree branches, some with early spring buds and developing leaves. The overall colors are muted browns, greens, and soft yellows from the foliage and natural light, creating a natural woodland or park setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a White Wagtail perched on a tree branch. The bird has distinct black, white, and grey plumage which stands out against the brown, grey, and lightly green/yellowish-brown hues of the branches and nascent foliage. While the bird's natural colors are suited to its environment, it does not demonstrate active camouflage in this specific scene. Its bright white underparts and contrasting black markings create a clear visual separation from the background, resulting in high contrast and low color/texture similarity. The bird is clearly visible and not attempting to blend in."
+}

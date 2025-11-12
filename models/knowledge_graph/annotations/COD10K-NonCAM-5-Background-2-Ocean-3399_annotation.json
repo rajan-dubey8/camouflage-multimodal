@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background is an underwater scene dominated by a large, intricate colony of branching coral, primarily reddish-brown with stark white tips, situated on a rocky seabed. Surrounding the main coral are other muted brown and blue coral formations or rocky structures, and the clear blue water recedes into the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The small reef fish in the image are bright yellow, making them highly conspicuous against the backdrop of the muted reddish-brown and white coral, and the blue water. There is no blending of colors or patterns between the fish and their environment. Their vibrant coloration creates a strong contrast, indicating a complete absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Swan",
+  "background_description": "The background is dark, out-of-focus, and appears as a blurred blend of dark brown and green tones, suggesting natural foliage or earth. It lacks distinct textures or features.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a white swan. Its bright white plumage, distinctive orange beak, and black eye stand out prominently against the dark, blurred background. There is a high contrast between the swan's colors and the environment, indicating no attempt at camouflage through color blending, disruptive patterns, or mimicry. The swan is highly visible."
+}

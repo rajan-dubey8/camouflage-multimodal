@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of dense, vibrant green foliage, including various leaves and stems. Some leaves are sharply in focus, showing veined textures, while others are softly blurred, creating a bokeh effect of bright green. The branches are light brown-green, providing a natural perch for the organism.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The chameleon exhibits excellent camouflage primarily through color blending. Its vibrant green skin closely matches the diverse shades of green in the surrounding leaves and stems. Its elongated body shape, especially along its torso, conforms to the branch, which, combined with the overlaying and surrounding foliage, helps to break up and disrupt its outline. While its eye, with its distinct reddish-brown and dark pupil, provides a small point of contrast, the overall effect is one of significant visual blending, making it difficult to spot at first glance."
+}

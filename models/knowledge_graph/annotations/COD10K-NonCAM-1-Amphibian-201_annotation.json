@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Water Frog",
+  "background_description": "The background consists of shallow, murky water reflecting light, surrounded by a variety of aquatic vegetation including vibrant green plant stalks, decaying brown leaves, and a light-colored, granular rock. Parts of the water's surface also show reflections of what appears to be more foliage above.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright green water frog with prominent black spots, resting partially in water amongst plants and a rock. Its distinct coloration and pattern make it easily visible against the varied background, confirming the absence of camouflage."
+}

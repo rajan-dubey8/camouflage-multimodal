@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Copperband Butterflyfish",
+  "background_description": "The background consists of a vibrant coral reef environment with various dark, textured rock formations covered in patches of purple, green, and pink algae or coral polyps. A sea urchin with spines is visible behind the fish. The water is clear, with darker blue areas indicating depth.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a vividly colored Copperband Butterflyfish with distinct yellow, white, and orange stripes. Its bright coloration and striped pattern stand out significantly against the darker, mottled coral and rock background, indicating a clear absence of camouflage."
+}

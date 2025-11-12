@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of a dense scattering of various sized broken rocks and pebbles, predominantly in shades of reddish-brown, terracotta, and dusty grey-brown. Some rocks show rough, weathered textures, while others are smoother. There are also small pieces of dried plant matter, including thin sticks and what appears to be a dry seed head, interspersed among the stones. The lighting suggests a warm, possibly late afternoon or early morning sun, casting shadows and highlighting the texture of the rocks.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The gecko demonstrates exceptional camouflage in this image. Its body color is a dusty reddish-brown, almost perfectly matching the primary hue of the numerous broken rocks and terracotta fragments that make up its environment. The granular and rough texture of its skin also closely mimics the coarse, irregular surfaces of the stones, further enhancing its blend with the surroundings. The overall luminance and contrast of the gecko's body against the sunlit rocks are very low, making it difficult to discern from the background at a glance. While it casts a slight shadow, its coloration and texture effectively disrupt its outline and allow it to seamlessly integrate into the rocky terrain through both color blending and pattern matching."
+}

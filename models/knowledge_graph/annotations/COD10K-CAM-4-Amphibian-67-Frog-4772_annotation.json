@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dense, lush green grass and various weeds with some clover-like leaves, creating a patchy, natural ground cover. Patches of dark, moist soil are visible between the vegetation, along with some dry plant debris and shadows. The overall environment is a mix of greens, browns, and dark tones with a somewhat unkempt, wild appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The frog exhibits effective camouflage. Its vibrant green skin closely matches the dominant green of the surrounding grass and plant foliage, providing excellent color blending. Furthermore, the irregular dark blotches and patterns on its back and sides are highly effective at matching the patches of dark soil, shadows, and varying textures of the ground cover. This pattern matching breaks up the frog's outline (shape disruption), making it difficult to discern its form against the complex background. While not completely invisible, it blends very well, requiring close inspection to be clearly identified."
+}

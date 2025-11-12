@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Capybara",
+  "background_description": "The background consists of blurred, reddish-brown fur, very similar in color and texture to the subject's own fur. It appears to be another part of the same capybara's body or a nearby capybara, creating a homogenous, indistinct backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Capybara's brown fur provides natural camouflage through color blending. While the immediate background in this image is another capybara's fur, the animal's typical coloration (reddish-brown to grey) is adapted to blend seamlessly with the muddy banks, dense vegetation, and dry grasses of its natural wetland and riparian habitats. In this specific image, the subject's fur color and texture are highly similar to the blurred background, creating a very low contrast and making the animal's outline less distinct, which is characteristic of effective color blending camouflage."
+}

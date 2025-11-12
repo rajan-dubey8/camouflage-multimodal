@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Crane fly",
+  "background_description": "The background consists of a smooth, light-toned upper wall and a rougher, textured light-toned lower surface, likely a ledge or base. Both surfaces have minor speckling and dark spots, consistent with a simple, possibly concrete or painted artificial structure.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The crane fly is highly visible against the light-toned background. Its dark, slender body and long, thin legs create a strong silhouette due to the high contrast difference with the bright surface. There is no similarity in color (grayscale tone) or texture between the insect and its surroundings, indicating a complete absence of camouflage. The organism's form and coloration do not blend with the artificial background."
+}

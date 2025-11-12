@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull",
+  "background_description": "The background consists of dark, wet, textured rocks with visible crevices and mineral variations. Behind the rocks, dark, rippling water is visible, indicating a shoreline or rocky coast.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seagull exhibits typical countershading with its white underparts and grey upperparts, which is a form of camouflage. However, in this specific scene, the bird is standing directly against dark, textured rocks and dark water. Its bright white plumage, distinct grey wings, and yellow beak and feet create a high contrast against the dark background. There is very low similarity in both color and texture between the bird and its immediate surroundings, making it highly visible and not effectively camouflaged in this particular environment."
+}

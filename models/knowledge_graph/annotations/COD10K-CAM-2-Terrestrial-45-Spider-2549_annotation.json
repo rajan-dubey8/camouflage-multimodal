@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of dried, curled, and decaying fern fronds or similar dead leaves. These elements display various shades of brown, reddish-brown, and dark brown, with visible textures, veins, and irregular edges. There are also darker, out-of-focus areas suggesting shadows or deeper foliage behind the immediate leaf layer.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits exceptional camouflage by perfectly blending with its environment of dried fern fronds. Its body coloration, a mottled mix of browns and tans with darker markings, precisely matches the varied hues and tones of the decaying leaves. The intricate patterns and textures on its carapace and legs mimic the venation and rough surface of the dried foliage. Furthermore, the spider's angular and somewhat irregular body shape helps to disrupt its outline, making it appear less like a distinct creature and more like another piece of organic debris within the complex background. The low contrast between the spider and its surroundings makes it incredibly difficult to detect."
+}

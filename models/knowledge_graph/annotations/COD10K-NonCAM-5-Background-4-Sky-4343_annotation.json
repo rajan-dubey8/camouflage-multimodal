@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image features a vast sky filled with a dynamic arrangement of cumulus and stratocumulus clouds. The background is a bright blue sky, visible in scattered patches between the cloud formations. The clouds themselves exhibit a range of tones, from brilliant white where the sun's rays are directly hitting or breaking through, to various shades of light and dark gray, indicating different densities and areas of shadow. They possess a soft, fluffy, and textured appearance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a natural environmental scene, specifically a sky filled with clouds. There are no visible organisms (animals, insects, or fish) present within the frame that could potentially be employing camouflage. Therefore, camouflage is not applicable and not detected."
+}

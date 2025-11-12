@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists of dry, light brown and beige soil with sparse patches of dry grass and leaf litter. Several dark brown tree trunks are visible, some with rough bark textures. Thin, light-colored wires (likely fencing) stretch horizontally across the mid-ground. The overall environment is muted in color, featuring earthy tones and natural textures like wood and dry vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.25,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebra's distinctive black and white stripes are a form of disruptive camouflage, designed to break up its outline and make it harder for predators to distinguish individual animals, especially in a herd. However, in this specific environment, which features muted brown soil, dry grass, and dark tree trunks, the high-contrast black and white pattern of the zebra stands out significantly. There is very low color and texture similarity between the animal and its immediate surroundings. While the stripes are inherently a camouflage mechanism, their effectiveness in blending with this particular background is low, leading to high visibility rather than concealment."
+}

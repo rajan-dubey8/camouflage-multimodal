@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The snake is coiled on a dark, wet log that is partially covered in vibrant green moss. The surrounding environment is characterized by damp, dark brown soil, scattered wet decaying leaves, and other dark organic debris, suggesting a humid, shaded forest floor.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The snake demonstrates excellent camouflage through a combination of color blending and intricate pattern matching. Its dark brown, light brown, and tan markings closely mimic the varied hues and tones of the wet log, green moss, and surrounding leaf litter. The irregular, splotchy pattern on its body effectively breaks up its outline and disrupts its shape, making it very difficult to distinguish its form from the mottled textures and shadows of the forest environment. The overall low contrast between the snake's patterned skin and the dappled background significantly enhances its concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Plate coral colony",
+  "background_description": "The background consists of rough, irregular rock formations and other sessile marine growths, predominantly in deep purplish-blue and dark red-brown hues under blue-spectrum lighting. Some lighter, granular sandy substrate is visible at the bottom.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The central organism, a plate coral colony, exhibits strong camouflage. Its deep purplish-red coloration blends almost perfectly with the surrounding rocks and other marine growths, which share similar hues due to the lighting conditions. The coral's irregular, textured surface also closely mimics the rough, uneven texture of the background substrate, making it difficult to distinguish. While it has small, distinct blue polyps that add a touch of contrast, these are sparsely distributed and do not disrupt the overall blending effect, resulting in effective visual concealment within its environment. The 'Environment' category is selected for object_category due to the schema's limitation in specifically listing 'Coral' or 'Invertebrate' for organisms, and given its role as a sessile, reef-building organism."
+}

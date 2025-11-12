@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal landscape",
+  "background_description": "The image features a dynamic coastal scene. On the right, a large, steep rocky cliff with reddish-brown and grey-toned granite formations dominates, showing clear fracture lines and a rugged texture. Sparse dark green trees and vegetation grow on the top and in crevices of the cliff. The base of the cliff meets turbulent dark teal to blue-green ocean water, characterized by white foamy waves crashing forcefully against the rocks and shoreline. In the distance to the left, a forested island or headland is visible under a bright blue sky with scattered white cumulus clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image. The scene exclusively depicts a natural environment comprising a rocky coastline, ocean, and sky. Therefore, there is no subject present to exhibit camouflage, and all camouflage-related metrics are set to 'None' or 0.0."
+}

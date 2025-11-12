@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Tang",
+  "background_description": "The aquatic environment features a light sandy seabed in the foreground, with various colorful corals (red, green, purple, blue) and marine rocks covered in algae or other growths forming a vibrant reef backdrop. A long-tentacled anemone is visible in the bottom right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant blue Blue Tang (Paracanthurus hepatus) with black markings and a yellow tail, swimming in a coral reef environment. Its bright coloration makes it stand out distinctly against the background of corals, sand, and other marine life, indicating no attempt at camouflage."
+}

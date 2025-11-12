@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Egret",
+  "background_description": "The background consists of weathered wooden planks, likely a pier or dock. The wood is predominantly greyish-brown with visible grain, knots, and cracks. There are darker, possibly damp or decayed, sections, and some lighter areas that might be peeling paint or bird droppings. The overall texture is rough and aged.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Egret's bright white plumage creates a very strong contrast against the dark, weathered wooden background. Its uniform white color does not match the muted grey, brown, and black tones of the wood, nor does its feathery texture mimic the rough, grainy texture of the planks. This results in the bird being highly visible and conspicuous, indicating no camouflage is present in this specific environment."
+}

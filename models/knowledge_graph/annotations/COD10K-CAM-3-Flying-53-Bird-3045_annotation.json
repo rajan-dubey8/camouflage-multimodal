@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense network of tree branches with rough, textured bark, largely covered in green moss and patches of greyish-white lichen. Numerous small, green, lobed leaves are present, interspersed with clusters of bright red berries, suggesting a hawthorn or similar tree.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The bird, a Great Spotted Woodpecker, features prominent black and white plumage with distinct red patches on its head and under-tail coverts. These colors, particularly the bright white and red, create a strong visual contrast against the predominantly muted green leaves, and the brown, grey, and green tones of the tree bark, moss, and lichen. While its dark parts might offer some minimal blending with shadowed bark, the striking white markings on its back and wings, along with the red accents, make its shape and presence highly conspicuous. Its smooth feather texture also contrasts with the rough, gnarled bark, preventing any textural mimicry. Overall, the bird stands out clearly against its natural environment."
+}

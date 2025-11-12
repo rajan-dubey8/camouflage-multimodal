@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rainbowfish",
+  "background_description": "The background consists of blurred, vibrant green aquatic plants or algae, suggesting a freshwater environment such as an aquarium or a shallow, vegetated water body. Another fish is partially visible and out of focus in the mid-background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a colorful Rainbowfish with iridescent scales, displaying distinct blues, purples, and yellows. Its bright coloration and distinct shape stand out prominently against the blurred green aquatic plant background, indicating no camouflage."
+}

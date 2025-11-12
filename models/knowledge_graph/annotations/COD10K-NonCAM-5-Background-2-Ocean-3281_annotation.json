@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Fjord or lake landscape under cloudy sky",
+  "background_description": "The scene features dark, rippled water filling the foreground and midground, reflecting the overcast sky. To the left, a small landmass is covered in dense, dark green conifer trees, with some lighter green foliage. In the distance, multiple layers of dark blue-grey mountains or hills are visible under a heavy, dramatic grey cloud cover. A sliver of brighter, lighter grey sky is visible between the clouds and the distant horizon, hinting at light beyond the storm clouds. A small, light-colored object (possibly a buoy or small boat) floats in the water in the mid-distance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment, specifically a body of water with forested land and distant mountains under a cloudy sky. There are no visible animals, insects, or fish that would be the subject of camouflage analysis. The small floating object in the water appears to be man-made and not an organism. Therefore, camouflage is not present."
+}

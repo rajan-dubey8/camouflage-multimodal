@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of vibrant green leaves with visible veins, supported by dark brown woody stems and petioles. Behind the immediate foliage, there is a heavily blurred, dark green to black area, suggesting deep shadow or out-of-focus distant plant matter.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The spider is strikingly white, creating a high contrast against the vivid green leaves and dark brown stems of the plant. Its pale coloration stands out significantly and offers no visual blending with the surrounding foliage. There is no evidence of color matching, pattern disruption, or texture similarity to its immediate environment, making it highly conspicuous rather than camouflaged."
+}

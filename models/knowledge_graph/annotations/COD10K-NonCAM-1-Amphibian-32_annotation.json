@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green Frog",
+  "background_description": "The frog is resting on a textured, light greyish-brown rocky surface, common near freshwater aquatic environments such as ponds or streams. The rock features a coarse, uneven texture with varying shades of brown and grey, appearing dry.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant green and yellowish Green Frog with distinct dark patterns on its limbs. It is positioned on a plain, light-colored rocky surface. Its bright coloration stands out significantly against the background, indicating no camouflage."
+}

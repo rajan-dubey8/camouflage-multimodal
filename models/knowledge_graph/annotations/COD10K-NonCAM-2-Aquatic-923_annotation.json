@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mottled Rockfish",
+  "background_description": "The background is a dark, indistinct underwater environment, possibly deep water or a shaded area, with fine particulate matter visible in the water column.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The fish exhibits clear disruptive patterning with irregular patches of dark brown, lighter brown, and white. These varied colors and shapes are designed to break up its silhouette and blend into complex underwater environments such as rocky seabeds, coral reefs, or areas with varied light and shadow. The overall color palette and texture mimic typical marine substrates, providing high color and texture similarity to its natural habitat. While the immediate background in the image is uniformly dark, which makes some of the lighter patches of the fish stand out (medium contrast difference), the fish's natural coloration is highly effective for camouflage in a more varied environment, suggesting a strong camouflage presence through disruptive patterns."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a dry, complex plant structure consisting of brown, dried-out leaves, seed pods, and thin, tangled greyish-brown twigs. To the upper left, a single reddish-orange tubular flower is visible. The background is a soft-focus, blurred green, indicating distant foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The butterfly, with its prominent yellow-tan wings patterned with bold black stripes, does not effectively blend with its environment. While the yellowish-tan color of its wings shows some superficial similarity to the dried brown and tan elements of its immediate perch, the strong black stripes and the overall distinct shape of the butterfly prevent it from disappearing into the background. Against the blurred green background, the butterfly stands out visually due to a clear color and luminosity contrast. The texture of its smooth wings also contrasts sharply with the rough, twiggy, and irregular texture of the plant it is resting on. Therefore, the organism is quite visible and does not exhibit effective camouflage in this image."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Desert landscape",
+  "background_description": "The image features vast golden-orange sand dunes under a clear, bright blue sky. The sand exhibits various textures, from smooth, sweeping curves to intricate ripples created by wind. Shadows are cast by the dunes, creating areas of darker orange and highlighting the contours. A small patch of green-yellow desert grass is visible in the lower right foreground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a desert landscape primarily composed of sand dunes and a clear sky. There are no visible animals, insects, or fish present in the scene, therefore, camouflage detection is not applicable. The small patch of grass is vegetation and not considered an 'organism' in the context of camouflage detection for this analysis."
+}

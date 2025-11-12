@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lichen and textured natural surface",
+  "background_description": "The image is a monochrome close-up shot with a shallow depth of field. The background is heavily blurred into a dark, abstract mass, while the foreground shows a less defined, lighter fuzzy texture. The mid-ground, which is in sharp focus, reveals intricate patterns of rough, crinkled, and delicate textured growth resembling lichen on a natural surface, rendered in varying shades of grey, black, and white.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image captures a detailed close-up of lichen and natural textures on a surface. According to the provided rules, 'Organism' status is specifically reserved for 'animal, insect, or fish.' Since no such creature is visible in the image, and the primary subject consists of natural flora and a textured surface, the entity type is classified as 'Environment.' Consequently, the concept of camouflage, which applies to organisms actively concealing themselves, is not applicable in this context. All camouflage-related fields are set to their default 'none' or 0.0 values."
+}

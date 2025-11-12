@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Green plate coral with purple polyps",
+  "background_description": "The background consists of dark blue and purple rocky substrate with some blurry organic shapes, all submerged in water under strong blue/UV lighting conditions. The overall aquatic environment is dim, emphasizing the coral's colors.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The coral exhibits vivid green coloration on its base and bright purple polyps, which strongly contrast with the darker blue and purple hues of the surrounding rocks and water. This high color and pattern contrast makes the coral highly visible and easily distinguishable from its environment, indicating an absence of camouflage. Corals often display bright colors due to the presence of symbiotic algae or fluorescent proteins, serving biological functions such as UV protection or light harvesting, rather than for concealment."
+}

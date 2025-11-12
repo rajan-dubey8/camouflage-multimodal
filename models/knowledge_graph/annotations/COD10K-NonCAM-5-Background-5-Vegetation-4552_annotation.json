@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tree trunk in forest",
+  "background_description": "The background consists of a dense forest with lush green foliage, including ferns and other trees, creating a verdant and somewhat dark backdrop. The colors are predominantly various shades of green.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily displays a large tree trunk with distinctive peeling bark, showing various shades of brown, red, and beige, set against a background of dense green forest foliage. No animals, insects, or fish are visible anywhere in the frame. Therefore, there is no camouflage present. The tree trunk itself stands out with high contrast against the dark green background."
+}

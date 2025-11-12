@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Tortoise",
+  "background_description": "The environment consists of dry, reddish-brown soil mixed with numerous small to medium-sized pebbles and rocks of various shades of grey, brown, and rust. Patches of sparse green and dry yellow-brown grass stalks are also present, particularly behind and to the side of the tortoise.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The tortoise's shell exhibits a clear disruptive pattern composed of dark grey/black and sandy brown geometric segments. These colors highly match the varying tones of the reddish-brown soil, dark shadows, and the grey and brown rocks and pebbles scattered across the ground. The patterned shell breaks up the animal's solid outline, making it harder to distinguish from the irregularly shaped stones and textured dirt of its environment. This combination of color blending and disruptive patterning provides effective camouflage against predators."
+}

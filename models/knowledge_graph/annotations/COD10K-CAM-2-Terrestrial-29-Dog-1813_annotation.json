@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Dog",
+  "background_description": "The background consists of a fast-flowing river with white rapids, surrounded by large, irregular, wet rocks that are predominantly dark grey and reddish-brown. Beyond the immediate riverbed, there is a dense forest with bare deciduous trees and some evergreens under a bright blue sky with white clouds. Bright sunlight illuminates the scene, casting strong shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The three dogs, primarily with light tan/white and some black/grey wiry fur, are clearly visible in the foreground. Their coloration creates a high contrast against the dark, wet rocks and the turbulent, dark river water. The distinct shapes of the dogs are not broken up by any patterns, nor do their textures blend with the smooth or rough surfaces of the rocks or the dynamic water. There is no visual blending in terms of color, texture, or pattern, making them stand out prominently in the environment."
+}

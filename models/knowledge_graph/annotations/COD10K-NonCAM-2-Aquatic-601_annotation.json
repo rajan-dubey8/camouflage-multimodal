@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Seahorse",
+  "background_description": "The background consists of dark blue open water, suggesting a deep or dimly lit aquatic environment. In the lower part of the frame, there are several irregular rock or coral formations, appearing dark purplish-brown and somewhat textured, with some green algae visible on their surfaces. Small white particulate matter is scattered throughout the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a seahorse with a distinctive yellow-orange coloration and ridged body. It stands out prominently against the dark blue water and does not blend with the color or texture of the background rocks or water, indicating a clear absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elephant",
+  "background_description": "The background is blurred, showing soft green tones of foliage or distant trees on the right and top, and lighter earthy tones, possibly sand or dry ground, towards the bottom and left. A part of another elephant or a similar large, greyish object is faintly visible on the far left.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a close-up of an elephant, which is clearly visible and does not exhibit any form of camouflage. Its large size, distinct grey-brown skin color, and wrinkled texture contrast sharply with the blurred green and earthy background. Elephants are apex herbivores and do not typically rely on camouflage for survival, making their presence conspicuous in their natural habitats."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image features a clear, bright blue sky in the upper portion, transitioning into a large, dense formation of white cumulus clouds that occupy the majority of the lower frame. The clouds are volumetric with distinct, puffy textures and exhibit various shades of white and light grey due to natural shadowing.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an environmental scene consisting of a blue sky and large cumulus clouds. There are no organisms (animals, insects, or fish) present within the frame. Therefore, the concept of camouflage is not applicable."
+}

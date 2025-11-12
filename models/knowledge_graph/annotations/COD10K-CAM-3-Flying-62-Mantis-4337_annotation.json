@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a rough, textured surface, likely tree bark or a weathered rock. It features a mottled pattern of light gray, off-white, and brownish-orange patches, with darker specks and lines creating an uneven, natural texture. There are areas that appear to be covered in lichen or dried residue.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The mantis exhibits excellent camouflage, blending seamlessly with its environment. Its pale, mottled grayish-white body with subtle darker speckles precisely matches the dominant colors and intricate patterns of the rough bark or rock surface. The segmented body and thin, speckled legs further mimic the textural irregularities of the background, effectively disrupting its outline. The low contrast between the mantis and the backdrop makes it very difficult to distinguish, achieving a high degree of visual concealment. While a dark spot on its back and its green eyes are visible upon close inspection, the overall effect is highly effective at camouflaging the organism."
+}

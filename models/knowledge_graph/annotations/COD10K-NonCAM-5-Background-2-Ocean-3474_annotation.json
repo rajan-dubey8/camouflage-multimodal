@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean scene with waves",
+  "background_description": "The image features an expansive ocean with choppy water and breaking waves in the foreground, extending to a clear horizon. Above, a cloudy sky occupies the upper portion of the frame. The entire scene is rendered in grayscale, highlighting the texture of the waves and clouds. A small boat is visible on the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely portrays a natural marine environment, specifically an ocean with breaking waves and a distant sky. No animals, insects, or other organisms that could potentially employ camouflage are visible within the frame. Therefore, no camouflage is detected."
+}

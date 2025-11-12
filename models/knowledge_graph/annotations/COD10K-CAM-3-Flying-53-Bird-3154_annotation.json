@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense layer of green foliage, comprising various leafy plants with different shades of green, some appearing variegated with lighter edges. Below the dense foliage, there are patches of sparse green grass and exposed dark brown soil. The lighting is mixed, with some areas appearing shadowed and others brighter.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The peacock in this image is not camouflaged. Its vibrant, iridescent plumage, featuring brilliant blues on the head and neck, and iridescent green and blue on the body and long tail feathers with prominent 'eyespot' patterns, creates a stark visual contrast against the natural greens of the foliage and the brown of the soil. While some leaves partially obscure parts of its body, the striking colors and distinct feathery texture of the bird do not blend with the organic, leafy textures or the more muted green and brown tones of the environment. The high contrast and distinct patterns make the bird easily noticeable rather than hidden."
+}

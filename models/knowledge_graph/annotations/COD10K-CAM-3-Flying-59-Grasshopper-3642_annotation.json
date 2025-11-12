@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a rough, uneven surface, likely tree bark or rock, densely covered with a mix of dark brown, almost black, and mottled green/yellowish-green lichen-like growths. The texture is highly granular and irregular, with various speckles and patches of color.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage in this image. Its body coloration, which includes mottled browns, greens, and grays, very closely matches the hues present in the lichen-covered bark or rock environment. Furthermore, the grasshopper's rough, granular body texture perfectly mimics the irregular and speckled texture of the background. This high similarity in both color and texture results in very low contrast between the organism and its surroundings, making its outline difficult to discern. The overall effect is that the grasshopper effectively disappears into its environment, illustrating strong color blending and pattern matching."
+}

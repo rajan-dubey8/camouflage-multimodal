@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a complex and highly textured underwater reef environment. It is composed of various coral formations, rocks, and encrusting organisms. The colors are a mottled mix of reddish-browns, dark browns, olive greens, and significant patches of white or light-colored sediment and encrustations, creating a rough and uneven surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption / Color blending / Pattern matching",
+  "explanation": "The fish exhibits exceptional camouflage. Its body color, a mottled mix of golden-yellow, dark brown, and white, perfectly matches the variegated hues of the coral and rocky seafloor. The white speckles on its body strongly mimic the white encrustations and sediment present on the surrounding environment. Furthermore, the fish's highly irregular and jagged shape, along with its rough, bumpy texture, effectively disrupts its outline, making it virtually indistinguishable from a piece of detritus, a dead leaf, or a coral fragment. This combination of color blending, pattern matching, and shape disruption results in a very low contrast difference between the fish and its background, making it incredibly difficult to spot."
+}

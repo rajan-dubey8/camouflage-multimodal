@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Marmot",
+  "background_description": "The background consists primarily of large, light grey to off-white rocks, appearing rough and angular. Interspersed among the rocks are patches of green vegetation, including small leafy plants and some dry, brownish-green foliage. The scene suggests a rocky, possibly alpine or mountainous environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The marmot's fur displays a varied coloration, predominantly greyish-brown on its back and head, blending into a more yellowish-brown on its chest and flanks. These colors closely match the earthy tones of the dry vegetation and the darker, shadowed areas of the rocks in its habitat. While its form is clearly visible, the fur's natural hues and somewhat coarse texture allow it to blend effectively with the rocky and vegetated environment, particularly in varying light conditions, helping to reduce its conspicuousness to predators. This is a clear example of color blending camouflage."
+}

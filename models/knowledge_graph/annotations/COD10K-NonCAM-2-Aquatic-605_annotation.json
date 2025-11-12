@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Midas Cichlid",
+  "background_description": "The background consists of murky, slightly blurry grey-brown water with indistinct dark shapes, likely rocks or substrate, at the bottom. The water surface is visible at the top. Another blurred fish is partially visible in the distance, suggesting an aquarium environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant yellow and orange Midas Cichlid with distinct black markings. Its bright coloration stands out significantly against the dark, murky background, indicating no attempt at camouflage."
+}

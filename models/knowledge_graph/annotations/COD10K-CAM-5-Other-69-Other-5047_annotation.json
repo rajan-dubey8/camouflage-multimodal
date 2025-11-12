@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Camouflaged Toad",
+  "background_description": "The background consists of a dark, murky environment, likely water or damp soil, heavily covered with a dense layer of small green aquatic plants, possibly duckweed or similar floating vegetation. There are also darker patches of decaying plant matter, small twigs, and what appears to be a large, dark, textured log or rock partially covered in lighter specks on the right side. The overall color palette is dominated by muted greens, dark grays, and browns, with a highly textured and irregular surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "A toad is highly camouflaged within the murky, vegetation-filled environment. Its skin, combined with the small green aquatic plants (like duckweed) that cover its back, perfectly matches the colors and textures of the surrounding floating vegetation and debris. The irregular, lumpy surface of the toad, further broken up by the adhering plant matter, blends seamlessly with the uneven background, making its outline extremely difficult to discern. The lack of distinct color or texture contrast between the toad and its surroundings demonstrates a highly effective color blending camouflage strategy."
+}

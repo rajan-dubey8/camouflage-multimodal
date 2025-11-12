@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Zoanthid polyps",
+  "background_description": "Dark, textured rock or substrate in an underwater environment, predominantly deep blue and purple with some black shadowy areas. The texture appears rough and uneven, typical of a rocky seafloor or reef structure.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Zoanthid polyps display vibrant, fluorescent colors including bright greens, yellows, blues, and orange/brown centers. These prominent features and distinct, intricate shapes stand out sharply against the dark, rocky underwater background which consists of deep blue, purple, and black tones. There is a high contrast in both color and texture between the luminous polyps and their surroundings. The organisms are highly visible and are not attempting to blend into their environment; rather, their bright coloration likely serves other biological purposes such as warning of toxicity or attracting prey/symbionts, indicating a clear absence of camouflage."
+}

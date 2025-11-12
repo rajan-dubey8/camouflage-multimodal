@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Yellow Tang",
+  "background_description": "The background consists of a sandy seafloor with patches of darker organic matter, transitioning to a reef structure in the upper half. The reef comprises various corals, displaying shades of deep purple, brown, and some reddish hues, with intricate, convoluted, and textured surfaces. The overall lighting suggests an underwater environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The Yellow Tang is a vibrant, almost fluorescent yellow, which stands in stark contrast to the muted, darker tones of the coral reef and sandy substrate in the background. Its bright coloration makes it highly conspicuous rather than hidden. There is no significant similarity in color or texture between the fish and its surroundings, indicating a complete absence of camouflage."
+}

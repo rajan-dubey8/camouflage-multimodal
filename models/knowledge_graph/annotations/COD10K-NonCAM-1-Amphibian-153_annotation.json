@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree frog on leaf",
+  "background_description": "The background consists of a large, vibrant green leaf with visible veins, on which the frog is perched. Behind the leaf, the environment is softly blurred, showing lighter shades of green and a slender, yellowish-brown stem, indicative of a lush, leafy setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The tree frog exhibits a light tan/beige coloration, which contrasts significantly with the vibrant green leaf it is resting upon. This stark color difference, along with the distinct shape and outline of the frog, makes it easily visible against its immediate background. There is no blending of colors or textures with the environment, nor any disruptive patterning or mimicry to conceal its presence in this particular setting. Therefore, camouflage is not present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of various green plant stems and leaves, some small clusters of light pinkish-white flowers (possibly Sedum), and blurrier vibrant purple/pink flowers further in the background. The environment appears to be a garden or natural foliage setting, with soft lighting and a shallow depth of field.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mantis demonstrates strong camouflage through excellent color blending. Its body is predominantly a vibrant green, which perfectly matches the green stems and leaves of the plants it is perched on and around. This chromatic similarity significantly reduces its visibility against the foliage. While the texture isn't an exact match for specific leaf patterns, it doesn't introduce a stark contrast, and the mantis's elongated body shape somewhat mimics a plant stem. The overall contrast difference between the mantis and its immediate green surroundings is low, making it difficult to spot. The presence of the dark caterpillar it is preying upon and the brighter purple flowers in the distant background are external elements that do not negate the mantis's effective blending with its immediate green environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of shallow, murky water with reflections of sunlight creating shimmering patterns on the surface. Submerged aquatic vegetation, thin strands of algae, and organic debris are scattered within the water. The immediate foreground shows wet, textured earth with small pebbles, mud, and more plant detritus, partially covered by the shallow water.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage through a combination of color blending and pattern matching. Its green and earthy brown mottled skin coloration perfectly matches the hues of the muddy water, submerged vegetation, and wet earth. The irregular spots and stripes on its body mimic the varied textures and visual clutter of the debris and plant matter in its aquatic environment, effectively breaking up its outline. The overall low contrast between the frog's body and its immediate surroundings, combined with the reflective and complex surface of the water, makes it difficult to visually distinguish the organism, providing effective concealment."
+}

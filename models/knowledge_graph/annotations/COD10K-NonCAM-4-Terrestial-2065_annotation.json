@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red fox",
+  "background_description": "The background consists of various concrete blocks or grave markers with visible rough textures and mottled gray tones. There is some sparse green grass and dark, out-of-focus foliage or structures in the deeper background, suggesting a cemetery or similar urban green space.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Red Fox is clearly visible against the urban/cemetery background. Its distinct reddish-orange fur sharply contrasts with the predominantly gray concrete structures and the dark, out-of-focus background foliage. While the fox's natural fur coloration offers effective camouflage in its typical woodland or field habitats (color blending with soil, leaves, and undergrowth), it does not blend with this specific man-made environment. The texture of its fur also contrasts significantly with the hard, grainy texture of the concrete, and there is a high contrast difference in both color and luminosity, making it easily detectable."
+}

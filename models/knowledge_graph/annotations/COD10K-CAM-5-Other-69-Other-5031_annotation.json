@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cougar",
+  "background_description": "The cougar is resting among large, textured rocks and under dappled shade, with shadowed earth and faint green foliage blurred in the foreground and background. The rocks are dark grey and brownish, with a rough, granular texture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The cougar's tawny, sandy-brown fur provides excellent color blending with the surrounding rocks and earthy tones of its habitat. The dappled sunlight and shadows further help to break up its outline and form, making it less distinguishable from the irregular shapes and varying light conditions of the rocky environment. This highly effective camouflage allows it to blend seamlessly into its natural surroundings for hunting or resting."
+}

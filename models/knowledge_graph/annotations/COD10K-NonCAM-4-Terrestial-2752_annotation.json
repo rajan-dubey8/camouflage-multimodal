@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Impala",
+  "background_description": "The background consists of a dry African savanna landscape. It is dominated by vast stretches of golden-brown and yellowish dried grasses, characteristic of a dry season. There are sparse, scattered patches of greener, low-lying vegetation or small bushes, especially in the foreground. The ground appears dry and earthy.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The impalas exhibit effective camouflage primarily through color blending. Their tawny-brown coats closely match the dominant golden-brown and yellowish hues of the dry savanna grass, making them difficult to distinguish from the environment. The white undersides, a form of countershading, help to reduce shadows and flatten their appearance against the background, further aiding concealment. While their fur texture is smooth and does not mimic the dry grass texture directly, the overall color and tonal similarity, coupled with the low contrast between the impalas and their surroundings, results in good camouflage. The dark markings on their legs and rump are relatively small and do not significantly compromise the overall blending effect."
+}

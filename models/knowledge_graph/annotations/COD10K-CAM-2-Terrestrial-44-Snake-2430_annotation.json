@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a dense layer of dry, fallen leaves in various shades of brown, reddish-brown, and dark brown, some appearing damp or aged. Interspersed are thin dried twigs, fragments of larger plant matter (like dried palm fronds), and patches of dark, moist soil. The ground is uneven, creating a complex, dappled pattern of light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The snake exhibits excellent camouflage due to its coloration and patterning that closely mimics the forest floor. Its body is covered in mottled browns, tans, and darker markings that blend seamlessly with the dry, fallen leaves, twigs, and patches of soil. The irregular dark patterns on its scales resemble shadows and varying textures of the leaf litter, effectively disrupting its outline. The head, though slightly more uniform reddish-brown, also matches common leaf colors. This combination of color blending, pattern matching, and shape disruption makes the snake very difficult to spot against its natural background, despite the slight sheen on its scales."
+}

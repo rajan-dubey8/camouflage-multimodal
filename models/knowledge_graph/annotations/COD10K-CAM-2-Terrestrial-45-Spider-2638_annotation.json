@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of a textured tree branch or twig. The branch has a rough surface with varied shades of brown, grey, and some lighter, possibly mossy or lichen-like patches. The texture appears woody and irregular. The area behind the branch is a solid, deep black, suggesting a dark or heavily out-of-focus background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits exceptional camouflage by perfectly matching the color and texture of the tree branch it rests upon. Its body and legs are a mottled mix of browns and greys, almost identical to the bark's coloration, resulting in high color similarity. Furthermore, the spider's hairy, rough surface and irregular patterns closely mimic the coarse, textured surface of the wood, demonstrating high texture similarity. The spider's elongated, flattened body and splayed legs also contribute to shape disruption, breaking up its outline and making it blend seamlessly with the natural irregularities of the branch, making it very difficult to distinguish from its surroundings. The contrast difference between the spider and the background is remarkably low."
+}

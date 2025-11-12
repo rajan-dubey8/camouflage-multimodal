@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "White's Tree Frog",
+  "background_description": "Generic freshwater pond or wetland environment, typically characterized by still or slow-moving water, with surrounding aquatic vegetation and a soft, muddy substrate.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The White's Tree Frog is bright green with a distinct white belly and scattered white spots. It is clearly visible against the dark, textured tree bark and the lighter, hairy human skin. Its vibrant coloration and smooth texture do not blend with the visible background elements, confirming the absence of camouflage."
+}

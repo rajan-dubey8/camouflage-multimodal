@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Grayling",
+  "background_description": "The aquatic environment features dark, submerged rocky structures and a dark wooden branch. The water is clear, with other fish visible in the blurred background. The overall lighting is subdued, creating a natural, somewhat dim underwater setting, possibly an aquarium or a riverbed.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Grayling fish, identifiable by its elongated body, distinct black spots along its sides, and most notably, its large, colorful dorsal fin which is predominantly blue with dark patterns. Its vivid coloration and patterns, especially the dorsal fin, make it highly conspicuous against the darker, muted rocky background, confirming that no camouflage is present."
+}

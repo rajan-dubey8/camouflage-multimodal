@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists primarily of a rough-textured tree branch in the foreground, with various shades of brown and grey. Behind the branch, there are blurred green leaves and lighter, out-of-focus areas suggesting filtered light through foliage, indicating an arboreal environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly demonstrates excellent camouflage by blending seamlessly with the tree branch it is resting on. The underside of its wings, which are folded, displays a complex array of brown, grey, and cream colors with intricate patterns that remarkably mimic the mottled appearance and rough texture of the tree bark. This results in high color and texture similarity with the immediate background. The overall contrast difference between the butterfly and the branch is low, making its outline difficult to discern. The irregular edges of the wings, combined with the bark-like patterns, help disrupt its shape, preventing it from standing out as a distinct object. Even the 'eyespots', while prominent, are integrated into the overall cryptic pattern and can serve as disruptive coloration or mimicry within this camouflaged context."
+}

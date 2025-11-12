@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of a blurry aquatic environment, with vibrant green vegetation or algae visible on the right side and a darker, indistinct blue-green area on the left and top. The water appears clear, with some faint reflections or bubbles. The overall setting is reminiscent of an aquarium.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a brightly colored orange goldfish. Its vivid coloration sharply contrasts with the green and blue-green hues of the blurry background, making it stand out prominently. There are no features suggesting any form of camouflage."
+}

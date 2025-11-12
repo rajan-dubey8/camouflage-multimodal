@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of dense, dark green and brown moss covering a moist surface, likely near water. There are also slender, bright green aquatic plant leaves in the foreground on the left side.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant green frog resting on moss. While its coloration naturally blends with the green and brown elements of its habitat, it is clearly visible and not attempting to hide or be inconspicuous; therefore, no camouflage is present."
+}

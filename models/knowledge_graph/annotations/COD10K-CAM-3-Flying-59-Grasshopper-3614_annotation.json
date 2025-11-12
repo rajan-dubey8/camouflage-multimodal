@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a plant with numerous elongated, ovate-lanceolate green leaves. The leaves exhibit prominent central veins and lighter green hues on their surfaces. There are also reddish-brown stems connecting the leaves. The overall environment is lush green foliage, with some areas slightly out of focus, suggesting a natural, vegetated setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The grasshopper exhibits excellent camouflage. Its body is a vibrant green, almost perfectly matching the hue and saturation of the surrounding leaves. The insect's elongated and flattened shape, along with the visible veins on its folded wings, mimics the structure and texture of the leaves themselves, making it appear as just another leaf. The contrast between the grasshopper and the foliage is extremely low, making it very difficult to distinguish from its environment upon first glance. This is a strong example of both color blending and structural mimicry."
+}

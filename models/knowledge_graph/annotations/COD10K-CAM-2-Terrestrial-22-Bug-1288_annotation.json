@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bug",
+  "background_description": "The background consists of a rough, uneven rock surface heavily covered with crustose lichen. The lichen creates a textured, granular pattern of various shades of grey, whitish-grey, and darker grey patches, giving the rock a mottled appearance. There are also some small areas of darker, less textured rock and a tiny patch of green moss-like growth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Bug exhibits excellent camouflage. Its body coloration is a mottled grey and white, perfectly mimicking the dominant colors and patterns of the crustose lichen covering the rock surface. The texture of the bug's exoskeleton also appears rough and granular, closely resembling the irregular, bumpy texture of the lichen. This strong color and texture similarity, along with the low contrast between the bug and its environment, makes it very difficult to discern its outline and form, allowing it to blend seamlessly with the background."
+}

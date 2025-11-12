@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky terrain",
+  "background_description": "The scene displays a rugged landscape dominated by a large formation of reddish-brown rock, characterized by an uneven, porous texture and varying shades. This central formation is interspersed with and surrounded by numerous lighter, greyish-white rocks and fragments, some appearing like broken coral or weathered limestone. The overall environment is arid, with coarse textures and a natural color palette of earthy reds, browns, light greys, and whites.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural rocky landscape. No animal, insect, fish, or any other form of organism is visible anywhere in the scene, either in the main image or the provided crops. Therefore, the concept of camouflage does not apply to this environment."
+}

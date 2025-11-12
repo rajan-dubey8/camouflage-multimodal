@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of rough, textured grey-brown rocks, likely a stone wall or natural rock outcrop, with deep crevices. Various green plants, including small broad-leaved plants and thin-bladed grasses/stems, grow out of these cracks. There is also a significant amount of dried brown plant material and roots, along with dark soil visible in the deeper recesses.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper is effectively camouflaged within this environment. Its body is a vibrant green, which perfectly matches the color of the surrounding fresh green leaves and stems. Its elongated shape also allows it to blend seamlessly with the linear elements of the plants and dried organic matter. The low contrast between its green body and the immediate green foliage makes it very difficult to spot at first glance, despite the varying textures of rocks and dried plants. It is positioned among the green plants, utilizing color blending to disappear into its immediate surroundings rather than against the entire background."
+}

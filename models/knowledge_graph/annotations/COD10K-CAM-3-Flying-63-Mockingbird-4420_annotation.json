@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The Mockingbird is perched on a gnarled, greyish-brown tree branch that shows some textural variation and possible lichen growth. The background consists of a dense arrangement of small to medium-sized oval green leaves, some in sharp focus and others blurred, along with other out-of-focus branches and foliage creating a mosaic of greens and darker shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.3",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird, with its predominantly grey and white plumage, is clearly discernible against the vibrant green leaves and the textured brown branch. While its coloration is not brightly contrasting, its distinct shape, the lighter tones of its belly, and the dark markings on its wings create a moderate to high contrast difference with its immediate surroundings. The texture of its feathers is also clearly distinct from the rough bark of the branch and the smooth surface of the leaves. Although mockingbirds naturally exhibit some countershading (darker back, lighter belly), this mechanism is not effective in helping it blend into this specific scene, making the bird stand out visually rather than harmonizing with the environment."
+}

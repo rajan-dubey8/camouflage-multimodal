@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of dry, sandy soil mixed with small pebbles and gravel, forming a slightly elevated mound in the foreground where the gecko is perched. The ground appears to be a light brown to grayish-tan color. In the blurred mid-ground and background, there are flatter areas of similar sandy soil, possibly with some dried cracks or faint green vegetation, suggesting an arid or semi-arid environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The gecko exhibits excellent camouflage in this image. Its body coloration is a mottled greyish-brown with numerous small, light-colored speckles, which almost perfectly matches the hue and granular texture of the sandy, gravelly ground it is resting on. The colors of the gecko seamlessly blend with the dry soil and small stones. Furthermore, the spotted pattern on its skin mimics the irregular distribution of sand grains and pebbles in the environment, disrupting its outline and making it difficult to distinguish from the background. The low contrast between the gecko and its surroundings further enhances its concealment."
+}

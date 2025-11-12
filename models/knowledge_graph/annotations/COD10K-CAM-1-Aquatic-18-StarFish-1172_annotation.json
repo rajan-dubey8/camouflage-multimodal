@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a rocky intertidal zone filled with shallow water. Dominant features include various marine algae (seaweed) in shades of reddish-brown, dark brown, and purplish-brown, with frilly and branching textures. Interspersed among the seaweed are numerous bright purple sea urchins and several pale green to bluish-grey sea anemones, some of which are partially submerged in the clear water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The StarFish, with its distinct orange-brown coloration and bumpy texture, stands out clearly against the diverse background of the tide pool. The background is dominated by darker reddish-brown and purplish seaweeds, vibrant purple sea urchins, and pale green/blue sea anemones. There is a high color and luminance contrast between the StarFish and its immediate surroundings. Its five-armed shape is also very distinct and not broken up by any background patterns, making it easily visible and not camouflaged."
+}

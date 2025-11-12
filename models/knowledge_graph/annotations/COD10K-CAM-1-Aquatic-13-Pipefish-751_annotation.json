@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a complex underwater rocky environment. There are various porous, irregularly shaped rocks covered with patches of light brown, greenish algae, and darker purplish-red encrustations. Sediment and small detritus are visible in crevices and on surfaces, creating a mottled and textured substrate with varying light and shadow.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Pipefish exhibits a moderate level of camouflage in this image. Its elongated and slender body has a translucent, pale yellowish-brown hue with subtle darker markings, allowing it to blend reasonably well with the lighter, sand-colored and greenish-brown sections of the rocky background. While the pipefish's body is smooth and the rocks are rough and textured, its low contrast against these lighter areas and its cryptic, stick-like shape help it to appear less distinct, making it blend with the general environment rather than standing out starkly. It is not perfectly hidden, but its coloration and form effectively reduce its visibility against the varied substrate."
+}

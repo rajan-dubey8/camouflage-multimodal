@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rock Wallaby",
+  "background_description": "The background consists of a rugged, uneven rock face composed of large, weathered stones. The rocks display a variety of natural colors including dark grey, earthy brown, and reddish-brown hues. They have a rough, textured surface with visible cracks, crevices, and irregular patterns, suggesting a dry, arid, or coastal rocky habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The rock wallaby exhibits excellent camouflage through color blending with its rocky environment. Its fur is a muted greyish-brown, which closely matches the dominant color tones of the surrounding weathered rocks. The slight variations in the wallaby's fur coloration and its somewhat mottled texture help it to merge seamlessly with the uneven and textured surfaces of the stone, making it difficult to discern its outline from the background. The low contrast difference between the wallaby and the rocks significantly reduces its visibility, aiding in predator avoidance."
+}

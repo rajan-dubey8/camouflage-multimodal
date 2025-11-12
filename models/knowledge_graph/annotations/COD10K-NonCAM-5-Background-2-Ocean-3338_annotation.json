@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Marine Coral",
+  "background_description": "The background consists of a dark hexagonal plastic grid laid over a light-colored sandy or rocky substrate, visible through the grid openings. The entire scene is submerged in blue-tinted aquarium water. Other blurry marine organisms, possibly corals or anemones, are visible in the upper left and upper right corners.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The main subject is a vibrant purple-blue coral with distinct yellow-white polyps, placed on a dark hexagonal grid over a light-colored substrate in an aquarium. Its bright and contrasting coloration, along with its unique and complex morphology, does not blend with the immediate background elements of the dark grid or the underlying substrate. The coral's features make it highly visible, indicating a lack of camouflage for concealment in this specific setting. As a sessile marine organism, corals typically do not employ active camouflage strategies for hiding or hunting; their coloration is often due to symbiotic algae or pigmentation."
+}

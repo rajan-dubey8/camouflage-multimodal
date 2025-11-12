@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blood Parrot Cichlid",
+  "background_description": "The aquatic environment is an aquarium with a seabed composed of small, light-colored gravel and pebbles. A large piece of dark, textured driftwood or root is present, and the area beyond the immediate foreground is dark, suggesting either deep water or a dark backdrop.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The bright orange Blood Parrot Cichlid is prominently displayed and stands out significantly against the dark background, light gravel, and dark driftwood, indicating a complete absence of camouflage."
+}

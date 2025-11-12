@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background consists of a sandy seabed, speckled with finer and coarser sand particles, and interspersed with irregularly shaped rock or coral formations that are also covered in detritus and sand. Sparse, thin dark plant matter (possibly seagrass blades) are visible on the sand. The overall environment is muted in tone, featuring sandy browns, off-whites, and light grey-green hues.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The ScorpionFish exhibits excellent camouflage in this image. Its body is covered in numerous irregular protuberances, fringes, and a highly textured, mottled skin that perfectly mimics the rough, detritus-covered surface of the surrounding rocks and sand. The fish's coloration, a mix of sandy browns, off-whites, and reddish hues, blends seamlessly with the background environment, making it extremely difficult to distinguish its form from the irregular seabed. This combination of color blending, texture matching, and particularly effective shape disruption, where its outline is broken up by the irregular features, allows it to become virtually indistinguishable from the non-living elements of its habitat."
+}

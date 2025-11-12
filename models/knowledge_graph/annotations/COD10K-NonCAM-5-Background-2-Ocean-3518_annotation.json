@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral polyps in reef",
+  "background_description": "The background consists of an underwater scene with various rocky structures and other sessile marine life, likely other corals or sponges. Colors are a mix of dark blues, purples, greens, and browns, with textured, irregular surfaces typical of a coral reef.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The coral polyps exhibit effective camouflage primarily through color blending and structural integration. Their reddish-brown and tan colors are highly similar to the natural hues of the surrounding rocky substrate and other sessile organisms in the reef. Furthermore, their irregular, textured shapes and forms integrate seamlessly with the complex and uneven textures of the underwater environment, making them difficult to distinguish from the non-living or other living components of the coral reef. The low contrast difference further aids in their concealment. Although corals are organisms, 'Environment' is selected for 'object_category' due to the schema's limited organism categories and the prominent role of corals in forming the reef environment."
+}

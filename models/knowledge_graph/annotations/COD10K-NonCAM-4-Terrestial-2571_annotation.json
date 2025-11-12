@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Badgers",
+  "background_description": "The badgers are on a forest floor consisting of reddish-brown soil, scattered dry leaves, twigs, and a pinecone. The deeper background is dark and blurred, suggesting a wooded area at night or in deep shadow, with hints of green foliage and distant light spots.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The badgers' prominent black and white striped facial markings and grizzled grey fur create a high contrast against the dark, earthy forest floor. Their coloration does not blend with the dominant browns, greens, and dark shadows of their environment, nor do their fur textures mimic the ground. Badgers are known for their distinctive appearance, which serves more as a warning or recognition signal rather than visual concealment. Therefore, they are not exhibiting camouflage in this scene."
+}

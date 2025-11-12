@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Anhinga",
+  "background_description": "The background consists of blurred green foliage, likely trees or bushes, under a bright, slightly hazy blue sky. The colors are predominantly muted greens and light blues, creating a soft, out-of-focus environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Anhinga is prominently displayed against a blurred background of green foliage and a bright sky. Its dark plumage creates a high contrast with the lighter background colors (greens and blues), making it highly visible and easily detectable. There is no attempt at color blending, disruptive patterning, or mimicry with this specific environment. The bird's pose with its beak open further accentuates its presence rather than concealing it, indicating no camouflage is present in this scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Eagle",
+  "background_description": "The eagle is perched on a thick, gnarled wooden log. The background consists of a rocky hillside or wall with sparse, lighter-toned vegetation and patches of dry ground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The dark plumage of the eagle creates a strong visual contrast against the much lighter-toned wooden log it is perched on and the rocky, vegetated background. There are no patterns or colorations that enable the bird to blend into its immediate environment, making it highly visible."
+}

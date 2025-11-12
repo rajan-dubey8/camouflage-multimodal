@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dry, dusty earth mixed with numerous fallen eucalyptus leaves, small twigs, brittle branches, small reddish and white stones/pebbles, and patches of darker soil/moss. There are also some green plant stalks visible on the left side. The environment is highly textured and dappled with sunlight and shadows, creating a visually 'noisy' ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage in this image. Its body coloration, a mottled pattern of grey, brown, and pale cream, perfectly matches the hues of the dry earth, fallen leaves, twigs, and small stones that make up its immediate environment. The intricate, rough texture of its scaly skin also closely mimics the varied textures of the ground cover, such as the rough soil, dry leaves, and small pebbles. Furthermore, its irregular pattern, combined with the dappled lighting and shadows across its body and the background, effectively disrupts its outline, making it incredibly difficult to distinguish from the cluttered ground. This combination of color, pattern, and texture matching allows the lizard to blend seamlessly with its surroundings, providing strong protective concealment."
+}

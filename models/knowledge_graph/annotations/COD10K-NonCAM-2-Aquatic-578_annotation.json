@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Spotted Boxfish",
+  "background_description": "The background consists of a dark, rocky or coral reef environment with various textures, including what appears to be encrusting algae or stony corals. There are also some green, cup-shaped organisms (possibly sponges or anemones) in the upper left. The water shows reflections and refractions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Spotted Boxfish with distinctive bright white spots on a dark body. Its pattern and coloration contrast sharply with the dark, textured coral/rock background, indicating no camouflage is present."
+}

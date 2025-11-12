@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists primarily of light-colored, weathered driftwood logs and natural rock formations. The rocks exhibit various shades of brown, grey, and reddish-brown, with textured, rugged surfaces, some appearing wet. Sparse green grass or reeds are visible in the upper background, suggesting a natural, possibly riparian, environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The otter, with its dark brown, wet fur, stands out significantly against the lighter, bleached driftwood and the varied shades of brown and grey rocks in the background. There is a strong color contrast between the animal and its immediate surroundings, and its wet fur texture is distinct from the smooth wood and rough stone surfaces. Therefore, no effective camouflage is observed in this scene."
+}

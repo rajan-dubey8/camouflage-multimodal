@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a marshy environment with dense, tangled brown branches and reeds forming a thicket. Above and interspersed are bright green-yellow leaves from deciduous trees or bushes. The foreground shows dark water with vertical green marsh grasses and reflections. A prominent fallen, weathered log stretches across the lower mid-ground. The lighting suggests a golden hour, with warm tones and backlighting on parts of the scene.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The Heron is prominently displayed in the image, captured in mid-flight as it takes off from a fallen log. Its distinct silhouette, especially with its wings outstretched and backlit, stands out sharply against the varied background of tangled branches and foliage. While its darker reddish-brown wing feathers share some tone with the brown branches, the overall grayish-blue body and the strong highlights on its back and wings create a high contrast difference with the surrounding environment. The movement, accentuated by water splashes from its feet, further draws attention to the bird, making it highly visible rather than blended."
+}

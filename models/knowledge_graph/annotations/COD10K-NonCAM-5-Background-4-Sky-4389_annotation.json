@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wetland landscape at dusk",
+  "background_description": "The image features a body of water, likely a lake or marsh, in the foreground with gentle ripples on its dark, reflective surface. Beyond the water, there is a band of green and brown reeds or tall grasses, followed by a dense line of diverse trees, some with dark green foliage and others appearing deciduous or palm-like in the distance. The sky above transitions from a light blue at the zenith to soft pinks and oranges near the horizon, typical of dusk, with scattered cumulus clouds tinged with pink.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural landscape consisting of water, vegetation, and sky. No animals, insects, or fish are visible within the frame. As no organism is present, there is no subject for camouflage to be evaluated against, hence camouflage is not present."
+}

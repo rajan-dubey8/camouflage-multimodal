@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of a dense natural environment featuring several tree trunks with rough, textured grayish-brown bark, various branches, and an abundance of green leaves, some appearing lighter green or slightly yellowish. The lighting is somewhat diffuse, creating a mottled pattern of light and shadow throughout the foliage and bark. The overall impression is a forest or wooded area.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.35",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird's gray upperparts offer a moderate degree of color blending with the grayish-brown tree bark in the background. However, its distinct shape, the noticeable white patches on its wings, and its lighter underside create a medium contrast difference against both the darker tree trunks and the green foliage. The bird's feathery texture is also clearly distinct from the rough bark and smooth leaves, offering no textural mimicry. While not brightly colored, the bird's overall form and the specific markings (like the white wing patches) make it readily discernible and prevent it from truly blending into its surroundings, hence 'No Camouflage'."
+}

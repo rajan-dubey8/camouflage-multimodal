@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a vibrant and somewhat blurry field of wildflowers and green foliage. There are numerous white flowers, similar to the one the butterfly is on, along with light purple/lavender flowers and green stems and buds. The lighting is bright and natural, creating a soft-focus effect in the mid-ground and background.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly demonstrates effective camouflage through color blending. Its pale white/light yellow wings are very similar in color to the white flower it is resting upon, significantly reducing the visual contrast between the organism and its immediate environment. While the butterfly's shape is still discernible, the strong color match makes it blend seamlessly with the floral cluster, making it harder for a predator to spot amidst the array of white and light-colored blossoms."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of three daisy-like flowers. The central flower, where the spider is located, is in sharp focus, featuring bright white ray florets and a vibrant yellow disc. Two other similar flowers are partially visible, one to the left and one to the right, both slightly out of focus. Behind the flowers, there is a soft, deep green, blurred background, likely foliage, creating a bokeh effect.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage by positioning itself on the yellow disc of the daisy flower. Its body is a bright yellow-orange color, which closely matches the vibrant yellow hue of the flower's center. This strong color similarity makes the spider difficult to spot at first glance. While its overall shape is distinct from the individual disc florets, the aggregated form of the florets creates a somewhat lumpy texture that the spider's body can blend into. The contrast between the spider and its immediate surroundings (the flower's yellow center) is very low, enhancing its ability to blend in. This is a classic example of a crab spider using color matching to ambush prey on flowers."
+}

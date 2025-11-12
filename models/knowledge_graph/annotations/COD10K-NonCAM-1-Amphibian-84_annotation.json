@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree Frog",
+  "background_description": "A pale, mottled gray, concrete-like artificial surface with visible texture and darker specks, forming a horizontal ledge in the foreground and a textured wall in the background, suggesting a contained or semi-aquatic environment for the amphibian.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bright green Tree Frog, with its smooth skin and vibrant coloration, stands out clearly against the pale, mottled gray, artificial background. There is a strong visual contrast in both color and texture, indicating a complete absence of camouflage."
+}

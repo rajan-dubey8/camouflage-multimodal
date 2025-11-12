@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a natural outdoor environment dominated by green grass and various plant stems. A prominent green stem with fine hairs serves as the primary perch for the cicada and its shed exuvia. Several bright yellow dandelion-like flowers are visible, some partially out of focus, adding a contrasting color to the green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The cicada is in the vulnerable process of ecdysis, emerging from its nymphal exuvia. The newly emerged cicada exhibits a pale, yellowish-green and brownish coloration, which contrasts notably with the vibrant green of the surrounding grass and the specific green, hairy stem it is clinging to. The shed, brown exuvia also stands out against the lush green background. The distinct form, relatively smooth texture (of the live cicada), and color differences between the cicada and its immediate environment make it easily discernible, indicating a lack of effective camouflage in this specific image."
+}

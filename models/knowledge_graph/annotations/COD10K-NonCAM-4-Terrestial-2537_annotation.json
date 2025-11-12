@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness",
+  "background_description": "The background consists of dry, sparse savanna grasses in varying shades of muted green and yellow-brown, intermingled with patches of exposed sandy-brown earth. There are some dried plant stalks and general ground debris, creating a somewhat mottled texture on the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The lioness exhibits excellent color blending camouflage. Her tawny, sandy-brown fur closely matches the colors of the dry grass and bare earth in her savanna environment. This strong color similarity reduces her visibility against the background, making it difficult for prey or other animals to spot her. While the texture of her fur is distinct from the grass and soil (low texture similarity), the overall effect of her coloration allows her to blend seamlessly, especially when lying low, which is a key hunting strategy for lions."
+}

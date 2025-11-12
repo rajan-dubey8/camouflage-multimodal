@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Little Blue Heron",
+  "background_description": "The bird is perched on a large, textured tree trunk or branch, characterized by deeply furrowed and peeling bark in shades of warm brown, orange, and grey. The distant background is highly blurred, showing soft green and yellow hues of foliage at the bottom, and lighter blue tones at the top, possibly indicating sky or water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Little Blue Heron's dark slate blue-grey body and reddish-brown neck plumage create a high contrast against the lighter, warm-toned, textured tree bark it is perched on. Its smooth feather texture also differs significantly from the rough, peeling bark. The bird's outline is clearly defined and it stands out prominently against both the tree and the blurred background, indicating no effective camouflage in this specific environment."
+}

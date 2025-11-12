@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The spider is situated on a fresh, vibrant green leaf, which has clearly visible vein patterns and a slightly textured surface. The leaf displays various shades of green, with brighter, illuminated areas and darker, slightly shadowed depressions. Another glossy, darker green leaf is partially visible beneath it, and the background consists of softly blurred green foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits outstanding camouflage against the green leaf. Its entire body is a pale greenish-yellow, almost translucent, which perfectly matches the lighter tones of the leaf where it is positioned. The translucency of its long, slender legs allows the underlying green of the leaf to show through, effectively minimizing any color or contrast difference. This exceptional color blending makes the spider nearly indistinguishable from its environment, greatly reducing its visibility to predators or prey. The spider's elongated form and splayed legs also contribute to breaking up its outline, helping it to blend with the leaf's natural contours and textures, though color is the primary mechanism."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists of a rocky terrain predominantly covered with smooth, rounded pebbles and larger grey stones of varying sizes. Sparse patches of dry, light-brown grass and small amounts of green vegetation are scattered among the rocks. The overall color palette of the environment is muted, featuring shades of grey, white, and light brown.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Leopard, specifically a snow leopard based on its markings, demonstrates effective camouflage in this rocky environment. Its pale gray and white fur provides high color similarity with the light-colored and grey stones that make up the background. The dark rosettes and spots on its coat contribute to pattern matching and shape disruption, breaking up the animal's solid form and blending it with the varied textures and shadows created by the numerous rocks and pebbles. While the dark spots do create some contrast, their irregular distribution mimics the visual clutter of the rocky ground, making the animal less conspicuous and allowing it to blend remarkably well, despite not being in a snowy landscape."
+}

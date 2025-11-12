@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cod",
+  "background_description": "A bed of crushed white ice in a seafood market display. Various other fish fillets (light pink and white) and possibly other marine products (greenish, textured item) are visible in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a large, dead fish (likely a Cod or similar species) with its mouth agape, resting on a bed of crushed ice. This is an artificial setting, not a natural aquatic environment, and the fish's coloration and texture are in high contrast to the white ice and surrounding market items. Therefore, no camouflage is present."
+}

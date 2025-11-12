@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with clouds",
+  "background_description": "The image displays a cloudy sky in black and white, primarily composed of a dark, vast expanse of sky contrasted with numerous white to light gray cumulus and stratocumulus clouds of various sizes and densities. The clouds exhibit soft, textured edges and shadowed undersides, indicating their three-dimensional form against the darker sky. Some areas show thinner, wispy cloud formations.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a sky filled with clouds. No organisms (animals, insects, or fish) are visible in the scene. Therefore, there is no entity present that could exhibit camouflage, and no camouflage is detected. The contrast difference is marked as 'high' to reflect the strong visual distinction between the dark sky and the bright cloud formations within the environment itself."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of several large, vibrant green leaves. The immediate leaves where the Katydids are resting have a slightly textured, matte surface with visible fine hairs and venation. Other leaves in the deeper background are out of focus, appearing as darker green and black blurs, suggesting a dense, shadowy plant environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "While the Katydid's primary body color is green, offering some degree of color blending with the surrounding leaves, its overall appearance does not allow it to blend effectively. The organism exhibits distinctive high-contrast white and dark striped patterns on its long, slender legs and segmented body. These patterns create a strong visual contrast against the relatively uniform green surface of the leaf, making the Katydid highly discernible. Although the stripes represent a form of shape disruption, in this specific context, they cause the organism to stand out rather than disappear into its environment. The difference in texture and the sharp contrast of the stripes prevent effective blending."
+}

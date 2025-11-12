@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Baby gorilla",
+  "background_description": "The background consists of dense tropical forest foliage, with various shades of dark green leaves, some brown branches, and dark soil. There are out-of-focus bright green leaves in the foreground and midground, suggesting a thick undergrowth. The overall lighting is dim and dappled, creating deep shadows.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The baby gorilla's dark, almost black fur provides a degree of camouflage by allowing it to blend into the deep shadows and dense, dark green undergrowth of its forest habitat. While it does not feature disruptive patterns or mimic specific environmental elements, its uniform dark coloration reduces its visibility in low light conditions and within the general darkness of the forest floor, making it less conspicuous. However, its form remains distinguishable, especially against brighter foliage, suggesting a moderate level of camouflage effectiveness."
+}

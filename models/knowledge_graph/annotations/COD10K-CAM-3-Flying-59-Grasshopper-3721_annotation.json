@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a rough, aggregate surface, likely concrete or compacted gravel. It is composed of numerous small to medium-sized pebbles and stones, ranging in color from light tan and off-white to various shades of grey, brown, and reddish-brown, embedded in a lighter, yellowish-tan matrix. The surface exhibits a varied texture with shadows cast by the individual stones, creating a highly mottled and irregular pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The Grasshopper is exceptionally well-camouflaged in this image. Its body coloration, a mix of mottled greys, tans, and browns with darker speckles, perfectly mimics the hues and shades of the surrounding gravel and pebbles. The irregular, segmented texture of its body also closely matches the varied surface of the aggregate. Furthermore, its elongated shape, when viewed from above, blends with the overall visual clutter of the stones, breaking up its outline (shape disruption). The shadow it casts also integrates naturally with the shadows cast by the surrounding pebbles, further reducing its visibility and making it very difficult to distinguish from the background."
+}

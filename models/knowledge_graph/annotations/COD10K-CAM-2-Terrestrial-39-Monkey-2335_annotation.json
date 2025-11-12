@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Monkey",
+  "background_description": "The background consists of a rugged, rocky mountain slope in winter. Numerous large and small rocks, varying in shades from dark grey and black to earthy browns and lighter sandy tones, are partially covered with thick patches of pristine white snow. Some areas show bare, wet rock, and there's a hint of dark water or mud in the lower-left corner. The overall environment is one of stark contrasts between dark rock and bright snow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The monkeys have thick, brownish-grey fur, which does not effectively blend with the predominantly white snow or the varied dark and light tones of the rocks. While their fur color has some overlap with certain brown rocks, their distinct shapes, soft texture, and especially the reddish-pink coloration of their faces create a high contrast against both the white snow and the darker rocky background. They are easily discernible in the image, clearly standing out from their environment rather than blending into it."
+}

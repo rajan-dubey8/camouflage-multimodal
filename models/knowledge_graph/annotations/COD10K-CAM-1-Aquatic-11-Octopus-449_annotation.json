@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Invertebrate",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a shallow underwater seabed, primarily composed of light-colored sand and small rocks, heavily textured with patches of greenish-brown algae and fine detritus. The overall appearance is mottled and irregular, with variations in shade and texture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.7",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Octopus exhibits effective camouflage through significant color blending and moderate texture matching. Its body coloration, a mix of greenish-beige and light brown, closely mirrors the dominant hues of the sandy, algae-covered seabed. The granular texture of its skin further helps it to mimic the rough surface of the ocean floor. While its overall shape is still somewhat discernible, especially its distinct eyes and a slightly brighter, almost reflective patch on its mantle which creates some areas of moderate contrast, the organism's ability to adapt its chromatophores allows it to largely merge with its environment, making it less obvious to predators or prey. It blends rather than stands out."
+}

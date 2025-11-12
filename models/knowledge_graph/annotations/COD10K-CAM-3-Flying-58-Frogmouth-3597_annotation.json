@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The Frogmouth is perched vertically on a tree branch, surrounded by a dense network of green leaves and thinner branches, some blurred in the foreground and midground. Behind the bird, a larger tree trunk with textured bark is visible, and glimpses of a bright blue sky can be seen through the foliage, particularly near the top of the image.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Frogmouth demonstrates exceptional camouflage in this image. Its plumage color and intricate streaked pattern, featuring shades of grey, brown, and black, perfectly mimic the textured bark of the tree branches and trunk it is nestled against. This results in a high color and texture similarity between the bird and its environment. Furthermore, the bird's unique posture, standing rigid and elongated with its head tilted upwards, effectively disrupts its typical avian shape, making it appear like a broken branch or a part of the tree itself. This combination of color blending, pattern matching, and shape disruption leads to a very low contrast difference, making the Frogmouth incredibly difficult to spot and serving as a prime example of effective natural camouflage."
+}

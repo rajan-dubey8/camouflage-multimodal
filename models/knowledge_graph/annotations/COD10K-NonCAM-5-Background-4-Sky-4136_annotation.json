@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban sunset skyline",
+  "background_description": "A dramatic sunset sky with vibrant orange, red, and purple hues dominates the upper and central parts of the image, interspersed with dark grey and lighter scattered clouds. In the foreground and mid-ground, dark silhouettes of modern buildings with some visible window details and dense tree foliage frame the scene from below and the sides, contrasting sharply against the bright sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an urban landscape during sunset. No animals, insects, fish, or any other organisms are visible in the scene. As camouflage applies only to organisms blending into their environment, and none are present, camouflage cannot be detected."
+}

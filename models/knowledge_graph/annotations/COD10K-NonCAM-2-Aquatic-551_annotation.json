@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal",
+  "background_description": "The background consists of murky, brownish-grey water with visible ripples and reflections on the surface, suggesting a shallow coastal area, estuary, or river. There is no visible seabed or other aquatic features.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays two seals partially submerged in the water. One seal is largely visible, with its head and upper body above the surface, while another is mostly submerged next to it, with only its mouth and whiskers visible. Their greyish-brown coats, while somewhat blending with the water's murky tone, do not provide any effective camouflage; the animals are distinctly visible against their aquatic environment."
+}

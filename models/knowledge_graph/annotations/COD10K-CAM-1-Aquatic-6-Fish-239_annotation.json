@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a rugged underwater rocky substrate, primarily dark blue-grey, covered with a mix of green algae, white growths, and prominent patches of orange/rust-colored organisms. The water above and to the left is a clear blue.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The fish exhibits excellent camouflage, blending seamlessly with the rocky underwater environment. Its body is covered in a complex mottled pattern of dark blue-grey, brown, and lighter white spots, which perfectly mimics the varied colors and textures of the rocks, algae, and coral growths it rests upon. This pattern effectively breaks up the fish's outline, making it extremely difficult to distinguish from its surroundings. Both color and texture similarity are high, resulting in a low contrast difference between the fish and the background."
+}

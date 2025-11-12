@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The dragonfly is perched on several vibrant green plant stems or leaves, with some dry, brown plant debris near the base. The background is a soft, out-of-focus, dark gray-blue, appearing uniform and likely representing water or distant foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly's body, primarily yellowish-brown with distinct black markings, does not effectively blend with the bright green plant stems it is resting on, nor with the dark, uniform background. While its transparent wings offer some level of reduced visibility, the overall shape, color, and texture of its body are quite distinct from the surrounding environment. There are no patterns or coloration that suggest active color blending, mimicry, or disruptive patterning for concealment in this specific context."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach and ocean",
+  "background_description": "The scene features a shoreline with fine-grained, light golden-yellow sand. The texture of the sand is uniform but shows indentations from human footprints. The ocean water is clear and translucent, displaying shades of light blue and turquoise, with small white foamy waves gently lapping at the sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively captures a natural environment, specifically a sandy beach bordered by clear ocean water. There are no visible organisms (animals, insects, fish, etc.) present in the frame. Since there is no organism to observe, the concept of camouflage does not apply."
+}

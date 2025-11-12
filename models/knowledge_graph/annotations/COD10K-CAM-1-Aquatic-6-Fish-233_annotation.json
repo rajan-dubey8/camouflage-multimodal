@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a light-colored seabed, composed of fine sand mixed with small, irregular pieces of gravel and shell fragments. The texture is granular and uneven. In the upper part of the image, there are several stalks of vibrant green aquatic plants, possibly seagrass, providing vertical elements. The overall lighting is bright, highlighting the sandy textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Other",
+  "explanation": "The organism, identified as a Fish for this analysis, exhibits excellent camouflage. Its body coloration, a mix of light beige, off-white, and brownish tones, perfectly matches the sandy and gravelly substrate. The irregular dark brown stripes and speckles on its mantle closely mimic the shadows, varied textures, and small debris found on the seabed. Furthermore, its skin texture appears granular, enhancing its ability to blend with the rough surface of the sand and gravel. The organism is partially buried in the sand, which is a behavioral camouflage (categorized as 'Other' here) that significantly disrupts its outline and reduces its perceived volume, making it incredibly difficult to distinguish from its surroundings. This combination of color blending, pattern matching, and shape disruption results in very low contrast with the environment, making it almost invisible."
+}

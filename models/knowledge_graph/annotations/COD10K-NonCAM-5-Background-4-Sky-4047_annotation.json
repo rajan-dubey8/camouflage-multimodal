@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Partly cloudy sky",
+  "background_description": "The image captures a vibrant blue sky with numerous white and grey cumulus clouds scattered across it. The clouds vary in size and density, with some appearing fluffy and bright, while others are darker and more shadowed, suggesting depth. A small portion of dark tree foliage is visible in the bottom-left corner of the frame.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural environment consisting of a blue sky and clouds, with a sliver of tree visible. There is no discernible organism (animal, insect, or fish) present in the image that could be attempting to camouflage itself within this environment. Therefore, no camouflage is detected."
+}

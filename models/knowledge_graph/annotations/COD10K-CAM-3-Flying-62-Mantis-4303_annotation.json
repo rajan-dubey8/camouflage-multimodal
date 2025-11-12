@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a tree trunk covered in rough, textured bark. Much of the bark is adorned with various shades of vibrant green moss and some lighter, possibly lichen-covered, patches. There are also darker, damp-looking areas and crevices within the bark's texture, suggesting a moist forest environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Mantis demonstrates excellent camouflage by effectively blending with its environment. Its body parts, particularly the head, thorax, and parts of its legs, are a mottled green, which closely matches the vibrant green moss covering the tree trunk. The most striking feature for camouflage is its wings, which exhibit an intricate, reticulated pattern of greens, browns, and tans. This pattern perfectly mimics the texture of the rough tree bark and dried leaves, as well as the varied hues of the moss and lichen. This combination of color blending, detailed pattern matching, and the way its shape integrates with the background textures significantly disrupts its outline, making it very difficult to distinguish from the natural environment."
+}

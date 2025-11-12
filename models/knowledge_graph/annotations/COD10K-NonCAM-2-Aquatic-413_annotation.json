@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a sandy-silty seabed with scattered small patches of green algae and detritus. The sediment is dark greyish-brown with lighter specks, indicative of a typical shallow aquatic bottom.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "A pipefish is clearly visible against the seabed. Its elongated body and distinctive snout are distinct. While its coloration generally matches the muted tones of the sandy-silty bottom, it does not blend seamlessly or exhibit any camouflaged features."
+}

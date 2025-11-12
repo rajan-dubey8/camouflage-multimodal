@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of highly weathered, dry, light greyish-brown wood or bark. The surface is rough, with visible grain, cracks, and mottled textures ranging from pale grey to darker browns and blacks, indicative of age and decay. There are also deep crevices and shadowed areas, creating varying levels of light and dark.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The Katydid demonstrates excellent camouflage. Its body color, a mottled mix of light grey, brown, and dark speckles, perfectly matches the weathered, desaturated tones of the dry wood and bark it rests upon. The texture of its wings and body surface mimics the rough, cracked, and grainy patterns of the wood, making it difficult to distinguish its form. The irregular shape of its body and appendages further breaks up its outline (shape disruption), causing it to blend seamlessly with the natural irregularities of the bark, almost appearing as an extension of the wood itself or a piece of debris (mimicry). The contrast difference between the organism and its surroundings is remarkably low, contributing to its near-invisible appearance."
+}

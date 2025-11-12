@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mushroom Coral",
+  "background_description": "The organism is situated against a backdrop of light-colored, possibly gravelly or sandy substrate, indicative of a shallow marine environment. The visible background is somewhat indistinct due to the large size of the coral.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mushroom Coral displays excellent camouflage through color blending and texture matching with its marine environment. Its pale, off-white to light pinkish-tan coloration closely matches the visible light-colored sandy or rocky substrate it rests upon, creating a low color contrast. Furthermore, the coral's intricate, highly textured surface, with its numerous ridges and polyp-like structures, mimics the irregular and diverse textures typically found on the seafloor, such as rocks, sand, and other marine growths. This combination of color and texture similarity helps it to seamlessly integrate into its surroundings, making it difficult to distinguish from the non-living elements of the environment and other sessile organisms. The overall effect is that the coral appears to be a natural, indistinguishable part of the seafloor rather than a distinct organism."
+}

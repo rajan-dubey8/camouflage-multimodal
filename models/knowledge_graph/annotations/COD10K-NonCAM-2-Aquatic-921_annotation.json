@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of an aquarium environment with multi-colored gravel (predominantly light brown, beige, and gray pebbles) covering the bottom. On the left, there is a dark brown/black artificial rock formation with a rugged texture. Artificial vibrant green aquatic plants are visible in the mid-ground and background. A light blue object, likely an air pump or decoration, is blurry in the far background. The water is clear, providing visibility of all elements.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The goldfish is a vibrant orange color, which stands out significantly against the predominantly muted tones of the aquarium background, including light brown/beige gravel, dark brown/black rock, and green artificial plants. There is no attempt at color blending, mimicry, or disruptive patterning. Its smooth texture also does not resemble the rough textures of the gravel or rock. The high color contrast and lack of pattern matching make the fish highly conspicuous, indicating no camouflage is present."
+}

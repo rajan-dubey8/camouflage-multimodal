@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a rough, weathered rock face. The rock exhibits a varied texture with numerous crevices, cracks, and raised bumps. Its color palette ranges from medium brown and grayish-brown to darker, almost blackish areas in shadowed recesses. Scattered across the surface are patches of white and yellow-green lichen, adding to the mottled and irregular appearance of the environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage against the rocky background. Its scales exhibit a granular, mottled pattern in shades of grey, brown, and speckled dark tones which precisely match the varied coloration and textures of the weathered rock. The base color of the lizard blends seamlessly with the dominant brown and grayish-brown hues of the rock. Furthermore, the lizard's intricate pattern mimics the irregular patches of lichen and the overall rough, uneven texture of the rock, effectively disrupting its outline and making it very difficult to discern from its surroundings. The contrast between the lizard and the background is remarkably low, contributing significantly to its successful concealment."
+}

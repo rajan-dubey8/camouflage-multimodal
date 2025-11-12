@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of vibrant green plant stalks or thick leaves, some of which display a slightly bumpy or granular texture. There are also softer, out-of-focus green elements in the deeper background, creating a natural, leafy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid demonstrates exceptional camouflage in this image. Its entire body is a vivid green, almost perfectly matching the color of the surrounding plant material, leading to a high degree of color similarity. Beyond color, the Katydid's dorsal surface and head exhibit a textured, dotted appearance that closely mimics the slightly bumpy and granular texture observed on the adjacent plant stalks. This combination of matching color and texture results in very low visual contrast between the organism and its environment, making it blend in seamlessly and extremely difficult to distinguish at a glance."
+}

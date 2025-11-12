@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Wallaby",
+  "background_description": "The background consists of an outdoor grassy area with varying shades of green, indicating both lush and drier patches of vegetation. There are some scattered brown leaves or dried plant material on the ground, and the terrain appears slightly uneven. Distant vegetation is blurred.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The wallaby exhibits camouflage primarily through color blending. Its brownish-grey fur provides a high degree of color similarity with the earthy tones of the soil, dried vegetation, and shadowed areas within the grass. While its outline is still somewhat discernible against the brighter green sections of the grass, its natural coloration significantly helps it to blend into its natural habitat, reducing its overall contrast and making it less conspicuous to predators or prey."
+}

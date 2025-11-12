@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gelada Baboons",
+  "background_description": "The background consists of a grassy plain with varying shades of green, interspersed with areas of lighter brown soil and sparse, low-lying vegetation. The texture is generally soft from the grass and small plants, with some areas appearing more dry and earthy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Gelada baboons, specifically the adult with its distinctive long, shaggy mane and a prominent red hourglass-shaped chest patch, are clearly visible against the grassy and earthy background. While their brownish-grey fur shares some earthy tones with parts of the ground, their distinct shapes, large size, and high-contrast features such as the dark faces and bright red chest patch make them stand out significantly. There is no evidence of specific camouflage mechanisms like color blending, disruptive patterns, or mimicry designed to conceal them from observation in this environment."
+}

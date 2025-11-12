@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "CrocodileFish",
+  "background_description": "The background consists of a vibrant and highly textured coral reef environment. It features a diverse array of marine life including various types of corals and sponges. Colors range from deep purples, pinks, and reds (prominent spongy coral on the right) to greens, yellows, oranges, and browns. There are also patches of lighter, granular substrate resembling sand or detritus. The textures are extremely varied, including rough, porous, bumpy, encrusting, and finely detailed surfaces, creating a very heterogeneous visual field.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Texture matching",
+  "explanation": "The CrocodileFish demonstrates exceptional camouflage against the complex reef environment. Its mottled coloration, featuring browns, greens, yellows, and white patches, perfectly blends with the diverse colors of the surrounding corals, sponges, and rocky substrate. The fish's skin is covered in intricate patterns and irregular dermal flaps and protuberances that meticulously mimic the rough, porous, and encrusting textures of the background. This combination of color, pattern, and texture matching effectively disrupts its body outline and shape, making it incredibly difficult to distinguish from the environment, showcasing a highly effective strategy for concealment."
+}

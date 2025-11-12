@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background consists of shallow, murky water with a dark, textured seabed. The water surface shows ripples and reflections, creating varying patterns of light and shadow. The seabed appears muddy or sandy with a mottled, uneven surface, and some indistinct organic material or debris. Other Stingarees are also present, partially visible and blending into the same environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Stingaree demonstrates excellent camouflage in this image. Its dark grey-brown body color closely matches the murky water and dark, mottled seabed, allowing it to blend seamlessly into the environment. The distinctive yellow-orange spots on its dorsal surface perfectly mimic the dappled light patterns created by ripples on the water's surface or small pebbles/sediment on the bottom, effectively breaking up its outline. Its flattened, disc-like shape further reduces its profile, making it difficult to distinguish from the irregular contours of the ocean floor. The combination of color blending, pattern matching, and shape disruption results in a low overall contrast with its surroundings, making the Stingaree highly inconspicuous."
+}

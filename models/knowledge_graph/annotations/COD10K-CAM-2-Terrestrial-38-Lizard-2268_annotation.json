@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a tree trunk or thick branch with deeply textured, rough bark in shades of brown and grey. There are visible cracks and irregularities in the bark. In the blurred background, other tree branches and a hint of blue sky are discernible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage against the tree bark. Its body coloration, a mix of mottled browns and greys, precisely matches the tones of the bark. Furthermore, the lizard's scaly texture mimics the rough, uneven surface of the bark, creating a strong pattern matching effect. The overall brightness and contrast of the lizard are very similar to its immediate surroundings, making it difficult to discern its outline and contributing to its blend-in effect. Its posture also keeps its body close to the bark, minimizing shadows that might reveal its form."
+}

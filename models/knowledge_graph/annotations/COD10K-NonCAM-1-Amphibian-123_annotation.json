@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a muddy, rocky ground with various small stones, pebbles, and bits of dry earth. Sparse green grass blades, fallen leaves, and small twigs are scattered among the debris, giving the ground a textured, natural appearance with colors ranging from dark browns and grays to muted greens.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The frog's bright green dorsal color and vibrant yellow throat/belly provide a high contrast against the predominantly dark brown, grey, and rocky ground. While the frog possesses coloration (green) that would typically offer camouflage in lush vegetation, in this specific environment of dry, muddy, and stony ground, it is highly conspicuous and does not blend in effectively. Both color and texture similarity between the frog and its immediate background are low, leading to a high contrast difference."
+}

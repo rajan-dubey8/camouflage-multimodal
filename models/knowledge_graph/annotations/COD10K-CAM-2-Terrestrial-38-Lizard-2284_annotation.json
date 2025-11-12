@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dense, lush green foliage with various large, shiny leaves, some appearing wet with water droplets. A dark, textured tree branch is also visible, serving as a perch for the lizard. The overall environment is a tropical, humid setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage through a combination of color blending and pattern matching. Its body is primarily a mottled green with darker brown/black patterns, allowing it to seamlessly integrate with the surrounding vibrant green leaves and the dark brown tree branch. The variations in green on its skin mimic the different shades and light reflections on the leaves. The patterns on its back help to break up its outline, making it harder to discern its form against the textured background. Although its bright red eyes provide a distinct point of contrast, the overall body coloration and patterning are highly effective in concealing the lizard within its natural environment."
+}

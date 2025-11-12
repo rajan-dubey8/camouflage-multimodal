@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand dunes",
+  "background_description": "The image features extensive sand dunes, characterized by undulating ridges and troughs formed by wind, casting prominent shadows. The sand varies in color from golden yellow to deep reddish-brown, creating a rich texture across the landscape. Above the dunes, a clear, bright blue sky is visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural desert environment consisting of sand dunes under a clear sky. There are no visible organisms (animals, insects, fish, etc.) present in the frame. Therefore, no entity exhibiting camouflage can be identified, and the camouflage-related metrics are set to 'none' or '0.0' as per the rules for environmental scenes without visible organisms."
+}

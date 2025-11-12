@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Corroded anchor on ocean floor",
+  "background_description": "The background consists of clear, blue ocean water with suspended particles. The seabed is primarily light beige/tan sand, with some scattered small rocks and marine growth visible in the mid-ground and distance. The overall environment is a shallow marine ecosystem.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an underwater environment with a prominent corroded, encrusted object, likely an anchor, standing on a sandy seabed. No living organism (animal, insect, or fish) is visible attempting to camouflage. Therefore, camouflage is not present in this scene."
+}

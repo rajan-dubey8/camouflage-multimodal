@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bald Eagle",
+  "background_description": "The background consists of blurred green foliage in the upper portion, likely trees or dense shrubs, creating a dark green backdrop. The lower portion of the background is blurred bright green grass or a grassy field.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Bald Eagle's distinct features, including its bright white head and tail (not fully visible but implied by the head), dark brown body, and prominent yellow beak, create a significant contrast against the blurred green foliage and grass background. Its coloration is iconic and serves as species identification rather than camouflage for blending into this type of environment. The eagle is clearly visible and easily distinguishable from its surroundings."
+}

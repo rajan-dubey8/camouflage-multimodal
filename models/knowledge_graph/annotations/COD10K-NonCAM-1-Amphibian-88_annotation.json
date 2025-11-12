@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Shallow freshwater with a sandy and pebbly bottom, possibly with some submerged detritus or leaf litter. The water depth appears minimal, consistent with an amphibian's typical habitat near the water's edge.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A toad, identifiable as an amphibian with mottled brown and black bumpy skin, is clearly visible. Its earthy tones and texture offer some natural resemblance to a typical aquatic-adjacent substrate. According to the problem context, camouflage is considered absent for this dataset."
+}

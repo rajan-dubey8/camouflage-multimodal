@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "White-spotted Pufferfish",
+  "background_description": "The background consists of a dark, uneven seabed or rock formation covered in mottled dark red and purple encrusting organisms, possibly sponges or algae. There are also darker crevices and some faint green patches, with a sea urchin visible on the far left.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a White-spotted Pufferfish with a distinctive pattern of bright white dots on a dark body. This pattern contrasts sharply with the dark, mottled red and purple background, making the fish highly visible. There is no evidence of the fish attempting to blend in with its surroundings."
+}

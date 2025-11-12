@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Stink bug nymph",
+  "background_description": "The insect is resting on a vibrant green plant stem covered in small white bristles. A human finger with visible skin texture is partially visible on the left, supporting the stem. The background behind the finger and stem is out of focus and appears light gray.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The insect, a stink bug nymph, displays camouflage through a combination of cryptic coloration and disruptive patterns. Its body is mottled dark green, grey, and black, which provides some color blending with varied plant environments. The distinct black markings on its back serve as a disruptive pattern, breaking up its body outline. However, against the very bright and uniform green stem it is currently resting on, these features provide only partial concealment. The dark colors and the yellowish-orange border create a medium contrast with the bright background, making the insect moderately visible despite its inherent camouflage characteristics."
+}

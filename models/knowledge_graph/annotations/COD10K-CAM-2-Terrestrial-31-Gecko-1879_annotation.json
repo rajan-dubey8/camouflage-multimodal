@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background is composed of a dense arrangement of dried, decaying plant material, predominantly large leaves or fibrous sheaths, likely from a banana plant. The colors vary from light tan and beige to rich browns and reddish-browns, with areas of darker tones and subtle greys. The textures are rough, creased, and fibrous, showing signs of brittle edges and natural wear, creating a highly irregular and complex pattern of folds, ridges, and shadows. A lighter, greyish, mottled surface is visible on the far left.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Gecko in this image exhibits an exceptional degree of camouflage. Its coloration perfectly matches the various shades of brown, tan, and reddish-brown found in the dried plant material, making color blending highly effective. The intricate, mottled pattern on its skin precisely mimics the fibrous textures, cracks, and varied surfaces of the decaying leaves, contributing significantly to pattern matching. Furthermore, the Gecko's body shape, particularly its flattened form and leaf-like tail, effectively disrupts its outline, making it appear like just another piece of plant debris. The combination of these factors results in an almost seamless integration with its environment, making it extremely difficult to distinguish the organism from the background."
+}

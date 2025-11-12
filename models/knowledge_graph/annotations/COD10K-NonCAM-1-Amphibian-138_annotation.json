@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Leopard Frog",
+  "background_description": "The background consists of dark, damp soil with scattered dry brown leaves and sparse blades of green grass. The lighting is dappled, creating various shades of light and shadow that contribute to a mottled, uneven appearance on the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The leopard frog exhibits strong camouflage primarily through disruptive patterning and color blending. Its skin features a combination of olive-green, various shades of brown, and prominent dark, irregular spots. These colors and patterns closely mimic the mottled appearance of its environment, which includes damp soil, dried leaves, and green vegetation. The dark spots break up the frog's outline, making it difficult for predators to discern its form against the similarly textured and varied background of shadows and debris. While its smooth skin texture differs slightly from the granular soil, the overall visual effect of color and pattern successfully hides the amphibian."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of dark, fine gravel at the bottom of the aquarium, and a blurry dark blue-green water column with subtle hints of darker green aquatic plants in the distance. The overall lighting is dim, making the background appear muted and dark.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The goldfish, with its vibrant orange body and prominent white fins, starkly contrasts with the dark gravel and blurry dark green/blue background of the aquarium. Its bright coloration makes it highly conspicuous and easily visible against its surroundings, indicating no attempt at camouflage. Goldfish are typically bred for their striking appearance, which is antithetical to natural camouflage in this type of environment."
+}

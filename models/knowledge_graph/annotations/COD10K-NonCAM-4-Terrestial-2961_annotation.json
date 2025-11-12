@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tabby cat",
+  "background_description": "The cat is resting on the ground, with a blurred background of green foliage in the upper half and darker, shadowed ground with dry grass, twigs, and a light-colored, porous rock in the lower half. The scene is lit by direct sunlight creating strong contrasts between lit and shadowed areas.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The tabby cat's fur exhibits a disruptive pattern of dark stripes on a base of browns and tans. This pattern serves as natural camouflage by breaking up the cat's silhouette, making it harder to distinguish against the complex textures and variable light and shadow of its environment, such as dry grass, soil, and rocks. Although the cat is illuminated by direct sunlight, enhancing its visibility, its inherent coloration and stripe patterns are adapted for blending into natural surroundings, aligning with the earthy tones and mottled appearance of the background."
+}

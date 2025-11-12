@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull",
+  "background_description": "The background consists of a weathered wooden dock with white handrails on the left. The dock has a green, algae-covered top surface and a dark brown, rusty front fascia below it, with blue barrels visible underneath. The water below the dock is dark and rippled, reflecting the structures above. The distant background above the dock is a hazy, dark grey expanse, likely the surface of a body of water or a distant shore.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seagull's predominantly white plumage contrasts sharply with the dark, weathered wooden dock and the murky, dark water background. Its smooth feathered texture is distinctly different from the rough wood and rippled water. The bird is clearly visible and does not exhibit any form of color blending, mimicry, or disruptive patterning to conceal itself in this environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Moose",
+  "background_description": "The background features a light grey gravel road that extends into the distance on the right side of the image. On the left, there is a dense mass of green bushes with numerous small leaves and thin branches. In the foreground, below the moose, are patches of light green grass and some dandelions. The overall lighting is natural and diffuse, suggesting an outdoor, possibly overcast, daytime setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The moose is not camouflaged in this image. Its large, dark brown body creates a strong visual contrast against the light grey gravel road and the vibrant green foliage of the bush and grass. Neither its coloration nor its texture blends with the immediate surroundings. The animal is easily distinguishable from its background, indicating an absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists primarily of a wide expanse of dry, yellowish-brown and golden-brown grass, forming a textured field in the foreground and midground. The grass appears somewhat dense with individual blades visible. Above a clear horizon line, the sky is a uniform, dull grey, suggesting an overcast day. To the far left, out of focus, are the bare, dark silhouettes of trees against the grey sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit's fur exhibits a reddish-brown/orange-brown coloration that provides excellent color matching with the dry, golden-brown tones of the surrounding grass. This high color similarity allows the rabbit to blend seamlessly into the field. The texture of its fur, while distinct from individual grass blades, also contributes to the overall visual blending with the textured environment, reducing its prominence. The contrast between the rabbit's main body and the grass is low, meaning its outline is not sharply defined. Although its form is still discernible due to its shape and the slight contrast from its ears and the white patch on its tail, the dominant effect is one of effective camouflage through color and texture blending with its immediate surroundings."
+}

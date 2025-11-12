@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a robust, rough-textured brown tree branch that runs diagonally across the image. Surrounding the branch and the lizard are numerous small, green, pinnate leaves, some in sharp focus in the foreground and midground, while others are softly blurred. Behind the foliage and branch, a large area of bright, out-of-focus yellow light or flora is visible, creating a vibrant, yet soft, backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Lizard displays excellent camouflage against the tree branch it is perched on. Its body color, a mottled blend of brownish-grey with intricate darker speckles, remarkably matches the reddish-brown tones of the bark. The rough, scaly texture of the lizard's skin also closely mimics the coarse, furrowed texture of the tree bark, making it difficult to discern the creature's outline. The patterns on its body help break up its shape, further integrating it with the natural variations of the branch. The contrast between the lizard and its immediate support (the branch) is low, which significantly contributes to its effective concealment, despite the more vibrant green and yellow elements in the broader background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dry forest floor or bushland environment. It features sandy-loam soil mixed with dark organic matter, small pebbles, and numerous dried eucalyptus leaves in various shades of beige, light grey, and reddish-brown. There are also small twigs and a larger piece of white, weathered wood, contributing to a highly textured and varied ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard is exceptionally well camouflaged. Its dorsal coloration is a mottled mix of dark brown, grey, and lighter flecks, which perfectly matches the sandy soil, dark organic debris, and the dried leaves and twigs in its immediate environment. The granular texture of its skin further enhances this by mimicking the rough surfaces of the ground. The irregular pattern on its body effectively disrupts its outline, making it blend seamlessly with the scattered debris and varied tones of the forest floor, making it difficult to spot at first glance."
+}

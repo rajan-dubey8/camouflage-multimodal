@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a shallow water body, likely a pond or stream, densely covered with green and brownish-green aquatic vegetation, including floating leaves, submerged plant matter, and algae. The water surface is rippled and reflects sunlight, creating varying patches of light and shadow, and a complex, mottled texture. The colors range from bright lime green to dark olive green and brown, with some darker areas indicating deeper water or shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog is exceptionally well camouflaged in this image due to a strong combination of color blending and pattern matching. Its skin displays a vibrant green base with irregular darker olive-green mottling and spots, which perfectly mirrors the diverse shades of green, brown, and texture of the surrounding aquatic vegetation and decaying leaves. The mottled patterns on its back effectively break up the frog's outline, making it difficult to distinguish its form from the irregular shapes and textures of the floating debris and rippled water. This low contrast and high color similarity allow the frog to seamlessly blend into its environment, making it almost invisible to a casual observer, despite the visible eye."
+}

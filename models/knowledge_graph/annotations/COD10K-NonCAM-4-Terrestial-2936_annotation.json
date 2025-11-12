@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Husky dog",
+  "background_description": "Blurred natural outdoor environment with green foliage, brown tree trunks, and some dry leaves on the ground. The lighting suggests late afternoon sun.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Husky dog is clearly visible against the blurry background of green foliage and brown tree trunks. Its distinct white, grey, and black fur patterns, along with its bright blue eyes, stand out significantly from the background's colors and textures. There is a high contrast difference between the dog and its surroundings, indicating no camouflage is present in this specific environment."
+}

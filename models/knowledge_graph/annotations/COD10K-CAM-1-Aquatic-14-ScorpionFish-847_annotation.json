@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background consists of a complex underwater rocky reef ecosystem, densely covered with various encrusting organisms, corals, and algae. The textures are rough, lumpy, and granular, with visible coral polyps, fine wispy algal growth, and darker detritus. Colors include a rich palette of dark reddish-browns, deep greens, mottled greys, and some lighter sandy patches, creating a highly textured and varied environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The ScorpionFish exhibits outstanding camouflage, blending almost seamlessly with its intricate reef environment. Its body coloration, a mottled array of reddish-browns, dark greys, and patches of white, perfectly matches the hues of the surrounding rocks, corals, and algae. Crucially, its highly irregular, warty, and spiny body texture precisely mimics the rough, encrusted, and uneven surfaces of the reef, making it incredibly difficult to distinguish its form. This combination of color blending, detailed pattern matching, and an extremely disruptive body shape effectively breaks up its silhouette and eliminates any significant contrast with the background, allowing it to remain virtually invisible to observers, predators, and prey alike. The only feature that provides a slight hint of its presence is its distinctly visible eye, but the rest of its body is exceptionally well-hidden."
+}

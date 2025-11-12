@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dense layer of dry, earthy-toned plant detritus, including small twigs, dried leaves, and loose soil. The colors range from dark browns and greys to lighter tans, with a variety of rough textures and irregular shapes. There are also some subtle shadows contributing to the depth of the environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Grasshopper displays excellent camouflage in this image. Its body, wings, and legs are a mottled mix of browns, tans, and greys that precisely match the colors of the dry leaves, twigs, and soil in its environment. The textured exoskeleton and intricate patterns on its wings also closely mimic the rough textures and venation found in the surrounding plant detritus. This strong color and pattern similarity, combined with a very low contrast difference, makes the grasshopper exceptionally difficult to distinguish from its background, effectively hiding it from potential predators."
+}

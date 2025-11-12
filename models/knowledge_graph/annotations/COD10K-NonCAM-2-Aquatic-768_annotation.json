@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The aquatic environment features a large cluster of vibrant pinkish-orange anemone tentacles in the upper and mid-background. Below them, there is a dense growth of brownish-yellow filamentous algae or small polyps. The water appears clear with a bluish-green hue, suggesting a healthy reef or aquarium setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Clownfish, identifiable by its bright orange body with distinct white stripes outlined in black. Its vibrant coloration provides a strong contrast against the pinkish-orange anemone and the brownish-yellow algal growth in the background, making it stand out prominently. Therefore, no camouflage is present."
+}

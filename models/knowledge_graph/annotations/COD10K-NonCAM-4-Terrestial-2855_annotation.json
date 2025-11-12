@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Spotted pig",
+  "background_description": "A rustic wooden fence, composed of light brown vertical planks and two horizontal rails, stands in the background. The ground is covered with dark, earthy soil and mulch, interspersed with small patches of green vegetation and scattered dry leaves.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The pig, a statue, is painted with a distinct black body and prominent white spots. This coloration creates a high contrast against the natural browns of the wooden fence and the dark, earthy tones of the ground. The smooth, somewhat glossy texture of the statue also sharply contrasts with the rough, grainy texture of the wood and the granular soil. There is no blending of colors or textures with the environment, making the pig highly visible and not camouflaged."
+}

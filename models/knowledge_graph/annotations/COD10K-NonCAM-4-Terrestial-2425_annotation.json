@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sable Antelope",
+  "background_description": "The background consists of dry, golden-brown and light tan grasses and sparse shrubs, indicative of a savanna or grassland environment. In the mid-distance, there are soft green-brown hills with some foliage. The sky above is bright and partly cloudy with distant, hazy mountains or large clouds on the horizon.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Sable Antelope has a predominantly very dark, almost black coat with striking white markings on its face, belly, and rump. This coloration stands in high contrast against the light, dry golden-brown grasses and sparse, lighter-toned shrubs of the background. The dark body creates a strong silhouette, making the animal highly visible against the lighter environment. Therefore, it exhibits very low color and texture similarity with its immediate surroundings, indicating no effective camouflage in this scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of dried organic material, likely a large, folded brown leaf or tree bark, with a rough, textured surface. The colors are predominantly earthy tones, including various shades of brown, muted gray, and some yellowish-tan, indicating decomposition. There are visible veins, creases, and fibrous textures, along with faint wisps of spider silk creating a subtle, intricate pattern. Deep shadows and highlights contribute to the uneven, three-dimensional quality of the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The spider exhibits exceptional camouflage. Its body coloration, a complex pattern of mottled browns, grays, and tans, perfectly matches the hues of the dried leaf or bark it is resting on. The texture of its integument, with its irregular bumps and fine hairs, mimics the rough, fibrous, and somewhat brittle surface of the organic background. The spider's irregular body shape, especially its abdomen, is also highly effective in disrupting its outline, making it difficult to distinguish from the surrounding debris. Furthermore, its placement within the folds and crevices of the leaf/bark utilizes shadow hiding to enhance its blending. The low contrast difference between the spider and its environment makes it very difficult to detect, indicating a highly successful crypsis."
+}

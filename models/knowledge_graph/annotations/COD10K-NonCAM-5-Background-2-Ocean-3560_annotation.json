@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy coastal landscape with mountains",
+  "background_description": "The scene features a wide expanse of choppy, dark grey-green water (likely a bay or sea) in the midground, bordered by a concrete promenade and dark grey rocks in the foreground. In the background, distant, rugged mountains are partially obscured by dense, low-hanging clouds or fog. The sky above is entirely overcast, dominated by various shades of light grey clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural coastal environment, including a body of water, mountains, and an overcast sky. While two small birds are visible in the sky, they are not the main subject and appear as dark silhouettes against the lighter grey sky, indicating no attempt at camouflage. An orange buoy in the water is also highly conspicuous due to its bright, contrasting color against the dark water, designed for visibility rather than concealment. Therefore, no camouflage is present within this scene."
+}

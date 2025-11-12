@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of the rough, fissured bark of a tree, predominantly grey and brown in color, with some areas showing green or yellowish lichen/moss. The owl is nestled within a deep, circular cavity or knot in the tree, which has concentric rings and varied textures. A few dry, brown leaves are visible hanging from a branch above the cavity.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The owl exhibits excellent camouflage, blending seamlessly with the tree bark and the cavity it resides in. Its plumage features a mottled grey-brown coloration with intricate streaks and flecks that perfectly match the varied tones and rough, fissured texture of the surrounding tree bark and the concentric rings of the knot. This allows its body and head to become almost indistinguishable from the environment, making it incredibly difficult to spot. The position within the dark cavity also contributes to shadow hiding, further obscuring its shape. The only elements that noticeably break the camouflage are its bright, piercing yellow eyes, which stand out against the otherwise perfectly integrated form."
+}

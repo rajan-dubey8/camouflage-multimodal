@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense forest undergrowth, featuring a variety of green foliage, including broad leaves and intricate fern fronds. Numerous intertwining brown branches and thin vines are visible throughout, along with a large, fallen log with rough, textured bark and some moss in the upper right quadrant. The overall lighting is somewhat subdued, creating a natural, dappled forest environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's vibrant blue coloration with darker borders and bright blue spots creates a stark contrast against the predominantly green leaves and brown branches of its forest environment. Its distinct shape and striking color pattern make it highly visible and easily discernible from the surrounding foliage, indicating it is not camouflaged. There is no blending of color, pattern, or texture with the background."
+}

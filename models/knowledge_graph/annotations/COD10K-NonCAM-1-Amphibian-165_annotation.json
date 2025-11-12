@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Froglet",
+  "background_description": "The immediate background is a human hand holding the froglet. Beyond the hand, the environment is a blurred mix of dark, damp soil and sparse green vegetation, suggesting a moist, natural terrestrial area typically found adjacent to freshwater bodies. While an explicit aquatic environment such as a pond or stream is not directly visible in the immediate frame, the natural habitat for this amphibian would be shallow freshwater with aquatic plants and muddy or vegetated banks.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a small froglet with a visible tail, indicating a stage of development from tadpole to frog. It is being held in a human hand, which serves as its immediate background. The froglet's mottled green and brown skin contrasts clearly with the lighter, smoother texture of the human hand, making it stand out. There is no camouflage present as the animal is not attempting to blend with its immediate surroundings, nor is it in its natural habitat to demonstrate such a feature."
+}

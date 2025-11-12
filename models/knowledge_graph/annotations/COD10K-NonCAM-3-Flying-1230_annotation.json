@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Ostrich",
+  "background_description": "The background consists of a sunlit grassy field with varying shades of green and dried yellow grass, indicating a natural outdoor environment. The grass appears somewhat sparse in areas, showing hints of drier earth.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features an ostrich with a predominantly dark-feathered body, a long grey neck, and grey legs, standing against a bright green and yellow grassy background. The ostrich's dark coloration, distinct silhouette, and lack of patterns that mimic the grass lead to a high contrast difference with its surroundings. Therefore, no camouflage is present; the ostrich is clearly visible and stands out against the environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background features dark grey and blue-grey rocky walls with visible strata and some white mineral streaks. The foreground consists of light-colored pebbles and dry organic debris on the ground, with a shallow pool of greenish-brown water and larger grey rocks scattered around.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The otter's dark brown fur and lighter chest, while its natural coloration, do not provide effective camouflage against the varied background of dark rocky walls, light pebbles, and water. Its distinct form, upright posture, and the absence of specific patterns or colors that blend with the immediate surroundings make it highly visible. There is no evidence of active camouflage or an attempt to disappear into this particular environment."
+}

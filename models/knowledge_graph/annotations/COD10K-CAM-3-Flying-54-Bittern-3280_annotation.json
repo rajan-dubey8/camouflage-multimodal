@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists primarily of dense, tangled dry brown grasses and straw, interspersed with some sparse green shoots. The ground beneath appears to be dark soil. The overall texture is irregular, linear, and visually noisy, typical of a field with dead vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern in this image displays exceptional camouflage. Its plumage is a complex mosaic of browns, greys, and blackish flecks, which perfectly matches the varying hues of the dry, tangled grass and straw surrounding it. The streaky and mottled patterns on its feathers mimic the linear and irregular textures of the vegetation, making its form difficult to distinguish from the background clutter. Additionally, the bird is hunkered down, which disrupts its typical bird shape and silhouette, further reducing its contrast and allowing it to blend seamlessly into the environment. The combination of color, pattern, and posture makes the Bittern extremely difficult to spot."
+}

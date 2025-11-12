@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists primarily of a large, textured dark grey-brown rock on which the Gecko is resting. The rock has irregular surfaces, some lighter sandy patches, and faint mossy or lichen-like textures. Surrounding the rock is dry, light brown soil or sand, interspersed with small pebbles, sparse dry grass, and shadows, indicating an arid or semi-arid environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Gecko in this image is highly camouflaged due to its remarkable resemblance to the rock and earth it is situated upon. Its dorsal coloration features a mottled pattern of grey, various shades of brown, and off-white speckles, which almost perfectly matches the irregular hues and patchy textures of the large rock. The rough, scaled texture of the Gecko's skin further mimics the rugged surface of the stone. This high degree of color and texture similarity, combined with the pattern matching, results in a low contrast difference between the organism and its environment. This effectively breaks up the Gecko's outline, making it very difficult to distinguish from the natural background, thereby providing excellent concealment."
+}

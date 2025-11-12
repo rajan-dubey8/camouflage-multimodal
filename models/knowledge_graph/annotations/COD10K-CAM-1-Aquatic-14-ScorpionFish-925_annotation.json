@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background consists of a cluttered underwater environment, primarily a seabed made up of coarse sand, various sizes of rocks, and what appears to be encrusted coral or sponges. The textures are rough, irregular, and granular. Colors are predominantly muted tones of grey, brown, off-white, with some darker crevices and hints of reddish-pink and purple sponge-like growth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The ScorpionFish demonstrates excellent camouflage in this image. Its body coloration, a mottled pattern of greys, browns, and off-whites, almost perfectly matches the sandy, rocky, and encrusted coral/sponge substrate. The fish's rough, bumpy texture, along with its numerous dermal flaps, spines, and irregular outline, mimics the uneven surfaces and debris of its environment. This high degree of texture similarity and shape disruption makes it extremely difficult to distinguish the fish from the background. The low contrast difference between the organism and its surroundings further enhances its concealment. The only prominent feature is its dark blue eye, which is relatively small compared to its camouflaged body."
+}

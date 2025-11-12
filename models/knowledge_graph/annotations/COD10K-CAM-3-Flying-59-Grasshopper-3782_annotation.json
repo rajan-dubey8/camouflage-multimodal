@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a forest floor covered in an abundance of dried leaves, twigs, and dark soil. The leaves vary in shades of brown, tan, and faded green, appearing crinkled and decaying. Some small sticks and debris are also present. The background is somewhat out of focus, emphasizing the foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The grasshopper exhibits exceptional camouflage, specifically a form of mimicry where its body perfectly imitates a dried, crumpled leaf. Its coloration is a consistent dull brown/tan, almost identical to the surrounding leaf litter. The texture of its exoskeleton has prominent 'veins' and ridges that closely resemble the structure of a decaying leaf. Its overall shape is also highly irregular, breaking up any discernible insect outline and making it blend seamlessly with the irregular shapes of the natural debris. The contrast between the grasshopper and its immediate environment is extremely low, making it very difficult to spot at first glance. It is almost indistinguishable from the background elements, achieving near-perfect concealment."
+}

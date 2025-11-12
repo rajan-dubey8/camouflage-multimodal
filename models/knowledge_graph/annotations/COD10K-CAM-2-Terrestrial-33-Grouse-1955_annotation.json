@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Grouse",
+  "background_description": "The background consists of a dense scattering of dry, golden-brown grasses and patches of darker, reddish-brown heather or low-lying shrubs. The ground appears uneven with various tufts of vegetation, casting small shadows and creating a textured, natural environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Grouse exhibits excellent camouflage in this image. Its plumage features a complex pattern of mottled browns, tans, and dark speckles that perfectly mimics the colors and textures of the dry golden grass and darker heather in the background. The intricate feather patterns break up the bird's outline, making it difficult to distinguish from the surrounding vegetation. There is very low contrast between the bird's body and its immediate environment, and its coloration blends seamlessly with the earth tones and dried plant matter, making it highly effective at avoiding detection."
+}

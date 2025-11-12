@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of dense, vibrant green foliage. Various leaves with serrated and smooth edges are present, showing different shades of green from bright, well-lit areas to darker, shadowed regions deeper within the plant growth. Some fine stems and hints of brownish plant matter are visible in the less illuminated parts of the background. The overall environment is lush and leafy.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Grasshopper exhibits effective camouflage primarily through color blending. Its bright green body perfectly matches the hue and saturation of the surrounding leaves, making it very difficult to distinguish from the foliage at first glance. The contrast between the grasshopper's body and the immediate background leaves is low, further aiding its concealment. While its texture is smoother than some of the veined leaves, it doesn't stand out disruptively. Its position nestled among the leaves also helps to break up its overall outline, allowing it to blend seamlessly into the leafy environment."
+}

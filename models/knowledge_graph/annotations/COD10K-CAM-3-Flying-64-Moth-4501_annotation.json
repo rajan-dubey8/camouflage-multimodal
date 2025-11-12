@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a rough, textured rock surface. It features a mottled grey base color with patches of lighter off-white/grey lichen, darker grey/black mineral deposits, and subtle hints of brownish-yellow tones in the crevices and upper rock slab. The overall texture is granular and irregular, with visible cracks and variations in surface coating.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth exhibits excellent camouflage against the rocky background. Its wings display a mottled pattern of various shades of brown, grey, and black, which perfectly matches the variegated colors and textures of the lichen-covered rock surface. The speckles and lines on its wings mimic the granular and irregular surface of the rock, making it extremely difficult to distinguish the organism's outline from its surroundings. Both color and pattern provide high similarity, resulting in a low contrast difference and highly effective blending."
+}

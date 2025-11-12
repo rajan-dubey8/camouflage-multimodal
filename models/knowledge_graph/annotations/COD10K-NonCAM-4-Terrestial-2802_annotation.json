@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Jackrabbits",
+  "background_description": "The background consists of dry, golden-brown and light brown grassy terrain, indicative of a field or prairie during a dry season. The grass varies in height and density, with some areas appearing sparser and others showing clumps. There are also a few dried, spiky plant remnants visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.92",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending",
+  "explanation": "The two jackrabbits exhibit excellent camouflage through color blending. Their fur is primarily a mottled grey-brown and light brown, which very closely matches the color palette of the dry, golden-brown grass and dried vegetation in their environment. This high color similarity, combined with a texture that helps break up their outline against the varied textures of the grass, results in a low contrast difference with their surroundings. While not perfectly invisible, their coloration significantly reduces their visibility, making it harder for predators to spot them, especially when they remain still. This is a classic example of crypsis, where an organism's coloration allows it to blend seamlessly into its habitat."
+}

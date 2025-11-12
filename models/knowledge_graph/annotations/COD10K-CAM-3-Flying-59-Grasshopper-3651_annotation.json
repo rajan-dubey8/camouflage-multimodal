@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a ground covered with various sizes of grey and brownish gravel and small rocks. Growing between these rocks are patches of green weeds and grasses, some with reddish-brown stems or leaf edges, indicating a natural, somewhat unkempt environment. Shadows from the vegetation and rocks are visible, suggesting bright, direct sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper is highly camouflaged within this environment. Its body features a mix of green and brown coloration with distinctive stripes. These colors perfectly match the surrounding green foliage and the brownish-red tones present in the plant stems and some dried leaf parts. The stripes on its body act as pattern matching, mimicking the linear textures and shadows often found in plant structures, which helps to break up its outline (shape disruption). Its position amongst the dense green leaves further aids in blending, making it difficult to spot at first glance. The low contrast difference between the grasshopper and the surrounding vegetation ensures it does not stand out sharply."
+}

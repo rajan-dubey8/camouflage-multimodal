@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists primarily of a large white flower with a bright yellow center (stamens and pistil). Surrounding the flower are various green leafy plants and stems, some with finely dissected leaves, along with a few dried stalks and visible patches of reddish-brown soil. The scene is brightly lit by sunlight.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bright green 'Worm' is positioned prominently on a white flower petal. Its vibrant green coloration creates a stark, high-contrast difference against the brilliant white background of the flower, making it highly visible and easily discernible. While its green color would typically offer camouflage through color blending with green foliage, its current placement on the white flower negates this effect, causing it to stand out significantly from its immediate environment rather than blending in."
+}

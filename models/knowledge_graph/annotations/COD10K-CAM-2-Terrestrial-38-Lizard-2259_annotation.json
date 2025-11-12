@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a cluttered pile of cut wooden logs and planks, displaying various shades of brown, tan, and reddish-brown, with visible wood grain and rough bark textures. Behind the wood, there is a rough, sandy-textured wall or surface in a yellowish-tan color, with a prominent dark brown, almost rusty-looking streak running horizontally. A vertical wooden beam or post with a weathered texture is visible on the far right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The lizard is not camouflaged in this image. Its primary color is a vibrant green with some light mottling, which stands out starkly against the entirely brown, tan, and yellowish-tan background of wood and wall. There are no significant green elements in the environment for the lizard to blend with. The smooth texture of the lizard's scales also contrasts with the rough, irregular textures of the wood and the sandy wall, making its form easily discernible. The color and contrast difference are very high, causing the lizard to be highly visible."
+}

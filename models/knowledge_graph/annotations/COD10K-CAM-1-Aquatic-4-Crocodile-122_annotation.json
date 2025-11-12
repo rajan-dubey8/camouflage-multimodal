@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of dark, murky water, reflecting green and brown foliage from above, creating a shadowed and subdued environment. A prominent vertical plant stalk, partially submerged, is visible on the right, also casting reflections. The overall setting is a calm, dimly lit wetland or jungle water body.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The crocodile exhibits excellent camouflage, primarily through color blending and strategic positioning. Its dark, textured skin, a mix of olive-brown and grey-green tones, perfectly matches the dark, murky water and the reflections of the shadowed foliage. By remaining almost entirely submerged, with only its eyes and upper snout breaking the water's surface, it minimizes its visible form, effectively disrupting its shape and blending with the waterline. The rough, scaly texture of its skin further resembles the disturbed water surface or submerged organic matter. The low contrast between its visible parts and the dark, reflective environment makes it extremely difficult to detect, despite the distinct features of its eye."
+}

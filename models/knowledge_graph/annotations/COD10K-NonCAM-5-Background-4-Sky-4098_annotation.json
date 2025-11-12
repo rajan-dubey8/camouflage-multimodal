@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky at sunset",
+  "background_description": "The image features a vast sky with dynamic cloud formations. The upper portion of the sky is a mix of light blue and gray, with wispy cirrus and stratocumulus clouds. Towards the middle and lower sky, large, dark cumulus clouds dominate, some with bright, glowing edges indicating the sun is behind them, casting crepuscular rays. The lower horizon shows a warm gradient of yellow and orange, suggesting sunset or sunrise. A dark, silhouetted line of trees and land is visible against the bright horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene, primarily a cloudy sky at sunset with a silhouetted horizon. There are no visible animals, insects, or any other organisms present in the frame. Consequently, there is no subject for camouflage to be evaluated against, and no camouflage is detected."
+}

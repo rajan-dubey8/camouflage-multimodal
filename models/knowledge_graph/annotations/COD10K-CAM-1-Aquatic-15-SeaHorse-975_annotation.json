@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a complex underwater reef environment, featuring irregular rocky surfaces densely covered with various marine growth. Prominent elements include patches of dark green algae, reddish-brown encrusting organisms, and areas of lighter rock. A distinctive, light-colored, bumpy, coral-like structure winds from the foreground into the midground, contrasting with the darker reef behind it.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The SeaHorse demonstrates good camouflage through color blending with its reef environment. Its body exhibits a mottled greenish-brown coloration that closely matches the shades of the algae and rock it is positioned against. While the prominent white coral-like structure in the foreground provides some contrast, the seahorse's immediate background of darker, algae-covered rock allows it to blend effectively. Its somewhat irregular and textured body also helps it integrate with the uneven surfaces of the reef, reducing its overall contrast and making it less conspicuous despite its unique shape."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a rough, uneven ground surface made up of various small to medium-sized pebbles and rocks in shades of light grey, tan, reddish-brown, and white. There is dry soil, some sparse dried plant matter, and a few small patches of green succulent-like vegetation, particularly in the foreground and to the left. A piece of dry, cracked wood or bark is visible on the lower left.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid exhibits effective camouflage primarily through color blending. Its body features distinct green areas, which perfectly match the small patches of green vegetation present in the foreground and surrounding environment. Additionally, its dorsal side and parts of its head are colored in shades of tan and light brown, which blend remarkably well with the dry soil, dried plant debris, and the lighter-colored rocks and pebbles that make up the majority of the ground. While its distinct insect shape and antennae are still discernible, the strong color resemblance to multiple elements of its diverse environment significantly reduces its visibility and helps it blend into its surroundings. The contrast is moderate because its smooth texture does not match the rough background, and its outline is still somewhat apparent."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Camouflaged reef fish",
+  "background_description": "The background consists of a dense underwater coral reef environment. It features various types of corals, including branching corals (orange-brown), brain corals (light beige, pinkish hues), and fan-like gorgonian corals (white, light grey). The rocky substratum is irregular, covered with patches of green algae and some purple hues, creating a complex and textured backdrop with many nooks and crannies.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "A fish is present in the lower-left quadrant of the image, oriented vertically. It exhibits remarkable camouflage through mimicry. Its body coloration, which includes mottled browns, whites, and light textures, highly matches the surrounding coral and rocky structures. The fish's body shape and texture appear to mimic the irregular, bumpy, and sometimes branched nature of the coral and rocks, making it extremely difficult to distinguish from its environment. This high degree of color and texture similarity, combined with low contrast against the background, ensures it blends seamlessly, providing effective concealment from predators or prey."
+}

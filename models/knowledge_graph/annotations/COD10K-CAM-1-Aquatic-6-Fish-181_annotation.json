@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a shallow underwater environment with various sizes of rocks and pebbles, many of which are covered in a fine layer of sediment, algae, and detritus. There are also several strands of green aquatic plants (possibly seagrass or similar) sparsely scattered across the scene. The overall color palette of the background is muted greens, browns, and greys, with areas of darker shadow and lighter, sediment-covered surfaces.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage, blending almost perfectly with its environment. Its body coloration, a mottled mix of greens, browns, and greys, precisely matches the hues of the sediment-covered rocks, pebbles, and sparse aquatic vegetation. The irregular, granular texture of its skin closely mimics the rough, uneven surfaces of the surrounding substrate. The fish's flattened, somewhat irregular body shape and fins also contribute to shape disruption, making its outline difficult to distinguish from the similarly irregular background elements. The overall low contrast between the fish and its immediate surroundings further enhances its concealment, rendering it nearly invisible against the textured seabed."
+}

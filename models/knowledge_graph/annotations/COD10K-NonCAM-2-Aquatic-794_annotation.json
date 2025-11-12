@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Freshwater fish (likely Carp)",
+  "background_description": "The background consists of an aquatic environment, likely an aquarium or riverbed. It features a sandy bottom with small pebbles, various rocks (some covered in dark green algae or moss), and clumps of vibrant green aquatic plants. The water appears clear but dark greenish-blue in the deeper areas.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish in the image exhibit camouflage primarily through color blending and countershading. The main fish has a brownish-bronze coloration on its back and sides, which helps it blend with the darker water, muddy riverbed, and algae-covered rocks in its environment. Its lighter belly (countershading) helps reduce its silhouette when viewed from below against the lighter surface light. The smaller, silvery fish also blend with the lighter sandy bottom and the water column. While not perfectly invisible, their natural colors and patterns allow them to be less conspicuous against the varied textures and hues of their aquatic habitat, reducing visibility to predators and prey."
+}

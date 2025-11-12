@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The scene is dominated by a cloudy sky. The clouds are white to light grey, scattered and fluffy, with areas of light blue sky visible between them. The overall lighting is bright and diffuse.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features an airplane flying against a cloudy sky. According to the specified rules, camouflage detection is primarily focused on organisms. An airplane is a man-made object and thus is not an organism. Therefore, natural camouflage, as understood in biological contexts, is not applicable to the main subject of this image. The aircraft's light underside could be considered a form of 'counter-illumination' to reduce its contrast against the bright sky when viewed from below, but this is an engineering design choice for visibility reduction, not biological camouflage. Based on the rules, no natural camouflage is detected."
+}

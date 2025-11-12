@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "A cluster of small white flowers with prominent yellow stamens, creating a soft, textured surface. Behind the flowers, there is blurred green foliage and a thin green stem.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect, a beetle with a prominent black and orange/yellow patterned body, is highly visible against the white flowers and green background. Its coloration and distinct pattern create a high contrast, making it stand out rather than blend in. This suggests aposematic (warning) coloration instead of camouflage."
+}

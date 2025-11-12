@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Southern Lapwings",
+  "background_description": "A vibrant light green grassy field with fine texture and sparsely scattered small yellow flowers. The background appears somewhat uniform.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The two Southern Lapwings are clearly visible against the bright green grass. Their distinct plumage featuring a black chest, white belly, grey head, and brownish-grey wings creates a strong contrast with the uniform green background. There is a significant mismatch in both color and texture between the birds and their surroundings, indicating no effective camouflage in this environment."
+}

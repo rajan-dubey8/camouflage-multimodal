@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The leopard is nestled within the dense branches of a large tree. The background consists primarily of rough, gnarled tree bark with deep crevices, displaying warm brown and reddish-brown tones. Patches of green leaves are visible, casting dappled shadows across the bark and the leopard. The lighting suggests warm sunlight, creating highlights on the tree and the leopard, interspersed with significant areas of shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching / Color blending / Shadow hiding / Shape disruption",
+  "explanation": "The leopard exhibits excellent camouflage in this image. Its tawny-yellow base coat blends remarkably well with the warm, sunlit sections of the tree bark, demonstrating high color similarity. The distinctive black rosettes on its fur are highly effective at pattern matching the irregular textures, cracks, and especially the dappled shadows cast by the leaves on the tree. This disruptive coloration breaks up the leopard's outline, making its form difficult to discern against the complex background of the tree. The strategic positioning of the leopard within the shadows further enhances its camouflage through shadow hiding, as the natural interplay of light and shadow on its fur integrates seamlessly with the environmental conditions. Although its eyes are bright, the overall effect is one of strong visual blending."
+}

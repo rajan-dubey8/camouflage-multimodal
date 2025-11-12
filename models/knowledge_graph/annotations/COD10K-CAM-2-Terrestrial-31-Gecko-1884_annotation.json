@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists primarily of a tree trunk with rough, highly textured bark. The bark displays a variegated pattern of dark brown, lighter greyish-brown, and significant patches of vibrant green moss, along with lighter greyish-white lichen-like areas. The trunk surface is uneven, featuring prominent ridges, crevices, and natural indentations. Behind the trunk, the environment is a heavily blurred expanse of green and brown foliage, indicative of a dense forest or jungle setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Other",
+  "explanation": "The Gecko is exceptionally well-camouflaged against the tree trunk. Its mottled coloration, a precise mix of browns, greys, and greens, perfectly matches the variegated bark, moss, and lichen. The gecko's skin texture is highly rugose and irregular, mimicking the rough and uneven surface of the bark. Crucially, the gecko possesses irregular dermal fringes and an overall body outline that effectively disrupt its shape, making it almost indistinguishable from the natural contours and textures of the tree trunk itself. This masterful combination of color blending, pattern matching, and shape disruption renders the organism extremely difficult to detect, highlighting highly effective crypsis."
+}

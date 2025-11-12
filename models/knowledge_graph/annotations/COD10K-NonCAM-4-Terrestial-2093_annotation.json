@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown bear",
+  "background_description": "The background features a shallow, murky stream or tidal flat with exposed muddy and rocky ground. Patches of green vegetation, appearing as grasses or reeds, are visible along the edges of the water. In the more distant background, several white birds are present, seemingly standing in the water or on a distant bank. The overall lighting suggests an overcast or muted day.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The brown bear's natural coloration offers some tonal blending with the earthy, muddy ground and dark wet rocks in its environment. However, its large size, distinct silhouette, and generally uniform dark brown fur create a clear contrast against the lighter, muted green vegetation and the greyish water. While its colors are suitable for a natural habitat, it is highly visible and not exhibiting any active camouflage to conceal itself from view. There are no disruptive patterns, mimicry, or specific color adjustments to break up its form or blend into the immediate surroundings to a significant degree."
+}

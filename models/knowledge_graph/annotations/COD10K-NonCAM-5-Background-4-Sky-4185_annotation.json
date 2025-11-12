@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image depicts a vast expanse of sky filled with a mixture of cumulus and stratus clouds. Bright white, fluffy clouds are interspersed with darker grey and bluish-grey cloud formations. Patches of clear, light blue sky are visible in various areas, creating a dynamic and textured overhead environment. The overall lighting suggests daylight.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively features a cloudy sky, which is categorized as an environment. There are no visible organisms (animals, insects, or fish) present in the scene. Therefore, the concept of camouflage, which pertains to an organism blending with its surroundings, is not applicable. The scene itself is the subject, not a background for a camouflaged entity. The internal contrast of the scene is medium due to the presence of both bright white clouds and darker grey clouds against a blue sky."
+}

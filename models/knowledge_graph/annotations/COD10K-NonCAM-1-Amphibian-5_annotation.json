@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green Frog",
+  "background_description": "Lush green grass and clover with scattered dried brown leaves, indicating the immediate terrestrial surroundings of a freshwater body, possibly a pond or stream bank.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features a Green Frog (an amphibian) resting in dense green grass and clover, with a dried brown leaf partially obscuring its side. Its green and brownish coloration provides some natural blending with the surrounding vegetation and the leaf, making its color and texture moderately similar to its immediate environment. However, the frog is clearly visible and does not exhibit any active camouflage mechanisms or patterns intended for concealment, confirming 'No Camouflage'. The background suggests the bank or edge of a freshwater habitat, consistent with the frog's natural environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "European hares",
+  "background_description": "The background consists of a vast, slightly blurred field dominated by various shades of green grass, mixed with lighter, dryer straw-like patches. The grass blades are upright and densely packed, typical of a natural meadow or pasture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The European hares in the image display strong camouflage through color blending with their natural habitat. Their fur is a mottled mix of brown, tan, and greyish tones, which closely matches the varied shades of green and dry grass in the field. This high color similarity ensures they blend seamlessly with the environment, making them difficult to detect for predators. While the fur texture is distinct when viewed closely, its irregular patterning and overall appearance contribute to breaking up the hares' outlines against the similarly textured and patterned grass, resulting in a low contrast difference. The white patches on their tails, although high contrast, are often concealed when resting or used as a warning signal during flight, and do not negate the overall body camouflage."
+}

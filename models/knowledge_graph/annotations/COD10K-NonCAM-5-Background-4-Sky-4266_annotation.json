@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mountain, river, and city landscape",
+  "background_description": "The background features a large, verdant mountain covered in trees on the left, a wide body of water (river or bay) in the middle ground, and a distant city skyline on the right. The sky is a mix of bright blue and extensive white and grey clouds, ranging from wispy cirrus to more dense cumulus-like formations. The foreground consists of dark green foliage and bushes.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a vast landscape comprising a mountain, a body of water, a city, and a cloudy sky. There are no visible animals, insects, or fish present in the scene. Therefore, no camouflage is detected or applicable, as there is no organism to evaluate for camouflage."
+}

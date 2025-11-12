@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Baboons",
+  "background_description": "A dense natural environment primarily composed of tall, wild green grass with varying shades of green, some lighter yellow-brown dry blades, and darker shadowed areas suggesting ground cover and depth.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The baboons exhibit color blending camouflage. Their fur, which ranges from dusty brown to olive-grey, closely matches the earthy tones and dried elements within the green grassy environment. While the baboons are clearly discernible, their natural coloration helps them blend with the background, reducing their distinct outline and overall visibility. The coarse texture of their fur also has some similarity to the wild, uneven texture of the grass, contributing to this blending effect. This type of camouflage helps them to be less conspicuous in their natural habitat."
+}

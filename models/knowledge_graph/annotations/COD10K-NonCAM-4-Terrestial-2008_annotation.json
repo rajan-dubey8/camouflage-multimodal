@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Maned Wolf",
+  "background_description": "The background consists of a blurred, light brownish-gray earthen ground, a textured, dark brown tree trunk on the right side with a small branch of green leaves, and a rough-hewn log in the foreground on the left. The overall lighting is soft, creating some highlights and shadows on the log and tree.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.3,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Maned Wolf's reddish-brown fur offers some color similarity to the natural earthy and woody tones of the background and foreground log. However, its distinct form, crisp features, and the contrasting black markings on its legs, mane, and muzzle create a significant contrast against the blurred background and the tree trunk. The animal is clearly outlined and easily discernible in this scene, indicating that it is not effectively camouflaged despite its natural coloration providing a degree of blending in its typical savanna habitat."
+}

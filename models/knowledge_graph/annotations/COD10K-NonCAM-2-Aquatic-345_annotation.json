@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sergeant Major Damselfish",
+  "background_description": "The background consists of clear, blue ocean water with sunlight dappling and reflections visible on the surface. Below the fish, a coral reef or rocky seabed with various corals and greenish-brown algae is visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays several Sergeant Major Damselfish, identified by their prominent black and yellow/white vertical stripes. These bold patterns create a high contrast against the blue water and the textured coral reef, indicating a clear absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of highly textured tree bark or decaying wood debris. It features a rough, uneven surface with deep crevices, cracks, and fragmented pieces. The dominant colors are various shades of brown, ranging from dark, rich browns to lighter sandy or reddish-brown tones, interspersed with patches of light grey or white, possibly lichen or dried sap, and dark shadows within the depressions.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Katydid exhibits remarkable camouflage, blending almost seamlessly with its environment. Its body features a complex pattern of mottled browns, greys, and darker markings that precisely match the varied color palette of the tree bark and wood debris. The texture of its exoskeleton and wings mimics the rough, fragmented surface of the bark. The patterns on its body also serve to disrupt its outline, preventing it from forming a distinct silhouette against the background. This combination of color blending, intricate pattern matching, and shape disruption results in a very low contrast difference, making the Katydid extremely difficult to spot at first glance."
+}

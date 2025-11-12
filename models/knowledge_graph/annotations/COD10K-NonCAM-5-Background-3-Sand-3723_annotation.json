@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastal seascape",
+  "background_description": "The scene features rugged, dark grey and brown stratified rock formations along a coastline, partially covered with some green moss or algae in places. The rocks meet a calm, deep blue ocean surface, smoothed by a long exposure photographic effect, creating a misty, ethereal appearance around the submerged and partially submerged rocks. The water ranges from a deeper blue further out to a lighter, more greenish-blue near the shore and where it interacts with the rocks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible in the image. The image exclusively depicts a natural environment of a rocky coastline and the ocean. Therefore, there is no camouflage present."
+}

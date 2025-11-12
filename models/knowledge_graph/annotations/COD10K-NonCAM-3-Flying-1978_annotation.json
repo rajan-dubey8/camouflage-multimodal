@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Rainbow Lorikeet",
+  "background_description": "The background consists of blurred green foliage, likely trees or bushes, creating numerous bright bokeh circles from natural light. In the foreground, a distressed white painted metal railing with visible peeling paint provides a perch for the bird.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Rainbow Lorikeet exhibits exceptionally vibrant and contrasting colors, including bright green, orange, blue, and purple plumage, along with a prominent red beak. These vivid hues make the bird highly conspicuous against both the blurred green foliage background and the white painted railing. Its striking coloration is designed for display rather than concealment, resulting in a very high contrast and no effective blending with its environment. Therefore, no camouflage is present."
+}

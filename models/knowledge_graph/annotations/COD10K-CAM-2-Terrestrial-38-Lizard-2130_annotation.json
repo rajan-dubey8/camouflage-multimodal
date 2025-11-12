@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of two main elements: a piece of dry, weathered, and deeply cracked wooden log in the foreground and mid-ground, and a rough, granular, possibly rocky or dried earth surface behind it. The wood displays prominent grain and fissures, predominantly in shades of dark grey-brown and lighter tan. The material behind the wood is a warmer, reddish-brown to orange-brown, with a very coarse, uneven, and porous texture, suggesting either sand-blasted rock or highly textured soil, illuminated in a way that creates a warm glow in certain areas.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage against its environment. Its skin coloration, a mottled dark grey-brown with lighter speckles and bumps, closely matches the color and tone of the weathered wooden log it is resting on. Furthermore, the highly textured, bumpy, and irregular surface of the lizard's skin remarkably mimics the rough, cracked, and granular textures of both the wood and the rocky/sandy background. This strong pattern and texture matching, combined with very little contrast difference between the organism and its immediate surroundings, makes the lizard blend seamlessly. The overall effect creates a visual disruption of its outline, making it difficult to discern from the natural environment."
+}

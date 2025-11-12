@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk",
+  "background_description": "The background consists of a gently sloped hillside covered in dry, golden-brown tall grass and sparse patches of darker, scrubby vegetation, typical of a semi-arid or winter grassland environment. The texture is dominated by the fine, vertical strands of grass.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The elk's fur exhibits a significant degree of color blending with its environment. Its body is primarily a reddish-brown to tan color, which closely matches the predominant golden-brown hues of the dry grass covering the hillside. The darker mane and legs also blend with the shadows and more earthy tones present in the background vegetation. This strong color similarity, coupled with a relatively low contrast difference between the animal and its surroundings, makes it less conspicuous, aiding in camouflage within its natural habitat."
+}

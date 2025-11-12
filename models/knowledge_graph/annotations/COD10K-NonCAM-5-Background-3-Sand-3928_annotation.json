@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky ground",
+  "background_description": "The image displays a close-up of a ground surface covered with a mix of gravel and various sizes of angular and rounded rocks. The gravel consists of small, irregular pebbles in shades of light brown, grey, and reddish-brown. Larger rocks are predominantly off-white, light grey, and translucent quartz-like material, with some having darker grey veins or patches, and others exhibiting warmer, sandy tones. There are clear shadows indicating direct sunlight, enhancing the texture and depth of the rocky terrain.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, whether animal, insect, or fish, is visible within the image. The scene exclusively depicts an environmental landscape composed of rocks and gravel. Therefore, camouflage presence cannot be assessed, and it is explicitly marked as 'No Camouflage'."
+}

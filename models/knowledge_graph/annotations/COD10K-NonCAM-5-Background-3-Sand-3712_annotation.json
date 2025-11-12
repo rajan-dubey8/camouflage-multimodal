@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal dune landscape at sunset",
+  "background_description": "The foreground features a series of light-colored sand dunes, prominently displaying intricate ripple patterns created by wind, with soft shadows accentuating their texture. Sparse tufts of green dune grass are visible on the crests and sides of the dunes. Beyond the dunes, a flat sandy beach extends to the calm blue ocean, where gentle waves can be seen. In the distance, several dark, rolling hills or mountains rise, silhouetted against a gradient sky that transitions from clear blue overhead to warm, soft yellow and orange hues near the horizon, suggesting either sunrise or sunset.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organisms (animals, insects, or fish) are visible in the image. The scene exclusively depicts a natural environment comprising sand dunes, grass, ocean, and distant hills under a sunset sky. Therefore, camouflage presence cannot be assessed."
+}

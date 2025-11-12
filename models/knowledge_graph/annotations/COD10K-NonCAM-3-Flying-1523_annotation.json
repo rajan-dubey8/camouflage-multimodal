@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bulbul",
+  "background_description": "The background consists of a dark brown, textured tree branch on which the bird is perched, along with a few dark green leaves below. The distant background is largely blurred, showing warm earthy tones of brown and muted orange, fading into a lighter, slightly cooler greyish-blue tone at the very top. The overall lighting suggests a natural outdoor setting, possibly with diffused sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits camouflage primarily through color blending. Its plumage is predominantly shades of brown and beige, which closely match the warm, earthy tones of the tree branch and the blurred background. This allows the bird to blend into its natural woodland or garden habitat, making it less conspicuous to predators and prey. While the bright yellow patch on its vent provides a slight contrast, and the feather texture differs from the rough bark of the branch, the overall effect of its dominant coloration provides effective concealment in this environment. The distinct outline and the contrast in some areas prevent it from being perfectly camouflaged, resulting in a medium camouflage score."
+}

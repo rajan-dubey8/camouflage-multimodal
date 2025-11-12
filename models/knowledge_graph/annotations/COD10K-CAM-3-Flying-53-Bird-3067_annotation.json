@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of a rocky outcrop or cliff face. The rocks are rough, irregular, and vary in color from dark grey to reddish-brown, often covered with patches of lighter grey and white lichen. Tufts of green and dried grass grow between the rock crevices and along the top edge, where numerous small yellow flowers are also visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The bird, identified as an Oystercatcher, exhibits a striking black and white plumage with a prominent bright orange-red beak and pinkish legs. These distinct colors create a high contrast against the muted tones of the rocky and grassy background, which primarily features shades of grey, brown, green, and small yellow flowers. The bird's smooth feathery texture also does not blend with the rough, craggy texture of the rocks or the fine blades of grass. Its distinct shape and coloration make it clearly visible and easily identifiable against the natural environment, indicating a lack of camouflage in this specific setting."
+}

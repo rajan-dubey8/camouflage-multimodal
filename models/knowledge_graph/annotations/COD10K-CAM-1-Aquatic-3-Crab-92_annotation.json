@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of an underwater environment, likely a rocky seafloor or reef, heavily covered with various types of marine algae and detritus. The dominant colors are reddish-brown, yellowish-green, and dark green, creating a complex, textured tapestry of plant-like structures. Some areas show a clearer substrate, but most are overgrown with fuzzy, branching, and stringy forms of algae.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The crab in this image exhibits exceptional camouflage. Its body and legs are almost entirely covered with marine detritus, algae, and possibly hydroids, which perfectly mimic the surrounding environment. The coloration of the material on the crab, primarily light green and yellowish-brown, blends seamlessly with the similarly colored algae patches in the background. The texture of the crab's covering is also highly similar to the fuzzy and intricate textures of the surrounding marine growth, making it very difficult to distinguish its form. This active 'decoration' strategy effectively disrupts the crab's natural outline and creates very low contrast with the environment, rendering it nearly invisible to the casual observer."
+}

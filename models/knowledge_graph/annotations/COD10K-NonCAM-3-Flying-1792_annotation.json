@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The background consists of a soft, out-of-focus light blue sky at the top and blurred green foliage or distant trees in the middle, transitioning to a light brown, out-of-focus wooden fence or railing at the bottom.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Tricolored Heron in the image is clearly visible and stands out against the blurred background. Its distinct blue-gray, rufous, and white plumage, along with its prominent outline, do not blend with the light blue sky or the soft green foliage. There is a high contrast difference between the bird and its surroundings, indicating no attempt at camouflage through color blending or disruptive patterns."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a natural wetland environment with murky green-brown water reflecting the sky and surrounding vegetation. Along the bank, there is dense, mixed green foliage and brown soil/dead leaves, creating a dappled light and shadow effect. Vertical plant stems emerge from the water and grow on the bank, contributing to a visually cluttered environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Heron exhibits strong camouflage in this image. Its plumage features a mix of dark browns, greens, and streaky white patterns that highly resemble the varied colors and textures of the water, muddy bank, and emergent vegetation. The dark dorsal side of the bird blends effectively with the shaded areas of the bank, while its patterned ventral side, with vertical streaks, mimics the reflections and vertical lines of the plant stems in the water, disrupting its outline. The overall cluttered nature of the environment, with its mix of light, shadow, and varied plant forms, further aids in concealing the Heron by breaking up its silhouette and blending its distinct features into the visual noise."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a light sandy seabed with fine grains of sand, interspersed with a few small pebbles and detritus. The overall color is a pale off-white to very light beige, with slight variations in shade due to uneven surface and lighting. There's also a partial view of another object with a brown, spotted pattern on the right side.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The flounder exhibits excellent camouflage against the sandy seabed. Its flat body shape allows it to lie flush with the bottom, minimizing any indicative shadow and effectively merging with the substrate. The base coloration of its body is a pale, sandy beige, which provides a high degree of color similarity with the surrounding sand. Additionally, the flounder's skin features a pattern of light blueish-white rings and spots that closely mimic the granular texture and scattered small particles found on the seabed, contributing to effective pattern matching. The overall contrast difference between the organism and its environment is low, making it very difficult to distinguish from the sand. While the blue rings are visible upon close inspection, they are muted and do not significantly disrupt the overall blending effect, rather they enhance the textured look that resembles the environment. This combination of color, pattern, and shape disruption makes it highly camouflaged."
+}

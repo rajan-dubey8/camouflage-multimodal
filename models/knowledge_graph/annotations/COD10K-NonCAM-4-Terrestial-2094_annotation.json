@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Fox",
+  "background_description": "The background consists primarily of a mottled gray and brown rocky surface with areas of dry earth and sparse green foliage. The rocks have an irregular, granular texture, and there are thin, dry twigs visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The fox exhibits strong camouflage primarily through color blending. Its fur is a grizzled mix of gray and brown tones that closely match the colors and earthy hues of the rocky background and dry vegetation. The slightly varied texture of its fur also harmonizes with the rough, irregular texture of the surrounding rocks and dirt, helping to break up its outline. The low contrast between the animal's fur and the environment further enhances its concealment, making it blend seamlessly into its natural habitat."
+}

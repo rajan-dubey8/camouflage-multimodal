@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small reef fish",
+  "background_description": "The background consists of a vibrant underwater coral reef, densely packed with branching stony corals. The corals display a range of colors including shades of blue-grey, light brown, and yellowish-tan, with intricate, textured surfaces resembling spiky branches. The water is clear, allowing light to filter through and illuminate the reef.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "Small reef fish are present, utilizing color blending as their primary camouflage strategy. Their yellowish-brown bodies closely match the color of the yellowish-tan coral branches they inhabit. Their small size and position nestled within the dense, branching coral structures further contribute to their inconspicuousness, making them blend seamlessly into the textured reef environment and difficult to distinguish from the background."
+}

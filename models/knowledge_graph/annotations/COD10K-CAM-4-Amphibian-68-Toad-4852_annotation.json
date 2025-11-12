@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a clear, shallow stream or river with visible rocks and pebbles submerged and along its banks. In the immediate foreground, the toad is resting on a large, mottled rock which exhibits a mix of light grey, dark grey, and reddish-brown/tan mineral patches, some appearing wet or damp from the water. Further back, the scene shows more rocks, dry, scrubby vegetation, and lush green trees under a bright blue sky with scattered white clouds.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its skin coloration, a mottled mix of browns, tans, and dark greenish-grey spots, very closely matches the color palette of the large, textured rock it is resting on. The irregular patterns and rough texture of the toad's skin mimic the granular, varied surface of the granite-like rock, which also features a mix of light and dark grey, along with reddish-brown patches. The contrast difference between the toad and its substrate is minimal, making its outline indistinct against the similarly patterned background. This combination of color blending and pattern matching makes the toad very difficult to spot at first glance."
+}

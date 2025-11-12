@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of dense green foliage, likely from a shrub or bush. The leaves are varied in size, serrated, and show prominent veins. There are multiple stems crisscrossing the frame. Lighting is bright, creating highlights on some leaves and deep shadows in others, resulting in a range of greens from bright lime to dark forest green. The butterfly is perched on a small, vibrant purple flower nestled within the leaves.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's pale, creamy-white wings with their distinct dark green/brownish stripes create a high contrast against the surrounding vibrant green leaves and especially with the bright purple flower it is perched upon. While the darker stripes might offer some minor pattern disruption in a different context, in this specific image, the overall light coloration of the butterfly and the prominent purple flower make it clearly visible and easily distinguishable from its environment. There is little similarity in color or texture between the butterfly and the dominant background elements, causing it to stand out rather than blend in."
+}

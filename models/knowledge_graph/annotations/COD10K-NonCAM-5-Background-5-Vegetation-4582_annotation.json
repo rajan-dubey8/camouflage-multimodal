@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Small insect",
+  "background_description": "The background is primarily composed of a dense mat of vibrant green to yellowish-green moss with small, spiky individual plant structures. Beneath the moss, a dark grey, rough, stony or concrete surface is visible. The scene features variations in light and shadow, creating depth within the moss layer.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, elongated, dark reddish-brown insect is visible partially within the moss and on the exposed grey substrate. Its dark coloration provides a medium color similarity with the shadowed areas of the moss and the dark grey rock surface, significantly reducing its contrast against these background elements. While its body texture and shape do not perfectly mimic the spiky moss, its color blending allows it to be less conspicuous in the darker, less illuminated parts of its environment."
+}

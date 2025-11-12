@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Turtle",
+  "background_description": "The background consists of a murky pond or slow-moving water body heavily covered with a dense layer of bright lime-green duckweed. A large, partially submerged, moss-covered log extends horizontally across the middle ground, serving as a perch for the turtle. Taller green aquatic plants and broad leaves emerge from the water in the upper background, casting shadows. The water visible below the log is dark and reflective, with sparse patches of duckweed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The turtle exhibits very effective camouflage in this image. Its shell is significantly covered with bright green duckweed, which perfectly matches the dense layer of duckweed on the surrounding water surface and the green growth on the log. This creates extremely high color and texture similarity between the turtle and its immediate environment. The duckweed on its shell also helps to disrupt its natural outline and break up its shape, reducing contrast with the background. While its head and legs show some distinctive yellow and red markings, the overall body is remarkably well blended."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Baboon (Papio)",
+  "background_description": "The background consists of large, irregular greyish-brown rocks with rough, natural textures. There are also some blurred, darker elements which appear to be more rocks or possibly tree trunks in the distance, providing a natural, arid or semi-arid environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The baboons are clearly visible against their rocky background. While their fur is a similar greyish-brown to the rocks, their distinct shapes, facial features, and the bright red ischial callosities (rump patches) on the adult baboons create significant contrast and make them easily distinguishable. There is no active attempt at concealment or blending with the environment. Therefore, camouflage is not present."
+}

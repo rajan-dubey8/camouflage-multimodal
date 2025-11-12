@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bat",
+  "background_description": "The background consists of a tree trunk covered in dense, stringy green and brown moss, interspersed with areas of visible rough, textured bark. The overall lighting is dim, with patches of sunlight highlighting parts of the moss and bark, creating strong shadows. Beyond the trunk, there's a dark, out-of-focus background of forest foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "A small bat is visible clinging to the moss-covered tree trunk, near the upper-left area of the illuminated section. Its dark fur color closely matches the deep shadows and the darker, moist patches of moss and bark, especially in the dappled lighting conditions. The irregular, fuzzy texture of the bat's fur also blends seamlessly with the stringy and rough texture of the moss and tree bark, making it incredibly difficult to distinguish from its surroundings. The low contrast between the bat and its immediate background further enhances its camouflage, allowing it to blend almost perfectly into the natural irregularities of the tree trunk."
+}

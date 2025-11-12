@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The aquatic environment consists of a vibrant coral reef. The background is dominated by a large anemone with numerous brown-tan, bulbous tentacles. Alongside and beneath the anemone are various rocky coral formations, covered in textured growths of green, brown, and purplish algae or encrusting organisms.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "Two distinct Clownfish are clearly visible in the image. Their bright orange, black, and prominent blue-white band coloration stands out sharply against the muted tones of the anemone and coral, indicating a complete absence of camouflage."
+}

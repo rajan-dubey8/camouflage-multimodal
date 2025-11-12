@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Minnow",
+  "background_description": "The background consists of murky, greenish-grey fresh water with numerous small white particulate specks or air bubbles suspended throughout. The water appears to be shallow with diffused light, indicating an aquatic environment like a pond or a calm river.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a school of small, slender fish, identifiable as minnows, swimming in turbid water. Their bodies have a brownish-silver hue that offers some natural blending with the greenish water, but their shapes and distinct lateral lines make them clearly visible, indicating an absence of camouflage."
+}

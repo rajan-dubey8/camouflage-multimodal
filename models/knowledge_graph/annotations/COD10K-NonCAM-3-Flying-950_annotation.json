@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wheatear bird",
+  "background_description": "The bird is standing on a large, light grey-brown rock with visible cracks and rough textures. The immediate background shows sparse dry grass, while the distant background is blurred, revealing similar hues of brown, grey, and earthy tones, suggesting more rocks and dry vegetation under bright sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits camouflage through color blending. Its plumage, consisting of light brown and off-white tones, closely matches the sun-bleached, arid, and rocky environment. The overall coloration helps the bird blend seamlessly with the predominant hues of the rocks and dry earth, making it less visible against its natural habitat. Although the bird's smooth feather texture contrasts with the rough, cracked rock surface, the strong color resemblance provides effective visual concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small woodland bird",
+  "background_description": "The background consists of a dark, rugged tree trunk with deep furrows, mottled with patches of light gray-green lichen and some exposed lighter wood. Behind the bird and to its left, there is a blurred, vibrant lime-green background, likely out-of-focus foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits color blending camouflage. Its plumage is predominantly dull olive-green on the back and head, transitioning to a yellowish-white on the belly. This coloration helps it blend with the greens of forest foliage and the varied brown and green tones of tree bark, particularly with the lichen present on the trunk. While the immediate bright green background is out of focus, the bird's natural coloring is well-suited for merging into a general woodland environment, especially with the textured tree bark it is perched on, reducing its visibility to predators and prey alike."
+}

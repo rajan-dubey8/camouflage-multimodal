@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of a dark, likely decaying woody or organic substrate, covered with a dense network of fine, tangled, light brown to tan fibrous strands, resembling dead seagrass, algae, or plant detritus. These strands have a dusty or sandy texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The GhostPipefish demonstrates exceptional camouflage by mimicking the surrounding marine detritus. Its body coloration, featuring a dark base with light orange/yellow/white speckles, closely matches the dark background substrate and the lighter, dusty particles on the fibrous plant matter. Crucially, its highly modified body shape, with numerous frilly fins, spiky protrusions, and an overall irregular outline, perfectly mimics the tangled, stringy texture and fragmented appearance of the dead seagrass or algal strands in the background. This combination of color, pattern matching, and shape disruption, functioning as mimicry of detritus, makes it incredibly difficult to distinguish from its environment."
+}

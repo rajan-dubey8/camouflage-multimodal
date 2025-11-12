@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of various large and medium-sized rocks, displaying a range of grey, brownish-grey, and earthy brown tones. Some rocks have lighter, almost white, mineral deposits or lichen-like textures. The ground visible between the rocks is composed of dark brown soil with scattered dry leaves, small twigs, and sparse green plant sprouts. The overall environment is rough, uneven, and natural.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The frog exhibits excellent camouflage within this rocky and earthy environment. Its mottled brown and grey coloration, along with its bumpy skin texture, closely matches the color and rough surface of the granite-like rock it is resting on. The darker and lighter patches on its skin effectively mimic the variations in color and texture found on the rock and surrounding debris. There is a very low contrast between the frog's body and its immediate surroundings, making its outline difficult to discern. The patterns on its back also break up its silhouette, contributing to its blend with the complex background textures. It is not immediately obvious and requires careful observation to spot."
+}

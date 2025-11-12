@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull",
+  "background_description": "The background consists of dark, murky water with subtle ripples and reflections on its surface. The water appears almost black, indicating depth or low light conditions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seagull's light grey and white plumage stands out significantly against the dark, almost black water. There is a high contrast between the bird's light colors and the dark background, making it easily visible. While seagulls exhibit countershading for camouflage in different contexts (white belly against sky, grey back against land/water from above), in this specific dark water environment, its coloration does not provide effective concealment."
+}

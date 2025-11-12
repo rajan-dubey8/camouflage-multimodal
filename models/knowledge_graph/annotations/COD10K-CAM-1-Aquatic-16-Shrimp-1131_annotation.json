@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of dark green, rough, and algae-covered rocks. A coarser gravel substrate is visible in areas, and the water appears greenish and somewhat murky. There is also a smooth, light purplish-white stone/shell fragment to the lower right.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The shrimp exhibits a form of camouflage by having a semi-translucent body adorned with brownish speckles and stripes. This coloration and patterning allows it to blend with the greenish-brown, algae-covered rocks and irregular gravel textures in its immediate environment. The semi-transparency helps reduce its visual impact, while the mottled pattern helps disrupt its outline against the rough, textured background, creating a medium degree of color and texture similarity and reducing the overall contrast difference."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a vibrant red-orange sea urchin, likely a fire urchin, with a distinct dotted and porous texture. Protruding from the urchin's body are numerous tube feet and spines, which are primarily black and white banded, some with bright purple tips. These appendages are cylindrical and varied in length, creating a dense, complex visual field.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching / Color blending / Shape disruption",
+  "explanation": "The shrimp exhibits excellent camouflage by closely mimicking the patterns and colors of its host, a vibrant red-orange sea urchin. Its body features irregular dark patches (dark brown/black) and translucent white areas, while its legs are distinctly striped with black and white bands. This coloration and patterning create a near-perfect match with the banded black and white tube feet and spines of the urchin. The disruptive coloration of the shrimp effectively breaks up its outline, making it blend seamlessly into the complex, dense environment of the urchin's appendages. The high color and pattern similarity, coupled with the low contrast difference, make the shrimp very difficult to distinguish from its surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras",
+  "background_description": "The background is an expansive grassy field with varying shades of green, some areas appearing slightly drier and lighter. In the distant background, there's a denser line of vegetation with trees, indicating a natural savannah or plain environment. The texture of the foreground is fine, short-to-medium length grass.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.35,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features two zebras in a green grassy field. Zebras are characterized by their distinctive black and white stripes, which serve as a form of disruptive pattern camouflage. While their stripes do not blend with the green colors or textures of the grassy background in this bright daylight scene, and thus the animals appear highly visible to the human eye, the pattern is an evolutionary camouflage strategy. This type of camouflage aims to break up the animal's outline, make it difficult for predators to single out an individual in a herd (motion dazzle), and potentially blend into dappled light or tall, dry grasses as perceived by colorblind predators, particularly during dawn or dusk. In this specific visual context, the zebras' colors and sharp patterns create a high contrast against the uniform green, limiting their immediate blending with the environment, but the inherent biological feature is still considered a form of camouflage."
+}

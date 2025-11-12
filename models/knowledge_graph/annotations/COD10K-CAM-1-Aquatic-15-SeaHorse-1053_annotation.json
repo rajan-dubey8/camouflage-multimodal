@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a deep blue aquarium wall on the left, a dense cluster of vibrant green, long, blade-like artificial sea plants in the center and right, and a substrate of small, light-colored pebbles and gravel at the bottom. A greyish rocky structure is partially visible on the far right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The seahorse, with its light beige and mottled brown body, stands out distinctly against the deep blue aquarium background and the vibrant green artificial plants. While its tail is wrapped around the base of the plants, its body color and texture do not blend with the green foliage. There is some very minor color similarity to the light gravel substrate, but its overall form and coloration create a high contrast against the dominant blue and green background elements, making it easily visible rather than concealed."
+}

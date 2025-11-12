@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of uneven, rough rock surfaces forming a crevice within a marine environment. The rocks display a variety of earthy tones, predominantly dark reddish-brown, orange, and olive-green, with patches of lighter sediment or marine growth, and darker shadowed areas. The textures are mottled, speckled, and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Shrimp exhibits excellent camouflage in this image. Its translucent body, adorned with dark, irregular spots and bands (black, dark brown, reddish-brown), perfectly mimics the mottled and speckled textures of the surrounding rocks and marine growth. The overall coloration of the shrimp blends seamlessly with the varied earthy tones (reddish-brown, olive-green, dark orange) of the background. Furthermore, the long, slender, and patterned legs contribute to shape disruption, breaking up the organism's silhouette and making it difficult to distinguish from the irregular contours and shadows of the rocky crevice. The low contrast difference between the shrimp and its immediate environment further enhances its concealment."
+}

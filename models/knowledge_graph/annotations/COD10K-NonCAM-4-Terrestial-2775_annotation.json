@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sea lion pups",
+  "background_description": "The background consists of a beach made up of light-colored, small, irregular pebbles and coarse sand. The overall color palette of the beach is a mix of off-white, light beige, and subtle hints of grey and reddish-brown from the various small stones.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features two dark brown sea lion pups resting on a significantly lighter, pebbly beach. Their dark fur creates a high contrast against the pale background, making them stand out prominently. Although some sand is visible on their fur, it does not alter their overall coloration or texture sufficiently to provide any effective camouflage; rather, it highlights their presence against the lighter environment."
+}

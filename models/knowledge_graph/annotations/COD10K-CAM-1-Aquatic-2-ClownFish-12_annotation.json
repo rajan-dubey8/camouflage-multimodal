@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ClownFish",
+  "background_description": "The background consists primarily of a large, dense sea anemone with numerous long, slender tentacles that are predominantly pale blue-grey with white tips and a brownish base. Behind the anemone, there is a blurry, deep blue underwater environment, indicating a deeper water setting or distant background.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The ClownFish exhibits a moderate level of camouflage by utilizing the dense structure of the sea anemone. Its pale, light pinkish-white body with subtle yellow fins shows medium color similarity with the lighter parts and tips of the anemone's tentacles, preventing it from starkly contrasting with its immediate surroundings. The primary camouflage mechanism here is shape disruption; the numerous tentacles of the anemone physically break up the fish's outline, making it harder for predators to discern its distinct form. Although there is low texture similarity (smooth fish vs. tentacled anemone) and medium contrast difference, the physical concealment within the anemone's protective canopy, combined with its muted coloration compared to a more typical vibrant orange clownfish, contributes to effective blending within this specific environment."
+}

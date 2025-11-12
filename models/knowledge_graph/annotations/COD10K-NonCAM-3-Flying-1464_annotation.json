@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagulls on calm water with buoy",
+  "background_description": "The background consists of calm, light blue-green water with reflections of sunlight creating white, shimmering streaks. A distant, slightly darker blue landmass or mountain range is visible at the horizon.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seagulls, with their dark grey and white plumage, are clearly visible against the light blue-green water and the bright yellow buoy. Their coloration provides minimal blending with the immediate environment; in fact, the gull standing on the bright yellow buoy creates a high contrast and stands out prominently. The other gulls in the water are also easily distinguishable. There is no evidence of mimicry, color blending, or disruptive patterning for concealment in this scene."
+}

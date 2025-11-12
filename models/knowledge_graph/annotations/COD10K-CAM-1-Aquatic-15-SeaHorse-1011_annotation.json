@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background features a large, vibrant orange-red gorgonian coral (sea fan) with intricate branching structures, set against a dark blue underwater environment. The bottom foreground consists of light-colored sand.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption / Pattern matching",
+  "explanation": "The seahorses exhibit camouflage primarily through shape disruption and pattern matching. They are nestled within the intricate branching structure of the orange-red gorgonian coral, which helps to break up their outline and conceal their form. Their mottled yellowish-brown and white-speckled texture, while not perfectly matching the coral's vibrant orange color, offers some similarity to the irregular surface and complexity of the coral branches. This allows them to blend into the visually busy environment, despite their main body color not being an exact match for the dominant coral hue. Their positioning is key to their concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists primarily of dense, bright yellow, branching seaweed-like aquatic plants. Behind and between the plants, there is a clear, deep blue water background, suggesting an open water or aquarium environment. A small, blurry hint of a white/purple structure is visible at the bottom right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The SeaHorse is positioned within dense bright yellow aquatic plants. However, its own coloration, featuring dark brown/black spots on a lighter, brownish-beige body, and a distinct dark reddish-brown/purple tail, stands out significantly against the vibrant, uniform yellow of the surrounding flora. The SeaHorse's bumpy texture also differs from the relatively smoother, branching texture of the plants. While the plants offer some physical concealment by partially obscuring the SeaHorse, its distinct colors and patterns create a high contrast difference, preventing it from truly blending with its immediate environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of numerous large, angular rocks of varying shades of dark grey to black, many featuring prominent white or light grey mineral veins and patches. The rocks have a rough, uneven texture. In the mid-ground and far background, there are blurred elements of a paved area and green foliage/trees, indicating an urban or park-like setting adjacent to a rocky shoreline or breakwater.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits effective camouflage against the rocky environment. Its plumage features a mottled pattern of light grey, white, and various shades of brown and dark grey, which very closely matches the color palette of the dark grey and black rocks with their distinctive white mineral veins and patches. The irregular speckling and streaking on the bird's feathers mimic the natural variations and rough textures present on the rock surfaces, aiding in pattern matching. Furthermore, this pattern helps to disrupt the bird's silhouette, making its outline less distinct against the complex background. The overall contrast difference between the bird and its surroundings is low, allowing it to blend seamlessly and making it difficult to spot at first glance."
+}

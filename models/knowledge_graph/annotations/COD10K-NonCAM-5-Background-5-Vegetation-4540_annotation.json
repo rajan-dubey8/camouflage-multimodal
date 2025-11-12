@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lush forest with river and bridge",
+  "background_description": "Dense tropical foliage with various shades of green, tall tree trunks, a rocky riverbed with murky brown water, and a rustic wooden/bamboo bridge spanning the river. The ground is covered with dirt, rocks, and green undergrowth.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment consisting of a lush forest, a river, and a man-made wooden bridge. There are no visible animals, insects, or fish present in the scene, either in the foreground or background. As camouflage analysis requires the presence of an organism, and none is found, camouflage is determined to be absent."
+}

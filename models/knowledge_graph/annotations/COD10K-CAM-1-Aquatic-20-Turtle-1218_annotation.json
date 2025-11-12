@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Turtle",
+  "background_description": "The background consists of dark, murky water on both sides of a partially submerged log or branch. The log itself is thick, wet, and appears heavily covered in algae and mud, giving it a rough, textured surface with varying shades of dark brown, green, and black.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The turtle exhibits moderate camouflage. Its shell is covered in mud and algae, making its dark green, brown, and black coloration and irregular texture highly similar to the wet, algae-covered log it is resting on. This creates good color and texture blending with the immediate perch. However, the bright yellow stripes on its head, neck, and legs, and particularly the distinct red patch behind its eye, introduce areas of higher contrast against the dark background. While the shell blends effectively, the head and limbs are more discernible, preventing perfect concealment."
+}

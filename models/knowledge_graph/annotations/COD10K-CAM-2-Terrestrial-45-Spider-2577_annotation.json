@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a dense layer of natural ground cover, primarily composed of dried, brittle grass stalks, small twigs, and fallen leaves, some of which are reddish-brown (resembling cedar or pine needles) and others are a light tan or dark brown. There are also darker patches of soil or organic debris, and a blade of green grass is visible in the lower foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits excellent camouflage. Its body and legs are mottled with various shades of brown, tan, and black stripes and speckles that perfectly match the colors and patterns of the dried leaves, grass, and twigs in its environment. The irregular, hairy texture of its body and spiny legs also closely mimics the rough, dry textures of the ground debris. This combination of color blending and pattern matching effectively breaks up the spider's outline, making it extremely difficult to distinguish from the chaotic visual texture of the forest floor, resulting in a low contrast difference with the background."
+}

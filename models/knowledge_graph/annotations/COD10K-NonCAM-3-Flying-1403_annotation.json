@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Gnatcatcher",
+  "background_description": "The background consists of blurred natural foliage, predominantly deep greens with hints of lighter green and bluish tones. The textures are very soft and indistinct due to the shallow depth of field (bokeh effect), suggesting a leafy, shadowed environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The gnatcatcher is clearly visible against the background. Its light grey and white plumage contrasts significantly with the dark, blurry green foliage, especially its bright white underside. There is no notable color blending, disruptive pattern, or mimicry that helps the bird merge with its immediate surroundings. Its form is distinctly outlined, making it easily detectable."
+}

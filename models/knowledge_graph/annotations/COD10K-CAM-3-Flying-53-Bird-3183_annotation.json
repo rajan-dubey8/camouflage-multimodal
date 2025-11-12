@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense tropical forest environment, characterized by multiple prominent tree trunks with light blue-grey and brownish bark, often covered with moss or lichen. There is an abundance of lush green foliage, including large broad leaves and ferns, creating varied textures and depths. Patches of sunlight and shadow dapple the scene, and some hints of red (possibly flowers or new leaves) are visible in the mid-ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits strong camouflage through color blending. Its plumage is a vibrant green, which perfectly matches the dominant hue of the surrounding dense foliage, including the leaves and ferns. This high color similarity makes the bird blend seamlessly with the green backdrop, significantly reducing its visibility to predators or prey. While its feathery texture is distinct from the leafy textures, the overwhelming color match and the low contrast difference between the bird and its immediate environment allow it to disappear into the natural setting. The bird's outline is present, but its green color dissolves into the chaotic green patterns of the forest, making it difficult to spot without close inspection."
+}

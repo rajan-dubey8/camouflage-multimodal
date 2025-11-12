@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of dense, small-leaved green foliage from a shrub or tree. Interspersed among the leaves are delicate, spiky white flowers. Behind the immediate vegetation, there are blurred branches and an out-of-focus light brown, sandy-colored background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Katydid exhibits excellent camouflage through a combination of color blending and pattern matching. Its body is primarily a variegated green, which perfectly matches the dominant color of the dense foliage it is perched upon. The intricate patterns of darker green, brown, and white spots and lines across its wings and body mimic the varied textures, shadows, and light dappling found within the shrub's leaves and branches. The white spots on its body bear a striking resemblance to the small white, spiky flowers present on the plant, further enhancing its ability to blend in. Its elongated and somewhat angular body shape also helps it integrate with the plant's structure, disrupting its overall outline against the complex background of leaves and flowers."
+}

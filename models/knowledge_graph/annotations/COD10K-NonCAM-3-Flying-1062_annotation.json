@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red-winged Blackbird",
+  "background_description": "The bird is perched on a dark, weathered wooden plank or rail that shows signs of wear, texture, and lighter patches. In the background, there is a soft-focused expanse of vibrant green foliage, likely representing grass or leaves in an outdoor natural setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, a male Red-winged Blackbird, displays striking black plumage with prominent, vivid red and yellow patches on its wings. These bright colors create a very high contrast against the dark wooden surface it is perched on and especially against the green background. The distinctive wing markings are primarily used for display, territorial defense, and attracting mates, rather than for concealment. The bird's coloring and patterns are designed to make it stand out, not blend in, indicating a complete absence of camouflage in this environment."
+}

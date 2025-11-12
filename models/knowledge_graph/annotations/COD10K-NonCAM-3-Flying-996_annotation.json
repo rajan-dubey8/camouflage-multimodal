@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Lovebird",
+  "background_description": "The lovebird is perched on a dark, rough-textured tree branch or log. The background is a blurry wash of various shades of green, suggesting dense out-of-focus foliage or distant trees.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The lovebird exhibits bright, contrasting colors (vibrant green, yellow, orange, and red head) that stand out significantly against both the dark, rough tree branch it is perched on and the blurry green foliage background. There is no blending of colors, disruptive patterns, or mimicry of the environmental textures to conceal its presence; rather, its coloration makes it highly conspicuous."
+}

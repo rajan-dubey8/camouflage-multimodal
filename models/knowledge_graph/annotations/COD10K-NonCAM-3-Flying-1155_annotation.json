@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of clear, shallow water with gentle ripples, revealing a light-colored, possibly sandy or gravelly bottom. Several dark, rough-textured volcanic rocks are partially submerged or breaking the water's surface. The overall color palette of the background is muted, consisting of grays, browns, and light desaturated greens/blues from the water, with contrasting dark tones from the wet rocks.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The heron exhibits effective camouflage through color blending. Its plumage is a dull grayish-brown, which closely matches the muted tones of the wet volcanic rocks and the reflective surface of the shallow water. While its texture isn't identical to the rough rocks, the overall desaturated and varied coloration allows it to blend seamlessly into this type of rocky, aquatic environment. The contrast between the bird and its surroundings is moderate, ensuring it doesn't stand out prominently. This cryptic coloration helps the bird remain undetected by both prey and predators in its natural habitat."
+}

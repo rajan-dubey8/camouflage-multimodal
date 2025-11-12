@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The background consists of a body of water, likely a pond or shallow marsh, characterized by a generally uniform deep blue color. The water surface shows subtle ripples and reflections, indicating movement and light play. Some blurred, out-of-focus vertical elements, possibly reeds or dried grasses, are visible in the foreground and mid-ground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Tricolored Heron is clearly visible against the blue water background. Its distinct plumage, featuring gray-blue on the back and wings, white on the belly, a dark head and neck, and bright yellow legs and beak, creates significant color and luminance contrast with the uniform blue water. The bird's form is sharply outlined, and its vibrant yellow legs in particular stand out. While some heron species utilize countershading for blending, in this specific pose and context, the bird's features and overall silhouette do not blend with the aquatic environment, making it easily discernible."
+}

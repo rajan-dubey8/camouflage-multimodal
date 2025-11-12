@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a seabed covered with a heterogeneous mix of small, irregular light-colored pebbles, gravel, and some larger fragments of coral or shell. Patches of darker detritus are visible between the lighter stones. The water above creates shimmering, iridescent light reflections with rainbow hues on the seabed surface, adding to the visual complexity.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Flounder exhibits exceptional camouflage against the seabed. Its skin coloration perfectly matches the light beige, off-white, and subtle grey tones of the surrounding pebbles and gravel. Furthermore, the raised, circular patterns and speckles on its body remarkably mimic the irregular shapes and granular texture of the small stones and detritus, creating a high degree of texture similarity. The flat shape of the flounder, lying flush with the bottom, combined with its disruptive patterning, effectively breaks up its outline and prevents it from standing out. There is very low contrast between the organism and its environment, making it incredibly difficult to detect, even with the iridescent light refractions present."
+}

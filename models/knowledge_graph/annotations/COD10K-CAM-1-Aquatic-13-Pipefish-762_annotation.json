@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow marine seabed, characterized by a heterogeneous mix of fine and coarse sandy patches, dark brown and reddish-purple rubble, fragmented dead coral, encrusting algae, and several clusters of live, light brown stony coral. There is also a dark, round, encrusted object in the foreground. The overall environment is cluttered and offers varied textures and colors.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Pipefish exhibits moderate camouflage in this image. Its elongated body is patterned with a base of yellowish-brown and distinct dark brown bands. This coloration provides a high degree of color similarity with the surrounding environment, matching the tones of the light sandy areas, the darker rubble, and the yellowish-brown coral structures. The alternating dark and light bands contribute to 'Pattern matching', which helps to break up the continuous outline of the fish and creates a mottled effect that partially blends with the varied, irregular textures and patterns of the seabed. While its specific striped pattern does not perfectly mimic any single background element, it contributes to an overall disruptive coloration. The contrast difference between the pipefish and its immediate surroundings is medium, as its form remains somewhat discernible, but its effective use of color and pattern makes it less conspicuous than it would otherwise be."
+}

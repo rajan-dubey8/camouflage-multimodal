@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Caracal and Jackal scavenging",
+  "background_description": "The background consists of a sprawling savanna grassland, primarily covered with light green and dry, brownish-tan grasses. There are occasional patches of exposed soil and small, sparse green plants, some with tiny purple flowers. The ground is generally uneven, suggesting natural terrain.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The caracal and jackal both exhibit excellent color blending camouflage. The caracal's sandy-brown fur and the jackal's tawny-brown coat closely match the prevalent dry, brownish-tan grasses and exposed soil patches in the savanna environment. While their forms are clearly visible due to their activity and the contrast against greener grass in some areas, their natural coloration allows them to blend seamlessly with the drier elements of their habitat, making them harder to spot by prey or predators when motionless or stalking. This natural coloration is a primary adaptation for living in grasslands and semi-arid regions."
+}

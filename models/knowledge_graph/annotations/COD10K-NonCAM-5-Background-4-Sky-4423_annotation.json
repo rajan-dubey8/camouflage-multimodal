@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cumulonimbus cloud at sunset",
+  "background_description": "The background consists of a clear, deep blue sky transitioning into a lighter blue towards the horizon. The main feature is a large cumulonimbus cloud, likely an anvil cloud, with its upper portion being bright white and diffused, while the main body is illuminated with warm orange and yellow tones, indicative of sunrise or sunset light. There are also darker, smaller clouds underneath and to the side, with some reddish-orange hues, suggesting lower atmospheric conditions or shadows.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene featuring a large cumulonimbus cloud against a blue sky, illuminated by warm, setting or rising sun colors. There is no visible animal, insect, or fish present in the image. Therefore, camouflage is not applicable."
+}

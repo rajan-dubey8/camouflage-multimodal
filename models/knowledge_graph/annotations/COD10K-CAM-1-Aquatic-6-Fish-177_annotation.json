@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a shallow, sandy riverbed or lake bottom. The sand is light brown to tan, composed of fine grains and some scattered larger pebbles and darker detritus. The water above is clear, allowing the detailed texture of the bottom to be visible. There is a strong, dark shadow cast by the fish onto the sandy bottom, indicating bright, direct sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits effective camouflage primarily through color blending. Its body is a pale, translucent yellowish-brown, which closely matches the predominant light tan color of the sandy environment. This high degree of color similarity makes the fish's body itself quite difficult to distinguish from the background. While its smooth texture differs from the granular sand, the slight optical distortion from the water and its translucency help to soften its outline and reduce textural contrast. The main factor reducing perfect camouflage is the prominent, dark shadow it casts on the bright sand, which creates a distinct silhouette and increases the overall contrast difference, making its presence more apparent than its body alone would suggest."
+}

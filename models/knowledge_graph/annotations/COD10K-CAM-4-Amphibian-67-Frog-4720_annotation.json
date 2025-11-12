@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a rough, uneven, dark asphalt or concrete surface. It features a mottled texture with various shades of dark gray, brown, and some lighter sandy-colored pebbles and aggregate. There are visible cracks and darker, damper-looking patches, as well as distinct shadows cast by the sun, highlighting the coarse texture of the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The frog exhibits excellent camouflage against the rough asphalt background. Its skin coloration, a mix of dark grays, browns, and faint greens with mottled patterns and speckles, closely matches the color palette of the aggregate and darker patches on the ground. The texture of its warty skin also mimics the coarse, uneven surface of the asphalt, further reducing visual distinction. The frog's flattened posture and the shadow it casts underneath its body help to break up its outline and reduce contrast with the surrounding dark areas and shadows on the ground, making it very difficult to spot at first glance."
+}

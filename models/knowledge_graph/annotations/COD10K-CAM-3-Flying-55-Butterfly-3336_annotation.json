@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a forest floor densely covered with dry, fallen leaves, twigs, and small branches. The dominant colors are various shades of brown, tan, and dark earthy tones. Some twigs show lighter patches (possibly lichen or dried sap). The overall environment is textured, cluttered, and appears to be in low light conditions.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "This butterfly exhibits exceptional camouflage through Batesian mimicry, specifically resembling a dead leaf. Its closed wings are colored in a spectrum of browns, tans, and dark patches that perfectly match the dry, decaying leaves and debris scattered across the forest floor. Beyond just color, the irregular, jagged shape of its wings, complete with a pointed apex and vein-like patterns, mimics the form and texture of a withered leaf. This combination of color, pattern, and shape mimicry makes it incredibly difficult to distinguish from the surrounding background, allowing it to blend seamlessly and avoid detection."
+}

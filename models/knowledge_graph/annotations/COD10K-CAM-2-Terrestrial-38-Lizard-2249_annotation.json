@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dense, multi-layered bed of moss and small twigs. The moss varies significantly in color from vibrant green to dried golden-brown and dark brown, with complex, textured fronds creating an uneven, intricate surface. There are also darker, slender woody branches interspersed within the moss.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Lizard demonstrates excellent camouflage. Its skin features a highly irregular pattern of light yellowish-green and dark brownish-gray blotches that perfectly match the varied colors of the living green moss, dried golden-brown moss, and dark woody elements in its environment. The granular, mottled texture of its scales also closely mimics the intricate, rough texture of the moss fronds and twigs. This combination of color and pattern matching effectively breaks up the lizard's outline and creates a very low contrast difference with its surroundings, making it incredibly difficult to spot."
+}

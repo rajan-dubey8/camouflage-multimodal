@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Parrotfish",
+  "background_description": "The background consists of a vibrant and diverse coral reef environment. Various types of hard corals, including branching corals and brain corals, are visible in shades of green, brown, purple, and pale yellow. The water is clear with a turquoise hue.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a colorful Parrotfish with a yellowish-green body, a distinct pink patch, and a vibrant blue and yellow caudal fin. Its bright coloration and smooth texture stand out against the varied, textured coral reef background, indicating a complete absence of camouflage."
+}

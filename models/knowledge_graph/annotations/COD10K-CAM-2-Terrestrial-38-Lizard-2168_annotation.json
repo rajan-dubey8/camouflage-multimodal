@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a reddish-brown tree trunk with a somewhat smooth but peeling bark texture, displaying lighter brown/orange tones beneath the flakes. The trunk is speckled with numerous small white dots, likely lichen or reflections. To the left, a large, blurred, light beige/grey fan-shaped leaf (possibly a palm frond) is visible. To the right, blurred green leafy vegetation, also possibly palm fronds, frames the lower part of the trunk.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits camouflage through a combination of color blending and pattern matching. Its pale greenish-grey body with darker speckles provides a moderate color match to the varied tones present on the tree trunk. While the dominant trunk color is reddish-brown, the bark also features lighter, almost greenish-grey patches (possibly lichen or aged bark) and white speckles, which resonate with the lizard's own coloration and granular skin texture. The lizard's patterned skin helps to break up its outline against the visually complex, peeling bark. Although it is not perfectly invisible, these characteristics significantly reduce its conspicuousness against this specific natural background, preventing it from standing out dramatically."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of dark, reflective water, prominently featuring several bright green aquatic plant stems emerging from the water's surface, and a large green lily pad. Reflections of vegetation are visible in the water. The overall palette is dominated by various shades of green and dark water.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The goldfish is a vibrant orange color, which starkly contrasts with the predominant green of the aquatic plants and the dark, murky green of the water. Its bright coloration makes it highly visible against the background, indicating a complete lack of camouflage. The fish does not exhibit any color blending, disruptive patterns, or mimicry to hide in this environment."
+}

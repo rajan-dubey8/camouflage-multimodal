@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a dark, murky underwater environment, likely deep sea or night-time. It features a dark, granular substrate with indistinct textures, possibly rocks, sand, or debris. There are some faint, blurry specks of lighter blue-green, suggesting reflective particles or distant organisms, against a predominantly dark, almost black backdrop. A very dark, uniform horizontal band runs across the middle of the image.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The shrimp primarily employs transparency as a form of camouflage. Its largely clear and translucent body allows the dark background to show through, significantly reducing its overall silhouette and making it difficult to discern its solid form, especially against the dark water. This contributes to color blending with the surrounding aquatic environment. However, the camouflage is not perfect; the shrimp possesses distinct white speckles on its body and bright, almost iridescent blue-purple outlines on its anterior appendages and tail. These contrasting, somewhat luminous features stand out against the dark background, creating visible points of interest and breaking the illusion of complete transparency. The smooth texture of the shrimp also contrasts with the rougher, granular texture of the substrate, although its transparency mitigates this to some extent. Overall, while the transparency provides a good degree of concealment, the bright markings prevent it from achieving perfect blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The environment appears to be the edge of an aquatic habitat, featuring small, irregularly shaped gravel and pebbles (predominantly grey, brown, and reddish hues) on the ground. A larger, rough-textured rock or concrete structure forms a bank or wall behind the frog, with a dark recess or burrow nearby.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "A frog is clearly visible in the image, resting on gravel next to a rock. Its mottled green-brown skin with dark spots is distinct against the grey and reddish tones of the gravel and the darker rock behind it, confirming no camouflage."
+}

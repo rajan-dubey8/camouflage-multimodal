@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Pagurian",
+  "background_description": "The background consists of a dense underwater environment, likely a coral reef or rocky seafloor. It is populated by various types of corals, sponges, and possibly anemones, exhibiting complex, irregular, and often bumpy or frilly textures. The dominant colors are earthy tones, including shades of dark brown, reddish-brown, muted orange, beige, and some areas with purplish-red hues. The overall environment appears rugged and varied.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Pagurian itself, particularly its visible appendages (claws, legs, antennae, and eyes), is a vibrant orange-red color covered in small white dots and fine hairs. This bright coloration stands in stark contrast to the predominantly muted, earthy brown, reddish-brown, and beige tones of the surrounding coral reef environment. While the seashell the Pagurian inhabits shows some natural wear and coloration that moderately blends with some rock and coral textures, the organism's exposed body parts are highly conspicuous. The sharp color and texture differences, along with the high contrast, mean the Pagurian does not blend with its environment and is easily noticeable."
+}

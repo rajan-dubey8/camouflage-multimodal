@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The aquatic environment appears to be an aquarium with a substrate of light-colored gravel. There is a large, dark, wood-like structure covered in green algae or moss on the left, and vibrant artificial green and purple/blue plastic plants on the right. Small air bubbles are visible along the left side of the wooden structure.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A bright orange goldfish is clearly visible against the contrasting colors of the gravel, dark wood-like decoration, and artificial plants. Its distinct color and form make it stand out prominently, indicating no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dense layer of dry, fallen deciduous leaves (primarily oak leaves) in various stages of decay, interspersed with dry grass blades, thin twigs, and some patches of lighter, almost white, dry vegetative debris. The colors range from light beige to various shades of brown and gray. There are also a few small green shoots visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The toad exhibits excellent camouflage primarily through color blending and pattern matching. Its mottled gray-green and brown skin coloration perfectly matches the earthy tones of the dry, fallen leaves and dead grass that constitute its immediate environment. The irregular, bumpy texture of its skin also effectively mimics the varied and uneven textures of the crinkled leaves and tangled dry vegetation. Furthermore, its low posture and the subtle shadows it casts help to disrupt its outline and merge it seamlessly with the dappled light and shadow patterns on the ground. These combined factors make it challenging to distinguish the toad from the surrounding debris upon a casual glance."
+}

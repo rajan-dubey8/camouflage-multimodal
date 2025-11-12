@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Common Toad",
+  "background_description": "A moist, earthy substrate covered with sparse green grass and dried leaves, characteristic of the shallow banks or margins of an aquatic environment such as a pond or wetland. The background shows blurred green foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Common Toad (an amphibian) resting on a mix of soil and grass. Its brown-grey coloration and warty texture provide some natural blending with the earthy ground, but its distinct form, prominent eyes, and lighter underside ensure it stands out, indicating no active camouflage. The environment, while terrestrial, is typical of the margins of an amphibian's aquatic habitat."
+}

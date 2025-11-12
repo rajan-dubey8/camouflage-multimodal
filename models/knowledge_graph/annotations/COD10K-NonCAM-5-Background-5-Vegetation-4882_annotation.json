@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban park with autumn trees",
+  "background_description": "The scene features a bright, clear blue sky dominating the upper portion. Below, a vibrant canopy of trees fills the frame. Many trees display rich yellow and golden autumn leaves, while others retain a lush green foliage. In the mid-ground, the upper parts of light-colored buildings are visible through the trees, indicating an urban or semi-urban setting.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene consisting of trees with autumn foliage, a clear blue sky, and distant buildings. There are no visible organisms (animals, insects, or fish) within the frame. Therefore, the concept of camouflage is not applicable, and no camouflage is detected."
+}

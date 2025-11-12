@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The fish is peeking out of a dark, tubular opening in a textured, reddish-brown/purplish structure, likely a sponge or coral. This tube is covered in fine, hair-like textures or algae. To the left is a bright orange, porous sponge. The background around the tube is a dark, mottled substrate with various textures, possibly rock or detritus-covered coral, displaying muted browns, purples, and some dark greens.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Shadow hiding / Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits effective camouflage primarily through crypsis. It is largely concealed within a dark, tubular burrow, which is a strong form of 'Shadow hiding' and behavioral camouflage. The visible portion of its head displays mottled patterns of light brown, greyish-white, and subtle blue stripes that offer 'Color blending' and 'Pattern matching' with the surrounding textured, muted environment of the tube's opening. These patterns help to 'Shape disrupt' its outline, making it less distinct against the complex background. While its eyes and some lighter patches present a moderate contrast, the overall effect of concealment combined with disruptive coloration and pattern matching makes it blend reasonably well with its immediate surroundings rather than standing out starkly."
+}

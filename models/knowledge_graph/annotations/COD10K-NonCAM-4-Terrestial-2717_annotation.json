@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hyena",
+  "background_description": "The background consists of blurred, dry, yellowish-brown grass and earth, suggesting a savanna or dry grassland environment. The textures are muted and the colors are predominantly warm, earthy tones with some darker patches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The hyena exhibits effective camouflage through color blending. Its fur, a mix of various shades of brown, grey, and sandy tones, closely matches the dry, sun-bleached grass and earthy ground of its habitat. This high color similarity and low contrast difference between the animal and its background make it difficult to spot, allowing it to blend seamlessly into the environment for hunting or avoiding detection."
+}

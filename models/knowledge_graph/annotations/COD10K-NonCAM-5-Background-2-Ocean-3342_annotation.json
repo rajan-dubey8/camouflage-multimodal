@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Stony coral",
+  "background_description": "The background consists of small, irregularly shaped pebbles, sand, and detritus on the shallow seabed. The colors are predominantly muted browns, grays, and off-white tones, with some darker shadows and lighter highlights, creating a textured marine floor.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The stony coral exhibits camouflage through color blending with its marine environment. Its light beige/tan coloration closely matches the surrounding sandy and pebbly seafloor, creating high color similarity. The granular and irregular texture of the coral also provides a medium texture similarity with the natural substrate. This combination results in low contrast difference between the coral and its background, allowing it to blend seamlessly into its habitat. Although a living organism, its structural nature and role in forming the marine habitat lead to its classification as 'Environment' for object_category based on the provided schema options, as specific invertebrate categories are not available."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal city with river, bridges, and boats",
+  "background_description": "The scene features a wide river or estuary with muddy brown water, traversed by multiple long bridges. Numerous fishing boats, predominantly blue and some brown, are anchored or moving in the water. Along the riverbanks, there is a dense urban area with buildings of varying sizes and styles, stretching towards distant green mountains under a bright blue sky with scattered white clouds. Lush green foliage is visible in the foreground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an urban coastal environment including a city, bridges, river, and boats. There are no prominent animals, insects, or fish visible as the main subject for which camouflage analysis would be relevant. Therefore, no camouflage is present in this environmental scene."
+}

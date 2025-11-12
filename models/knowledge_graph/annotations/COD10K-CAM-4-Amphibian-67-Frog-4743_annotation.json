@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense network of small, round to oval-shaped green lily pads covering a significant portion of a water body. Interspersed among the lily pads are several small, bright yellow flowers. Dark, murky water is visible in the irregular gaps between the pads, creating a dappled pattern of green foliage and dark water. Some lily pads show yellowish or brownish tinges, indicating varying stages of growth or decay.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog is highly camouflaged within this environment. Its skin exhibits mottled green and brownish tones that remarkably mimic the varying shades of the surrounding green lily pads and the darker, murky water visible between them. The frog's position, partially submerged and partially resting on the lily pads, effectively disrupts its natural outline, making it difficult to discern its individual shape from the clustered vegetation. The visual texture of the frog's skin also blends well with the organic textures of the aquatic plants, further reducing any sharp contrast. This combination of color blending, pattern matching, and shape disruption makes the frog blend almost seamlessly into the pond's surface, requiring careful observation to spot it."
+}

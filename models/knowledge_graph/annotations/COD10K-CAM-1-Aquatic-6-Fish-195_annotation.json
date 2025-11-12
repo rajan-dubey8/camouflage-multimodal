@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater rocky environment, primarily composed of reddish-pink and orange corals or encrusted rocks with various textures, including rough, irregular surfaces, crevices, and patches of darker green, brown, and white growth. The organism is situated within a shadowed crevice.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The moray eel exhibits effective camouflage primarily through pattern matching and shadow hiding. Its head is a dark olive-green/brown, which blends with the darker, shadowy tones and some greenish algal patches present in the crevices. The visible part of its body features a distinct mottled pattern of dark brown/black spots and blotches on a lighter tan/grey background. This irregular, high-frequency pattern helps to disrupt the eel's shape and allows it to blend seamlessly with the varied, irregular textures and mottled appearance of the surrounding rocks and shadows within the crevice. By positioning itself deep within a dark cavity, the eel further leverages shadow to reduce its overall visibility and achieve a good level of concealment, making it difficult to distinguish from the complex background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dry, rough terrain covered extensively with small pieces of wood chips, bark, scattered dry leaves in various shades of brown, tan, and grey, and loose, gritty soil. There are also a few small stones and thin twigs. The overall texture is highly fragmented and mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage. Its body coloration and intricate patterns of dark brown, grey, and tan remarkably match the colors and textures of the wood chips, bark, and dry leaves in its environment. The variegated pattern on its back mimics the fragmented nature of the debris, effectively breaking up its outline and making it blend seamlessly with the background. The low contrast difference between the lizard and its surroundings further enhances its concealment, making it very difficult to spot unless specifically looking for it."
+}

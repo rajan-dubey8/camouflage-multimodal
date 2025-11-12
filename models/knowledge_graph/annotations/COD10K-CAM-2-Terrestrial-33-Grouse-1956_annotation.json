@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Grouse",
+  "background_description": "The background is a dense, deciduous forest floor, likely in late autumn or early spring, covered extensively with dry, fallen brown and reddish-brown leaves. Numerous thin, bare tree trunks and branches rise vertically, creating a cluttered visual field. Sparse patches of dull green grass and some gray rocks are also visible among the leaf litter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Grouse is exceptionally well-camouflaged against the forest floor. Its mottled brown, gray, and black plumage perfectly matches the dominant colors of the dry, fallen leaves, bare twigs, and shadows in the environment. The intricate patterns on its feathers mimic the textured, broken appearance of the leaf litter, making it very difficult to distinguish its form. This combination of color blending, pattern matching, and the disruption of its natural shape causes it to blend seamlessly with the cluttered background, making it extremely hard to spot."
+}

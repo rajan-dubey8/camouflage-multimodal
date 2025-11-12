@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of a large, vibrant green leaf, illuminated from behind (backlit) in certain areas, creating variations in luminosity. The leaf has prominent, somewhat parallel veins and a few water droplets resting on its surface. The top portion of the image shows a dark, out-of-focus area, suggesting deep shadow or another part of the environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits excellent camouflage through color blending. Its translucent green body and legs closely match the vibrant green hue of the leaf it is resting upon. Although it is somewhat backlit, creating a subtle silhouette, its inherent color makes it blend seamlessly with the chlorophyll-rich background. The slender form of its body and elongated legs also contribute to its low contrast against the leaf's surface, as its outline doesn't strongly disrupt the visual flow of the leaf's structure and veins. This combination of color matching and low contrast makes the grasshopper very difficult to spot at first glance."
+}

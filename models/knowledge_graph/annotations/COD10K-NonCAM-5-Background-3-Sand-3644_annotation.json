@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Eroded rock landscape",
+  "background_description": "The image features a rugged, eroded rocky landscape. The terrain is characterized by a mix of reddish-brown, dark grey, and white rocks, with numerous irregular depressions, holes, and crevices that create a highly textured and uneven surface. Some areas appear wet or contain small pools of water in the depressions. Sparse green vegetation is visible along the top edge of the frame, growing among lighter-colored rocks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, fish, bird, reptile, amphibian, or arachnid) is visible within the image. The scene exclusively depicts an eroded rocky landscape with some sparse vegetation and water pools. Therefore, camouflage is not present."
+}

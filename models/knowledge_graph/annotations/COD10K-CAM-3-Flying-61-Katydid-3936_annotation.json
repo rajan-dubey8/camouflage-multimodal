@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of various shades of green foliage, including rose leaves and stems in the foreground where the Katydid is perched. In the blurry mid-ground, there are hints of purple flowers and distant dark green leaves, with a touch of yellow/orange foliage further away. The overall environment is lush and verdant.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid demonstrates excellent camouflage through mimicry. Its entire body, particularly its prominent wings, is shaped almost identically to a green leaf, complete with visible 'veins' and a textured surface that closely matches the surrounding foliage. The vibrant green coloration of the Katydid perfectly blends with the healthy green leaves it is resting on. This combination of color, texture, and especially shape mimicry (leaf mimicry) makes it exceptionally difficult to distinguish the organism from the natural leaves in its environment, significantly reducing its contrast and making it virtually invisible to predators."
+}

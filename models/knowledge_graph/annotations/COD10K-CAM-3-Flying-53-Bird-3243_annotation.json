@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "A wetland or shallow flooded forest environment, characterized by calm, dark water reflecting the sky and bare trees. Numerous bare tree trunks, fallen logs, and thin, leafless branches are visible, some upright, others horizontally across the water. The overall palette is muted with shades of grey, brown, and dark blue, with hints of warm sunlight illuminating parts of the tree bark and reflections on the water's surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Bird (a Canada Goose) is easily visible in this image. Its distinct black head and neck with a prominent white cheek patch, along with its white undertail and medium brown body, create clear visual separation from the background. Although its brownish body feathers share some earthy tones with the tree bark and dried branches, the strong contrast created by its black and white markings makes it stand out significantly against the dark water and muted background elements. Its silhouette is clearly defined, and it does not blend with the patterns or textures of its environment."
+}

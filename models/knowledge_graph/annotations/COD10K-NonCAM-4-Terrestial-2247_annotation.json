@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk",
+  "background_description": "The background consists of vibrant green, tall grass covering most of the lower and mid-ground, suggesting a meadow or pasture. Behind the grass, there is a narrow body of dark water, likely a stream or ditch, bordered by taller, slender greenish-brown reeds or marsh plants.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The elk's fur ranges from a light tan on its body to a dark brown on its head and neck, and it has velvet antlers. This coloration creates a high visual contrast against the vibrant, bright green grass that dominates its immediate surroundings. The textures are also distinct, with the elk's smooth fur contrasting with the linear blades of grass. There is no attempt at color blending, mimicry, or disruptive patterning to conceal the animal in this environment, making it highly visible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a sandy seafloor, varying in color from light beige to darker brown-grey, interspersed with small, light green seagrass or algal leaves, and a significant amount of brown, fibrous detritus, possibly decaying plant material or fine algae strands. Scattered shell fragments and small pebbles are also visible.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Pipefish exhibits camouflage primarily through color blending and shape resemblance. Its elongated, slender body is a light beige/tan color, which closely matches the lighter sandy areas and some of the pale, fibrous detritus on the seafloor. This color similarity helps it blend into the overall tone of its environment. Furthermore, its long, thin shape allows it to visually mimic small sticks or pieces of decaying plant matter commonly found in this habitat, making it less distinguishable from the background clutter. However, the camouflage is not perfect; its distinct linear form, although slender, still presents a recognizable outline. Additionally, a small red/orange spot near its head introduces a high-contrast element that somewhat breaks the overall blending effect. Despite these minor imperfections, the combination of color and shape makes the Pipefish effectively camouflaged, requiring careful observation to spot."
+}

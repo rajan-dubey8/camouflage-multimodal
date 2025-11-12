@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with cumulus clouds",
+  "background_description": "The image captures a dramatic sky filled with various cloud formations. The upper portion shows a clear, deep blue sky. Below, voluminous cumulus clouds are brightly lit, appearing in shades of white and warm yellow/pink, suggesting sunlight hitting their tops. Beneath these bright clouds, darker, denser clouds are present, characterized by deep purplish-blue and gray tones, indicating shadowed areas or lower cloud layers. The cloud textures vary from soft and ethereal to dense and turbulent.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a sky filled with clouds. There are no discernible organisms (animals, insects, or fish) present in the scene. Therefore, there is no subject for camouflage detection, and no camouflage is present."
+}

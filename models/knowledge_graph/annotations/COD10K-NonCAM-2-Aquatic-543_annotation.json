@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal",
+  "background_description": "The background consists of open, choppy ocean water with varying shades of blue and grey. The surface shows distinct ripples and small waves, reflecting some light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows the head of a seal emerging from the water. Its dark grey fur stands out distinctly against the lighter blue-grey ocean water, indicating no camouflage is present. The animal is easily visible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background features a prominent, gnarled, weathered dead tree branch with rough, cracked textures and varying shades of grey and dark brown, serving as the bird's perch. Beyond this, the distant background is a soft, out-of-focus blur of warm earthy tones, ranging from golden brown to darker olive-green, suggesting arid vegetation or dry foliage under natural light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The bird exhibits effective camouflage by blending remarkably well with the dead, weathered branch it is perched upon. Its muted grey and brown plumage closely matches the dry, textured wood in both color and tone. The natural light creates similar patterns of highlights and shadows on both the bird's feathers and the branch, further disrupting the bird's outline and making it less distinguishable from its environment. While the bird's shape is still discernible, the strong color and texture similarity, combined with the play of light, significantly reduce its visibility against this specific background."
+}

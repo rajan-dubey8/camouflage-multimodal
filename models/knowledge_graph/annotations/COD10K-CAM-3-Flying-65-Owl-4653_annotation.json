@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a thick, dark tree trunk with rough, deeply textured bark on the left. To the right and surrounding the owl are numerous dark, gnarled branches, heavily covered with what appears to be moss or lichen, giving them a mottled, irregular texture. There are also dark green needles or leaves from conifer trees. The overall lighting is dim and diffused, suggesting a heavily shaded forest environment or dusk/dawn, with a faint lighter blue-grey area visible in the deep background between branches.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The owl is exceptionally well camouflaged against the tree trunk and branches. Its mottled brown, grey, and white plumage closely matches the dark, textured bark of the tree trunk and the lichen-covered branches, providing high color and texture similarity. The patterns on its feathers mimic the irregular textures and dappled light of the bark and moss. The owl is nestled deeply within the branches, which helps to disrupt its overall outline and blends its shape with the surrounding foliage and tree structure, making it difficult to discern its form. The dim lighting of the environment further reduces contrast, enhancing its concealment and making it a prime example of shadow hiding. While its bright yellow eyes stand out upon close inspection, the rest of its body effectively disappears into the background."
+}

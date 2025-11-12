@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of dense green foliage, primarily leaves and blades of grass. The foreground features a light green leaf upon which the Katydid rests. Much of the background is softly blurred, creating a bokeh effect with varying shades of green, some lighter and illuminated, others darker and in shadow. The textures are mostly smooth from the leaves.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Katydid demonstrates exceptional camouflage in this image. Its vibrant green coloration perfectly matches the hue of the surrounding leaves, especially the one it is perched on. The organism's body, particularly its wings, has a shape and subtle texture that convincingly mimics a fresh leaf, contributing to effective shape disruption. The semi-translucent nature of its body also helps it blend seamlessly with the varied lighting and depths of the foliage, resulting in very low color and texture contrast against its immediate environment. It is very difficult to distinguish from the background, making it highly camouflaged."
+}

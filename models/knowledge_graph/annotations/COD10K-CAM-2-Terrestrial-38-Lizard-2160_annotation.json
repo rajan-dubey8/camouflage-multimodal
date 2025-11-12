@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is perched on a piece of dried, skeletal plant material, likely a cholla cactus skeleton, which is light tan to off-white with numerous irregular holes and textured surfaces. The background behind the lizard is a blurry, mottled surface resembling rock or dry earth, featuring shades of beige, light brown, and grey, interspersed with darker patches, and a thin green plant stem horizontally crossing the middle distance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits strong camouflage in this image. Its body coloration, a mottled grey-brown with lighter and darker scales, perfectly matches the neutral, earthy tones of both the cholla cactus skeleton it's resting on and the blurry rock/soil background. The rough, scaly texture of its skin closely mimics the porous, irregular, and textured surface of the cholla skeleton, effectively breaking up its outline. The intricate patterns on its body blend seamlessly with the complex, non-uniform patterns of its immediate environment, making it very difficult to distinguish from the background. The overall low contrast between the lizard and its surroundings further enhances its ability to blend in."
+}

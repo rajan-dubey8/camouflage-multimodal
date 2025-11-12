@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Green camouflaged insect",
+  "background_description": "The foreground is dominated by the rough, textured bark of a tree, displaying shades of light brown, grey, and some greenish lichen or mossy patches. The background is a soft-focus blur of bright green foliage and darker brown earthy tones, indicative of a natural outdoor environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "A slender green insect, likely a stick insect or a mantis nymph, is visible on the tree bark and a thin green vine/stem in the lower-left quadrant of the image (more apparent in the provided crops). Its elongated body shape and bright green coloration provide excellent mimicry of the surrounding green foliage and plant stems, making it very difficult to distinguish from the natural vegetation. The insect's color provides high similarity with the green plant material, and its form blends well with the textures and shapes of the stems, resulting in low contrast against its intended background elements."
+}

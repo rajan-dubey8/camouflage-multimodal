@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human snorkeler",
+  "background_description": "The background consists of clear, turquoise-colored ocean water with sunlight filtering through, creating ripple patterns on the subject. The seafloor beneath is covered in dense patches of green seagrass interspersed with areas of lighter sand.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a human snorkeler underwater, holding a conch shell. The human's skin tone, swimsuit, and snorkeling gear (mask, snorkel, gloves) contrast sharply with the surrounding blue-green water and green seagrass. There is no attempt at color blending, mimicry, or disruptive patterning to conceal the individual. The human's form, colors, and textures are distinct from the aquatic environment, making them highly visible."
+}

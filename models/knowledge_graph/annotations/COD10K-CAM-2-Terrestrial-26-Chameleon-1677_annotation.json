@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background is predominantly a very dark, almost black, featureless void, suggesting either night time with a focused light source on the subject or an extremely deep depth of field. A few indistinct, dark green stems or leaves are visible directly behind and around the chameleon.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The chameleon exhibits a mix of vibrant green on its tail and parts of its body, and a duller brownish-tan on its head and back. While the green coloration offers some color similarity with the immediate green stems it's perched on, the vast majority of the background is a stark, dark void. This creates a very high contrast, making the chameleon, particularly its lit green and brown parts, stand out dramatically against the dark environment. Its bright green eye is also highly conspicuous. Despite the chameleon's natural ability to camouflage, in this specific image, the environmental context (a dark, featureless background) and the high contrast illumination render its coloration ineffective for concealment."
+}

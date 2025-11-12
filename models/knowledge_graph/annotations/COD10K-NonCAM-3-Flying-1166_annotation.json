@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Brown Pelican",
+  "background_description": "The background is a soft, out-of-focus blur of a uniform dark greenish-grey color, likely representing calm water or distant, indistinct foliage. It has a smooth, undifferentiated texture.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a Brown Pelican against a plain, out-of-focus dark greenish-grey background. The bird's distinct coloration, featuring bright yellow on the head, white on the neck, and dark plumage/bill, stands out significantly from the uniform background. There is no visual attempt for the bird to blend in or hide within this specific scene; it is the prominent subject. Therefore, no camouflage is present."
+}

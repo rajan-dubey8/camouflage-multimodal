@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird on branch",
+  "background_description": "The background consists of a clear, bright blue sky and a network of bare, dark brown and grey tree branches. Some branches exhibit rough textures and patches of green-grey lichen.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird's bright yellow underparts and dark upper plumage create a strong contrast against the blue sky and the dark, textured branches. While the dark feathers might offer some minimal blending with the shadowed parts of the branch, the prominent yellow belly and smooth feathered texture make the bird highly visible and do not contribute to effective camouflage. There is no mimicry or disruptive patterning to obscure its outline."
+}

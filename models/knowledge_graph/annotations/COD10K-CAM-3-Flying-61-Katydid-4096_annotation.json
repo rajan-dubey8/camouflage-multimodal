@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of several large, deep green leaves with visible veins and small lighter speckles. A light brown, textured stem or branch runs diagonally through the lower right part of the image. Areas between the leaves and behind the subject are dark, almost black, suggesting deep shadow or night.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "While the Katydid's main body and leg coloration are green, providing some degree of color matching with the surrounding leaves, several features cause it to stand out prominently. Its face and chest area are a vibrant orange-red, contrasted with black, which immediately draws the eye. The organism is also covered in numerous sharp, white-tipped spikes that create a stark visual contrast and a highly irregular, distinct silhouette against the smoother leaf surfaces. The overall spiky texture and the combination of bright, contrasting colors (orange-red, black, white spikes against green) prevent effective blending, making the Katydid highly visible rather than camouflaged."
+}

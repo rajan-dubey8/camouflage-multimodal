@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Nutria",
+  "background_description": "The background consists of dry, light brown to beige sandy or earthen ground, mottled with darker patches and shadows from overhead vegetation. Scattered small pebbles and dry plant debris are visible on the surface. In the upper background, there are hints of blurry, distant green foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Nutria demonstrates **color blending** camouflage. Its dense, dark brown fur naturally matches the earthy tones often found in its habitat, such as soil, mud, and shadowed ground areas, which is a form of natural blending. In this specific image, while some areas of the background (darker earth and shadows) share similar color tones with the animal's fur, the Nutria is predominantly standing on lighter, sunlit sandy ground. This lighter background creates a moderate color and contrast difference, making the animal quite visible despite its inherent camouflaging coloration. The texture of its shaggy fur is also distinct from the granular texture of the sand, further reducing its overall blending effectiveness in this particular scene."
+}

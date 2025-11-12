@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Little Blue Heron",
+  "background_description": "The background is a uniformly blurred field of warm golden-yellow and brownish-orange hues, suggesting out-of-focus natural vegetation like marsh reeds, dry grass, or distant foliage under soft lighting. It is smooth and lacks distinct textures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Little Blue Heron with prominent dark bluish-grey plumage. The background is a bright, out-of-focus golden-yellow/brown. The bird's dark coloration creates a high contrast against the lighter, warm-toned background, making it stand out distinctly. There is no blending of colors or patterns between the bird and its immediate environment in this particular scene, nor does it mimic any background elements. Therefore, camouflage is not present."
+}

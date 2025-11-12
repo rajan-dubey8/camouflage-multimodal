@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Snakehead Fish",
+  "background_description": "The background consists of blurred aquatic vegetation or substrate, predominantly in shades of yellow and green, with some darker areas. The water appears clear, and the viewing surface exhibits numerous scratches.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Snakehead fish with a dark, elongated body and a distinct reddish tail with spots. The fish stands out against the blurred yellow and green background; therefore, no camouflage is present."
+}

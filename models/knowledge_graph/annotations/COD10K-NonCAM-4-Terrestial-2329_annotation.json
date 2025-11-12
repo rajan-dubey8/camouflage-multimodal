@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The leopard is resting on a dark, weathered wooden plank, partially obscured by shadow. Behind it are two lighter, vertically-grained wooden logs or posts, one of which has a metal bolt. The top portion of the background is a bright, slightly washed-out light blue/white, suggesting an overcast sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 1.0,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The leopard's coat displays a classic form of disruptive pattern camouflage, characterized by dark rosettes against a tawny-yellow background. This patterning is designed to break up the animal's outline, making it difficult for predators or prey to distinguish its form against complex natural backgrounds like dappled sunlight in forests or rocky terrain. While the immediate background here is a wooden structure rather than its natural habitat, the spots still contribute to disrupting its silhouette, blending areas of dark fur with shadowed wood and lighter fur with illuminated wood, reducing overall visibility compared to a solid-colored animal."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The organism is resting on a textured, woody branch with mottled brown and grey bark. Portions of vibrant green leaves are visible in the foreground and blurred background, with a dark, out-of-focus area behind the main branch, possibly deep shadow or foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Katydid demonstrates exceptional camouflage against the woody branch. Its body is predominantly a mottled light brown and grey, intricately patterned with darker speckles and irregular shapes that perfectly match the color variations and coarse texture of the bark. The rough segmentation of its body and the reddish-brown of its legs also blend seamlessly with the branch's natural appearance. This combination of color blending and pattern matching effectively breaks up its outline and reduces the contrast with its immediate surroundings, making it very difficult to spot."
+}

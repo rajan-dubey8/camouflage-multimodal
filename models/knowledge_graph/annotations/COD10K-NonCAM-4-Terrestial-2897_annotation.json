@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "People on a beach",
+  "background_description": "The background features a clear, turquoise ocean with gentle waves at the shore, transitioning to deeper blue further out. A light, sandy beach forms the immediate foreground. In the mid-ground, a large white cruise ship with red funnels and a smaller white boat are visible. The sky above is a muted blue-grey.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features two human individuals standing in shallow ocean water. They are wearing swimwear and a casual t-shirt and shorts. Their skin tones and clothing colors (orange shirt, striped pink/purple bikini, plaid white shorts) create a high contrast against the turquoise water and light sandy beach. There are no patterns, colors, or textures present on their bodies or clothing that resemble the surrounding environment, making them highly visible and not camouflaged."
+}

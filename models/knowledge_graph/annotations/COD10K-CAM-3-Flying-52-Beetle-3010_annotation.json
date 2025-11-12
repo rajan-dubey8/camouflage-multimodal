@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "The beetle is perched on a tree branch heavily covered in vibrant, lush green moss of varying textures. In the background, there's a dense, out-of-focus tropical forest with many shades of green foliage and dappled sunlight creating bokeh effects.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.25,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "While the beetle's primary color is a metallic green, which shares a hue with the surrounding moss and foliage, its highly reflective, smooth, and iridescent surface makes it stand out significantly. The moss on the branch is rough, absorbent, and matte, contrasting sharply with the beetle's shiny texture and strong specular highlights. The distinct oval shape of the beetle also creates a clear silhouette against the irregular contours of the moss, and the strong contrast from its metallic sheen makes it easily perceptible rather than blending in."
+}

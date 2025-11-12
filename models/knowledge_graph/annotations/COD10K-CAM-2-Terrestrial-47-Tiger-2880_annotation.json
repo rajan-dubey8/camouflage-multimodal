@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists primarily of dense, tall, dry, yellowish-brown grass or reeds. There are some patches of green vegetation visible deeper within the grass, suggesting a wetland or savannah-like environment. The stalks are thin and vertical, creating a visually busy, linear pattern with natural shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The tiger exhibits strong camouflage in this image. Its tawny orange coat closely matches the dry, yellowish-brown color of the tall grass and reeds, providing excellent color blending. Furthermore, the tiger's distinctive black vertical stripes effectively mimic the linear patterns and shadows created by the dense, upright grass stalks. This pattern matching, along with the stripes breaking up the tiger's large body, contributes to shape disruption, making its outline less distinct. The visual 'busyness' of the grass, combined with the tiger's color and pattern, significantly aids in its concealment, making it difficult for a predator or prey to spot."
+}

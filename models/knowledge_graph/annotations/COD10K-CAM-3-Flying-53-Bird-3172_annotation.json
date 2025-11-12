@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense field of tall, vibrant green grass, interspersed with some drier, brownish stalks. Numerous small yellow buttercups are scattered throughout the grass, particularly in the foreground. The entire field appears damp, with small water droplets visible on many grass blades. The background is slightly out of focus, giving a soft, textured appearance.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The bird's reddish-brown plumage offers a medium degree of color blending with some of the earthier tones and drier stalks present in the grassy field, although it contrasts with the dominant vibrant green. The primary camouflage mechanism at play here is shape disruption and concealment: the bird is largely obscured by the tall, dense grass. Its body and lower parts are almost entirely hidden, with only its head, neck, and upper back visible above the grass line. The vertical lines and varying textures of the grass effectively break up the bird's silhouette, making it less distinct against the busy background. While not perfectly invisible, the combination of partial color matching and significant physical concealment by the environment makes the bird blend in considerably."
+}

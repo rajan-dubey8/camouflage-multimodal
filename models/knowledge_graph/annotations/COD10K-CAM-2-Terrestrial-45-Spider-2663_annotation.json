@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background is a rough, uneven rock surface, possibly granite or a similar igneous rock, characterized by a complex mix of dark grey and black mineral inclusions, interspersed with lighter grey and white crystalline patches. There are also areas of brownish-tan, suggesting weathering or fine soil/lichen. The texture is granular and irregular, with visible striations and small crevices.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider demonstrates remarkable camouflage by almost perfectly blending with the rocky environment. Its body and legs exhibit a mottled pattern of grey, brown, and black hues that precisely match the varied mineral composition and coloration of the surrounding rock. The granular texture and irregular patterns on the spider's exoskeleton mimic the rough, striated, and crystalline surface of the rock, effectively disrupting its outline. This combination of color matching and pattern disruption results in a very low contrast difference with the background, making the spider exceptionally difficult to distinguish from the rock itself."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is situated amidst a dense cluster of small, five-petaled white flowers with visible yellow stamens at their centers. These flowers are attached to thin, reddish-brown stems. In the deeper background, there is dark, out-of-focus green foliage, creating a significant contrast with the bright white flowers.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly exhibits effective camouflage by perching on white flowers. Its wings are primarily white with delicate pale green or yellowish veins. This coloration closely matches the pristine white petals of the flowers, leading to a high degree of color similarity and low contrast. While the wing texture with veins is not identical to the smooth petals, the overall lightness and pattern allow it to blend seamlessly into the floral cluster. This color blending makes the butterfly less conspicuous against its immediate environment of bright flowers."
+}

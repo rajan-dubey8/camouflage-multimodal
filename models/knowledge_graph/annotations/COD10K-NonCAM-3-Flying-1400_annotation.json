@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small birds on feeder",
+  "background_description": "The birds are perched on a gray, square bird feeder with a prominent cobblestone-like texture. The background behind the feeder consists of blurred green grass and a further blurred light gray, possibly concrete or asphalt, surface.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The birds' plumage, featuring brown and reddish tones with streaky patterns, provides a strong contrast against the light gray, artificially textured bird feeder. Their colors and patterns do not mimic the feeder's 'stone' texture or the blurred green and gray background, making them stand out clearly rather than blend in. There is no attempt at color blending, mimicry, or disruptive patterning relative to their immediate environment."
+}

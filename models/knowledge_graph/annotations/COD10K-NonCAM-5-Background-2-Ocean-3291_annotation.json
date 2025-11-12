@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Shallow clear ocean water with rocky bottom",
+  "background_description": "The image captures a clear, shallow aquatic environment. The water is turquoise and blue, transitioning from lighter hues in the foreground to deeper blues further away. Sunlight creates rippling patterns and bright reflections on the visible seabed. The bottom consists of a mix of small pebbles, gravel, and larger rocks, appearing in shades of brown, dark gray, and greenish-brown, indicating a natural, rocky shoreline or seabed.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The scene exclusively depicts an aquatic environment with clear water and a rocky seabed. Therefore, no camouflage is present."
+}

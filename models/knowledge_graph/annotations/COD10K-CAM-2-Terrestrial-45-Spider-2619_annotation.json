@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background is composed of dark reddish-brown, loose soil with a clumpy, granular texture. Numerous small aggregates of earth create an uneven surface with subtle variations in light and shadow. Scattered across the soil are a few small green plant sprouts and thin, dried brown plant stems or roots.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The spider is very effectively camouflaged against the soil. Its body color is a muted, earthy tan-brown, closely matching the lighter shades and general hue of the surrounding dirt. The spider's somewhat lumpy and textured carapace also remarkably mimics the granular and clumpy surface of the soil, making it blend seamlessly. The contrast difference between the spider and its immediate environment is very low, requiring close inspection to discern its outline. This combination of color and texture matching makes it difficult to spot."
+}

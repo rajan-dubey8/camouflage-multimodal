@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Glass Frog",
+  "background_description": "A dark, rough wooden surface, possibly a log or branch, displaying faint greenish-brown textures. The background consists of very dark, out-of-focus dense green foliage, suggesting a humid, riparian or forest-edge environment typically found adjacent to freshwater bodies.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The bright green Glass Frog stands out distinctly against the dark, rough wooden surface and blurry dark foliage. Its vibrant coloration and smooth texture do not blend with the surroundings, indicating no camouflage."
+}

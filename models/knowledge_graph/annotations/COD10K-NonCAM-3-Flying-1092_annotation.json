@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of blurred green foliage, indicative of distant leaves and vegetation, creating a soft, out-of-focus backdrop. There is a prominent dark brown branch in the foreground on which the butterfly is perched, with a slightly lighter, out-of-focus branch visible in the lower right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's distinct brown wings with bright light blue/white patterns, along with its dark body, create a high contrast against the blurred green foliage background. Although it is resting on a brown branch, its vivid patterns and overall coloration do not blend with the surrounding environment (green leaves or brown branch) to provide any significant camouflage. The butterfly is easily visible and stands out clearly."
+}

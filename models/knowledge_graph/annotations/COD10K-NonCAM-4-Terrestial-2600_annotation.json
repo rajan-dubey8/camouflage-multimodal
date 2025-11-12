@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Baboons",
+  "background_description": "The baboons are situated on a large, weathered, dark brown log with prominent wood grain and cracks. The background consists of dense, lush green vegetation, including various grasses and leafy plants, with some drier, yellowish stalks interspersed. There are also a few small yellow flowers visible on the ground near the log.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.35",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The baboons' fur color is primarily an earthy brown/olive tone. While they are clearly visible in the foreground, their coloration provides some degree of color blending with the natural environment, particularly with the brown tones of the log they are sitting on and the drier elements within the vegetation. This natural coloration helps reduce their overall contrast against a typical savannah or wooded environment, even if they stand out more against the vibrant green in this specific scene. However, there is low texture similarity between their fur and the surroundings, and their distinct form creates a medium contrast difference, preventing highly effective concealment."
+}

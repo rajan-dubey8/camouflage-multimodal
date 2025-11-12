@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background consists primarily of a sandy seafloor, which is dimly lit by a visible beam of light from above. To the left side, there are clusters of reddish-brown marine algae or plant-like structures growing on the seabed. The water above is dark and appears deep or poorly illuminated, with some particulate matter visible in the light beam.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Stingaree is highly camouflaged in this image. Its dorsal surface displays a light tan/grey coloration with darker, mottled patches that precisely match the granular texture and varying tones of the sandy seafloor on which it rests. The flat body shape of the stingaree allows it to lie very close to the substrate, minimizing its silhouette. The excellent color and texture similarity, combined with the disruptive patterns on its skin, effectively break up its outline and make it extremely difficult to distinguish from the surrounding seabed, particularly given the dim and uneven lighting conditions."
+}

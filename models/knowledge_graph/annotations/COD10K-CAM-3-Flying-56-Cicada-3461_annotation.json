@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background features several dark, rough tree branches, one of which the cicada exuvia is clinging to. Behind these branches, a blurred dark tree trunk is visible, along with out-of-focus green foliage and bright, circular bokeh lights, indicating distant light sources or gaps in the canopy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The cicada exuvia in this image is not effectively camouflaged. Its light yellowish-brown and somewhat shiny, translucent chitinous shell stands out significantly against the dark, rough, grey-brown tree branch and the blurred darker tree trunk in the background. The strong illumination on the underside of the exuvia creates a high contrast difference, making it visually distinct and easily noticeable. There is minimal color or texture similarity with its immediate surroundings, causing it to lack blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background consists of a clear, light blue-green ocean water column with scattered suspended particles, and a vast, pale sandy seafloor. The sand has subtle ripples and variations in texture, and in the immediate vicinity of the stingarees, there are clouds of disturbed sand.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shape disruption / Other",
+  "explanation": "The stingarees demonstrate excellent camouflage by actively burying themselves in the sand and stirring up sediment to cover their bodies. Their dorsal surfaces, when visible, are a dark shade, but they are almost entirely covered by the light-colored sand, making their visible parts (primarily eyes and outlines) blend remarkably well with the sandy seafloor. The disturbed sand around them further helps to obscure their shape and create a natural, low-contrast appearance against the environment. This combination of color blending, shape disruption through burial, and behavioral adaptation (sand-kicking) makes them extremely difficult to spot."
+}

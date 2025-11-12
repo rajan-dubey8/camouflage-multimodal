@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Goat",
+  "background_description": "The background consists of out-of-focus green foliage, appearing as a blurred mass of varying shades of dark green, suggesting dense leaves and trees. The texture is soft and indistinct due to the shallow depth of field.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The goat's light tan and off-white fur color stands out distinctly against the dark green, blurred foliage of the background. There is a clear difference in both hue and luminance, creating a high contrast that makes the goat easily visible. The textured fur also differs significantly from the smooth, out-of-focus background, indicating no effective camouflage strategy is in use."
+}

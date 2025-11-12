@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a textured, irregular rock surface, predominantly in shades of brown, tan, and grey, with some darker black spots (likely small barnacles or algae) and wet patches. The surface shows crevices, bumps, and varying levels of light and shadow, characteristic of an intertidal zone.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The crab exhibits excellent camouflage. Its carapace and legs are mottled with brown, tan, and grey patterns, closely matching the varied coloration of the rocky, textured environment. The striped and speckled patterns on its limbs and body effectively break up its outline, making it difficult to distinguish from the irregular rock surface, which also features dark spots and varied textures. The overall color and pattern similarity, combined with the low contrast difference, allow the crab to blend seamlessly with its surroundings, hiding it from potential predators or prey."
+}

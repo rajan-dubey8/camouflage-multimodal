@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red wolf",
+  "background_description": "The background consists of a dense woodland environment with abundant green foliage, smaller plants, and some exposed dark earth or leaf litter. A large, dark brown tree trunk with textured bark is prominent in the left foreground, partially obscuring the animal.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The red wolf's fur, a mix of reddish-brown and tan, provides a degree of natural color blending camouflage within its woodland habitat. While it contrasts with some of the vibrant green foliage, its coloration allows it to blend with the earthy tones of tree trunks, soil, and dried vegetation, which are common elements of its environment. This natural patterning aids in concealment, despite its current conspicuous posture and direct gaze."
+}

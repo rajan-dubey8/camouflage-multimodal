@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Raccoon",
+  "background_description": "The raccoon is resting on a dark, textured tree branch covered with green moss. The background beyond the branch is a softly blurred, light green, indicating distant foliage or a natural outdoor environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The raccoon's fur, primarily shades of grey, black, and white, provides a moderate degree of color blending with natural forest environments, such as tree bark, shadows, and undergrowth. Its shaggy texture also offers a medium similarity to the rough, mossy surface of the branch it is resting on. While the distinct facial mask creates high contrast on its face, the overall body coloration and patterning help the raccoon to blend into its natural habitat, aiding in concealment from both prey and predators, especially in dappled light or at night. The color palette of its fur aligns well with the muted tones of a forest floor or tree canopy."
+}

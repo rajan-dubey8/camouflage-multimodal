@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Steller's Jay",
+  "background_description": "The background consists of blurred green foliage, including light green young leaves and darker brown branches, some with visible water droplets, indicating a moist, natural forest or garden environment. The depth of field highlights the bird while blurring the surrounding branches and leaves.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird, identified as a Steller's Jay due to its distinct dark blue/black and blue plumage with a prominent crest, does not exhibit camouflage in this image. Its colors and patterns stand out clearly against the predominantly green leaves and brown branches of the background. There is no mimicry, color blending, or disruptive pattern that helps it merge with the environment. Although some leaves partially obscure the bird, this is physical obstruction rather than an active camouflage strategy by the bird itself."
+}

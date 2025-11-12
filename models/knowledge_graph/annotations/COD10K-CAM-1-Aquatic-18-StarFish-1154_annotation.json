@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of fine-grained, light golden-brown sand, appearing somewhat damp or packed. The texture is uniform and granular across the entire image, with subtle variations in light and shadow creating a natural, slightly uneven surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The StarFish exhibits a very high degree of camouflage. Its entire body color is virtually identical to the surrounding fine-grained, light golden-brown sand, demonstrating excellent color blending. Additionally, the texture of the starfish appears to be composed of the same sandy material, resulting in an exceptionally high texture similarity with its environment. While the starfish possesses a distinct shape, the contrast difference is low due to the perfect color and texture match; only subtle shadows define its outline and indentations, preventing it from completely disappearing. This combination of color and texture matching makes it incredibly difficult to distinguish the organism from the sandy background."
+}

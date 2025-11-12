@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-crowned Night Heron",
+  "background_description": "The background consists primarily of dense green foliage and dark brown tree branches, heavily blurred and out of focus. There are patches of dappled light filtering through the leaves, creating varying shades of green and brown. Some foreground leaves are also out of focus, partially obscuring the view.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Black-crowned Night Heron is clearly visible and easily distinguishable against the background of green leaves and brown branches. Its distinct black crown and back contrast sharply with its white/light grey underside, creating a strong visual presence. While Night Herons often utilize their coloration for cryptic camouflage in their natural wetland habitats (e.g., blending with reeds or shadows), in this specific arboreal setting, its plumage does not effectively merge with the colors or patterns of the surrounding foliage and bark. The bird's form and coloration stand out, indicating no active or effective camouflage in this particular scene."
+}

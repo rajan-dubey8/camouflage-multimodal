@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef environment",
+  "background_description": "The background consists of clear, turquoise-blue ocean water with sunlight filtering through. The seafloor features various types of coral colonies, including stony corals and brain corals in shades of muted green, brown, and off-white. The substrate is rocky, with some visible detritus or algae.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a vibrant underwater coral reef environment. The main subject, a large red fan coral (gorgonian), is an organism that forms a prominent part of this environment. Its vivid red color stands out dramatically against the turquoise water and the more muted tones of the surrounding corals and rocky substrate. This high contrast and distinct coloration indicate no attempt at camouflage; instead, the coral is highly conspicuous in this lighting and depth."
+}

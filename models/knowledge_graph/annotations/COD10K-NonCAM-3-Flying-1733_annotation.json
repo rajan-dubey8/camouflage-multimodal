@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Falcon",
+  "background_description": "The background is a soft, out-of-focus blur of vibrant green, suggesting foliage, grass, or trees in the distance. It is uniform and lacks distinct textures or features.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features a falcon with intricate brown, white, and tan plumage. While such coloration typically serves as camouflage in rocky, arid, or forested environments, the bird is depicted against a soft, out-of-focus vibrant green background. This green background provides a strong color contrast with the bird's feathers, making the bird stand out clearly rather than blend in. There is no similarity in color or texture between the bird and its immediate background in this specific scene, thus no active camouflage is observed."
+}

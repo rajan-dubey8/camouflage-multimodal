@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "House Sparrow",
+  "background_description": "The bird is situated within a dense green bush or hedge. The background consists predominantly of vibrant green leaves, some in sharp focus around the bird, while others are softly blurred further back. There's also a distinctive yellowing leaf directly beneath the bird's breast, and a hint of a darker, possibly blue, background above. The overall impression is lush foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The house sparrow exhibits camouflage through color blending. Its plumage, consisting of various shades of brown, gray, and speckled patterns, helps it blend with natural elements typically found in its habitat such as branches, dry leaves, and shadowed areas within foliage. While the surrounding leaves are a vibrant green which contrasts somewhat with the bird's main colors, the bird's earthy tones allow it to partially disappear within the varied colors and shadows of the bush, especially if viewed from a distance or if there were more brown/dry elements in the immediate vicinity. The yellow beak and the yellowing leaf nearby also create a minor localized color harmony. The texture of its feathers, however, is distinct from the smooth leaves, contributing to a lower texture similarity."
+}

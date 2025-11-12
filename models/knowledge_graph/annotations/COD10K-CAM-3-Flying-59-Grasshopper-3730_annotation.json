@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The grasshopper is perched on a light brown, dry-looking plant stem or stick. The background consists of heavily blurred, muted greens and browns, suggesting dried grass or other vegetation, with some faint glints of light. A vibrant green leaf is visible, out of focus, in the lower foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits excellent camouflage. Its body color, a shade of light tan and brown, almost perfectly matches the dried plant stem it is resting on. The subtle texture of its exoskeleton also blends well with the rough surface of the stem. The low contrast between the grasshopper and its immediate perch, combined with the matching colors, makes it very difficult to spot against this background. While a green leaf is in the foreground, the grasshopper has positioned itself on a structure that aligns with its natural coloration, enhancing its concealment."
+}

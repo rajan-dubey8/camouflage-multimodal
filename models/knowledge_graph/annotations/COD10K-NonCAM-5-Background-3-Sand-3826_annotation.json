@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Moonlit beach and forest",
+  "background_description": "The scene depicts a serene beach at twilight or early night, illuminated by a full moon high in a dark blue sky. A dense forest covers a hill that borders the sandy shoreline. The water, likely a lake or ocean, shows a long exposure effect on the waves breaking gently on the shore, with a bright, elongated reflection of the moon stretching across its surface. The sand is dark and appears soft, with some faint vegetation visible near the base of the forest.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image is a natural landscape featuring a beach, water, forest, and sky under moonlight. No animals, insects, or fish are visible within the frame, which are necessary conditions for camouflage to be assessed. Therefore, camouflage is not present in this environmental scene."
+}

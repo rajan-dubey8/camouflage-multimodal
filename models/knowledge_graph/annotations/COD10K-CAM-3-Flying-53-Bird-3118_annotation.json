@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background primarily features a thick tree trunk with rough, textured bark displaying shades of brown and gray. Several bright green leaves are visible in the foreground and background, some heavily blurred, adding a vibrant green element. Behind the tree trunk, there is a very blurred, light brownish-sandy area, possibly a wall or distant ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird's plumage, which is a mix of dull olive-green, brown, and grayish tones, blends effectively with the natural environment. Its body colors closely match the mottled browns and grays of the tree bark and the muted greens of the surrounding leaves. While the soft, feathery texture of the bird is different from the rough bark, the overall color harmony and the irregular edges created by its feathers help to soften its outline against the background. The contrast difference is moderate, as the bird's form is discernible upon close inspection, but its coloration prevents it from standing out sharply, making it reasonably camouflaged through color blending within this arboreal setting."
+}

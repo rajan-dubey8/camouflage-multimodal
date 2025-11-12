@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Seahorse",
+  "background_description": "The aquatic environment features a light sandy seabed in the foreground, transitioning to darker coral or rock formations covered in reddish and brownish algae or encrusting organisms. The water in the background has a clear greenish-blue hue.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a red seahorse clinging to coral/rock. Its distinct red coloration and unique shape stand out against the background, confirming the absence of camouflage."
+}

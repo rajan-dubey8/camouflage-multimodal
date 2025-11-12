@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Monkey",
+  "background_description": "The background consists of dense, lush green foliage and dark brown branches, typical of a jungle or forest environment. Various shades of green leaves are present, some in sharp focus behind the monkey, and others blurred in the foreground, creating a sense of depth and partial obstruction.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The monkey's fur, predominantly grayish-brown with reddish-brown limbs, does not effectively blend with the vibrant green and dark brown hues of its leafy environment. Its distinct white facial markings around the eyes and mouth, along with its darker crown and muzzle, create significant contrast against the background, making its face particularly noticeable. Although it is somewhat obscured by the surrounding foliage, its coloration and patterns do not contribute to active camouflage. The bright green leaf it is holding also stands out, further highlighting its presence."
+}

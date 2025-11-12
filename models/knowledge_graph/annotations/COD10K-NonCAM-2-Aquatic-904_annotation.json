@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Light-colored Cichlid",
+  "background_description": "The background consists of dark, murky aquatic environment, likely an aquarium, with several other fish blurred in the distance. Some fish appear yellowish-orange, while others are darker. There are also faint specks and particles visible in the water, possibly algae or detritus.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The main fish is a pale, creamy white/pinkish color with subtle yellow accents, and its bright coloration creates a very high contrast against the dark, indistinct background. There is no attempt at color blending or disruptive patterning that would help it merge with its surroundings. Its form and color make it highly conspicuous rather than camouflaged."
+}

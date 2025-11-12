@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of vibrant green leaves, some with serrated edges, and reddish-brown thorny stems or buds. The butterfly is perched on a delicate white flower with a pale yellow center, which is part of the leafy plant.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly exhibits strong camouflage by perfectly matching the white color of the flower it is resting upon. Its wings blend seamlessly with the petals, making it difficult for a viewer to distinguish the butterfly from the flower itself due to excellent color and low contrast. While the white flower and butterfly combination does create a distinct bright spot against the predominantly green leafy background, the organism effectively uses color blending with its immediate perch to significantly reduce its detectability by potential predators looking at the flower."
+}

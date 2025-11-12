@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Spotted frog",
+  "background_description": "The background consists of rough, irregular rock surfaces and earthy textures, primarily in shades of brown and gray, with some darker areas, suggesting a damp or shaded environment. The textures are coarse and uneven.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.45,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The organism is a frog with a mottled grayish-green and blue body covered in numerous bright yellow spots. The background consists of rough, earthy-toned rocks. While the bright yellow spots create a high contrast against the dominant brown/gray background, the irregular placement of these spots combined with the mottled base coloration serves as a disruptive pattern. This pattern breaks up the frog's outline, making it more difficult for predators to recognize its complete shape against the uneven and textured background, thus providing a degree of camouflage despite the contrasting yellow spots."
+}

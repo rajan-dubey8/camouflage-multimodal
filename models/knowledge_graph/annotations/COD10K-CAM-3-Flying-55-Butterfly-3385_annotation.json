@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense layer of dry, fallen leaves in various shades of brown, yellow-brown, and reddish-brown. There are also patches of dark soil or deep shadows between the leaves, and sparse blades of vibrant green grass growing through the litter. A thin, dark twig is also visible on the right side. The lighting creates sharp contrasts between illuminated areas and shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.78,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The butterfly demonstrates strong camouflage, effectively blending with its environment. The primary colors of its wings—various shades of brown and yellowish-brown—match the dried leaves that constitute the majority of the background. The intricate patterns, including darker mottling and white spots, break up the butterfly's outline and create a visual texture that mimics the varied surfaces, crumpled edges, and dappled light and shadow found within the leaf litter. The dark areas on its wings also help it to disappear into the deeper shadows present in the background. While the white spots offer some local contrast, the overall effect is one of low contrast with the cluttered environment, making the butterfly difficult to discern from the natural debris."
+}

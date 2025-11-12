@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus fish",
+  "background_description": "The background features a dense growth of blurred, vibrant green aquatic plants or algae. The water itself has a deep greenish-blue tint, creating a somewhat dark but clear environment. Another out-of-focus fish is visible further back.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Discus fish with striking yellow, orange, and white intricate patterns. Its bright and contrasting colors make it highly visible against the dark green aquatic plant background, confirming the absence of camouflage."
+}

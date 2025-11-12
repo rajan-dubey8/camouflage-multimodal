@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a sandy or gravelly substrate, appearing to be the bottom of a shallow body of water or shoreline. It features a varied texture made up of numerous small grains of sand, pebbles, and shell fragments in shades of light brown, dark brown, grey, white, and occasional reddish tones. The overall impression is granular and mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The fish exhibits excellent camouflage against its environment. Its body is covered in a mottled pattern of light brown, grey, and dark brown/black spots and patches that perfectly mimic the varied colors and textures of the sandy, pebbly substrate. The irregular distribution of pigment on the fish's skin blends seamlessly with the individual sand grains, small stones, and shell fragments, making it very difficult to distinguish from the background. The overall color palette of the fish matches the ground, and the pattern breaks up its outline, preventing it from standing out visually. This is a clear example of both color blending and pattern matching camouflage."
+}

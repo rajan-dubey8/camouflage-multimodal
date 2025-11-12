@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Eroded rock formation",
+  "background_description": "The image depicts a highly textured and irregular rock formation, likely volcanic or ancient coral, in a grey and white palette. The surface is rough, porous, and covered in many small, intricate crevices and projections, creating a complex visual pattern. A clear blue sky is visible in the background, contrasting with the detailed foreground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, fish) is detected within the image. The scene consists solely of natural environmental elements, specifically a highly textured and eroded rock or coral formation under a blue sky. Therefore, camouflage is not applicable as there is no object present to be camouflaged."
+}

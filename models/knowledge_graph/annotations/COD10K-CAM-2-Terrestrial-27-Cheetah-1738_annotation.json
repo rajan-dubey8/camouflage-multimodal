@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The background consists of dry, sandy-brown earth with scattered patches of sparse, yellowish-green and dried grass. There are several tree trunks and branches, casting distinct shadows and creating a dappled light effect across the ground. The overall environment appears to be an arid, sun-drenched savannah or bushland.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The cheetah is effectively camouflaged in this image. Its golden-tan fur provides excellent color blending with the dry, yellowish grass and the sun-baked earth. The distinctive black spots on its coat act as a form of disruptive coloration, breaking up its silhouette and mimicking the natural patterns of dappled light and shadow cast by the overhead trees and sparse vegetation. The cheetah's strategic position under the shade of a tree further enhances its concealment, as the shadows help to obscure its form and integrate the high-contrast spots with the environmental shadows. This combination makes it challenging to distinguish the animal's exact outline from the varied textures and light conditions of its environment, particularly from a distance or with a momentary glance."
+}

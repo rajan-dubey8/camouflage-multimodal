@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Hoverfly on daisy",
+  "background_description": "The insect is positioned on a daisy flower, characterized by white petals with subtle pink tips and a vibrant yellow, textured floreted center. The background is a soft-focus, blurred expanse of green, indicating lush foliage or grass.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The hoverfly exhibits distinct yellow and black striped patterns, which is a form of mimicry (Batesian mimicry, often mimicking bees or wasps for defense) rather than camouflage. These colors provide a high contrast against the white petals and the green background, making the insect highly visible. Its fuzzy texture also contrasts with the smooth petals and blurred background. Therefore, no camouflage is present; the insect's coloration serves as a warning signal rather than a blending mechanism."
+}

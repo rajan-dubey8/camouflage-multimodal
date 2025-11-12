@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Banded marine fish",
+  "background_description": "The background consists of a dark, uniform deep blue/black aquatic environment, likely deep water or an aquarium setup, with no discernible textures, rocks, or plants. There are some faint, out-of-focus reflections or other fish visible in the distance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits distinct silver-grey coloration with prominent dark vertical bands and bright yellow fins. This coloration creates a high contrast against the plain, dark blue/black water background. There is no color or texture similarity to the background, and its pattern does not disrupt its outline or blend it into this specific environment. Therefore, the fish is clearly visible and not camouflaged."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a tree trunk heavily covered in a dense layer of vibrant green moss and darker, possibly wet or lichen-covered patches that appear dark blue-gray and blackish. The underlying bark is rough and textured, with varying shades of brown visible through the moss. The texture is highly irregular and bumpy.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage against the tree trunk. Its closed wings display a complex pattern of black, white, and various shades of gray-blue and brownish tones. These patterns and colors remarkably mimic the mottled appearance of the mossy bark and the distinct patches of darker lichen or damp areas on the tree. The intricate, somewhat jagged patterns on the butterfly's wings align well with the irregular textures and varied coloration of the background. While the butterfly's wings have internal contrast, its overall presence blends into the busy, textured environment, making the contrast difference with the background low. This combination of color blending and precise pattern matching makes it very difficult to distinguish the organism from its environment."
+}

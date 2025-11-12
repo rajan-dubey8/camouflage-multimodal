@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a tree trunk with rough, textured bark. It is heavily covered with various types of lichens and mosses, displaying a range of colors including light grey, white, pale green, olive green, yellowish-brown, and dark brown. The surface is uneven and mottled with organic growth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits exceptional camouflage against the lichen-covered tree bark. Its body and long, slender legs are intricately patterned with mottled grey, brown, and greenish hues that perfectly match the various colors and textures of the surrounding lichens and bark. This high degree of color and pattern similarity effectively breaks up its outline and blends it seamlessly into the environment, making it very difficult to spot. The low contrast difference further enhances its ability to remain undetected, exemplifying both color blending and pattern matching strategies."
+}

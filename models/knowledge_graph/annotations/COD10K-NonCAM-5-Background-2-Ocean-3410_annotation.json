@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The image depicts an underwater environment dominated by diverse coral formations, primarily branching types. The corals display earthy tones of brown, beige, and light green. Visible parts of the seafloor and underlying structures are covered in darker green algae and lighter sandy patches. The water is clear with a distinct blue-green hue, indicating shallow, well-lit conditions.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an underwater coral reef ecosystem. No distinct animal, insect, or fish is visible attempting to camouflage within this environment. The corals themselves are sessile organisms that form the primary structure of the environment, not objects actively camouflaging against a separate background. Therefore, no camouflage is detected."
+}

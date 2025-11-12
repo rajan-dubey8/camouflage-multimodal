@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Wasp-like insect",
+  "background_description": "The background consists of a vibrant green leaf with visible veins and a slightly textured, somewhat reflective surface. Parts of the leaf are in sharp focus, while other areas are softly blurred into a homogeneous green, indicating a natural, leafy environment with ample light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect, which appears to be a sawfly or a similar wasp-like insect, displays prominent and distinct black and bright yellow stripes across its body. These bold colors create a very high contrast against the vivid green leaf it is positioned on. This pattern is characteristic of aposematism (warning coloration) rather than camouflage, serving to signal potential toxicity or defensive capabilities to predators. Both color and texture similarities between the organism and its environment are low, making the insect highly conspicuous and easily detectable, hence no camouflage is present."
+}

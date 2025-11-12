@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of calm water almost entirely covered by a dense, mottled layer of small, bright green aquatic plants, likely duckweed. Several reddish-brown to dark brown sticks and plant stems are floating on or just below the surface, creating linear breaks in the green mat. Patches of darker water are visible beneath the vegetation and around the sticks.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The two frogs in the image exhibit excellent camouflage. Their skin features a highly effective pattern of irregular dark brown/black blotches and spots against a background of green and yellowish-brown. The green tones on the frogs, especially the one further back, perfectly match the pervasive bright green of the duckweed covering the water's surface. The darker brown and black patterns on both frogs, particularly the one in the foreground, closely mimic the dark shadows, exposed water, and the reddish-brown floating sticks and plant debris. The mottled texture of their skin also blends seamlessly with the patchy nature of the duckweed and the rough surfaces of the sticks. This combination of color blending and pattern matching creates a high degree of visual similarity with their environment, making them very difficult to distinguish from the surrounding vegetation and natural debris."
+}

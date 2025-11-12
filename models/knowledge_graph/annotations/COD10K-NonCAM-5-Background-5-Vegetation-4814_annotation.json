@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Arid landscape with sparse vegetation",
+  "background_description": "The foreground features a cluster of dry, grey-brown woody shrubs mixed with some silver-green foliage and scattered small plants with yellow and purple flowers. The ground is dry earth, a mix of light brown and tan, with visible dead plant material and sparse blades of grass. The background is a blurred, expansive field of muted brown and tan, indicative of dry, sandy soil and sparse, low-lying vegetation under a bright sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image exclusively depicts an arid environmental scene with dry, sparse vegetation and bare ground. Therefore, no camouflage is present."
+}

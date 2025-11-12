@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Angelfish",
+  "background_description": "The aquatic environment appears to be an aquarium with clear water. The background features blurred green aquatic plants or algae, a dark piece of driftwood or rock, and light-colored pebbles or small stones on the substrate.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a distinct Angelfish with a light, silvery-blue coloration and prominent fins. Its bright appearance and unique shape stand out distinctly against the darker green plants and brown substrate, indicating a clear absence of camouflage."
+}

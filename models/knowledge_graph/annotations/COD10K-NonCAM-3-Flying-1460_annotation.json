@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a dried, brownish-green, textured flower head or seed pod. The background consists of very blurred green foliage, suggesting an outdoor garden or meadow environment, with some soft purple/pink blurs in the upper right, possibly from other flowers.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly is clearly visible against its background. Its wings display distinct patterns of light brown, white edges, and prominent black spots, along with a fuzzy bluish-green body. While these colors are natural, they do not closely match or blend with the textures and specific colors of either the dried flower head it's resting on or the blurred green foliage in the background. The patterns on its wings are quite defined, making it stand out rather than blend in, and there's no indication of mimicry or disruptive coloration at play in this particular scene."
+}

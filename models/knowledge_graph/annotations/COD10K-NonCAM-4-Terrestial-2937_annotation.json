@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The squirrel is perched on a rough-textured, dark grey-brown rock or log, partially covered in green moss. The background is a soft-focus blend of bright green and warm yellowish-brown, suggesting sunlit foliage or grass.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a red squirrel perched on a dark, mossy rock with a blurred green and brown background. The squirrel's vibrant reddish-brown fur, prominent bushy red tail, and lighter underside create a strong visual contrast against both the dark rock and the out-of-focus natural background. Its coloration does not blend with the immediate environment, making it highly visible and indicating no effective camouflage in this particular scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of a tree trunk with deeply furrowed, rough bark, primarily dark brown with significant patches of light grey-green lichen. A small branch with several vibrant green leaves extends from the upper left. Behind the tree, there's a blurred light blue sky and distant, out-of-focus green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The chameleon, a vibrant green, is perched on a dark brown tree trunk that is extensively covered with light grey-green lichen. While its green coloration might offer some blending if it were among the leaves or on a more uniformly green surface, its bright green stands out against the predominantly dark brown and patchy lichen-covered bark. Critically, the organism is displaying a prominent, bright pink/red dewlap, which is a clear signal and creates a very high color contrast with both the chameleon's body and the background, making it highly conspicuous. Its smooth body texture also contrasts with the rough, uneven texture of the bark, and it casts a noticeable shadow. These factors collectively indicate a lack of effective camouflage in this specific image."
+}

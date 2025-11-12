@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a rocky, arid environment featuring numerous irregularly shaped boulders and smaller stones. The rocks exhibit varied textures and colors, ranging from dark brown and grey to lighter grey, with prominent patches of yellow-green and white lichens. Sparse, dry, golden-brown grass and dead plant debris are scattered throughout the rocky terrain.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird is exceptionally well camouflaged against its rocky, lichen-covered environment. Its plumage features a complex pattern of dark brown, grey, and white speckles and streaks that perfectly mimics the colors and textures of the surrounding rocks, lichens, and dry vegetation. The disruptive coloration effectively breaks up the bird's outline, making it incredibly difficult to distinguish its form from the irregular shapes and mottled surfaces of the background. The varying shades and patterns on the bird's feathers blend seamlessly with the light and dark patches, as well as the textural details of the rocks and plant debris, resulting in a very high degree of color and texture similarity and low contrast difference."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal",
+  "background_description": "The background consists of a rocky shore with dark, reddish-brown, and grey rocks. These rocks are extensively covered in patches of dark olive-green and brown seaweed (algae), along with areas of lighter yellowish-white encrustations (possibly barnacles or lichen). The foreground shows dark, reflective water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The seal, a marine mammal, has a relatively uniform dark grey body. While this color provides a low level of tonal similarity with the darker, wet rocks and darker parts of the seaweed on the shore, its smooth texture and distinct, large shape create a high contrast against the highly textured, mottled, and varied colors of the rocky, seaweed-covered environment. The seal is clearly visible and does not exhibit specific camouflage features like disruptive patterns or mimicry that would effectively conceal it in this terrestrial setting."
+}

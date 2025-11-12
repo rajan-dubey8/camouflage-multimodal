@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Wolf",
+  "background_description": "The background consists of a dry, arid landscape dominated by tall, yellowish-brown and straw-colored grasses and sparse, woody brush. There are also visible patches of darker, dry earth and shadows created by the vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The wolf is highly camouflaged in this image. Its fur color, which is a blend of grays, browns, and sandy tones, remarkably matches the dry, yellowish-brown and tan colors of the surrounding tall grasses and earth. The texture of its fur also blends well with the fine, stringy appearance of the dry vegetation. Furthermore, the dense, tall grass partially obscures the wolf's body, effectively breaking up its distinct outline and disrupting its shape. This combination of color matching and shape disruption results in a low contrast difference between the animal and its environment, making it difficult to spot."
+}

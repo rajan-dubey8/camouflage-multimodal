@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of vibrant green rose leaves and slender reddish-green stems. There are also two prominent red rose buds or petals, one in the upper-left corner and another, less open bud, in the center-right. The lighting casts natural highlights and shadows across the foliage, and the deeper background appears as a blurry mix of darker greens and browns.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid, visible in the lower-left corner of the image, exhibits strong camouflage. Its bright green coloration perfectly matches the surrounding rose leaves, leading to high color similarity. While its eyes are somewhat distinguishable, the overall body shape and color allow it to blend seamlessly with the foliage, characteristic of leaf mimicry. The long, thin antennae are subtle and blend with the finer elements of the plant structure. The low contrast between the Katydid and its leafy environment makes it difficult to detect, indicating effective visual concealment."
+}

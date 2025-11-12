@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a forest floor densely covered with a layer of dry, decaying leaves, small twigs, and patches of darker soil. There are also sparse bits of green vegetation, providing a textured and varied brown, grey, and dark green color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits strong camouflage by blending seamlessly with its environment. Its plumage is a mottled mix of browns, greys, and dark speckles that perfectly match the colors and irregular textures of the dry leaves and soil on the forest floor. The varied patterning on its feathers helps to break up its outline (shape disruption), preventing a clear silhouette from forming against the background. The overall contrast between the bird and its surroundings is low, making it difficult to spot at first glance. The combination of color blending and pattern matching allows the bird to effectively disappear into the leaf litter."
+}

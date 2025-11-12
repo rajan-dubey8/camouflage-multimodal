@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense layer of dry, fallen leaves, predominantly light brown, tan, and beige in various states of decay, interspersed with darker soil patches, small twigs, and a few slender green shoots. The ground cover creates a highly textured and mottled surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage against the leaf litter background. Its wings, when folded, are primarily a dull brown color with subtle variations in shades and patterns that mimic the natural discoloration and textures of the dry leaves. The overall color palette of the butterfly blends almost perfectly with the browns, tans, and beige tones of the fallen foliage and exposed soil. The texture of its wings, with their irregular markings and faint 'eyespots' (ocelli), visually breaks up its outline and contributes to pattern matching with the random shapes and textures of the dried leaves and debris. The contrast difference between the butterfly and its immediate surroundings is very low, making it difficult to discern at first glance. This combination of color blending and pattern matching allows the butterfly to seamlessly integrate into its environment."
+}

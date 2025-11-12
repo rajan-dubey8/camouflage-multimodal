@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of out-of-focus green foliage, creating a soft, blurred environment typical of a forest or shrubbery. The immediate environment of the lizard includes a central, moderately thick, light brown-tan branch with a slightly granular or textured surface. Several smaller branches extend from it, sharing similar coloration and texture. A prominent broad green leaf with visible veins extends from one of these branches, partially framing the lizard.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage by perfectly blending with the branch it is perched upon. Its skin coloration, a mottled mix of light brown, tan, and grey with darker speckles, very closely matches the color of the branch. Furthermore, the slightly rough, textured appearance of the lizard's skin mirrors the granular texture of the bark. This combination of high color and texture similarity, along with the pattern of its scales, effectively breaks up its outline against the branch, resulting in a very low contrast difference and making it difficult to distinguish from its environment."
+}

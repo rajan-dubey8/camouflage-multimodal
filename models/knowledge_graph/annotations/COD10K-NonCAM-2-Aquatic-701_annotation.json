@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus fish",
+  "background_description": "The background consists of a clear, greenish aquatic environment, likely an aquarium, with visible green aquatic plants and a dark piece of wood or rock structure with some moss or algae growth. Another Discus fish is partially visible on the far left.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Discus fish with distinct blue-gray fins and body, featuring a reddish-orange patch on its side. Its coloration and shape do not blend with the greenish water, aquatic plants, or dark wood/rock in the background, making it easily discernible. Therefore, no camouflage is present."
+}

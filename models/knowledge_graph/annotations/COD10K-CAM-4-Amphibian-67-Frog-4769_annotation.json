@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a pond surface largely covered by various green water lily pads, some appearing lighter green/desaturated, others darker, with visible veins and water droplets. There are also vibrant pink water lily flowers and a bud, with dark green water visible between the pads. The water reflects elements of the surrounding vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits effective camouflage primarily through color blending. Its vibrant green skin closely matches the dominant green hues of the surrounding water lily pads and the dark green water it is partially submerged in. While its form is discernible, its coloration allows it to harmonize with the aquatic vegetation, reducing its visual prominence. The textures of its skin and the lily pad are also somewhat similar, contributing to the blending effect. The contrast between the frog and its immediate background is low, making it blend rather than stand out."
+}

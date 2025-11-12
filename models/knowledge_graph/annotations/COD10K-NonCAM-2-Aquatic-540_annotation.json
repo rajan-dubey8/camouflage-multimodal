@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tilapia",
+  "background_description": "The background consists of clear, light turquoise-colored water, likely within an aquarium or tank. Other fish are visible in the blurred background. A glass surface or water line is visible at the top.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a fish, identifiable as a Tilapia or similar cichlid, swimming in open water. Its distinct blue-grey coloration and sharp outline against the plain turquoise background make it highly visible, indicating no camouflage is present."
+}

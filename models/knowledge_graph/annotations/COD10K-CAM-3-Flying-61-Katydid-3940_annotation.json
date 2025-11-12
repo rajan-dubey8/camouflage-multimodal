@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background is a dense layer of fallen leaf litter, predominantly comprising dry, decaying leaves in shades of brown, reddish-brown, and dark brown. Some leaves show intricate white vein-like patterns, and there are also fragments of twigs and possibly damp earth, creating a textured and heterogeneous ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid in the image exhibits outstanding camouflage through a highly specialized form of mimicry. Its entire body, particularly its wings, is shaped, colored, and textured to precisely resemble a dried, decaying leaf. The coloration perfectly matches the various shades of brown and reddish-brown found in the surrounding leaf litter. Crucially, the Katydid's body features intricate white vein-like patterns and irregular, ragged edges that mirror the natural characteristics of fallen leaves. This detailed mimicry in color, texture, and overall form creates a very low contrast difference with the environment, making the organism virtually indistinguishable from the background leaf litter upon casual observation. This is a classic example of mimesis, specifically mimicking an inanimate object (a dead leaf)."
+}

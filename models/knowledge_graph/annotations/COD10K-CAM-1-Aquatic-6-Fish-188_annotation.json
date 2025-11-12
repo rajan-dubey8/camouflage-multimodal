@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a sandy seabed with varying shades of light brown, grey, and olive green. It has a granular texture, composed of numerous small sand grains and tiny pebbles, with some scattered darker detritus or small rock fragments. There is also a distinct coiled, worm-like structure made of sand on the upper left.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The two fish in the image demonstrate excellent camouflage against the sandy seabed. Their body coloration is a mottled grey-brown with irregular lighter spots and darker speckles, which perfectly matches the dominant colors and granular texture of the sand and small pebbles on the seafloor. The pattern on their skin mimics the visual texture of the substrate, making it difficult to discern their outlines from the background. The overall contrast difference between the fish and their environment is very low, allowing them to blend seamlessly with their surroundings."
+}

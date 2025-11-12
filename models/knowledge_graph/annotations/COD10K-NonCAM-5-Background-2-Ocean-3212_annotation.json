@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical marina",
+  "background_description": "A vibrant tropical marina scene under a clear blue sky with fluffy white cumulus clouds. The water is an intense turquoise-blue, reflecting light and showing ripples. A wooden pier with prominent green-capped posts extends into the water. Several white yachts and a smaller boat are docked, alongside a bright blue jet ski. In the distance, lush green islands with sandy shores complete the idyllic setting.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily displays an environmental scene of a tropical marina with boats, water, and islands. While a person is faintly visible on the pier, they are not the main subject and are clearly discernible against the background. There are no organisms present that are attempting to camouflage within this environment. Therefore, no camouflage is detected."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Emerald Dove",
+  "background_description": "A soft-focus background consisting of vibrant green foliage with blurred white highlights, indicating dappled sunlight filtering through leaves. The blur creates a smooth, undifferentiated green backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Emerald Dove exhibits strong color blending camouflage. Its body feathers are a striking iridescent green and teal, which closely match the dominant green hues of the blurred leafy background. This color coordination makes the bird highly inconspicuous within a verdant, sun-dappled environment. Although its head has some brown and grey tones and its beak is a contrasting red, the expansive green plumage across its back and wings is highly effective in blending with the foliage. The soft-focus background further enhances the camouflage by reducing sharp details, allowing the bird's outline and colors to merge seamlessly with its surroundings, reducing its visibility to predators and prey."
+}

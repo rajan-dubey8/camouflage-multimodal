@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The animal is inside a clear glass or plastic container with water droplets visible on the inner surface. The bottom of the container holds a shallow layer of light yellowish liquid, likely water. The background outside the container is indistinct and light-colored.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a warty-skinned toad inside a transparent container. The toad's dark, textured body stands out distinctly against the clear container and light, plain background, indicating no camouflage."
+}

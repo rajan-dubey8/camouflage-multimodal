@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of fine-grained light brown to beige sand, interspersed with numerous small pebbles and larger stones. These stones vary in color, including shades of reddish-brown, grey, white, and dark brown/black. A few blades of green grass are visible in the lower-left corner, but the immediate vicinity of the toad is dominated by sand and pebbles. The overall environment presents a mottled, granular texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad in the image is exceptionally well camouflaged. Its skin coloration is a mottled grey-brown with darker specks and bumps, which perfectly matches the sandy and pebbly substrate it rests upon. The dominant colors of the toad blend seamlessly with the light brown sand and the varied hues of the small stones and aggregates. The toad's bumpy skin texture also mimics the irregular surface created by the sand grains and small pebbles, further enhancing its blending. Furthermore, its crouched, irregular shape helps to disrupt its outline, making it appear as just another textured element of the ground rather than a distinct organism. There is a very low contrast between the toad and its immediate surroundings, making it very difficult to spot at first glance."
+}

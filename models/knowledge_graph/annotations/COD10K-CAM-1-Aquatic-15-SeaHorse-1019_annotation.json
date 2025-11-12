@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorse is nestled amongst a cluster of soft coral or gorgonian, which presents a predominantly pale yellow to light orange hue with a highly textured, lumpy, and somewhat branched appearance. The individual polyps or features of the coral are visible, contributing to a complex, irregular surface. The deeper background is a blurred, dark blue, characteristic of deeper water.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The SeaHorse exhibits remarkable camouflage, blending almost perfectly with its soft coral habitat. Its body color, a blend of pale yellow and light orange with subtle variations, precisely matches the dominant coloration of the surrounding coral. Furthermore, the seahorse's textured skin, adorned with small, rounded bumps and irregular contours, directly mimics the lumpy and patterned surface of the coral. This combination of color blending and texture/pattern matching effectively disrupts its outline and minimizes visual contrast, making it extremely difficult to distinguish from its immediate environment."
+}

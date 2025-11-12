@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of two main elements: a large, curved, smooth dark green leaf or stem on the left, and on the right, highly textured, dried-out plant material, likely bark or dead leaves, with shades of brown, tan, and earthy grays, along with some finer fibrous structures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly exhibits strong camouflage, particularly against the dried plant material and bark. Its wings feature a complex pattern of browns, grays, and whites that closely match the colors and textures of the surrounding dead foliage and bark. This pattern matching creates a disruptive coloration effect, breaking up the butterfly's outline and making it blend seamlessly with the rough, mottled surface. While there is a distinct orange/red band on the forewing which stands out slightly, the overall cryptic coloration dominates, especially when the butterfly is viewed against the darker, textured brown areas of the background. The color and texture similarity are high, resulting in a low contrast difference with its chosen resting spot, making it difficult for a predator to easily spot."
+}

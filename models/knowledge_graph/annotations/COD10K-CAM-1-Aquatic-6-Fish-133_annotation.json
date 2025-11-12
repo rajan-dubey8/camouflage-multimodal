@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a dense bed of marine vegetation, primarily various types of algae and seaweed, displaying shades of vibrant green, olive green, and brownish-green. The texture of the vegetation is highly irregular, frilly, and branch-like, creating a cluttered and organic environment. Beneath the vegetation, there are patches of light-colored sandy seafloor. Above, the water column is clear, showing a gradient of blue.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The fish exhibits exceptional camouflage. Its body coloration, a mottled greenish-brown with lighter patches and some darker spots, perfectly matches the various shades of green and brown present in the surrounding algae and seaweed. More strikingly, the fish's entire body is covered in elaborate, frilly, and leaf-like appendages that perfectly mimic the texture and irregular growth patterns of the marine vegetation. This elaborate morphology effectively disrupts its outline, preventing any clear distinction of its fish-like shape. The combination of color blending, detailed pattern matching, and complete shape disruption makes it incredibly difficult to spot the fish amidst its environment, functioning as an excellent example of mimicry, where the fish imitates its plant-like surroundings."
+}

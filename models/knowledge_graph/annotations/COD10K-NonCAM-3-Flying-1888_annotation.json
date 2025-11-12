@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "American Robin",
+  "background_description": "The background consists of blurred green and dry brown grass blades, indicating a grassy or meadow-like environment. The textures are fine and linear from the grass, with darker brown patches likely from soil or dried leaves.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The American Robin's distinct coloration, featuring a dark head, grey back, and vibrant orange-red breast, provides very low color and texture similarity with the green and brown grassy background. Its bright colors create a high contrast difference against the muted tones of the environment, making it easily visible and indicating a clear lack of camouflage in this setting."
+}

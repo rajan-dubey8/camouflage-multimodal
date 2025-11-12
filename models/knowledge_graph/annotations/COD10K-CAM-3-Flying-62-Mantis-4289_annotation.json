@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dense layer of dried fallen leaves in various states of decay. The dominant colors are shades of brown, ranging from light tan to dark reddish-brown, with some darker shadows and small fragments of debris. The leaves display subtle vein patterns and irregular textures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Mantis is not well camouflaged in this image. Its body is a very pale, almost translucent whitish-beige, which creates a high contrast against the predominantly darker brown and tan dried leaves of its immediate environment. While the mantis's irregular, bumpy body shape might be an attempt at shape disruption or mimicry of detritus, the significant color mismatch makes it easily discernible. The light coloration of the mantis stands out brightly, preventing it from blending in with the surrounding leaf litter."
+}

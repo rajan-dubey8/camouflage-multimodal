@@ -1,0 +1,80 @@
+{
+  "Environment": {
+    "organism_count": 822,
+    "embedding_norm": 2.6986942291259766,
+    "embedding_mean": 0.10108522325754166,
+    "embedding_std": 0.21690405905246735
+  },
+  "Bird": {
+    "organism_count": 299,
+    "embedding_norm": 2.6502513885498047,
+    "embedding_mean": 0.15477067232131958,
+    "embedding_std": 0.17653098702430725
+  },
+  "Mammal": {
+    "organism_count": 279,
+    "embedding_norm": 2.794055223464966,
+    "embedding_mean": 0.16618546843528748,
+    "embedding_std": 0.18339946866035461
+  },
+  "Fish": {
+    "organism_count": 245,
+    "embedding_norm": 3.4277150630950928,
+    "embedding_mean": 0.1924089640378952,
+    "embedding_std": 0.2349487692117691
+  },
+  "Insect": {
+    "organism_count": 91,
+    "embedding_norm": 1.9164243936538696,
+    "embedding_mean": 0.11105173081159592,
+    "embedding_std": 0.12841014564037323
+  },
+  "Amphibian": {
+    "organism_count": 30,
+    "embedding_norm": 3.172909736633301,
+    "embedding_mean": 0.1808622032403946,
+    "embedding_std": 0.21517856419086456
+  },
+  "Reptile": {
+    "organism_count": 19,
+    "embedding_norm": 3.0341622829437256,
+    "embedding_mean": 0.17386220395565033,
+    "embedding_std": 0.20499564707279205
+  },
+  "Crustacean": {
+    "organism_count": 3,
+    "embedding_norm": 2.109158992767334,
+    "embedding_mean": 0.12939733266830444,
+    "embedding_std": 0.13473103940486908
+  },
+  "Arachnid": {
+    "organism_count": 2,
+    "embedding_norm": 3.361358642578125,
+    "embedding_mean": 0.19079476594924927,
+    "embedding_std": 0.22864188253879547
+  },
+  "Mollusc": {
+    "organism_count": 1,
+    "embedding_norm": 2.9022223949432373,
+    "embedding_mean": 0.17419582605361938,
+    "embedding_std": 0.18904732167720795
+  },
+  "Echinoderm": {
+    "organism_count": 1,
+    "embedding_norm": 2.527376413345337,
+    "embedding_mean": 0.15296795964241028,
+    "embedding_std": 0.1634407341480255
+  },
+  "Chilopoda": {
+    "organism_count": 1,
+    "embedding_norm": 2.8176674842834473,
+    "embedding_mean": 0.15298917889595032,
+    "embedding_std": 0.19729116559028625
+  },
+  "Mollusk": {
+    "organism_count": 1,
+    "embedding_norm": 2.2129788398742676,
+    "embedding_mean": 0.09286858141422272,
+    "embedding_std": 0.17282573878765106
+  }
+}

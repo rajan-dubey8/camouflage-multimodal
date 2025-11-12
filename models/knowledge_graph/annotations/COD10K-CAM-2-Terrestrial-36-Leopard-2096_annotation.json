@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists primarily of a pile of various sized grey rocks, creating a rugged and uneven surface. Sparse green vegetation (grass and weeds) grows between some of the rocks. To the left, there is a dark, wooden, box-like shelter. One leopard is resting partially inside this dark shelter, while the other is lying on and among the grey rocks.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The leopard resting outside the wooden shelter exhibits strong camouflage with its rocky environment. Its pale grey and white fur closely matches the color of the surrounding grey rocks, providing high color similarity. The irregular dark rosettes and spots on its fur are a prime example of disruptive coloration, effectively breaking up the animal's outline and mimicking the shadows, cracks, and varied textures of the rocky terrain. This minimizes the contrast difference between the leopard and its background, making it difficult to distinguish. The leopard inside the dark wooden shelter is primarily obscured by shadow and the structure itself, acting more as concealment rather than active camouflage with its immediate surroundings, but the overall image demonstrates the species' strong camouflage capabilities in a suitable environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of a tree trunk with rough, textured bark, exhibiting a mix of reddish-brown and pale, almost white, patches that resemble lichen or flaking bark. To the left, there are some darker branches and sparse green leaves. To the right, there is dense, blurred green foliage, suggesting an arboreal, possibly tropical, environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The gecko exhibits exceptional camouflage against the tree trunk. Its body coloration perfectly matches the pale, lichen-like patches on the bark, featuring a mottled white-grey pattern that blends seamlessly with the surrounding texture. The gecko's skin texture also mimics the rough, irregular surface of the bark, further enhancing its concealment. The irregular shape of its body and head is designed to disrupt its outline, making it appear like just another protrusion or patch on the tree, effectively employing both color blending and pattern matching for remarkable crypsis."
+}

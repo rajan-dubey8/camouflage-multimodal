@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Dog in a boat",
+  "background_description": "The background consists of calm, blue-green ocean water with visible ripples and a wake behind the boat. On the left, there is a lush green coastline with dense mangrove trees. The sky is overcast and grey, suggesting cloudy weather. In the far distance, a faint white structure or wave break is visible on the horizon.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a dog prominently displayed in the foreground, sitting in a boat. The dog's dark, curly fur and overall shape create a distinct silhouette against the lighter blue-green water and green foliage of the distant mangroves. It is wearing a bright red collar, which further increases its visibility. There is no attempt at camouflage; the dog's coloration and texture do not blend with any element of its marine or coastal environment, nor does it exhibit any disruptive patterns or mimicry. It stands out clearly from its surroundings."
+}

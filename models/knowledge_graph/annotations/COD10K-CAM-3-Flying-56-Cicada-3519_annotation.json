@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a forest floor covered with a dense layer of fallen leaves. The leaves display a range of colors including dark brown, reddish-brown, deep red, some faded green, and yellowish hues. Many leaves appear dry and crumpled, with visible veins and textures. There are also some darker, shadowed areas beneath the leaf litter and small bits of debris.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The Cicada is a vibrant, glossy green color, which creates a strong visual contrast against the predominant background of dry, dark brown, and reddish fallen leaves. While there are a few small green and yellowish leaves present, they do not sufficiently cover the Cicada or match its specific hue and brightness to provide effective concealment. Its smooth body texture and distinct shape also stand out from the rough, crumpled textures of the leaf litter, making it highly conspicuous rather than blended."
+}

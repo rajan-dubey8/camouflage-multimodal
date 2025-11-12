@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface",
+  "background_description": "The image displays an expansive view of water, likely an ocean or large body of water. The surface is textured with numerous ripples and small waves, creating a dynamic pattern of light and shadow. The colors range from lighter, clearer blues and teals in the upper portion, suggesting brighter reflections or shallower perception, to deeper, darker blues in the lower part, indicating greater depth or less direct illumination. The overall impression is one of movement and shimmering reflection.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible within the image. The image exclusively depicts the surface of a body of water, showing its natural colors, textures, and patterns created by light and waves. Therefore, there is no entity present that could be exhibiting camouflage."
+}

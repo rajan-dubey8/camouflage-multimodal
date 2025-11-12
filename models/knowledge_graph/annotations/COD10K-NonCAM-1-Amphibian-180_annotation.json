@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Shallow freshwater environment with soft, muddy substrate, decaying leaf litter, and sparse emergent vegetation at the water's edge, typical of a pond or marsh, though not visibly present in the immediate background of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad, an amphibian, held in human hands. Its mottled brown and green skin stands out distinctly against the human skin and the dark, out-of-focus background. There is no camouflage present, as the animal's colors and textures do not blend with its immediate, non-aquatic surroundings."
+}

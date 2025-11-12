@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a tree trunk with deeply fissured, rough bark. The bark exhibits a mottled texture with vertical ridges and grooves, displaying shades of brown and grey, along with lighter and darker patches. To the left, the background is out of focus, showing blurred greens and lighter tan-brown tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Cicada is exceptionally well camouflaged against the tree bark. Its body and wings feature a complex pattern of grey, brown, and silvery tones that closely match the varied coloration and rugged texture of the bark. The intricate patterns on its wings and body serve to break up its outline, making it difficult to distinguish from the rough surface of the trunk (shape disruption and pattern matching). The overall color palette blends seamlessly with the background (color blending), and the contrast difference between the insect and the bark is minimal, especially at a distance, making it very effective at avoiding detection."
+}

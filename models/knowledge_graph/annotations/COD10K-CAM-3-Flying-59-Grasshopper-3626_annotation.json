@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of vibrant green plant foliage, including broad, smooth leaves and thinner stems. Some parts of the background are out of focus, showing darker green and brown tones, possibly from deeper plant structures or a planter. The overall environment is lush and verdant, indicating a leafy plant.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The organism exhibits exceptional camouflage, primarily through mimicry of a leaf. Its entire body is a uniform shade of green, almost perfectly matching the color of the surrounding plant foliage. The body shape is flattened and elongated, with broad, leaf-like appendages on its legs and abdomen, which further enhance its resemblance to the leaves it is resting on. This combination of color blending, texture matching, and shape mimicry makes it extremely difficult to distinguish the organism from its environment, resulting in a very high degree of camouflage."
+}

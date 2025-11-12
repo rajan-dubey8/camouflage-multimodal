@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small fish",
+  "background_description": "The background consists of light beige/brown branching coral with highly textured, bumpy surfaces, partially obscuring a blurry blue-green underwater environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "A small fish is visible nestled within the branching coral structure. Its dark body color blends effectively with the shadowed areas between the coral branches, reducing its visibility against the darker tones of the coral's interior and the deeper water. While the fish's smooth texture contrasts with the bumpy coral, its strategic positioning and dark coloration allow it to blend into the immediate surroundings, making it somewhat difficult to spot at first glance. The lighter head of the fish is slightly more conspicuous but is offset by the overall blending of its body."
+}

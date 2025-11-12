@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of large, weathered dark grey rocks, interspersed with patches of vibrant green and some dried grass. Behind the rocks and grass, there is dense, leafy green foliage from bushes and trees, with some leaves showing brown hues. In the far background, a hazy light blue expanse is visible, likely water or sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates effective camouflage by blending its dark, mottled body coloration with the surrounding environment of dark grey, weathered rocks and shadowed grassy patches. Its scales feature lighter flecks that mimic the varied textures and light/shadow play on the rocks and dry vegetation, contributing to pattern matching. The overall dark tone of the lizard also aligns well with the shadowed areas between rocks and under foliage, reducing contrast and making its outline less distinct. While its reptilian shape is still somewhat discernible, the combination of color and pattern similarity makes it difficult to spot at first glance, achieving significant concealment."
+}

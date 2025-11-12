@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Seascape at sunset with sailboats",
+  "background_description": "The image captures a vast ocean scene at sunset. The sky transitions from light blue at the zenith to vibrant orange and yellow near the horizon, where the sun sets behind a dark band of clouds. The water surface is textured with gentle ripples and small waves, reflecting the warm hues of the sky in places and appearing deep blue to dark purple in others. Numerous sailboats are silhouetted against the bright horizon, anchored across the mid-ground. The immediate foreground consists of a pebbled beach with foamy white waves washing ashore.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a natural environment, specifically a seascape at sunset. It features water, sky, clouds, a beach, and distant sailboats. There are no visible organisms (animals, insects, or fish) present as the main subject in the scene that could be exhibiting camouflage. Therefore, camouflage is not applicable to this image."
+}

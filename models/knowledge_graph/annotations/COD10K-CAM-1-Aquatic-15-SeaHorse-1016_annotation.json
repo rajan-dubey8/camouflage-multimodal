@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a sandy seafloor with small pebbles and detritus, interspersed with light-colored, irregularly shaped rocks or coral fragments that have a mottled, rough texture. In the mid-ground and background, there are blurry elements resembling brown and yellowish-green marine algae or plant life.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The seahorses exhibit effective camouflage through both color blending and pattern matching. Their bodies are mottled with shades of light gray, white, and dark brown/black spots, which closely mimic the color variations and speckled appearance of the sandy seabed and the rocky fragments in their immediate environment. The irregular, bumpy texture of their skin also visually aligns with the rough surfaces of the rocks and granular sand. This combination of matching colors and disruptive patterns significantly reduces their contrast against the background, making it challenging to distinguish their outlines from the surrounding substrate and debris, thus allowing them to blend well with their habitat."
+}

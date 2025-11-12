@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with clouds",
+  "background_description": "The image depicts a clear deep blue sky, typical of dusk or dawn, with scattered, wispy clouds illuminated with warm orange and pink hues by the setting or rising sun. The clouds have soft, undefined edges and vary in density.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environment consisting of the sky and clouds. No organism (animal, insect, or fish) is visible within the frame, therefore, the concept of camouflage does not apply."
+}

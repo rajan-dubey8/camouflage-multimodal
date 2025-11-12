@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Shallow freshwater pond edge with muddy banks and sparse aquatic vegetation, typical of a riparian zone where amphibians reside.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A common toad is clearly visible, resting on green grass. Its rough, earth-toned skin with darker markings and some pale green spots provides a strong contrast against the bright, uniform green of the surrounding grass. The distinct difference in color and texture ensures it does not blend into this immediate terrestrial environment, thus confirming no camouflage is present."
+}

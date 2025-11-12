@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The leopard is nestled within the dense branches of a tree. The background consists of rough, pale grey-brown tree bark and numerous thin, tangled branches bearing small, round, greenish-yellow to brownish-yellow fruits or buds. The environment is rich in woody textures and earthy tones, with dappled light filtering through.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The leopard demonstrates excellent camouflage in this image. Its tawny fur color blends seamlessly with the pale brown and grey tones of the tree bark and the dry, woody branches. The black rosettes on its coat effectively mimic the dappled light and shadow patterns created by the dense network of twigs and small fruits, disrupting its outline. The leopard is also partially obscured by the surrounding branches, further breaking up its shape and making it very difficult to spot at first glance, especially from a distance. The complex, busy background perfectly complements the leopard's spotted pattern."
+}

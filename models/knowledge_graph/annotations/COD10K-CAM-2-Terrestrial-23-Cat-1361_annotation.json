@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a dark, highly textured, and mottled fabric or fur material, predominantly in shades of deep brown, black, and reddish-orange/gold. It appears soft and somewhat irregular, with varying depths and tones, resembling a shaggy blanket or animal fur, particularly in the blurred foreground and background elements.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The cat's tortoiseshell pattern, with its mix of black, dark brown, and orange/gold patches, perfectly mimics the colors and irregular textures of the background material it is resting on. The background itself is a mottled mix of dark browns, blacks, and reddish-orange hues, which very closely match the cat's fur. Both the cat's fur and the background have a soft, irregular, and slightly fuzzy texture, contributing to high texture similarity. The overall contrast between the cat's body and the background is low, making its outline difficult to discern. The variegated pattern on the cat's fur helps to disrupt its shape, causing it to blend seamlessly into the similarly patterned and textured environment. Only its bright yellow eyes stand out, offering a clear focal point."
+}

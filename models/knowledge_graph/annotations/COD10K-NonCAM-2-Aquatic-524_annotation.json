@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The aquatic environment consists of clear water with a gradient background, transitioning from a deeper blue at the top to a lighter, somewhat hazy blue or white towards the bottom. There are no distinct structures like coral, rocks, or plants, suggesting an open water or aquarium setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a large group of goldfish, predominantly orange, with some lighter silver-colored individuals. They are distinctly visible against the blue and light blue background, exhibiting no features or behaviors indicative of camouflage. Their bright coloration makes them stand out significantly."
+}

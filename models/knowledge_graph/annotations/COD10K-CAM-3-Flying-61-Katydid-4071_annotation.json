@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of vibrant green leaves, likely part of a fern or similar plant, with clearly visible veins and a slightly textured surface. There is also a blurred, lighter green area in the deeper background, suggesting more foliage out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Katydid demonstrates excellent camouflage through color blending. Its translucent, light green body perfectly matches the hue and brightness of the surrounding leaves. While its main body has a slightly different texture than the leaf, the subtle dark speckles on its body and legs help to break up its outline and mimic small irregularities or shadows often found on plant surfaces, contributing to pattern matching. The overall contrast difference between the Katydid and the leaf is very low, making it remarkably difficult to discern at first glance. Its elongated form also aligns well with the general shape of plant structures."
+}

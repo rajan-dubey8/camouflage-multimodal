@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Tang",
+  "background_description": "The background consists of dark, deep blue water, mostly uniform, with a slightly brighter blue light source visible towards the bottom left. There are no complex structures like coral, rocks, or sandy seabed.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Blue Tang with prominent purple and blue coloration. The fish stands out distinctly against the dark aquatic background, exhibiting no features or patterns that would help it blend with its immediate surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Soft coral on live rock",
+  "background_description": "Dark blue water background with numerous small white particles (likely detritus or bubbles) suspended, and rough, unevenly textured live rock covered in patchy green and grey sessile growths.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The soft coral, with its striking white coloration and distinct branching, dendritic shape, is highly conspicuous against the dark blue water background and the darker, textured live rock. There is no visual blending of colors or textures, nor is there any mimicry of its surroundings. The bright white color creates a strong contrast, making the coral stand out prominently rather than blend into its marine environment. While coral is an organism, its specific classification is not available in the 'object_category' list, so 'Environment' is selected to categorize the scene type containing the prominent organism."
+}

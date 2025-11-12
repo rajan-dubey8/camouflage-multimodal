@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wagtail",
+  "background_description": "The bird is perched on a weathered, light greyish-brown wooden log or branch, showing distinct grain patterns. The background behind the log is a soft-focus, vibrant green, likely consisting of grass or distant foliage, with a subtle yellow blur visible in the upper right, possibly a distant flower.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Wagtail's plumage, characterized by stark black, white, and grey patterns, creates a high contrast against both the vibrant green background and the light-colored wooden log. There is minimal color blending or texture matching between the bird's distinct appearance and its immediate environment, making it highly visible rather than camouflaged. The bright green and the dark/light patterning of the bird do not offer any significant concealment."
+}

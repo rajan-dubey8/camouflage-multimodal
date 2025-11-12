@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The image captures a vibrant underwater coral reef. The background consists of deep blue ocean water with visible surface ripples. The reef itself is composed of diverse coral formations, including a large, brownish-grey brain coral with intricate, maze-like patterns, and several light green/yellowish soft corals with distinctive ruffled, leathery, and bumpy textures. Scattered among these are smaller stony corals and dark patches of rocky substrate or algae.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features an underwater coral reef, which is composed of various coral species. While corals are living organisms (animals), they form the structural background and environment of the reef. There is no distinct animal or organism visible within the scene that exhibits specific camouflage behavior or patterns (e.g., color blending, mimicry, disruptive patterns) to actively hide from predators or prey. The appearance of the corals is natural for their species within this habitat, not an act of concealment."
+}

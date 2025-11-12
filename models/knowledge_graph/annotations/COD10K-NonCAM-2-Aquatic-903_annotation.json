@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Piranha",
+  "background_description": "Dark, murky aquatic environment with blurred green aquatic plants or algae visible in the background. The scene includes bright reflections or glare on the water surface or tank glass, especially towards the right.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The dark coloration of the fish's body allows it to blend effectively with the dark, murky aquatic environment through color blending. This reduces its visibility against the shadowed water. While the bright, reflective speckles on its body create local contrast and make it somewhat noticeable, these can also function as a form of disruptive pattern, breaking up the fish's overall outline and making it harder for predators or prey to discern its true shape in dappled or low light conditions typical of its natural habitat."
+}

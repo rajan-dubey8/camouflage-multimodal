@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-necked Stilt",
+  "background_description": "The background consists of a textured, uneven ground made of various dull-colored rocks and pebbles in shades of grey, brown, and beige. There are some darker, possibly wet, patches and scattered white marks, likely bird droppings. A metallic food bowl filled with light brown birdseed is in the foreground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bird's stark black and white plumage, combined with its prominent long, bright pink legs, creates a very high contrast against the muted, earthy tones and textures of the rocky ground and pebbles. Its coloration does not blend with the background, nor does it mimic any environmental features for concealment. Therefore, no camouflage is present; the bird stands out clearly in its environment."
+}

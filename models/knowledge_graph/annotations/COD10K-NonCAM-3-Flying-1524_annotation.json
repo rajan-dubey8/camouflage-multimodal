@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hawk",
+  "background_description": "The background consists of a calm body of water. The upper half reflects dark green foliage and some lighter, possibly earthy, tones from the distant shore, with subtle ripples distorting these reflections. The lower half of the water surface is lighter, appearing as a soft blue-grey with fine horizontal ripples indicating movement.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a hawk in flight over water. The bird's plumage is a mix of browns, whites, and dark speckles, which typically provides camouflage in environments like trees or rocky terrain. However, in this context, the bird is actively flying over open water. Its colors and distinct form do not blend with the water's surface, which consists of dark green reflections and light blue-grey tones. The bird stands out clearly against the background, indicating no camouflage is present in this specific scene."
+}

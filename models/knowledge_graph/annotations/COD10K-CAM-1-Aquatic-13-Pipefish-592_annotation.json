@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a cluttered marine environment, likely a seabed or shallow reef. It is dominated by various shades of grey and pale green shell fragments, oyster shells, and an abundance of fine, branching marine algae or hydroids. The texture is rough, irregular, and highly varied, with many small crevices and overlapping elements, suggesting a busy and broken substrate.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits good camouflage against the cluttered marine background. Its elongated, slender, and segmented body shape allows it to blend with the various pieces of debris, shell fragments, and marine plant stems, effectively mimicking its surroundings (shape disruption/mimicry). The yellowish-green color of its body closely matches the hue of some of the algae patches present in the environment, contributing to color blending. While certain parts of its body might show a moderate color contrast against the lighter shells, the overall textured appearance and pattern on its body (darker bands) help to disrupt its outline and mimic the irregular textures and shadows of the seabed. This combination of shape mimicry, color matching, and pattern disruption makes it difficult to distinguish from its surroundings upon first glance."
+}

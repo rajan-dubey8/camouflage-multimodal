@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dense, intricate network of tall, dry, straw-colored reeds and grasses. The predominant colors are various shades of golden-brown, beige, and yellow, with some darker shadows and a hint of water in the lower left. The texture is linear and vertical, creating a cluttered, yet uniform, appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage, blending almost perfectly with its environment of dry reeds and grasses. Its plumage features strong vertical streaking in shades of brown, beige, and cream, which precisely matches the colors and linear patterns of the surrounding vegetation. Furthermore, its typical posture of extending its neck upwards, combined with its cryptic coloration, effectively disrupts its bird-like shape, making it appear as just another cluster of reeds. This combination of color blending, pattern matching, and shape disruption makes the bird incredibly difficult to spot, especially to a casual observer."
+}

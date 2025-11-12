@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists of a forest floor covered extensively with fallen autumn leaves in various shades of brown, orange, and reddish-brown. Interspersed among the leaves are patches of vibrant green ground cover and grass. There are also some darker, damp areas of soil and debris, along with faint shadows. To the right, a wooden boardwalk with visible grain and small nails angles upwards.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit's mottled brownish-grey fur blends very effectively with the colors and tones of the fallen leaves and darker soil patches on the forest floor. Its fur coloration closely matches the overall muted, earthy palette of its immediate surroundings, particularly the damp, dark leaves and shadowed areas. While its form is discernible upon close inspection, the irregular patterns and varied textures of the leaf litter and sparse vegetation help to disrupt its outline and prevent it from standing out sharply. The low contrast between the rabbit's body and the background further enhances its concealment."
+}

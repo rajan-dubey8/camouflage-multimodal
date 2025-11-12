@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a sandy and rocky seabed with some small green algal growth and other coral structures. The water is murky, giving a bluish-green tint to the scene. The immediate foreground is dominated by a large, branch-like stony coral (likely Staghorn or Elkhorn coral) with an orange-brown color and a rough, irregular texture, which also serves as a hiding place.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, grayish fish is present in the upper-left quadrant, partially hidden behind a large orange-brown stony coral structure. Its body color closely matches the muted tones of the sandy seabed, rocky patches, and the ambient underwater light conditions, making it blend seamlessly into the background. The indistinct outline of the fish, further obscured by the murky water and the complex, branch-like texture of the coral, results in a low contrast difference and high color similarity with its surroundings, providing effective camouflage through color blending and concealment."
+}

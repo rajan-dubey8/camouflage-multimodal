@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Airport with aircraft and helicopter",
+  "background_description": "The background consists of a hazy, light grey sky dominating the upper portion of the image. Below the sky, distant layers of dark green and blue-grey forested hills or mountains are visible, fading into the haze. In the foreground and mid-ground, there's an airport tarmac with several large white passenger airplanes (identifiable by Air France branding on their tails) parked. A dark-colored helicopter is flying in the upper left sky. On the far right, part of a modern airport control tower with green-tinted windows is visible. The ground immediately around the airplanes appears to be a mix of concrete/tarmac and some sparse, dry grass.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily displays an airport environment with man-made objects such as airplanes, a helicopter, and a control tower. There are no animals, insects, or fish present. Therefore, the concept of biological camouflage, as pertains to organisms blending into their natural surroundings, is not applicable to this scene."
+}

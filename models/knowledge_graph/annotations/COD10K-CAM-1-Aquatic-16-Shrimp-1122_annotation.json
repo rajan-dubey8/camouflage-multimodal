@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of an underwater sandy bottom, predominantly light greyish-brown with visible individual sand grains and small pebbles. Towards the left side, there are patches of darker green and reddish-brown algae or detritus, adding textural and color variation to the environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The shrimp demonstrates excellent camouflage, blending remarkably well with the sandy substrate. Its exoskeleton is a mottled greyish-brown, closely matching the color of the sand and small pebbles. The speckled and somewhat granular texture of its body surface mimics the texture of the sandy bottom. While there are some darker bands and spots on the shrimp, these features integrate into the background's natural variations (e.g., darker sand grains or small debris), preventing a strong outline or contrast difference. This combination of color blending and pattern matching effectively disrupts its shape and makes it very difficult to spot against the environment."
+}

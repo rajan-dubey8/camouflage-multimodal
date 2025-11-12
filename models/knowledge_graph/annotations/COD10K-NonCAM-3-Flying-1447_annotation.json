@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Golden Eagle",
+  "background_description": "The background is dark, out of focus, and appears as indistinct shadowy forms with subtle reddish-brown tones, possibly representing natural foliage or a sheltered environment. A blurred, light-colored object, likely a branch, is visible on the far right.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Golden Eagle prominently in the foreground, sharply in focus. Its brown and golden-brown plumage, while natural, does not blend into the dark, heavily blurred background. The bird's bright yellow eyes and beak, along with its distinct outline against the dark environment, create a high contrast, making it highly visible rather than camouflaged. In this particular photographic context, the eagle is presented as the clear subject and is not attempting to conceal itself from view."
+}

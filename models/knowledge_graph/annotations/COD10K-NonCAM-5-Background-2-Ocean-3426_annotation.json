@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The image displays an underwater scene dominated by a large formation of stony coral, characterized by numerous rounded, bumpy protrusions and crevices. The coral appears in shades of pale green, beige, and light brown due to the water and ambient lighting. In the mid-ground and background, the water darkens, revealing more distant, less distinct coral structures and what appears to be a sandy seabed towards the lower right. The overall environment is a murky blue-green, typical of a shallow ocean reef.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible in the image. The scene exclusively depicts an underwater coral reef environment, consisting solely of coral formations and water. As there is no animal, insect, or fish present, the concept of camouflage does not apply."
+}

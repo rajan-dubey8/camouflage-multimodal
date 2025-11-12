@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of a riverine environment. The upper part features dense green grass and some dark, exposed roots or branches along a muddy bank. The main body of water is dark, reflecting the surrounding environment, with patches of green algae or submerged vegetation visible. A light-colored, wet log or branch spans across the water, providing a perch for the otter.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.45,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The otter exhibits a degree of camouflage through color blending. Its dark brown, wet fur tones align reasonably well with the dark, wet log it is standing on, as well as the dark water and muddy bank. This natural coloration helps it to blend into the shadows and the overall earthy, aquatic environment, reducing its prominence against a predator or prey in its natural habitat. However, its distinct shape and the somewhat reflective nature of its wet fur still allow it to be discernible, preventing it from being highly camouflaged."
+}

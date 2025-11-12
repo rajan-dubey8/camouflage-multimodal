@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "European Robin",
+  "background_description": "The bird is perched on a light grey, somewhat granular metallic railing or fence structure, exhibiting visible weld marks. The background beyond the railing is a soft-focus, blurred expanse of dark green and olive tones, indicative of distant foliage or natural vegetation without distinct features.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The European Robin's prominent bright orange-red breast and white belly create a high contrast against both the light grey metallic railing it is sitting on and the dark green blurred background. Its coloration is distinctive and serves to make it highly visible rather than to blend into this particular environment. Therefore, no camouflage is present."
+}

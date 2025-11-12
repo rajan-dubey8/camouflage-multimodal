@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a forest floor covered in various organic debris. Dominant features include large, dry, light brown fallen leaves with visible vein patterns and some holes, darker moist soil, rough dark brown pieces of wood or branches, and some smaller twigs. The environment is generally dim and textured, with natural earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits effective camouflage through color blending with its environment. Its body and leg coloration are a muted brown, which very closely matches the color of the dry, fallen leaves it is resting on. This high color similarity significantly reduces its visibility. While its texture is not identical to the smooth parts of the leaf, its slightly rough and hairy texture blends well with the overall irregular and varied textures of the leaf veins and other organic debris (twigs, rough wood). The contrast difference between the spider and its immediate background is low, making it difficult to discern at a glance. The splayed legs further help to break up its outline against the complex backdrop, contributing to its blending."
+}

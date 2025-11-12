@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "American Bison",
+  "background_description": "The background consists of an expansive, open grassland or prairie, featuring sparse green and dry yellowish-brown grass covering the ground. The horizon line is distant and slightly blurred, above which lies a pale, soft blue sky with subtle hints of pink or purple, typical of dawn or dusk.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The American Bison in the image is not displaying camouflage. Its large size and dark brown, shaggy coat create a strong contrast against the lighter green and dry grass of the open prairie and the pale sky. While its coloration might blend with dark earth or shadows in specific environments, in this wide-open setting, the bison's outline and bulk are clearly visible. There are no disruptive patterns, color blending that matches the immediate surroundings, or mimicry elements present to aid in concealment."
+}

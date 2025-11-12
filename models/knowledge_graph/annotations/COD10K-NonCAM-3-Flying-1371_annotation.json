@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird",
+  "background_description": "A tree branch covered in grey and light green lichen, surrounded by a dense array of vibrant green leaves in varying stages of focus, creating a dappled light effect characteristic of a woodland or garden environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The small bird exhibits camouflage primarily through color blending. Its muted brown body, reddish-brown tail, and subtle grey-blue wing feathers allow it to blend with the natural earthy tones and shadows of the tree bark and branches. While the rough, irregular texture of the lichen-covered branch differs from the smooth feathers of the bird, and the surrounding green leaves provide some color contrast, the bird's overall coloration helps reduce its visibility against the woody elements of its habitat. The contrast difference is medium, as it is not perfectly hidden but also not starkly conspicuous against its immediate perch and background foliage."
+}

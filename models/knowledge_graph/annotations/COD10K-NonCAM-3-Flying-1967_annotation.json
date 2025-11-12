@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Woodpecker",
+  "background_description": "The background consists primarily of a dark, textured tree trunk where the woodpecker is perched. Behind the bird, the environment is blurred, showing muted brown and greenish tones of distant foliage and bare branches, indicating a forest or woodland setting.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The woodpecker exhibits camouflage through a disruptive pattern, primarily with its black and white striped and mottled plumage on its body and head. These patterns help to break up its outline against the textured, often variegated surface of the tree bark. While the bright red crest and yellow belly patches create high contrast and reduce overall concealment, the intricate black and white patterns allow for some blending with the complex visual elements (light, shadow, grooves) found on tree trunks, helping it to avoid detection by predators or prey in its natural habitat. The darker feathers also offer some color blending with the bark, contributing to the camouflage effect."
+}

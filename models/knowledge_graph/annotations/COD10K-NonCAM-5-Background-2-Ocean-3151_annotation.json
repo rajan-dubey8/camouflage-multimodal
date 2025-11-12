@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sergeant major damselfish",
+  "background_description": "An underwater coral reef ecosystem featuring diverse structures. The main elements include a large reddish-brown sponge or brain coral-like formation, several dark purple gorgonian fan corals (sea fans), and various lighter grey and yellow-green rocky substrates covered with algae and smaller encrusting organisms. The water is clear with a blue-green tint, and there are sandy patches visible on the seafloor.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.4,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "A Sergeant major damselfish is visible in the upper right quadrant of the image. The fish exhibits a distinct black and yellow/white striped pattern, which is a form of disruptive coloration. This pattern aims to break up the fish's outline against the complex background of the coral reef, making it harder for predators to identify its shape. While its striped pattern is clearly visible and creates high internal contrast, the varied colors and textures of the coral reef (reds, browns, dark purples, greys, greens) provide a somewhat suitable environment for this type of camouflage. The dark stripes can merge with shadowed areas or darker coral structures, but the lighter stripes often stand out, resulting in low overall color and texture similarity with the immediate surroundings. The camouflage is present but not highly effective in this specific view, contributing to a moderate camouflage score."
+}

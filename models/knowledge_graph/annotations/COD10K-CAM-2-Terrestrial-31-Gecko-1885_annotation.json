@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Gecko",
+  "background_description": "The background consists of a large, dry, golden-yellow to yellowish-brown leaf, heavily textured and speckled with numerous small, dark reddish-brown spots. There are also faint lighter veins and occasional white specks, contributing to a mottled, earthy appearance, characteristic of decaying foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Gecko (visually a frog/toad) demonstrates excellent camouflage on the dried leaf. Its body coloration, featuring a mix of earthy browns, reddish-brown patches, and mottled patterns, closely mimics the golden-yellow and dark reddish-brown speckles of the background leaf. The rough, textured skin of the organism also aligns well with the dry, granular surface of the leaf. The intricate patterns on its back help to disrupt its outline, making it difficult to distinguish from the similarly textured and patterned environment. This combination of color blending, pattern matching, and shape disruption allows the organism to blend seamlessly with its surroundings, providing effective concealment."
+}

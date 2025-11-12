@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background consists of dark blue-green open water, appearing somewhat murky with visible particulates or bubbles. A vertical stalk of yellowish-green kelp or a similar aquatic plant is visible on the right side of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a reddish-orange rockfish swimming against a dark blue-green aquatic background with a visible kelp stalk. The fish's vibrant color and distinct form ensure it stands out prominently, indicating no camouflage."
+}

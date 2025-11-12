@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of rough, fissured tree bark, predominantly dark brown and gray, with patches of light green lichen or moss. A thin, dried vine or stem runs vertically across the bark. The top right background is a dark, blurry green, likely foliage, while the bottom left is a dark void.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The gecko demonstrates exceptional camouflage against the tree bark. Its skin color perfectly matches the mottled browns, grays, and even the subtle greenish hues of the lichen on the bark, leading to high color similarity. The intricate, bumpy texture of the gecko's skin remarkably mimics the rough, fissured surface of the bark, creating high texture similarity. Furthermore, the gecko's irregular body shape, especially around its head and flanks, is highly disruptive, breaking up its outline and making it blend seamlessly with the irregular contours and crevices of the bark. The contrast difference between the gecko and its environment is very low, making it extremely difficult to distinguish the organism from the bark. Only its eye, with its distinctive golden iris and dark pupil, stands out, providing the primary visual cue of its presence."
+}

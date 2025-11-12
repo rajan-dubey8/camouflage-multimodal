@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Merganser",
+  "background_description": "The background consists of calm, murky water with a greenish-brown hue, showing subtle ripples and reflections. The water surface appears somewhat opaque, reflecting light unevenly and creating a diffused, slightly greenish-yellow reflection under the bird.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Merganser is clearly visible against the murky water background. Its distinct reddish-brown head and crest, grey back, and white chest create a high contrast with the surrounding water. There are no patterns or colorations on the bird's plumage that actively blend with the water's color or texture, nor does it exhibit disruptive patterns or mimicry that would conceal it. The bird's features are sharply defined and stand out, indicating no effective camouflage in this specific environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a tree trunk with rough, ridged bark in shades of dark brown and grey. Slender, darker branches extend around it. In the deeper background, there is blurred green foliage with bright patches indicating dappled sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada exhibits excellent camouflage by closely mimicking the tree trunk it is resting upon. Its body color, a blend of dark browns and greys, perfectly matches the tones of the rough, ridged bark. The texture of the cicada's exoskeleton also strongly resembles the bark, making it difficult to distinguish the organism's form. This high similarity in both color and texture results in a low contrast difference, allowing the cicada to blend seamlessly with its immediate environment and making it hard to spot at first glance."
+}

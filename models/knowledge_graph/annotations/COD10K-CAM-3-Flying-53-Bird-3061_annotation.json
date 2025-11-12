@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of a tree trunk with rough, textured bark, heavily covered in patches of dark green and brown moss and lichen. Several dark, bare branches crisscross in front of and behind the bird, partially obscuring the view. A bright, overcast sky is visible through the gaps between the branches and the tree on the right side.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits effective camouflage through color blending with its arboreal environment. Its creamy/light brown underside, gray-blue back, and reddish-orange flanks closely match the earthy tones present on the tree bark, which is covered in dark green moss and brown/gray lichen patches. The bird's muted coloration integrates well with the variegated and textured surface of the trunk. Although the bird's feathers are smoother than the rough bark, the overall color and luminance similarity are high, and the presence of several dark, bare branches in the foreground further aids in disrupting the bird's outline, making it less discernible to a casual observer."
+}

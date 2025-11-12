@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The animal is situated on a large, wet, decaying leaf or similar organic matter, presenting a mottled surface in shades of orange-brown and yellowish-brown, with some darker moist areas and scattered small specks of green and red. The environment suggests a shallow, semi-aquatic or damp terrestrial habitat, likely a forest floor near a water body.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image features a small, textured brown frog. While its natural coloration somewhat aligns with the brownish-yellow leaf litter, it is clearly visible against the background. As per the dataset context, there is no camouflage present, and the animal is easily identifiable."
+}

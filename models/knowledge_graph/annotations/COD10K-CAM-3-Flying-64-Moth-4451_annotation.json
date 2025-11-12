@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a rough, granular, and uneven surface, likely a rock or concrete wall. It displays a mottled texture with varying shades of light to medium grey, interspersed with darker flecks and lighter, almost white, highlights. The texture is inconsistent and porous, providing a broken visual field. Further back, there's a darker, out-of-focus area, possibly a crevice or shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth exhibits excellent camouflage against the rough, grey surface. Its body and wings are primarily dark grey and brown, with intricate patterns that closely mimic the mottled texture and varying shades of the rock. The fuzzy texture of the moth's body and wings also aligns well with the granular, irregular surface of the background. The patterns on its wings, which include jagged lines and lighter patches, effectively break up its outline (shape disruption) and blend seamlessly with the irregular features of the rock. The overall contrast difference between the moth and its immediate surroundings is very low, making it difficult to discern its form, especially without close inspection. The combination of color blending, pattern matching, and shape disruption creates a highly effective camouflage."
+}

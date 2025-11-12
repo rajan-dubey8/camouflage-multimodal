@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background primarily features a large tree trunk with deeply fissured, rough, and textured bark in shades of brown and grey. Beyond the tree trunk, there is dense foliage from other trees, displaying various shades of green, against a clear blue sky with a few wispy white clouds.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage through a combination of color blending and pattern matching. Its rough, spiky, grey-brown scales perfectly mimic the deeply fissured texture and color of the tree bark it is clinging to. This allows its body to seamlessly blend into the background, making it very difficult to distinguish from the tree trunk at first glance. The primary feature that somewhat disrupts this camouflage is its wide-open mouth, revealing a bright orange interior, which is a behavioral display rather than a permanent camouflage feature of its body."
+}

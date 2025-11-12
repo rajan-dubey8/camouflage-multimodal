@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe calf",
+  "background_description": "The background consists of blurred green and muted brown foliage, suggesting a wooded savanna or bushland environment. The indistinct shapes imply distant trees or bushes, likely under dappled light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The giraffe calf displays effective camouflage through a disruptive pattern. Its distinctive irregular brown patches against a lighter cream background are well-suited for blending into its natural savanna habitat. The brown colors show high similarity to the earthy tones of tree trunks and branches, and the lighter patches can mimic sunlit areas or dry vegetation. While the background is blurred, the pattern's visual 'texture' helps it blend with the patchy appearance of foliage and shadows. The high internal contrast of the pattern breaks up the animal's silhouette, making it harder for predators to distinguish its outline against the varied environment, thus preventing detection. Although the giraffe is well-lit and somewhat distinct from the blurred background in this specific image, its pattern is fundamentally designed for disruptive camouflage."
+}

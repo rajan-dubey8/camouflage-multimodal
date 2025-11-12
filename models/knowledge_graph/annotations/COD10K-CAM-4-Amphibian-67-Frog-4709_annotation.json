@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a rough, uneven, earthy surface, likely forest floor or damp rock. It is densely covered with patches of vibrant green moss, dried brown leaves or dead moss, and darker, moist soil or stone. The overall texture is varied and irregular, with elements of both organic growth and decaying matter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage through a combination of color blending and pattern matching. Its dorsal surface features prominent patches of bright green, which almost perfectly match the color and texture of the green moss growing on the ground. The surrounding areas of its skin are mottled dark brown and lighter browns, blending seamlessly with the darker soil, rocks, and dried plant matter in the background. The irregular distribution of these green and brown patterns effectively breaks up the frog's outline, making it difficult to distinguish from the varied and textured ground. The overall contrast between the frog and its environment is very low, enhancing its ability to disappear into the setting."
+}

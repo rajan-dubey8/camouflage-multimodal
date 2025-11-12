@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dry, rocky, and pebbly terrain. There are numerous stones and pebbles of varying sizes, predominantly in shades of gray, brown, and some muted reddish tones. Sparse patches of dry, light-colored grass stalks and small green leafy plants are scattered among the rocks, indicating a somewhat arid or stony environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits excellent camouflage. Its plumage features an intricate mosaic of browns, grays, whites, and blacks, which perfectly mimics the varied colors and textures of the surrounding rocks and dry vegetation. The complex patterns on its feathers disrupt its outline, making it incredibly difficult to distinguish from the irregular shapes and dappled surfaces of the pebbles and stones. The overall low contrast between the bird's coloration and the environment ensures it blends seamlessly, preventing it from standing out visually. The bird is also lying low to the ground, further aiding its concealment by integrating its form with the natural contours of the rocky terrain."
+}

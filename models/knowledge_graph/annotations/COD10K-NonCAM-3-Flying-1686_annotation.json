@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a vibrant pink flower with a textured yellow-orange center, on which the butterfly is perched. Behind the flower, there are blurred green foliage elements and a very soft, out-of-focus light background.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's distinct black, creamy white, and orange markings create a high contrast against the vibrant pink and yellow colors of the flower and the blurred green background. Its coloration and patterns are not designed to blend into or mimic its immediate environment. Instead, its bright features make it highly conspicuous, indicating an absence of camouflage."
+}

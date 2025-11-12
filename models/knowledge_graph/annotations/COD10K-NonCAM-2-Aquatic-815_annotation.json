@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tropical marine fish",
+  "background_description": "The background consists of clear to slightly hazy blue water, with subtle variations in brightness and faint, blurry patterns, suggesting distant marine features or light refraction in an aquatic environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image features several tropical marine fish against a relatively uniform blue water background. The Copperband Butterflyfish has distinct orange and white vertical stripes, and the Tang has a solid dark grey/black coloration. Both fish stand out clearly against the light blue water; their patterns and colors do not blend with the environment, nor do they mimic any specific background features visible. The high contrast and prominent patterns indicate an absence of camouflage for the observed background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sunset over city skyline",
+  "background_description": "The scene depicts a dramatic sunset sky with heavy, dark storm clouds in the upper portion, transitioning to intense orange and yellow hues near the horizon. Patches of lighter blue sky are visible between the clouds. Below the horizon, a dark silhouette of a city skyline, including buildings and what appears to be a harbor or coastline, is present.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an environmental scene featuring a dramatic sunset sky over a city skyline. There are no visible animals, insects, or other organisms present for camouflage to be detected or evaluated. Therefore, camouflage is absent from this scene."
+}

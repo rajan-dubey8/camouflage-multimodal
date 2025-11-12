@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "StickInsect",
+  "background_description": "The background consists of a blurred, warm golden-brown area in the distance, with a prominent, light-colored, dried plant structure in the mid-ground. This structure appears to be made of broad, flat, slightly curved, off-white or pale beige segments, possibly dried petals or seed pods, with a somewhat papery texture. Some parts of this structure are a darker, more golden brown, but the immediate area around the stick insect is lighter.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "Mimicry",
+  "explanation": "The StickInsect is highly visible against the light-colored, broad segments of the dried plant structure it is resting on. While the organism's body shape is an excellent mimicry of a dry twig, the immediate background does not consist of similar thin, brown woody elements. Its mottled brown and tan coloration has only medium similarity to the pale beige of the foreground structure, and its rough, segmented texture contrasts with the smoother, papery appearance of the background elements. The overall contrast difference, particularly in shape and tone, makes the StickInsect easily discernible in this specific environment, despite its inherent mimetic strategy."
+}

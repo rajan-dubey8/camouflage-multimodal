@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Soft coral / Anemone-like organism",
+  "background_description": "The marine background consists of dark blue-green water, blurry rocky substrates, and other coral formations, providing a complex and textured backdrop. The ambient light is diffused, creating soft shadows and highlights typical of a deep underwater scene.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features a large soft coral or anemone-like organism underwater. Despite being an organism, its object_category is set to 'Environment' due to the lack of a more appropriate specific animal classification (e.g., 'Invertebrate') in the provided schema, and its role as a structural component of the marine habitat. This organism exhibits strong camouflage through a disruptive pattern. Its highly irregular, wavy shape, coupled with a surface densely covered in tentacle-like polyps, effectively breaks up its outline. This texture and form blend seamlessly with the complex, mottled textures of the surrounding rocks and other coral formations in the background, making it difficult to discern its individual shape. Furthermore, its pale blue-green coloration closely matches the ambient light and water hues, contributing to a high color similarity and low contrast difference with its environment, enhancing its overall concealment."
+}

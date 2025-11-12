@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is resting on a weathered, rough-textured piece of timber or log, which is a muted gray-brown color with visible wood grain and cracks. Surrounding the timber, and partially beneath it, is a ground covered in dark brown and reddish-brown wood chips or mulch, interspersed with numerous small green plant sprouts. In the upper portion of the image, there is dense, dark green foliage, possibly a shrub like rosemary.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard displays excellent camouflage against its immediate background. Its body features a mottled pattern of grays, browns, and dark scales that highly resemble the color and texture of the weathered wood it is positioned on. This color blending and pattern matching make it very difficult to distinguish the lizard's outline from the wood grain and cracks. The irregular pattern on its back also contributes to shape disruption, breaking up its form and helping it merge with the rough surface. The overall contrast difference between the lizard and the timber is low, allowing it to blend seamlessly into the environment."
+}

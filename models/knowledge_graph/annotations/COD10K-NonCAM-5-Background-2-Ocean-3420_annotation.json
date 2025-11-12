@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Open ocean and sky",
+  "background_description": "The image features a vast expanse of dark blue-grey ocean water with visible ripples and small waves. A broad, shimmering path of intense sunlight reflects on the water's surface, stretching from the foreground to the horizon. Above the horizon, a cloudy sky is visible, with dense grey and white clouds partially obscuring the sun, which casts prominent sun rays downwards. The overall scene is dramatic, with high contrast between the bright sunlit path and the darker surrounding water and clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an open ocean environment under a cloudy sky with strong sunlight reflecting on the water. No organisms (animals, insects, fish, etc.) are visible anywhere in the scene. Therefore, the concept of camouflage is not applicable, and no camouflage is present."
+}

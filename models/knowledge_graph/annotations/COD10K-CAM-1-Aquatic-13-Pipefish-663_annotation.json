@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a sandy or silty seafloor, mottled with light brown, grey, and darker patches, suggesting detritus or fine sediment variations. Scattered across this substrate are sparse, blade-like green aquatic plants or algae, some appearing as small tufts and others as longer strands. The overall environment is shallow, murky water with granular textures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits effective camouflage in this image. Its elongated, slender body shape allows it to visually integrate with the linear elements of the environment, such as the thin strands of aquatic plants or detritus. Its coloration, a mix of mottled dark brown/grey and lighter cream/white patches, closely matches the varied tones of the sandy-silty bottom and the sparse detritus present. The irregular patterning on its body helps break up its outline, making it harder to distinguish from the textured, granular background and the shadows cast by sediment. While some parts of its body, particularly the head, have a slightly higher contrast, the overall effect is one of blending seamlessly into the cluttered benthic environment."
+}

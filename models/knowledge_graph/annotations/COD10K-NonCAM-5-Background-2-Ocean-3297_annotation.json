@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Leafy Sea Dragon",
+  "background_description": "The background consists of clear, shallow ocean water with abundant frilly green and yellow-brown marine algae or seaweed. The water surface shows slight ripples and reflections, further fragmenting visual cues.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "A Leafy Sea Dragon is masterfully camouflaged within the marine vegetation. Its body is adorned with leaf-like appendages that perfectly mimic the shape, color (green, yellow-brown), and texture of the surrounding seaweed. This creates an optical illusion, making it nearly indistinguishable from its environment. The excellent color and texture matching, combined with the disruptive patterns formed by its appendages, effectively break up its outline and blend it seamlessly with the background. The ripples on the water surface further enhance this effect by distorting visibility, making detection extremely difficult."
+}

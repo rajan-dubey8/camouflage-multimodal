@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Reccoon",
+  "background_description": "The background consists primarily of a dense pine tree environment. There is a prominent dark brown, textured tree trunk with rough bark, and numerous branches of varying thicknesses covered with light patches, possibly snow or frost. Pine needles are visible, especially blurred in the foreground and midground, creating a complex, dappled visual field with shades of dark green, brown, and greyish-white. The lighting appears somewhat diffused, creating subtle shadows and highlights.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Reccoon's reddish-brown fur provides excellent color matching with the earthy tones of the pine tree bark and branches. The mottled and varied texture of its fur, combined with the dappled light and the visual clutter of the branches and pine needles, helps to break up its outline and reduce its overall contrast against the background. While the fur's texture is softer than the rough bark, the overall visual noise of the environment and the effective color blend make the organism merge well with its surroundings, making it difficult to spot immediately."
+}

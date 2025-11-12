@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Monkey",
+  "background_description": "The background consists of a thick, textured, dark grey-brown tree trunk on the left. The rest of the scene is dominated by dense pine branches and needles, primarily dark green, creating a cluttered and somewhat blurred effect. Some lighter green foliage is visible further in the background, suggesting depth. The overall environment is a coniferous forest setting, appearing somewhat shadowy and dappled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The organism's dark, grizzled fur/quills closely match the dark grey-brown of the tree bark and the deep, shadowy green of the surrounding pine needles and branches. Its form is partially obscured by the dense foliage, which creates visual clutter and helps to break up its outline. The low contrast between the animal and its environment, coupled with the matching dark tones, makes it blend in effectively, making it challenging to spot immediately."
+}

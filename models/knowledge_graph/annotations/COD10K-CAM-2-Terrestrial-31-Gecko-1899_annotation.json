@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The gecko is situated on a thick, gnarled tree branch or trunk. The surface of the branch is rough and textured, resembling bark or dried wood with patches of lighter lichen or weathered material. The background behind the branch is a very dark, indistinct area, suggesting deep shadow or an enclosed space.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The gecko demonstrates excellent camouflage. Its skin texture is incredibly rough and bumpy, almost perfectly mimicking the gnarled and weathered surface of the tree branch it is perched on. The coloration, a mix of muted greys, dull blues, and earthy browns, blends seamlessly with the varying tones and lighter patches (potentially lichen) present on the branch. This combination of high color and texture similarity, along with the irregular shape of its body that disrupts its outline against the background, makes it very difficult to distinguish the gecko from its environment. The low contrast difference further enhances its ability to blend in."
+}

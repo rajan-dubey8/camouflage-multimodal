@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of dense, lush green vegetation, including trees, bushes, and various aquatic or marshland plants. Behind the bird, there's a patch of feathery brown grass. In the immediate foreground, the bird is perched on a weathered, dark brown wooden railing.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The heron is prominently visible against its background. Its plumage, featuring distinct blue-grey, white, and reddish-brown areas, creates a high contrast with the dark brown wooden railing it's perched on and the vibrant green foliage behind it. While herons can often blend into varied wetland environments with their natural coloration, in this specific scene, the bird's clear outlines and contrasting colors make it stand out rather than blend in with its immediate surroundings. There is no active attempt at camouflage or natural blending observed in this context."
+}

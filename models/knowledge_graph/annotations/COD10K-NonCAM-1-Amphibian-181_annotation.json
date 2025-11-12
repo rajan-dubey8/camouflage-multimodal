@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The frog is situated on a large, flat, vibrant green lily pad, which is floating on the surface of calm water. Small clusters of white aquatic plants are visible on the lily pad and in the water. A dark, blurry vertical element, possibly the edge of the pond or a plant, frames the scene on the left.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a frog resting on a green lily pad. Its mottled brown and olive-green skin, while having some green tones, is distinctly patterned and colored differently from the uniform green of the lily pad, making it easily discernible. There is no evidence of camouflage being used; the animal's features are not obscuring its presence."
+}

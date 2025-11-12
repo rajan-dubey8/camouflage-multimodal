@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Chaffinch bird",
+  "background_description": "The background consists of light, sandy or gravelly ground, appearing off-white or very pale beige. It has a fine granular texture with scattered small, darker grey and brownish pebbles and some indistinct debris.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Chaffinch bird in this image is not camouflaged. Its distinct plumage, featuring a blue-grey head, reddish-orange breast, and prominent black and white wing markings, creates a high contrast against the uniformly light beige and grey granular ground. Neither its colors nor its smooth feathered texture blend with the rough, pale environment, making the bird easily visible."
+}

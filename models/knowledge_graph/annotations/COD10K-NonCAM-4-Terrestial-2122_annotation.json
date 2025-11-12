@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Lions",
+  "background_description": "The background consists of a dark, rugged rock face on the left and upper parts, and sparse ground cover of dry, yellowish-brown grass interspersed with patches of greener grass and exposed reddish-brown dirt, indicating a savanna or rocky grassland environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "Lions are naturally camouflaged animals, primarily utilizing 'Color blending'. Their tawny to golden-brown fur is evolved to match the dry grasses and earthy tones of their savanna and grassland habitats. In this image, while direct sunlight creates some contrast, the lions' fur colors still align well with the dried grass and dirt on the ground. This coloration reduces their visibility to prey, allowing them to stalk effectively, even if the dark rock background provides some contrast in this specific lighting condition."
+}

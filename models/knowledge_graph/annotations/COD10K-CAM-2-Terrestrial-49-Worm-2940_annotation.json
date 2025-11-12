@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of a vibrant green plant stem that the worm is curled around, along with several large, bright green leaves, some in sharp focus and others softly blurred, creating a lush green foliage environment under natural light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The worm exhibits excellent camouflage primarily through color blending. Its body is a vibrant, uniform green, almost perfectly matching the hue and saturation of the plant stem it is resting on and the surrounding leaves. The contrast difference between the worm and its immediate environment is very low, making its outline blend seamlessly with the foliage. While its segmented body texture is somewhat distinct, the overall color match is so effective that it significantly hinders visual detection by blending into the natural green of its habitat."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Brain Coral",
+  "background_description": "The background consists of dark, rocky substrate with shadowed areas and faint hints of blue and purple tones, characteristic of a dimly lit reef or aquarium environment. Some areas show sparse, small textures that could be other sessile organisms or detritus.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The brain coral (likely a type of Favia or Lobophyllia) displays striking neon green and bright blue coloration. This vibrant appearance makes it highly conspicuous against the dark, muted rocky backdrop of its marine environment. The coral's vivid colors are likely due to the presence of symbiotic algae (zooxanthellae) and fluorescent proteins, which are important for its health and light capture, rather than for concealment. There is a high contrast in both color and brightness between the coral and its surroundings, indicating a clear absence of camouflage. Its purpose is to be seen, not hidden."
+}

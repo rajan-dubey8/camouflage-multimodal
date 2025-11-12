@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Moonfish",
+  "background_description": "The background consists of blurred aquatic elements, primarily dark blue-green water in the upper parts and a lighter, yellowish-green hue, possibly from coral or aquatic plants, in the lower parts, indicating an underwater environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The blue moonfish displays a deep, iridescent blue coloration. This color provides 'color blending' camouflage by matching the hue of the surrounding water column, especially the darker blue areas in the background, which helps it blend in open water. Its reflective scales also contribute to breaking up its outline by mirroring ambient light. However, against the brighter, yellowish-green elements in the background, the fish is moderately visible, preventing a 'high' camouflage score, but it is clearly employing adaptive coloration typical of pelagic fish for concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Damselfish",
+  "background_description": "The background consists of dark, murky water with blurry, indistinct shapes of muted green and yellow, possibly indicating distant rocks, coral, or algae. The overall environment appears dimly lit.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A vibrantly blue Blue Damselfish is clearly visible against a dark, blurry background. Its bright coloration and distinct shape create a high contrast, indicating no camouflage is present; the fish stands out prominently in its environment."
+}

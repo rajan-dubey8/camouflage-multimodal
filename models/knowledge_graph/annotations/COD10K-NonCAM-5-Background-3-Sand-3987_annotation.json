@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand dunes landscape",
+  "background_description": "The environment consists of an expansive sandy landscape featuring undulating dunes with distinct, wave-like ripples formed by wind. The sand is primarily golden-brown and ochre in color, with areas of warmer tones where sunlight strikes directly and cooler, darker shadows in the depressions of the ripples and dunes. Sparse, dry vegetation can be seen on some distant dune crests, and footprints are visible in the foreground sand. The texture is characterized by fine-grained sand with a repetitive ridged pattern.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment consisting of sand dunes. There are no visible animals, insects, or fish present in the frame. As camouflage is a biological adaptation for organisms to blend with their surroundings, its assessment is not applicable when no organism is detected."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of a tree trunk with rough, textured bark. It is predominantly dark greenish-brown, heavily speckled with numerous small, raised white/light-colored spots, likely lichen or fungal growth. There are also darker, irregular patches and streaks, giving the bark an uneven and mottled appearance. The overall lighting is somewhat dim but casts a warm, yellowish-brown glow on some areas.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The snake, with its vivid yellow and golden coloration, stands out prominently against the darker greenish-brown and mottled texture of the tree trunk. Although some areas of the bark have a yellowish-brown tint, the snake's bright, uniform color creates a strong contrast in both hue and brightness. The distinct scaled texture of the snake also differs significantly from the rough, lichen-covered bark. Its coiled shape further delineates it from the background. As a result, the organism does not blend with its environment and is easily discernible."
+}

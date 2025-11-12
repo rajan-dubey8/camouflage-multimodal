@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Trumpetfish",
+  "background_description": "The background consists of a rocky seabed with irregular, textured rocks and gravel, displaying various shades of dark gray, brown, and greenish hues, likely covered in some algae or sediment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant yellow Trumpetfish with an elongated body and distinct snout. Its bright coloration stands out sharply against the muted, dark tones and rough textures of the rocky seabed, confirming the absence of camouflage."
+}

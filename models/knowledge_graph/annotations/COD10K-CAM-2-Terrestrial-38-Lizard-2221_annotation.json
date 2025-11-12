@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dry, rocky environment. The dominant features are a large, weathered, light-colored log or branch extending diagonally, and rough, textured rock formations. To the left, behind the log, are lighter brown/beige rocks with visible cracks and stratification. To the right, a vertical rock wall shows similar earthy tones and textures. The ground below features sandy areas and some darker stones, with a small, dark dish containing food particles.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates effective camouflage primarily through color blending and pattern matching. Its body exhibits a mottled pattern of light beige/grey and darker grey-brown patches, which closely matches the earthy tones and varied textures of the weathered log it is resting on and the rocky background. The irregular pattern on its back helps to disrupt its outline, making it less distinguishable from the uneven surfaces of the wood and rock. The overall color palette of the lizard seamlessly integrates with its environment, resulting in a low contrast difference and a high degree of visual integration with its surroundings."
+}

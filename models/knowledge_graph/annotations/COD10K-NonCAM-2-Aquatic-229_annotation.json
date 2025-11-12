@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Horse Mackerel",
+  "background_description": "Open ocean or coastal waters, characterized by varying shades of blue and green, with diffuse light and no distinct features like coral reefs or sandy seabeds, typical of a pelagic fish habitat.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Horse Mackerel. Its silvery body and streamlined shape are distinct against the imagined open water background, indicating no camouflage as it does not actively blend with the immediate surroundings."
+}

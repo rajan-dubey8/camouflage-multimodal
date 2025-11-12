@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a coarse, granular surface, likely concrete or packed gravel. It is composed of numerous small, irregularly shaped pebbles and grit in various shades of light brown, beige, gray, and dark brown, creating a highly textured and mottled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage against the gravelly background. Its mottled skin pattern, consisting of various shades of light brown, dark brown, and grayish-tan, closely matches the dominant colors of the small stones and grit in the environment. The irregular, warty texture of its skin also mimics the rough and granular texture of the background, further enhancing the blending. This combination of high color and texture similarity, along with minimal contrast difference, makes the toad very difficult to distinguish from its surroundings, effectively disrupting its outline."
+}

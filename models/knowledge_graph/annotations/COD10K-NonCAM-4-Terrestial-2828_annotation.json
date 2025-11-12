@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Pronghorn antelope",
+  "background_description": "The background consists of a dry grassland environment with tall, pale yellowish-beige grasses that are somewhat sparse in places, revealing patches of dry soil. Scattered throughout are thin, leafless, thorny branches or shrubs. In the distant background, there's a blurry hillside with muted green and brown vegetation and hints of human structures.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The pronghorn exhibits effective camouflage primarily through color blending. Its tan/brown fur on the upper body closely matches the dominant color of the dry, yellowish-beige grass and earth in its natural habitat. The white fur on its underbelly and rump provides countershading, a common camouflage technique where the animal's underside is lighter to counteract shadows, making it appear flatter and less three-dimensional against the varying light of the environment. While its fur texture is distinct from the grass, the overall color harmony allows it to blend in, especially when stationary among the tall grasses. The white markings, while seemingly contrasting, are part of its natural coloration for blending in open plains, and can also serve as a warning flash when fleeing."
+}

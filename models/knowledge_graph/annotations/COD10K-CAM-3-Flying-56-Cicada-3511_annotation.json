@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "A vertical section of a plant stem or tree trunk, likely from a banana tree or similar, with peeling, fibrous layers of light brown and yellowish-green bark/sheath. The texture is rough and linear. The upper right portion of the image is a clear, bright blue sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Cicada's dark grey and black body with some white markings stands in stark contrast against the much lighter, yellowish-brown fibrous bark of the plant stem. The clear, direct lighting further accentuates the contrast, making the cicada's distinct shape and coloration highly visible. The organism's texture, while having some linear elements, does not blend effectively with the coarse, peeling texture of the bark. There is minimal color or texture matching with its immediate surroundings, causing it to stand out rather than blend in."
+}

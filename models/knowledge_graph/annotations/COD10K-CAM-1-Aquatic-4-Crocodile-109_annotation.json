@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a body of water, likely a swamp or very still river, with a significant amount of floating or submerged vegetation and debris. The water surface is subtly rippled, creating varying shades of dark blue-grey and reflecting light in some areas. In the upper half, there are more dense patches of yellowish-green and dark brown plant matter, while the foreground has scattered smaller pieces of debris. The overall environment is dark and textured.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The crocodile exhibits excellent camouflage in this image. Its visible parts, primarily the top of its head, eyes, and nostrils, are dark brownish-grey, perfectly matching the color of the dark water and the floating organic debris. The rough, irregular texture of its skin blends seamlessly with the surrounding clumps of vegetation and the ripples on the water's surface, making it appear like just another piece of floating debris or a submerged log. The partial submersion and the way its head breaks the water also contribute to shape disruption, preventing its distinct crocodilian form from being easily recognized. There is very low contrast between the crocodile and its immediate environment, making it incredibly difficult to spot at first glance."
+}

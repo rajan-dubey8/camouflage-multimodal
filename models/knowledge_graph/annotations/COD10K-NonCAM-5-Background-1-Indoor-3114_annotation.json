@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Bookshelf interior",
+  "background_description": "A wooden bookshelf with multiple shelves, made of polished light brown wood. The shelves are filled with numerous books of various colors and sizes, alongside DVDs on the top shelf. The lower section features cabinet doors with printed pictures, one depicting a cityscape (likely Venice) and another a serene seascape with a small boat. A light brown teddy bear with a red bow tie sits on one of the middle shelves among the books.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts an indoor environment, specifically a bookshelf, which is primarily composed of books, DVDs, and a wooden structure. A teddy bear is visible on one of the shelves. According to the rules, a teddy bear is an inanimate object and not a biological organism. Therefore, since no living organism is present in the image, camouflage analysis is not applicable. The predefined values for 'No Camouflage' due to the absence of an organism have been applied."
+}

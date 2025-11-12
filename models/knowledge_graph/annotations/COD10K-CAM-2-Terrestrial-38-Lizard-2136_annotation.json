@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dense pile of various-sized, jagged rocks. The rocks display a natural palette of colors, predominantly dark gray, charcoal, and lighter gray, with several stones exhibiting brown, tan, and reddish-brown hues, indicating different mineral compositions or weathering. The surfaces are rough, granular, and irregular, creating numerous shadows, crevices, and diverse textures across the scene.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Texture matching / Shadow hiding / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage by blending seamlessly with the rocky environment. Its dark, mottled coloration, comprising various shades of gray, black, and brownish tones on its body and head, closely matches the diverse colors of the surrounding rocks and the deep shadows within the crevices. The rough, textured skin of the lizard also mimics the granular, irregular surfaces of the rocks. Furthermore, the lizard is positioned deep within a dark crevice, utilizing shadow hiding to obscure its form and reduce contrast, making its outline less discernible. The angular shape of its head and body, while recognizable upon close inspection, also blends well with the jagged, broken shapes of the rocks, contributing to effective shape disruption. These combined factors make the lizard very difficult to spot at first glance."
+}

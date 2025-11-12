@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dense pile of irregularly shaped volcanic rocks (likely lava rock or scoria). These rocks vary in size and exhibit a range of dark grey, charcoal, brownish-grey, and some reddish-brown tones. Their surface is highly rough, porous, and craggy, with numerous small pits and crevices, creating a visually complex and broken texture with varying shades of light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The grasshopper demonstrates exceptional camouflage against the volcanic rock background. Its body coloration, comprising mottled greys, browns, and dark irregular patches, almost perfectly matches the dominant hues and variations present in the surrounding rocks. The texture and patterns on its exoskeleton, particularly its wings, mimic the rough, porous, and fragmented nature of the lava rocks. This highly effective pattern matching, combined with excellent color blending, breaks up the organism's outline and prevents it from creating a distinct contrast with its environment, making it very difficult to detect visually."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Paper Kite Butterfly",
+  "background_description": "The butterfly is perched on a vibrant green leaf with visible veins and a slightly curled edge. The background is heavily blurred (bokeh effect), featuring soft, out-of-focus light grey, white, and faint yellowish-green tones, suggesting distant foliage or a bright, diffused indoor environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Paper Kite butterfly (Idea leuconoe) displays striking black and white patterns on its wings, which contrast sharply with the green leaf it is resting on and the blurred, light-toned background. Its coloration and bold patterns do not blend with the surrounding environment's colors or textures. Instead of being concealed, the butterfly's appearance makes it highly visible. This type of pattern is often considered a form of aposematism (warning coloration) or disruptive coloration rather than camouflage for concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a tree trunk with deeply fissured, rough bark. The bark exhibits a complex texture of grey, brown, and light-beige tones, with various cracks, ridges, and crevices creating a mottled pattern of light and shadow. The owl is nestled within a natural cavity or large crevice of this tree.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The owl exhibits excellent camouflage against the tree bark. Its feathers display a complex pattern of mottled grey, brown, black, and white, which perfectly matches the colors, textures, and irregular patterns of the deeply fissured tree bark. The variations in light and shadow on the owl's plumage mirror those found on the bark, creating a seamless visual integration. The owl's form is further obscured by its patterned feathers, breaking up its outline, and by its position within a natural crevice in the tree, making it very difficult to distinguish from its immediate surroundings."
+}

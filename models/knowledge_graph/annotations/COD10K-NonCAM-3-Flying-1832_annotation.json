@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Cedar Waxwing",
+  "background_description": "The bird is perched on a weathered, grey-brown wooden branch with visible texture and some lighter worn areas. The background behind the bird and branch is a plain, light blue-grey, suggesting an overcast sky or a distant, muted body of water/sky horizon.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Cedar Waxwing exhibits color blending as its primary form of camouflage. Its soft brown and grey plumage closely matches the muted tones of the weathered wooden branch it is perched upon, allowing it to somewhat blend into its natural woody habitat, such as tree bark and branches. While the bird's outline is clear, especially against the plain light blue-grey sky background, its coloration minimizes its distinction from typical natural surroundings. There is a medium degree of color similarity between the bird's feathers and the branch, although the texture of the feathers is smoother compared to the rough wood. The distinct black mask and crest, along with the yellow-tipped tail, make it not perfectly hidden, resulting in a moderate camouflage score."
+}

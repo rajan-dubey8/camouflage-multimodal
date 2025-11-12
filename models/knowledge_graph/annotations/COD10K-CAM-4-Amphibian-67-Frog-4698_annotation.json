@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of murky water densely populated with various aquatic plants. There are submerged green plants with fine leaves, some dried brown reeds and stems floating on or partially submerged in the water, and numerous small, reflective bubbles on the water's surface. A large, bright green reed stands vertically on the right side of the image, while the overall environment is characterized by dappled light and shadow, creating a complex and cluttered visual texture.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog is highly camouflaged in this image. Its skin coloration, a mottled pattern of various shades of green and prominent black spots, closely matches the surrounding environment. The green hues blend seamlessly with the living aquatic vegetation, while the black spots effectively mimic the shadows, darker plant matter, and the dappled light conditions in the water. The irregular pattern on its skin helps to disrupt its outline (shape disruption), making it harder to distinguish from the cluttered background of plant stems, leaves, and water reflections. A dried brown stem running horizontally in front of the frog further breaks up its perceived shape, enhancing its concealment. The combination of color blending and pattern matching makes the frog very difficult to spot at first glance."
+}

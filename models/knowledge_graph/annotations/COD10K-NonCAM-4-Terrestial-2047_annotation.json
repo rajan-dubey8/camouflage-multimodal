@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists primarily of large, dark grey to black rocks with a rough, uneven texture, suggesting a rocky riverbank or shore. Patches of vibrant green foliage, appearing as small plants or reeds, are visible growing amongst the rocks. The bottom portion of the image features dark water, reflecting some light.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features two otters on a rocky riverbank. While otters possess a dark fur color that helps them blend into shadows or dark water environments, in this specific bright lighting and against the textured grey rocks, they are quite distinct. Their sleek, wet fur reflects light, creating highlights that clearly differentiate their smooth texture and form from the rough, matte texture of the rocks. There is no active attempt at mimicry or disruptive patterning, and their coloration, though natural for their habitat, does not provide significant concealment in this visible pose and lighting condition."
+}

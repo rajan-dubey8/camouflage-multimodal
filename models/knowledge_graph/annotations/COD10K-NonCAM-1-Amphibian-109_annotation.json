@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Common toad",
+  "background_description": "The toad is situated on a weathered, light brown to greyish wooden log or branch, characterized by a rough, cracked, and textured surface. Behind the log, the background consists of blurred green foliage, indicative of a natural, vegetated environment, with a hint of a reddish-brown object in the far background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The common toad demonstrates effective camouflage, primarily through color blending and texture mimicry. Its dark grey-brown, mottled skin tones closely match the weathered, earthy colors of the log it is resting upon. Furthermore, the warty and rough texture of the toad's skin strongly resembles the cracked and coarse surface of the old wood, which helps to break up its outline and integrate it visually with its immediate environment. This high degree of similarity in both color and texture results in a low contrast difference between the toad and the log, making it blend in seamlessly and difficult to spot."
+}

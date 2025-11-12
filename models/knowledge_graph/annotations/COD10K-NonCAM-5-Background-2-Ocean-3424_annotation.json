@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The image captures a vibrant underwater coral reef scene. Dominant features include large, fan-like gorgonian corals (sea fans); one is a muted greenish-grey with prominent purple vein-like structures, and another is a yellowish-brown. Bushy, branching coral formations with a yellow-green hue are also visible. The seafloor is composed of rocky substrate, coral rubble, and some sandy patches, covered with various encrusting organisms and algae, displaying shades of green, brown, and some reddish-brown. The water itself has a clear, blue-green tint.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "No specific organism (animal, insect, or fish) is clearly visible and identifiable as the main subject in this image. The scene predominantly features a natural underwater coral reef ecosystem composed of various coral types and the seafloor. Therefore, no camouflage is detected, as there is no target organism to evaluate against the background. The image is classified as an 'Environment'."
+}

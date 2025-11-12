@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Beach sand",
+  "background_description": "The image features a detailed view of beach sand. The surface is textured with numerous small ripples and undulations, suggesting wind or water patterns, as well as several faint footprints. The sand has a consistent light brownish-gray color, with shadows creating depth and highlighting the uneven terrain.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays only a sandy environment with no discernible organisms (animals, insects, or fish) present. As no organism is visible, there is no camouflage to detect."
+}

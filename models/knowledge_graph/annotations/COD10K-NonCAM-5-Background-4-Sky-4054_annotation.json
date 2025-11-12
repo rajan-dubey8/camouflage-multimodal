@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Blue sky with scattered clouds",
+  "background_description": "The image displays a clear, vibrant blue sky, indicative of a bright day. Scattered across the sky are various white clouds, ranging from small, wispy cirrus clouds to more defined, fluffy cumulus formations. The texture of the clouds is soft and irregular, contrasting against the smooth, uniform blue background.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts an environmental scene of the sky with clouds. There are no visible organisms (animals, insects, or fish) in the image. Therefore, according to the rules, camouflage is not present. The fields related to camouflage (presence, score, type, color and texture similarity) are set to default values for 'No Camouflage'."
+}

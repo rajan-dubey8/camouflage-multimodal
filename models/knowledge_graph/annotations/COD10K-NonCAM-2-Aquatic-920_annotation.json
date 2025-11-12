@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Colorful reef fish",
+  "background_description": "The background consists of a light, fine-grained sandy or gravel bottom in the foreground, transitioning to blurred vertical green aquatic plants or algae in the mid-to-background, suggesting a clear, shallow aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish displays vibrant and contrasting colors, predominantly shades of pink, purple, orange, red, and yellow. These bright hues stand out significantly against the muted green of the aquatic plants and the light, sandy bottom. There is no blending of colors, disruptive patterns, or mimicry of the environmental textures present, making the fish highly conspicuous rather than camouflaged in this setting."
+}

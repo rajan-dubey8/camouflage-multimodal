@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Partly cloudy sky with trees",
+  "background_description": "The image displays a clear blue sky with various formations of white cumulus clouds, indicating a bright, sunny day. In the lower left and bottom center of the frame, dark green coniferous tree branches are visible, silhouetted against the sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The scene primarily depicts an environmental landscape of a partly cloudy sky with some tree branches. Therefore, there is no subject to evaluate for camouflage."
+}

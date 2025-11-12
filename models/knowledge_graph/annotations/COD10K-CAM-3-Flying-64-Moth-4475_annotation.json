@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a rough, grey rock surface extensively covered with patches of various lichens. Dominant lichen colors include off-white, light greenish-grey, and vibrant yellow, with some darker grey bare rock visible between the patches. The texture is highly irregular, granular, and mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth exhibits excellent camouflage against the lichen-covered rock. Its wings display a complex pattern of mottled grey, dark grey, and greenish-brown patches, which remarkably mimic the varied colors and textures of the lichens and bare rock. The irregular, granular texture of the moth's wings closely resembles the uneven surface of the lichens. The overall color palette of the moth blends seamlessly with the background, with the darker areas corresponding to shadows or bare rock, and the lighter, greenish-grey areas matching the pale green and white lichens. This combination of color blending and pattern matching effectively breaks up the moth's outline and makes it very difficult to discern from its environment."
+}

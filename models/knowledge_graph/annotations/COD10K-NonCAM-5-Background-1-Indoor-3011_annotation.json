@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Office workspace",
+  "background_description": "The scene depicts an L-shaped wooden office desk with a silver iMac, keyboard, mouse, a stack of books, and a potted green plant. The walls are painted in two different colors: mustard yellow and light grey. A black office chair is positioned next to the desk, and the floor is covered with dark grey carpet.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an indoor office environment with inanimate objects such as a desk, computer, books, and a chair. There are no animals, insects, or fish present in the scene, which are the subjects considered for camouflage detection by this model. According to the rules, if no organism is visible, camouflage is not present."
+}

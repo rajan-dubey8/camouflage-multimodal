@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Marine Invertebrate",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a pebble beach, stretching into the distance towards cliffs and the ocean. The pebbles are smooth, wet, and vary in size and color, ranging from dark grey and brown to lighter beige and tan. There are also some darker, almost black stones. The overall tone of the pebbles is muted and earthy, with reflections from the wet surfaces.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The StarFish is clearly not camouflaged in this image. Its vibrant orange-red color stands in stark contrast to the muted, earthy tones of the wet grey, brown, and beige pebbles on the beach. There is no color blending. Furthermore, its distinctive five-armed shape and rough, bumpy texture are also very different from the smooth, rounded surfaces of the surrounding stones. This creates a high contrast in both color and texture, making the starfish highly conspicuous against its environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of the rough, textured bark of a tree trunk. It features deep crevices and ridges, displaying various shades of grey, brown, and some lighter, almost whitish patches, possibly lichen. The overall texture is coarse and irregular, characteristic of mature tree bark.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog exhibits excellent camouflage, blending almost perfectly with the tree bark. Its skin coloration, a mottled mix of greys and browns, precisely matches the dominant colors and variations found in the bark. The irregular, bumpy texture of the frog's skin closely mimics the coarse, furrowed surface of the tree trunk, making it difficult to distinguish its form from the natural irregularities of the bark. Furthermore, the contrast difference between the frog and its immediate environment is very low, preventing its outline from standing out. This combination of high color and texture similarity, along with low contrast and subtle shape disruption, allows the frog to integrate seamlessly into its environment, making it very hard to spot."
+}

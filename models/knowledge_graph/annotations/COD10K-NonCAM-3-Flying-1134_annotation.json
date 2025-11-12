@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hummingbird",
+  "background_description": "The background is a uniform, deep black, completely featureless and devoid of any texture or environmental context.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The hummingbird is highly conspicuous against the plain black background. Its vibrant green, gold, white, and orange plumage creates a strong contrast with the dark surroundings, making it stand out prominently rather than blend in. There are no environmental textures or colors for the bird to mimic or hide within, indicating a complete absence of camouflage."
+}

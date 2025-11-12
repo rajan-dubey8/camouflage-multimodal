@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal waters with rocky shore",
+  "background_description": "The image displays clear, turquoise-green ocean water with sunlight reflecting off the surface, creating dappled patterns on the submerged rocks and seabed. A rugged, greyish-brown rocky shoreline is visible on the right, extending into the water with several partially submerged rocks. The water depth varies, revealing the rocky bottom in shallower areas.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural coastal environment consisting of clear water and rocks. While there is a tiny, distant human swimmer visible, the main subject of the image is the seascape itself, not the swimmer. Therefore, the entity type is classified as 'Environment'. As there is no organism prominently featured or attempting to blend into its surroundings for camouflage, and the scene is simply a natural landscape, no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sea lion",
+  "background_description": "The background consists of a dark grey, roughly textured, layered rock wall. The ground is a lighter grey/brown concrete or rock surface with scattered dry yellow and brown leaves.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The sea lion, with its light brown/grey fur, stands out prominently against the dark grey, rugged rock wall in the background. While sea lions possess natural countershading that can aid in camouflage in their natural aquatic habitat by blending with water from above and light from below, in this specific terrestrial setting against a distinctly different textured and colored background, it is clearly visible and not camouflaged. There is low color and texture similarity and a high contrast difference between the animal and its immediate surroundings."
+}

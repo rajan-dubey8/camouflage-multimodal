@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of shallow, murky water with reflections of light and some submerged or floating dried plant matter. The water's color varies from a light brown/muddy hue to a bluish-grey where it reflects the sky or light source.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The toad displays excellent camouflage. Its mottled skin, featuring shades of brown, olive green, and black spots against a lighter tan base, perfectly matches the colors of the murky water and submerged plant debris in its environment. The warty, irregular texture of its skin also blends seamlessly with the uneven surfaces and reflections of the water, making it difficult to distinguish from its surroundings. This combination of color and texture similarity minimizes its visibility to both predators and prey."
+}

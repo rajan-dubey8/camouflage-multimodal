@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetahs",
+  "background_description": "The background consists of dry savanna grassland characterized by sparse, yellowish-brown tall grass, patches of greener vegetation near the ground, and exposed arid earth. The overall color palette is muted browns, yellows, and dull greens.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The cheetahs exhibit effective camouflage through both color blending and disruptive patterns. Their golden-tan fur provides high color similarity with the dry savanna grass and earth tones of the environment. Additionally, the distinctive black spots act as a disruptive pattern, breaking up the animals' outlines. This makes it difficult for observers to discern their forms against the varied textures and dappled light/shadow effects of the patchy background, significantly reducing their visibility to prey or other animals."
+}

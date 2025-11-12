@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Tit",
+  "background_description": "The bird is perched on a weathered tree stump with visible wood grain and rough textures, predominantly in shades of brown and reddish-brown. The background is softly blurred, depicting deforested trees or branches with muted grey, brown, and hints of desaturated blue tones, suggesting an outdoor forest or woodland setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Tit exhibits vibrant yellow underparts, a distinctive black head with white cheeks, and a black stripe down its chest. These bold colors and sharp patterns create a high contrast against the muted, earthy brown and grey tones of the wooden stump and the blurred natural background. The bird's coloration is designed for species recognition and display, rather than blending in with its surroundings. Therefore, there is no camouflage present."
+}

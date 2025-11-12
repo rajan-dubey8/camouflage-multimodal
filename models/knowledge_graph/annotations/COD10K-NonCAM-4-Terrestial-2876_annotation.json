@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Raccoon",
+  "background_description": "The background consists primarily of a rough, reddish-brown tree trunk with deep grooves and textured bark. There are also dark, shadowy areas behind the raccoon, suggesting a sheltered spot or interior of a tree cavity.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The raccoon exhibits color blending camouflage. Its multi-tonal fur, comprising shades of brown, black, and greyish-tan, closely matches the reddish-brown and dark tones of the tree bark and the shadowy areas of its immediate environment. The rough, shaggy texture of its fur also helps to disrupt its outline against the irregular texture of the bark. Although the raccoon's distinct facial mask and the bright reflection in its eyes (likely due to flash photography) make it clearly visible in this specific lighting, its natural pelage is well-adapted for blending into a forest or arboreal habitat, particularly when resting against tree trunks or in shadowed areas."
+}

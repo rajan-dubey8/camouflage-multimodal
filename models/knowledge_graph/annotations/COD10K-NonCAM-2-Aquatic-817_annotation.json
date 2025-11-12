@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Freshwater fish",
+  "background_description": "The background is a blurry, murky aquatic environment, showing diffused greenish-brown and greyish tones. There are numerous small white particulate specks suspended in the water, indicative of sediment or debris in the water column.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The fish's body exhibits a greenish-brown coloration that could offer some blending with a murky environment. However, its striking, vibrant red fins (caudal, anal, and dorsal fin tips) create a strong visual contrast against the muted, blurry background. These bright colors make the fish highly visible, rather than camouflaged. Therefore, camouflage is not present; instead, the coloration is likely for signaling or display."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of dense natural vegetation, featuring a mix of vibrant green grass blades, yellowish-green stems, and various dry, straw-like brown stalks, twigs, and fallen leaves. There are areas of bright sunlight creating highlights and deep shadows, contributing to a complex, textured environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption / Shadow hiding",
+  "explanation": "The grasshopper exhibits effective camouflage due to its coloration and body shape. Its body is primarily a vibrant green, which perfectly matches the healthy green grass blades and stems in the background, offering high color similarity. The wings and some parts of its legs are a brownish-beige, blending seamlessly with the dry, straw-like elements and fallen leaves present in the environment. The elongated, slender shape of the grasshopper's body also contributes to shape disruption, making it resemble a grass stem or twig rather than an insect. The play of light and shadow on its body also integrates with the dappled lighting of the natural setting, reducing its overall contrast and helping it blend in. While clearly visible upon close examination, its overall appearance effectively allows it to blend with its environment, making it difficult to spot by a casual observer."
+}

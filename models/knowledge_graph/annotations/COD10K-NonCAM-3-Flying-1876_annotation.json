@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Snowy Egret",
+  "background_description": "The background consists of dense, out-of-focus green foliage, likely shrubs or trees, with some darker branches visible. The bird is perched on a weathered, light gray wooden railing or plank, showing visible wood grain and some discoloration.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Snowy Egret is stark white, which contrasts significantly with the dark green foliage in the background and the weathered gray wooden railing it is standing on. There is no color blending, disruptive pattern, or mimicry with this specific environment. While white plumage can serve as camouflage in bright, open environments or against reflections on water (its typical hunting ground), in this context of dark green vegetation and gray wood, the bird stands out very clearly, indicating a complete absence of camouflage."
+}

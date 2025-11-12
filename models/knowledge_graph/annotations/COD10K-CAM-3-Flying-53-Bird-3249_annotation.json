@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a snowy ground, partially covered with dark, intricate, leafless branches and twigs from what appear to be bushes or shrubs. There is also a large, grey rock partially covered in snow on the right side of the image. The overall scene is dominated by white snow and dark, stark branches, suggesting a winter environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird, likely a Ptarmigan in its winter plumage, is almost entirely white, providing exceptional color blending with the surrounding snow. This high color similarity and very low contrast difference between the bird's body and the snowy ground make it incredibly difficult to spot. While the dark branches provide some visual clutter, the bird's primary camouflage strategy is to disappear into the white expanse, effectively hiding its outline and presence. Its small dark eye and beak are the only contrasting features, but they are minimal."
+}

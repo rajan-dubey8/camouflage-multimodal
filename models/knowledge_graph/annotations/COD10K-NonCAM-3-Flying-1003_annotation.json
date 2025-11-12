@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Seagull",
+  "background_description": "The background consists of a rugged coastline. The foreground is a grey-brown textured rock formation where the seagull is standing. Beyond that, the deep blue ocean is visible with white waves breaking against numerous darker, jagged rocks. In the distant background, there's a hazy coastline with some faint buildings and trees under a light blue sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seagull's bright white plumage on its head and body, contrasted with its darker wing tips and bright yellow beak, stands out prominently against both the grey-brown rocky foreground and the deep blue ocean background. There is a strong visual contrast, and its smooth feathered texture does not blend with the rough, uneven texture of the rocks or the dynamic surface of the water. Therefore, no camouflage is present."
+}

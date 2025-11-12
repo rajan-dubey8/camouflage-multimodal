@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of large, rough, reddish-brown and grayish-brown rocks with visible grain and texture, along with loose, reddish-brown sandy soil and scattered smaller pebbles and gravel. The bird is nestled within a deep, dark recess created by the overhanging rock, enhancing shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shadow hiding / Pattern matching",
+  "explanation": "The bird is highly camouflaged in this image. Its plumage displays a range of muted earthy tones, including light brown, tan, and grayish-brown, which closely match the colors of the surrounding reddish-brown rocks and sandy soil. The subtle patterns and variations in its feathers, particularly the darker markings, aid in pattern matching with the granular and textured surfaces of the rocks and earth. A key factor in its camouflage is its strategic placement deep within a shadow cast by the large overhanging rock. This shadow significantly reduces the overall contrast between the bird and its environment, obscuring its outline and making it blend seamlessly into the dark recess. The combination of excellent color blending, some degree of pattern matching, and effective shadow hiding makes the bird very difficult to spot."
+}

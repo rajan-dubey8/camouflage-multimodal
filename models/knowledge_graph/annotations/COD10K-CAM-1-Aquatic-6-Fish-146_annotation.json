@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists primarily of a light brown to tan sandy substrate, appearing wet or submerged, with fine grains and scattered darker specks. In the lower portion of the image, there is a distinct line of dark, rounded pebbles and small rocks, interspersed with some white shell fragments or debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits excellent camouflage, blending almost seamlessly with the sandy substrate. Its translucent, pale yellowish-tan coloration very closely matches the color of the wet sand, resulting in high color similarity. The contrast difference between the fish and its background is remarkably low, making it very difficult to discern at first glance. While the fish itself doesn't possess a granular texture, its slightly irregular, elongated shape and semi-transparent nature allow it to visually merge with the fine-grained texture of the sand and its subtle irregularities, contributing significantly to effective texture similarity. The combination of these factors, especially the strong color resemblance and low contrast, makes the fish highly camouflaged in this environment."
+}

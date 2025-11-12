@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of dark, heavily textured tree bark, characterized by deep fissures, ridges, and a rough, almost black-brown surface. Patches of dark green moss or lichen are also visible clinging to the bark's crevices.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The cicada exuviae (shed skins) in the image are light tan/brown and semi-translucent, creating a strong visual contrast against the dark, almost black-brown tree bark. The texture of the exuviae is relatively smooth compared to the deeply fissured and coarse texture of the bark, further reducing any blending. Due to the significant differences in both color and texture, the exuviae stand out prominently and do not exhibit any camouflage with their environment."
+}

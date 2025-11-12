@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of a dense network of various green leaves and thin, brown, winding branches. Behind the immediate foliage, there's a blurred, warm yellowish-brown surface, possibly a rock wall or a distant textured background, illuminated by a warm light source.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The chameleon exhibits effective camouflage primarily through color blending. Its green coloration is a near-perfect match for the surrounding leaves, making it blend seamlessly with the immediate vegetation. Furthermore, its body is partially obscured by the dense foliage and thin branches, which helps to disrupt its outline and break up its shape, making it harder for a predator to discern its full form. While its distinct head crest and the fine texture of its scales present a slight textural difference from the smoother leaves, and the blurred yellowish-brown background behind the leaves offers some color contrast, the overall effect is one of significant concealment due to the strong color match and the use of natural cover."
+}

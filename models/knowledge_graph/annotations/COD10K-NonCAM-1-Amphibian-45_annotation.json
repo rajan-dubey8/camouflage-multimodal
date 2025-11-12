@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Leopard Frog",
+  "background_description": "The animal is resting on a rough, textured rock surface, primarily light gray and brown with some patches of greenish moss or algae. The background consists of blurred similar rock formations.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A Leopard Frog is clearly visible sitting on a rock. Its distinct pattern and shape, while natural, do not create an effective concealment against the background, confirming the absence of camouflage."
+}

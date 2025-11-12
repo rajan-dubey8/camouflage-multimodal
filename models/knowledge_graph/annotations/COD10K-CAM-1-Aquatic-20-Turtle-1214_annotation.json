@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Turtle",
+  "background_description": "The background consists of a vibrant and diverse coral reef. It features a dense arrangement of various hard corals, including branching corals, massive brain corals, and plate-like corals, exhibiting a range of textures and forms. The colors present in the reef are predominantly shades of green, brown, blue, and off-white/cream, creating a complex, mottled, and visually 'noisy' environment with areas of light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The turtle is well-camouflaged within this coral reef environment. Its carapace and skin display a mottled pattern of greens, browns, and dark greys that remarkably match the varied colors and textures of the surrounding corals and reef substrate. The irregular, broken patterns on its shell and flippers effectively disrupt its natural outline, making it difficult for the eye to discern its shape against the visually complex and textured background. This combination of color blending and pattern matching allows the turtle to seamlessly integrate into its habitat, significantly reducing its visibility."
+}

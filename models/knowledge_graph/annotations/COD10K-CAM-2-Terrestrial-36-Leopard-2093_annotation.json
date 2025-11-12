@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Leopard",
+  "background_description": "The background consists primarily of tall, dry, yellowish-brown to light brown grasses. These grasses are dense and appear as vertical stalks and blades, with some crossing horizontally. There are a few darker brown stems and very small patches of green leaves visible among the dry foliage. The overall impression is a natural, savanna-like environment with sparse vegetation below the main grass level.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The leopard exhibits excellent camouflage in this image. Its tawny and beige base fur color closely matches the dry, yellowish-brown hues of the surrounding tall grass, providing strong color blending. The distinctive black spots (rosettes) on its coat serve as a form of pattern matching, mimicking the dappled light and shadow patterns created by the dense vegetation. Furthermore, the vertical blades of grass partially obscure the leopard's body, physically disrupting its outline and making it harder to discern its shape. The combination of its natural coloration, disruptive patterning, and the environmental concealment provided by the grass makes the leopard blend remarkably well with its environment, effectively hiding it from casual observation."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Oscar fish",
+  "background_description": "The background is predominantly dark black, suggesting a deep or dimly lit aquatic environment, possibly an aquarium with minimal decoration, though some faint, dark, out-of-focus structures (likely rocks or substrate) are barely visible at the bottom.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an Oscar fish with striking dark blue-grey and bright orange-yellow patterns. Its vibrant coloration and distinct markings stand out sharply against the deep black background, making it highly conspicuous and confirming the complete absence of camouflage."
+}

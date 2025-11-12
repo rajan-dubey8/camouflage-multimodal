@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of vibrant green, broad leaves of a plant. Some leaves are brightly illuminated by direct sunlight, while others are in shadow, creating variations in tone and depth. A small patch of dried, brownish-beige organic material (possibly a dried leaf or stem) is visible in the upper background, partially obscured by the lush green foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada exhibits effective color blending camouflage. Its body is a bright, vivid green that closely matches the hue of the surrounding healthy leaves. This strong color similarity makes it difficult to distinguish from the foliage at first glance. While its dark eyes and slightly brownish-orange legs create some contrast, and its overall rounded shape is distinct from the flat leaves, the dominant green coloration allows it to blend significantly with its leafy environment, making it less conspicuous to predators."
+}

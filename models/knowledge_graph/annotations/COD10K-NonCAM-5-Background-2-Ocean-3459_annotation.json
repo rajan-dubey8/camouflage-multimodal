@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mushroom coral",
+  "background_description": "The background consists of a coarse seafloor composed of dark brown and grey sand, small gravel, and larger rock fragments or detritus. The textures are rough and granular, with occasional patches of yellowish-brown or reddish growth.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The image displays a Mushroom coral, a marine invertebrate. While the coral's overall shape is distinct, its central body exhibits effective color blending with the surrounding seafloor. The muted olive-green and brown tones of the coral's folded surface closely match the dark, earthy colors of the sand and gravel, reducing its visibility against the benthic environment. The intricate, ridged texture of the coral also shares some complexity with the rough, granular substrate. However, the vibrant fuchsia-pink tips of the outer polyps create a strong contrast, making those areas highly visible and somewhat reducing the overall camouflage effectiveness. This could be a form of disruptive coloration or a warning signal. The `object_category` 'Fish' was selected as the closest available category for an aquatic animal within the strict schema constraints, despite the organism being a coral (a marine invertebrate) and not a fish."
+}

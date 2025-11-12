@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow, sandy seabed with sparse patches of light green seagrass blades and various forms of brown and reddish-brown algae and detritus. The water appears clear, allowing a direct view of the bottom textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Pipefish is exceptionally well camouflaged in this image. Its slender, elongated body, located horizontally in the center-left, perfectly mimics the shape and orientation of the surrounding seagrass blades and other linear detritus on the seabed. Its pale, slightly translucent coloration blends seamlessly with the light-colored sand and the muted greenish-brown tones of the sparse vegetation and water. The very low contrast between the Pipefish and its immediate background makes it extremely difficult to discern, causing it to visually disappear into the environment. It effectively uses mimicry of its surroundings to avoid detection."
+}

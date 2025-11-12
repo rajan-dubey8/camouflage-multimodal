@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Moss and lichen covered branch",
+  "background_description": "The background is very dark, almost black, and completely out of focus, creating a deep, obscure backdrop. The foreground features a thick tree branch densely covered with a variety of moss and lichen, exhibiting textures ranging from soft, feathery growths to more coarse, fibrous patches. The colors are predominantly vibrant yellowish-green and olive-green, with some brownish tones, particularly in the more shadowed crevices. The branch is illuminated by a direct light source, creating highlights on the moss and casting parts of the branch into shadow.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image exclusively depicts an environmental scene featuring a tree branch covered in moss and lichen. Since there is no organism present, the concept of camouflage does not apply."
+}

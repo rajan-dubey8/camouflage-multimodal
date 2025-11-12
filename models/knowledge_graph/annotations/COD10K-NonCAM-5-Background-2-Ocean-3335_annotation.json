@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Soft coral",
+  "background_description": "Underwater marine environment featuring a textured substrate with varying shades of green, blue, and brown, typical of a coral reef or rocky seafloor.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image displays a soft coral with numerous extended polyps. The coral's pale greenish-white to blue-green coloration closely matches the ambient light and color palette of the surrounding marine environment. Its most effective camouflage mechanism is a disruptive pattern created by the multitude of fine, textured polyps. This intricate texture breaks up the coral's overall shape and outline, making it difficult for predators or prey to distinguish it as a distinct organism against the similarly textured and colored background of the underwater substrate. Both color blending and disruptive patterning contribute to its high level of inconspicuousness."
+}

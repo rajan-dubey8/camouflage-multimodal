@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with industrial structures",
+  "background_description": "The scene features a bright blue sky partially covered by scattered white and light grey cumulus clouds. In the lower left, a vibrant blue metal railing runs horizontally. Extending upwards from the lower and mid-ground are several white and grey metallic structures, including what appears to be a communication antenna assembly with a circular element and a rectangular panel, and a cylindrical vent or pipe.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an outdoor environment comprising a cloudy sky, a blue railing, and various man-made structures such as communication equipment and a vent. There are no visible organisms (animals, insects, or fish) present in the scene. As camouflage is a biological adaptation for organisms to blend into their environment or mimic other objects, its presence cannot be assessed in this purely environmental and artificial context."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mandarinfish",
+  "background_description": "The aquatic environment consists of a rocky seabed covered with reddish-brown coralline algae or similar growth. There are also lighter-colored rock or coral fragments interspersed, creating a textured bottom. The water appears clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image features a vibrantly colored Mandarinfish with intricate patterns of electric blue, orange, yellow, and brown. Its bright coloration stands out distinctly against the muted reddish-brown and grey tones of the rocky, alga-covered seabed, indicating a clear absence of camouflage."
+}

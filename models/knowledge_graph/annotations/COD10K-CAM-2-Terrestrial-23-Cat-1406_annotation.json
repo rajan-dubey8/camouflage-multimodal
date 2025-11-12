@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The cat is mostly hidden beneath a rolled-up rug. The visible part of the rug is light beige/off-white with stripes of orange and grey, featuring a coarse, woven texture. The floor in the foreground is a polished wooden surface with a warm, light brown hue. The background beyond the rug is brightly lit and out of focus, showing indistinct indoor elements like furniture legs and a bright wall.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Shadow hiding",
+  "explanation": "The cat's dark fur blends exceptionally well with the deep shadow cast by the rolled-up rug, providing effective concealment. Its body and most of its face are almost entirely obscured by the darkness, making it very difficult to discern its shape or outline. The primary elements that reveal its presence are its bright, luminous green eyes and a small, lighter part of its nose, which create a high contrast against the surrounding darkness. This is a clear example of shadow hiding, augmented by the cat's naturally dark coloration."
+}

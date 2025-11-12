@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The frog is nestled within a shadowed, hollowed-out crevice of what appears to be a rock or log. The surrounding surfaces are heavily covered with dense, vibrant green and yellowish-brown moss, interspersed with darker, damp patches of rock or wood. There are also some reddish-brown tones visible in parts of the mossy growth, contributing to a complex and varied texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The frog exhibits excellent camouflage due to its coloration and patterning, which closely mimic its immediate environment. Its skin features a mottled pattern of dark browns, olive greens, and creamy whites, perfectly matching the variegated shades of the moss and the dark, damp rock/wood surfaces. The irregular speckles and stripes on its body act as pattern matching, breaking up its outline and allowing it to blend seamlessly with the textured, organic surfaces of the background. Furthermore, its position within a shadowed crevice enhances its camouflage by utilizing shadow hiding, reducing overall contrast and making it more difficult for predators to detect. The combination of color, pattern, and strategic placement makes it almost indistinguishable from its surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a highly textured, rough surface, likely tree bark or a rocky outcrop. It features an irregular pattern of light grey, white, and earthy brown patches, with deep crevices and shadows contributing to a mottled, uneven appearance. The surface is complex and organic, providing many areas for a creature to blend in. Beyond this immediate surface, there is a dark, out-of-focus background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard demonstrates excellent camouflage through a combination of color blending and pattern matching. Its scales are mottled with shades of light grey, cream, and darker brown/olive tones, which precisely mimic the colors and variations found on the rough, textured surface it is resting on. The irregular patterns on its skin, particularly on its head and back, align with the natural crevices, highlights, and shadows of the bark or rock. This strong resemblance in both color and texture significantly reduces the contrast between the lizard and its environment, making it difficult to discern at a glance. The granular texture of its scales further enhances this blending, allowing it to seamlessly integrate with the coarse surface."
+}

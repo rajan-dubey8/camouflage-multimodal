@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Paper Kite Butterfly",
+  "background_description": "The background consists of lush green foliage, mostly out of focus, creating a bokeh effect with bright circular light reflections. The colors are predominantly various shades of green, suggesting a forest or garden environment with dappled sunlight.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's distinct black and white patterned wings create a very high contrast against the green leafy background. This coloration is not designed for blending in or concealment but rather for standing out. This is characteristic of aposematic coloration (warning signals) or mimicry of such species, indicating to potential predators that the butterfly may be toxic or unpalatable. Therefore, no camouflage is present; instead, it uses anti-camouflage or warning coloration."
+}

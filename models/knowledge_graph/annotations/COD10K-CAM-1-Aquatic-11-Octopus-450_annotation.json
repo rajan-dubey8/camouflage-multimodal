@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Cephalopod",
+  "object_name": "Octopus",
+  "background_description": "The organism is situated on a complex underwater coral reef environment. The immediate background consists of various stony corals and rocks with mottled textures and colors, including shades of reddish-brown, cream, white, and hints of yellowish-green. Further back, there is a large white sea anemone or sponge, and a patch of vibrant red soft coral. The upper portion of the image shows the clear blue ocean water with sunlight filtering through, illuminating a dense school of small, dark fish and a few larger solitary fish.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The octopus demonstrates excellent camouflage by precisely matching both the coloration and texture of the surrounding coral reef. Its skin displays mottled patterns of reddish-brown, cream, and white, which perfectly align with the variegated colors of the stony corals and rocks it rests upon. Furthermore, the octopus has raised its dermal papillae, giving its skin a rough, bumpy texture that mimics the uneven, craggy surface of the reef, effectively disrupting its outline and making it difficult to distinguish from the environment. This combination of color and texture mimicry results in low contrast and high integration with its surroundings."
+}

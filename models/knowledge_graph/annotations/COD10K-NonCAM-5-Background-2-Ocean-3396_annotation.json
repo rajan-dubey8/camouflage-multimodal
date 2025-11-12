@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The image displays an underwater environment dominated by various coral formations. In the foreground and midground, there are dense clusters of light yellowish-beige finger-like or branching stony corals. The background features more delicate, darker branching corals receding into the deep blue water, which appears slightly hazy with suspended particles. The overall color palette is dominated by blues and muted yellows/beiges.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an underwater coral reef environment. After careful scrutiny of the coral structures and the surrounding water, no distinct animal, insect, or fish is visible within the scene. Therefore, no organism is present for camouflage to be detected."
+}

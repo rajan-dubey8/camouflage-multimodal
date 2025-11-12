@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of rough, craggy rock formations predominantly in shades of reddish-brown, orange, and dark grey/black. A prominent dark crevice or cave opening is visible, where the lizard is situated. The ground surface around the rocks is reddish-brown soil or sand with small pebbles and fragments of rock.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Shadow hiding / Pattern matching",
+  "explanation": "The lizard is highly camouflaged in this image. Its body displays a coloration of dark reddish-brown with grey and black patches, which almost perfectly matches the multi-toned, sun-baked rocks and the shadowy interior of the crevice it occupies. The speckled pattern on its body also mimics the granular and uneven texture of the surrounding stone. Crucially, the lizard utilizes shadow hiding by positioning itself deep within the dark crevice, significantly reducing its silhouette and overall contrast against the background. Even its lighter, sandy-colored tail blends effectively with the lighter rocks and soil on the ground, making it very difficult for a predator to distinguish the organism from its environment."
+}

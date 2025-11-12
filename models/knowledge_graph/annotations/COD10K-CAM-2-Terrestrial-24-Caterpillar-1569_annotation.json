@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Caterpillar",
+  "background_description": "The background consists primarily of the textured bark of a tree trunk. The bark is rough, with deep furrows, ridges, and small knots, displaying a range of grayish, light brown, and darker brown tones. To the right, the background is out of focus, appearing as a blurred light blue and white gradient.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.92,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The caterpillar exhibits excellent camouflage against the tree bark. Its body coloration, which is a mottled grayish-brown with fine, lighter hairs, almost perfectly matches the irregular patterns and varied tones of the bark. The rough, hairy texture of the caterpillar's body blends seamlessly with the rough, fissured texture of the bark, making it very difficult to distinguish its outline. The subtle striped pattern on the caterpillar also mimics the linear ridges and shadows present in the bark's texture. The low contrast between the caterpillar and its immediate surroundings further enhances its ability to disappear visually into the environment."
+}

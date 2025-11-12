@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Hogfish",
+  "background_description": "Deep blue-green open water with dark, rocky structures and patches of green algae or coral growth on the seabed, indicating a reef-like or structured aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Hogfish with a light pinkish-white body, yellow fins, and distinctive red markings around its eye, swimming against a dark blue-green rocky background. Its bright coloration and high contrast make it highly visible, confirming the absence of camouflage."
+}

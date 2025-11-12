@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Polar bear on iceberg",
+  "background_description": "The background consists of two large icebergs floating in dark, choppy ocean water. The sky is a uniform, hazy, and reddish-brown, suggesting fog or atmospheric conditions. The icebergs are predominantly white and light blue, with the one on the right featuring a polar bear perched at its peak.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The polar bear exhibits effective camouflage through color blending. Its white fur closely matches the white and light blue hues of the iceberg it is standing on. This high color similarity and low contrast difference with its immediate environment make it blend in well with the icy landscape, significantly reducing its visibility to potential prey or observers. Although the overall scene has a warm, reddish tint, the bear's primary camouflage mechanism relative to the ice remains highly effective."
+}

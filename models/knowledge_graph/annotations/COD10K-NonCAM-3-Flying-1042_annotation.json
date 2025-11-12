@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Hoverfly",
+  "background_description": "The insect is resting on a broad, light green leaf with visible longitudinal veins. The immediate background is blurred, composed of various shades of darker green foliage, indicating a natural, vegetative environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Mimicry",
+  "explanation": "Camouflage is present in the form of Batesian mimicry. The hoverfly exhibits distinct yellow and black stripes on its abdomen, mimicking the appearance of a stinging insect like a wasp or bee. This visual resemblance serves as a deterrent to potential predators who associate such patterns with danger. While the insect's colors and textures (yellow, black, translucent wings) do not blend with the green leaf it is resting on, making its physical outline quite distinct against the background, the mimicry itself is a form of defensive camouflage against detection by *predators* seeking non-stinging prey. The contrast with the green background is high, and color/texture similarity is low, indicating it does not blend into its immediate physical environment, but rather uses its appearance to be misidentified."
+}

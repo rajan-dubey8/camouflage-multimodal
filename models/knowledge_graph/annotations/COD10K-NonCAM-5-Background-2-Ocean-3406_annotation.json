@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The image depicts an underwater coral reef scene with varying coral types. In the foreground and midground, there are formations of massive hard coral (likely a Favia or Platygyra species) with a greenish-teal hue and convoluted, brain-like texture. Growing on top are two distinct types of branching corals: one with dense, yellowish-brown, flowing branches (likely a soft coral like a gorgonian or similar alcyonacean) and another with paler, light greyish-tan, more rigid and intricate branching structures (possibly an Acropora or similar hard coral). The background fades into a deep blue ocean, indicating depth, with more indistinct coral formations visible further away.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily showcases an underwater coral reef environment. There are various coral species with different colors and textures, along with the deep blue ocean. No animals, insects, or fish are clearly visible within the scene, therefore, no organism is present to exhibit camouflage against the background."
+}

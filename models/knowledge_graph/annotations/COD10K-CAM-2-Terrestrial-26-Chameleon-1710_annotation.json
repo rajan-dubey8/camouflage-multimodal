@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists of dense, lush green foliage with various shades of green leaves, some appearing lighter due to direct light and others darker in shadow. There are also visible brown branches and twigs intertwined within the leaves, creating a natural, organic environment. The lighting is dappled, resulting in highlights and shadowed areas across the plant matter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The chameleon exhibits excellent camouflage by blending remarkably well with its arboreal environment. Its skin coloration, featuring a mix of greens, browns, and some yellowish-tan patches, almost perfectly matches the surrounding green leaves and brown branches. The mottled patterns on its body mimic the varied textures and light/shadow play found on the foliage. Furthermore, the chameleon is partially obscured by several leaves, which disrupt its outline and make it harder for a predator or prey to distinguish its form from the background. The overall contrast difference between the chameleon and its environment is low, making it difficult to spot at first glance."
+}

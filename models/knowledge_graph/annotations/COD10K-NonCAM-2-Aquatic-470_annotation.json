@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Basslet",
+  "background_description": "The background consists of blurred aquatic elements. The upper-left portion shows diffuse light purple and white structures, likely a coral reef or rock formation, while the lower-right is darker, suggesting deeper water or shadowed areas with some subtle green tones, possibly algae or more distant rock.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.88,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Basslet fish with a light purplish-pink body, vertical white stripes, and some yellowish-orange markings on its dorsal side. Its distinct coloration and well-defined shape make it easily visible against the blurred background of coral/rock and darker water, indicating no attempt at camouflage."
+}

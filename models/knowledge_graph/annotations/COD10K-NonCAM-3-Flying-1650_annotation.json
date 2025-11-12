@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pigeons",
+  "background_description": "The background consists of a blurred, dense thicket of bare tree branches and dried vegetation, predominantly in shades of dark brown, grey, and muted green. There's a rusty metal bar in the foreground where the birds are perched, with some tangled dried vines around it.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The two pigeons are predominantly white, with one having some black speckles on its wings. They are perched against a dark, muted background of bare tree branches and dried vegetation. The bright white color of the birds creates a very high contrast with the dark, somber tones of the background, making them highly conspicuous rather than camouflaged. There is no attempt at color blending, mimicry, or disruptive patterning to conceal them in this environment."
+}

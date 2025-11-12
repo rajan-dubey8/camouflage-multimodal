@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dense field of tall, dry grasses. The colors of the grass vary, including pale yellow, light golden-brown, muted orange, and subtle hints of green, indicative of a savanna or grassland environment during a dry or transitional season. The grass stalks are vertically oriented, creating a visually textured and somewhat blurry field, particularly in the foreground which partially obscures the organism.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion's tawny, sandy-brown coat exhibits a very high degree of color similarity with the surrounding dry, golden grasses. This excellent color blending is the primary camouflage mechanism. Additionally, the tall, dense grass in the foreground effectively disrupts the lion's outline, partially obscuring its face and body, making it harder to discern its distinct shape from the environment. The overall contrast between the lion and the background is low, further aiding its concealment. Although the lion's eyes are clearly visible, the rest of its form blends seamlessly with the broken textures and colors of the grass, demonstrating effective camouflage in this specific natural setting."
+}

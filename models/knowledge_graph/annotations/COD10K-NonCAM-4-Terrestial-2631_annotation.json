@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hedgehog",
+  "background_description": "The background consists of blurred, light green grassy areas, with some distinct blades of grass visible in the immediate foreground beneath the hedgehog. The ground appears to be soft soil or turf covered in grass.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.4,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The hedgehog exhibits some degree of camouflage through color blending. Its dark brown fur and the varying shades of brown, grey, and cream on its spines provide a moderate color match with the earthy tones and dry/dead grass often found within a green grassy environment. While its spiny texture is distinct from the smooth grass, the overall coloration helps it blend into natural ground cover, especially in low light or among shadows and debris. It is not perfectly hidden, but its natural coloration reduces its contrast against the environment, aiding in concealment."
+}

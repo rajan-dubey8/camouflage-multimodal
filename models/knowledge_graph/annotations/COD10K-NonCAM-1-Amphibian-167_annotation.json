@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Damp, earthy substrate, possibly a riverbank or pond edge, composed of dark soil, scattered leaf litter, and a few blades of green grass, indicating a freshwater, semi-aquatic habitat common for amphibians.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad, identifiable by its warty, brownish skin and prominent eyes. Its natural coloration and rough texture provide a moderate resemblance to the surrounding earthy background, but it is distinctly visible. There is no active camouflage in use, and the animal is easily discernible within its semi-aquatic environment."
+}

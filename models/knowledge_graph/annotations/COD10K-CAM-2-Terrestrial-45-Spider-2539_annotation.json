@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of dark tree bark heavily covered in thick, vibrant green moss and lighter green lichen patches. The surface is highly textured and irregular, with various shades of green and dark brown. A large, dark green leaf is partially visible on the left side of the image.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits exceptional camouflage by perfectly blending with its environment. Its body coloration, which includes mottled dark greens, browns, and lighter yellowish-green patches, precisely matches the moss and lichen covering the tree bark. The spider's highly irregular and textured body shape, adorned with projections and bumps, mimics the rough, organic surface of the moss and bark, effectively disrupting its outline. This combination of color, texture, and shape disruption makes the spider incredibly difficult to distinguish from its surroundings, resulting in a very high degree of blending."
+}

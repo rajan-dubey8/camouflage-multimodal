@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The environment is an underwater scene dominated by various marine growths such as sponges, corals, or encrusting algae. These structures exhibit highly textured, irregular surfaces in muted shades of brown, dark grey, and some yellowish-browns. The overall lighting is subdued, creating areas of shadow and dappled light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "There are two seahorses visible in the image. The seahorse on the left exhibits excellent camouflage. Its body coloration, a mottled blend of dark brown and grey-white, closely matches the dominant hues and patchy appearance of the surrounding textured marine growths. Furthermore, the seahorse's skin is covered with numerous bumps and irregular projections that perfectly mimic the rough, encrusted texture and complex shapes of the background substrate. This combination of effective color blending, pattern matching, and shape disruption makes it extremely difficult to discern the seahorse's outline from its immediate environment. The other seahorse, which is distinctly red, stands out against the muted background and is not camouflaged in this particular setting; however, the presence of the highly camouflaged individual confirms that 'the organism' (a seahorse) demonstrates camouflage in this image."
+}

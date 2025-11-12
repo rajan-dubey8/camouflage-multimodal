@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background is composed of a dense network of branches from a bush or tree, featuring both vibrant green leaves and some autumnally yellowing leaves. Abundant clusters of bright red berries are scattered throughout the foliage. The distant background is a soft, blurred, light grey, suggesting an overcast sky or a distant light-colored surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The bird, likely a Bohemian Waxwing, displays a distinctive warm tan-brown body, a prominent black eye mask, and hints of yellow on its tail feathers. These colors and patterns do not effectively blend with the predominant green leaves and bright red berries of its environment. The bird's silhouette is clearly defined against the lighter, blurry background and contrasts significantly with the vibrant red berries, making it stand out rather than blend in. There is no significant color, pattern, or texture matching to suggest camouflage."
+}

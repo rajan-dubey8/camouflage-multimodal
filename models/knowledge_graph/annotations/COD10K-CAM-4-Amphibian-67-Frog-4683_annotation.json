@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense, vibrant mat of small, light green to yellowish-green floating aquatic plants, likely duckweed, covering the surface of dark water. The texture is granular and slightly irregular due to the multitude of small plants. There are some darker, stringier aquatic plants or algae visible underneath and within the duckweed layer, creating minor variations in the green tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog demonstrates strong camouflage through color blending with its environment. Its skin possesses a yellowish-green hue that is nearly identical to the dominant color of the duckweed and other aquatic vegetation it is resting upon. This high degree of color similarity, coupled with a low contrast difference, effectively disrupts the frog's outline and makes it blend seamlessly with the surrounding plant life. While the frog's skin texture is smoother than the granular texture of the duckweed, the overall visual effect is one of integration, making the frog difficult to distinguish from its natural habitat."
+}

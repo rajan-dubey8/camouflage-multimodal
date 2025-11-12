@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of a dense, vibrant green bush with numerous small leaves and some bare, twiggy branches. Behind the bush, there is a darker, out-of-focus backdrop of more distant trees and foliage, appearing as a blurred deep green mass. The scene is brightly lit by sunlight, casting highlights on the upper leaves of the bush.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Mockingbird's grey and white plumage contrasts significantly with the vibrant green leaves and dark brown branches of the dense bush it is perched on. Its distinct shape is clearly outlined against the foliage, and its lighter underside and head create a high contrast, especially where illuminated by sunlight. There is no effective color blending, pattern matching, or shape disruption to help it disappear into this particular environment. While the bird's grey back might offer a slight resemblance to some of the muted, dry branches, the overall effect is that the bird stands out conspicuously against the dominant green and dark background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human in tropical forest",
+  "background_description": "The background consists of a dense tropical forest with numerous palm trees and broadleaf trees. Tall, slender tree trunks in various shades of brown and gray rise vertically, some with fibrous textures. The canopy is thick with rich green foliage, varying from dark, shadow-rich greens to brighter, lighter greens where light penetrates. The sky, visible through gaps in the canopy, is bright and overcast, appearing light gray or white. Overall, the environment is dominated by natural greens and browns with a light overhead sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a human figure in a bright red shirt, partially visible in the lower central part of the dense tropical forest. The vibrant red color of the individual's clothing creates a stark and high-contrast difference against the predominantly green and brown hues of the forest foliage and tree trunks. There is no blending of colors or textures with the environment, nor is there any disruptive patterning present. The figure stands out clearly and is easily discernible from its surroundings, indicating a complete absence of camouflage."
+}

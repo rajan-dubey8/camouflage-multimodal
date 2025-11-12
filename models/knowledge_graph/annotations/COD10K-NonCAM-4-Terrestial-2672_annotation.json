@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "American Mink",
+  "background_description": "The background consists of calm water, possibly a pond or river, with a light blue-grey hue. The surface appears somewhat reflective, showing subtle variations in color and light, with some small white specks scattered across it, possibly foam or ice particles. There are ripples and smooth areas, creating a slightly textured but generally uniform aquatic environment. The water reflects a darker, browner tone in the area immediately beneath the mink, forming its shadow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The American Mink, with its dark brown, almost black fur, stands out significantly against the light blue-grey water background. There is a high contrast in both color and brightness between the mink and its surroundings. The texture of its wet fur is also distinct from the smooth or gently rippled water surface. Therefore, no effective camouflage is present in this scene; the animal is clearly visible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of dark, murky water in the foreground and mid-ground, reflecting the overhead structures. A dense network of bare tree branches, ranging from thick logs to slender twigs, is scattered throughout the frame, some partially submerged in the water, others emerging. Behind this intricate web of branches, there is a darker, indistinct mass of distant foliage, suggesting a wooded shoreline. The overall lighting is dim and diffused.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Heron demonstrates effective camouflage primarily through shape disruption. Its body is largely obscured by a dense and complex network of bare tree branches and twigs that crisscross the frame. These branches break up the heron's silhouette, making it difficult to discern its distinct form from the surrounding environmental clutter. Although its grey-blue plumage is not identical in color to the brown and grey branches, the overall muted lighting conditions help the bird's tone to blend moderately with the greyish hues of some of the lighter branches and the shadowy parts of the background. The reflections in the dark water further add to the visual noise, enhancing the heron's concealment by creating additional visual distractions. It does not immediately stand out, instead integrating well with the busy, natural environment."
+}

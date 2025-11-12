@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bee",
+  "background_description": "The background consists of several bright yellow, daisy-like flowers, likely a type of Helenium. These flowers feature vivid yellow petals and prominent, textured centers that are a mix of dark brown/reddish-brown and yellow. Green leaves and stems are visible, some blurred in the foreground and background, indicating a lush floral environment under bright, natural sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bee demonstrates effective camouflage through color blending with its environment. Its golden-yellow, fuzzy body closely matches the vibrant yellow petals of the flowers it is resting upon, making it less conspicuous. While the bee's black stripes and darker head/legs create some contrast, the predominant yellow coloration allows it to merge visually with the bright floral setting. The fuzzy texture of the bee also provides a degree of visual disruption that can blend with the visual complexity of the flower's textured center, rather than standing out against a smooth surface. This combination of color matching reduces its overall visibility to potential predators."
+}

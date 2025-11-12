@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusk",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a shallow underwater environment with a sandy seabed mixed with small pebbles, fragments of shells, and various types of marine algae and detritus. The water appears clear but has some particulate matter, and light filters through from above.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The octopus exhibits excellent camouflage. Its body color, a mottled brown and beige with darker spots, closely matches the sandy, rocky, and detritus-strewn seabed. The skin texture is highly rugose with numerous papillae, which effectively mimics the uneven surface of the surrounding pebbles, sand, and small bits of organic matter. This combination of color, pattern, and texture allows the octopus to blend almost seamlessly with its environment, breaking up its outline and making it difficult to discern from the background. The only prominent feature that stands out slightly is its bright yellowish-orange siphon, but the rest of the body is remarkably concealed."
+}

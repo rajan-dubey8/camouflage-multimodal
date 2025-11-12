@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Anthias fish",
+  "background_description": "The background consists of blurred, organic shapes resembling soft corals or polyps, primarily in muted shades of brown and greenish-yellow, indicating a coral reef environment. The texture is soft and somewhat granular due to the out-of-focus nature.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The fish, likely an Anthias, displays vivid orange and yellow coloration with prominent purple markings around its eye and on its body. These bright, saturated colors stand in stark contrast to the muted, out-of-focus brown and greenish-yellow background of the coral reef. There is no significant similarity in color or texture between the fish and its surroundings, making it highly conspicuous rather than camouflaged. Its vibrant appearance suggests it relies on other survival strategies than concealment."
+}

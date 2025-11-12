@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background is an underwater rocky reef or crevice, featuring dark reddish-brown and purplish encrusting algae or sponges, light grey sediment or detritus, and numerous small, pale orange/yellow anemone-like organisms (likely colonial tunicates or hydroids) with radiating tentacles, particularly on the right side. Dark shadows and crevices are also present, creating a complex, textured environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The organism, identified as a Shrimp per instructions (though visually resembling a spiny lobster), exhibits a moderate degree of camouflage. Its mottled, dark brown-grey carapace blends reasonably well with the rocky, sediment-covered substrate and darker encrusting organisms in the background, showing good color and texture similarity. The irregular, speckled pattern on its body also mimics the rough, uneven textures of the underwater environment, contributing to pattern matching. Furthermore, its position partially tucked into a crevice utilizes shadow and physical concealment, aiding in shape disruption. However, its long, robust antennae, which are prominently striped with reddish-orange and white bands, and some of its reddish-orange legs, stand out against the darker background. These brighter colors and distinct patterns on the appendages increase local contrast, making these parts of the creature more noticeable despite the effective blending of its main body. This results in an overall medium level of camouflage, effective for its main body but less so for its appendages."
+}

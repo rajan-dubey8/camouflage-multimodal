@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach landscape",
+  "background_description": "The image showcases a vast, sunny sandy beach. The foreground features golden-brown sand with fine grain texture and subtle ripple patterns from water or wind. To the left, there is a section of rocky embankment with some dark, weathered wooden structures. In the mid-ground, the beach extends towards the horizon where it meets the blue ocean with gentle waves. The sky above is a vibrant, deep blue with scattered fluffy white cumulus clouds. A small, dark pool of water is visible in the bottom-left corner of the sand.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural outdoor environment, specifically a wide sandy beach with the ocean and sky. There are no visible organisms (animals, insects, fish, birds, reptiles, amphibians, or arachnids) within the frame that would exhibit camouflage. Therefore, camouflage is not present in this scene, as per the rule that if no organism is visible, camouflage_presence should be 'No Camouflage'."
+}

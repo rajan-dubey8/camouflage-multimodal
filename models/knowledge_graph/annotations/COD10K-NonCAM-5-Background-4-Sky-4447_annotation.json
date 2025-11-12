@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban skyline with dramatic sky",
+  "background_description": "The upper part of the image features a dramatic sky with a mixture of bright, fluffy white clouds, darker grey storm clouds, and patches of deep blue sky visible between them. Below, the urban landscape is rendered in a deep silhouette, showing the dark forms of multiple buildings, some with discernible architectural details like turrets or pitched roofs, and several horizontal power lines or cables stretching across the mid-ground. A partial structure resembling a bridge or elevated platform is visible on the left.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene consisting of an urban skyline in silhouette against a cloudy sky. There are no organisms (animals, insects, or fish) visible in the image. Therefore, the concept of camouflage does not apply. The contrast between the dark city silhouette and the bright, cloudy sky is very high, but this is a characteristic of the lighting and composition, not an indication of an organism attempting to blend in."
+}

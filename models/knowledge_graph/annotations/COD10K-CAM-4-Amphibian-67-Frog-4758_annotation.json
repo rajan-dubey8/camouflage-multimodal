@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of shallow, murky water, likely a pond or swamp. The water's surface has subtle ripples and reflections. The predominant colors are muddy browns and greenish-browns, with patches of submerged green vegetation and detritus visible beneath the surface. A small green plant stalk protrudes from the water on the left, and a lighter, possibly dried plant element is on the right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The frog is highly camouflaged in this image due to its excellent color blending with the surrounding environment. Its exposed skin, which is a dark, muted brownish-green, perfectly matches the murky, greenish-brown water and the visible submerged elements. The frog is largely submerged, with only its eyes and the very top of its head breaking the water's surface. This posture, combined with the smooth, wet texture of its skin mimicking the water's surface, significantly reduces its visibility. The low contrast between the frog's body and the immediate aquatic background makes it very difficult to distinguish, effectively hiding it from predators and prey."
+}

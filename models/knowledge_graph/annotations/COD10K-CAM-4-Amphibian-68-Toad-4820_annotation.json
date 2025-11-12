@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a textured, greyish-brown paved surface, likely concrete or flagstones, with visible aggregates and some small specks of dirt and debris. The surface has an irregular, grainy texture with variations in shade, including darker patches and lighter sandy grains.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The toad exhibits excellent camouflage against the paved background. Its mottled grey and brown coloration precisely matches the hues of the concrete surface, including the darker, more worn areas and the lighter, sandy aggregates. Furthermore, the toad's bumpy, textured skin remarkably mimics the grainy, rough texture of the pavement, making it difficult to differentiate its body from the surrounding surface. The contrast between the toad and its environment is very low, as both share similar luminance values. The irregular shape of the toad's body also blends well with the uneven texture of the pavement, preventing its outline from being easily detected. This combination of color, pattern, and texture similarity makes the toad very well-hidden in this specific environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand ripples",
+  "background_description": "The image displays a detailed close-up of light-colored sand, shaped into distinct parallel ripples. These wave-like patterns are characterized by smooth, undulating crests and troughs, with shadows clearly delineating the deeper sections. The sand itself appears fine-grained and uniform in texture, varying in color from bright off-white on the illuminated crests to darker gray in the shadowed valleys, creating a monochromatic yet highly textured surface.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a natural environment consisting of sand dunes with distinct ripples, likely formed by wind or water. No living organism (animal, insect, fish, bird, reptile, amphibian, or arachnid) is visible within the frame. Therefore, there is no subject to exhibit camouflage, and the environmental attributes for camouflage assessment are set to 'none' or '0.0' as per the rules for images without visible organisms."
+}

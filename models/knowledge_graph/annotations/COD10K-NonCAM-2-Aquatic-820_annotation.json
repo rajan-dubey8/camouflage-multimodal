@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Freshwater fish",
+  "background_description": "The background depicts an underwater environment, likely a murky freshwater habitat. It features indistinct green-brown aquatic elements, possibly algae or plants, in the mid-ground, and a dark, blurred submerged log or rock formation towards the bottom. The overall water color appears turbid and greenish-brown.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits a form of color blending camouflage. Its dark grey-blue body color provides a medium level of similarity with the darker, murky tones of the water and the submerged elements in the background. While not perfectly matching the lighter green-brown areas, its overall dark coloration helps it to merge with the shadows and darker substrates common in its environment, reducing its visibility to predators or prey. There is no significant texture mimicry or disruptive patterning present."
+}

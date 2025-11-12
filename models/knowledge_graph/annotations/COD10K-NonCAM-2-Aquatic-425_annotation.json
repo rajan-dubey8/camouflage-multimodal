@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cichlid",
+  "background_description": "The background consists of dark, textured rock or driftwood on the left, partially out of focus. The main background is blurred blue water, suggesting an aquarium environment, with hints of other out-of-focus fish further in the distance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a vibrant orange Cichlid fish that stands out prominently against the darker rocky structures and blue water background, indicating a complete absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Hoverfly",
+  "background_description": "The background consists of a vibrant purple flower with a bright yellow central disc. The petals are smooth and uniform in color, while the center is textured with small, dense floral parts.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The hoverfly's dark brown and black body, along with its distinct shape and texture, stands out prominently against the vibrant purple petals and bright yellow center of the flower. There is no visual blending of colors or patterns with the floral background, resulting in high contrast and low color and texture similarity. The insect is clearly visible and not attempting to conceal itself within this specific environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Black squirrel",
+  "background_description": "The background is a forest floor composed of various shades of brown and dark earth, covered with fallen leaves, small branches, pebbles, and patches of lighter soil. There are areas of dappled sunlight and shadow creating varied lighting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The black squirrel does not exhibit effective camouflage against the forest floor background. Its dark, almost uniform black coloration contrasts significantly with the predominant brown, grey, and lighter earthy tones of the ground, leaves, and small stones. While there are some dark patches in the background, the overall color and texture of the squirrel do not blend seamlessly. The smooth, dense fur of the squirrel also differs distinctly from the rough, varied textures of the natural debris on the ground. The high contrast difference makes the squirrel clearly visible."
+}

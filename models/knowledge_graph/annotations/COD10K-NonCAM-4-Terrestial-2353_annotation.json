@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Impala",
+  "background_description": "The background consists of a blurred African bushveld or savanna environment, dominated by dry, muted brown and tan grasses, scattered shrubs, and the darker, out-of-focus trunks and branches of trees. The light is diffused, suggesting an outdoor setting during the day.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The impala exhibits effective color blending camouflage. Its reddish-tan coat closely matches the dry grasses and earthy tones of its savanna habitat. While the animal's form and dark horns are clearly discernible, its fur color significantly reduces its visibility against the similarly toned background, making it less conspicuous to predators and prey. The general muted brown and tan palette of the impala blends well with the surrounding vegetation and soil."
+}

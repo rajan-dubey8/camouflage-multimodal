@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of rough, deeply textured tree bark, predominantly in shades of dark grey and brown, with some lighter grey and subtle greenish patches, possibly from moss or lichen. The bark has an irregular, bumpy surface with many small crevices and ridges, creating a complex, mottled pattern. The area directly around the toad is in focus, while the background further away gradually blurs.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage against the tree bark. Its skin coloration, a mottled mix of dark grey, brown, and lighter speckles, almost perfectly matches the hues and tones of the bark. The rough, warty texture of the toad's skin also closely mimics the rugged, irregular surface and ridges of the bark, contributing significantly to its blending. Furthermore, the toad's squat form allows it to settle into the natural depressions and textures of the bark, disrupting its overall shape and outline against the uneven background. While its prominent, dark eyes are somewhat visible, the rest of its body is remarkably difficult to distinguish from its environment due to the high similarity in color, pattern, and texture, and the low contrast difference."
+}

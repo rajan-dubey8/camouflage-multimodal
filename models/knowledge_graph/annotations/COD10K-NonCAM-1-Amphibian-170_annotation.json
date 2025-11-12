@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree Frog",
+  "background_description": "The background consists of blurred green foliage, characteristic of dense vegetation in a humid environment such as a riparian zone or a wetland edge, commonly found adjacent to or overhanging freshwater bodies. The frog is perched on a textured brown branch.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant green tree frog with prominent white stripes clinging to a brown branch. Its distinct coloration and clear outline make it easily visible against both the branch and the blurred green background foliage, confirming that no camouflage is present."
+}

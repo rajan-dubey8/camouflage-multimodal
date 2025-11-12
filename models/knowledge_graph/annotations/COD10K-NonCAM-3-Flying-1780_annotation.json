@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black Swan",
+  "background_description": "The background consists of calm water with soft ripples, appearing in shades of light grey and white, creating a slightly textured but mostly uniform surface.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features the head and neck of a Black Swan. The swan has predominantly black feathers, a bright red beak, and a red eye. The background is a light grey, rippled water surface. The dark body and vibrant red beak of the swan create a stark, high contrast against the light background, making the bird highly conspicuous rather than blended. There is no attempt at color matching or disruptive patterning to conceal the swan in this environment."
+}

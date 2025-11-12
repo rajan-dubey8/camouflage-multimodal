@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastline with ocean and groynes",
+  "background_description": "The scene features a rocky coastline composed of large, weathered boulders in shades of light grey, white, and brownish-grey, with some hints of green lichen or moss. Beyond the rocks, a turbid, reddish-brown ocean stretches to the horizon under a light blue sky with scattered white clouds. A series of wooden groynes are visible partially submerged in the water, and white foamy waves are crashing against the rocky shore.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible within the image or its provided crops. The image depicts a natural environment consisting of a rocky coastline, ocean, and sky, along with man-made wooden groynes. Therefore, the concept of camouflage does not apply."
+}

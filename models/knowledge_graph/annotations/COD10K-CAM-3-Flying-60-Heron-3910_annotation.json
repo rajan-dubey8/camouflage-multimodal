@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a bright, light gray overcast sky above the heron. The heron is perched on the topmost branches of a dense, dark green tree, which also features some lighter, drier, possibly moss-covered parts. In the mid-ground and distance, there are more green trees, including some palm fronds, and hints of distant building roofs.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Heron is prominently displayed against a bright, overcast sky. Its relatively dark bluish-gray and reddish-brown plumage creates a strong silhouette and high contrast against the light background. While the heron is positioned within a tree, its body is primarily seen against the sky, preventing any effective color blending or pattern matching with the surrounding foliage. Its distinct shape and color stand out clearly, indicating a lack of camouflage in this specific scenario."
+}

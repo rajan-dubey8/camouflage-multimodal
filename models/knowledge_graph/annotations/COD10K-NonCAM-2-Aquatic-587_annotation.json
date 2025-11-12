@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal",
+  "background_description": "The background consists of calm, rippled water with a muted brownish-grey color, indicating a coastal or riverine environment. The water surface shows subtle reflections and textures from the small waves.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a seal's head emerging from the water. Its grey-brown fur has some natural color resemblance to the murky water, but its distinct shape, features, and wet texture make it stand out. There is no indication of camouflage behavior or patterns."
+}

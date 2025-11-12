@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical ocean with seaplane",
+  "background_description": "The scene depicts a clear, shallow tropical ocean with vibrant turquoise and light blue water. The sandy seabed is visible through the translucent water, creating subtle rippling light patterns. In the background, small, rocky islands with sparse vegetation are visible on the horizon, beneath a bright blue sky dotted with scattered white cumulus clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features a seaplane in a tropical ocean setting. The seaplane is a man-made object, not a biological organism. As the rules state that camouflage analysis applies to organisms, and no animals, insects, or fish are visibly present, the concept of natural camouflage does not apply to this scene. The seaplane is distinct and clearly visible against its background."
+}

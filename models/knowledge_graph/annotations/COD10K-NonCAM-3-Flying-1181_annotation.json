@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The bird is standing in shallow, dark green water with some floating aquatic vegetation. The bank behind it is composed of reddish-brown cypress tree roots, dried leaf litter, and sparse green foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Tricolored Heron exhibits a degree of camouflage through color blending. Its dark blue-grey upper plumage partially blends with the dark water and shadows beneath the bank. The reddish-brown feathers visible on its neck and back also show a medium color similarity to the exposed cypress roots and dried foliage. While the white belly and bright yellow legs create some contrast, the overall coloration, especially the countershading (dark back, light belly), is a natural camouflage mechanism for herons in wetland environments, helping them blend with varying light conditions from above and below."
+}

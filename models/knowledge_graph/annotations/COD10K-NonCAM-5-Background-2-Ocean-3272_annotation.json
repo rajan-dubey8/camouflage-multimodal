@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with lighthouse and rough sea",
+  "background_description": "The foreground features a wide expanse of choppy, turquoise-green ocean water with white foam crests. The midground shows a light-colored, sandy or rocky coastline with several undulating hills, sparsely covered with dark green vegetation. A prominent black and white striped lighthouse stands atop one of these hills. The sky above is a clear, pale blue with some faint cloud streaks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a coastal environment featuring a rough sea, sandy hills, and a lighthouse. No animals, insects, or fish are visible in the scene, therefore camouflage is not present. The lighthouse itself is a man-made structure and is clearly visible against the landscape, indicating it is not attempting to blend in."
+}

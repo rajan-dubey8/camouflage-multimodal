@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The organism is positioned on a branch of a plant with numerous small, elongated, pinnately compound green leaves. The leaves form a dense, textured backdrop with varying shades of green, and some areas show a darker, almost black background, suggesting deep shadows or foliage density. A reddish-brown stem is also visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The organism, identified as a 'Worm' but appearing to be a caterpillar, exhibits outstanding camouflage. Its primary body color is a vibrant green that perfectly matches the surrounding leaves in hue and saturation, achieving high color similarity. The caterpillar's body features diagonal yellow stripes and numerous small, light-colored dots that effectively mimic the patterns, veins, and textures found on the plant's foliage. The segmented body and the distinct shape of its head, including the prominent horn-like appendages, contribute to shape disruption, making the organism appear less like a distinct animal and more like a natural part of the plant, such as a bud or a curled leaf. This combination of color blending, pattern matching, and shape disruption results in a very low contrast difference, making it extremely difficult to spot against its natural background."
+}

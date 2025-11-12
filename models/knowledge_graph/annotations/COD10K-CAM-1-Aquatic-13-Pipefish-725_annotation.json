@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a rough, mottled substrate covered in fine sediment, small rocks, and possibly algae in the upper portion, featuring shades of light grey, white, various browns, and darker shadowed areas. Below this is a large formation of stony coral, likely a type of brain coral, exhibiting intricate, textured patterns of ridges and grooves, predominantly in dark brown and reddish-brown hues, with some brighter highlights.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Pipefish exhibits camouflage through its elongated, slender body shape and distinct striped pattern. Its light base color, accented with dark horizontal stripes, provides a medium level of color similarity with the varied background, particularly the lighter, sediment-covered rocky substrate in the upper part of the image. The dark stripes, while contrasting, effectively break up the pipefish's linear outline (shape disruption), making it harder to discern as a single entity against the irregular textures and light/shadow patterns of the rocky and coral environment. This pattern matching helps to merge its form with the visual clutter of the surroundings. While not perfectly invisible, the combination of its body shape and disruptive coloration significantly reduces its visibility compared to if it were a solid, contrasting color."
+}

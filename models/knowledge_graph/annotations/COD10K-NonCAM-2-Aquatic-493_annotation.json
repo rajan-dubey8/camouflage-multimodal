@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Capybara",
+  "background_description": "The aquatic environment consists of murky, reddish-brown water, characteristic of a muddy river or pond. The water surface shows slight ripples and reflections, with some small air bubbles and faint greenish patches possibly indicating submerged algae or plant matter.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "A Capybara is clearly visible partially submerged in muddy water. Its brown fur has some natural color resemblance to the water, but it is distinctly visible and not attempting to blend in with its surroundings for camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a branch or log densely covered with various types of moss and some lichen. The colors range from vibrant lime green to darker olive and moss green, interspersed with earthy browns and reddish-browns of the underlying wood or dried vegetation. The texture is highly irregular, clumpy, and organic, with small, fuzzy growths.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage. Its body is mottled with shades of green, perfectly matching the colors of the moss and lichen covering the branch. The irregular, bumpy texture of its head and thorax closely mimics the clumpy, granular surface of the moss. Its wings are brownish with intricate green patterns, blending seamlessly with the underlying wood and patches of green growth. This combination of color blending, detailed pattern matching, and an irregular body shape that disrupts its outline against the equally irregular background makes it incredibly difficult to distinguish from its environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of rough, textured rock surfaces in shades of grey and dark grey, interspersed with patches of greenish-brown algae and darker, wet areas. There are deep crevices and natural shadows that create an uneven and mottled environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The crab exhibits effective camouflage through a combination of color blending, pattern matching, and shadow hiding. Its dark greenish-grey carapace and legs closely match the colors of the wet, algae-covered, and shadowed rock surfaces it inhabits. The rough and irregular texture of its shell further mimics the uneven and mottled surface of the surrounding rocks, helping to break up its outline. By positioning itself within a deep crevice, the crab utilizes the natural shadows to reduce its overall contrast with the environment, making it blend seamlessly and difficult to distinguish from the rocky background."
+}

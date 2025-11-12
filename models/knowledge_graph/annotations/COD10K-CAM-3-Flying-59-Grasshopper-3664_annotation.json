@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of an assortment of dry, rough-textured twigs, bark fragments, and possibly some underlying soil or leaf litter. The colors are predominantly earthy tones of browns, greys, and some darker shadowed areas, with varying textures of wood grain and bark. The environment appears arid or composed of fallen plant material.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Grasshopper exhibits excellent camouflage by perfectly matching the colors and textures of its environment, which consists of dry twigs and bark. Its mottled brown and grey coloration, along with the irregular patterns on its body and wings, blend seamlessly with the wood grain, cracks, and shadows of the background debris. This high degree of color and texture similarity, coupled with low contrast difference, makes the organism incredibly difficult to distinguish from its surroundings, effectively disrupting its outline and making it appear as part of the natural litter. Its form mimics a piece of wood or bark, making it blend in exceptionally well."
+}

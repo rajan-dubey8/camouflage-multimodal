@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background is an underwater environment with clear, light blue-green water. The seabed is densely covered with various types of marine vegetation, including vibrant green and reddish-brown broad-leafed plants, possibly seagrass or seaweed. A large, dark, heavily encrusted structure, likely a pier piling or a large rock formation, is visible in the mid-ground, partially obscuring the light from above. Fine particulate matter is suspended in the water.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Stingaree is camouflaged in this image primarily through color blending and physical concealment. Its dark, flattened body allows it to lie very low against the seabed, partially hidden by the dense marine vegetation. While its dark color creates some contrast with the brighter green leaves, it blends effectively with the darker, shadowy areas beneath the vegetation and the brown/reddish hues of the older or dying plants. The surrounding vegetation also acts to physically break up the Stingaree's outline (shape disruption), making it less distinct from the textured environment. Its eyes are visible, but the overall effect is one of blending with the darker, more cluttered parts of the substrate."
+}

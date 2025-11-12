@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cricket",
+  "background_description": "The background consists of coarse-grained sand or small gravel, displaying a mix of light yellow, tan, brown, and some specks of darker blue, grey, and purple granules. The texture is irregular and finely granular.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The cricket exhibits partial camouflage, primarily through color blending. Its brownish-gold patterned wings and brown legs have colors and textures that moderately resemble the sandy, granular background, which could help it blend in with the ground or leaf litter. However, the distinct iridescent blue coloration on its head and part of its thorax creates a strong visual contrast against the lighter sand, making these parts quite noticeable and thereby reducing the overall effectiveness of its camouflage."
+}

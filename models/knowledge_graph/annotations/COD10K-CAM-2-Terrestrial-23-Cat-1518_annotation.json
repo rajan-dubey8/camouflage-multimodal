@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a dark brown or deep plum-colored upholstered sofa with visible seam lines. A large, thick, ribbed gray knitted blanket is draped over part of the sofa, creating a mound. The lighting in the scene is somewhat dim, with shadows present.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The cat is largely concealed by being hidden under a gray knitted blanket on a dark couch. While the blanket provides excellent physical obstruction, making the cat's overall shape and size difficult to discern, the small visible portion of the cat (likely a paw or part of its face) features distinct white fur patches. These white patches create a high contrast against both the gray blanket and the dark brown couch, causing the visible part of the cat to stand out rather than blend with its immediate environment. There is low color and texture similarity between the visible cat fur and the surrounding materials."
+}

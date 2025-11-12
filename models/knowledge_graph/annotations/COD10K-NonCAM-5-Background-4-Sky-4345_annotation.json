@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky with airplane",
+  "background_description": "The background consists of a clear, deep blue sky dominating the upper portion of the image. The lower and central parts are filled with a large, bright white cumulus cloud, exhibiting a puffy, uneven texture with soft edges and varying shades of white and light grey.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an environmental scene featuring a large white cloud against a deep blue sky. A small, white airplane is also visible in the sky. Neither the environmental elements (sky, cloud) nor the man-made object (airplane) are organisms capable of biological camouflage. As no organism is present in the image, the concept of camouflage does not apply."
+}

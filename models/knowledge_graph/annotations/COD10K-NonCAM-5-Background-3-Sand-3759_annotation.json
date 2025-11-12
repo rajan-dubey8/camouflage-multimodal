@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean beach at sunset",
+  "background_description": "The scene captures a beach at sunset. The foreground consists of dark, wet sand with small pebbles. The middle ground features ocean water with gentle waves breaking near the shore, reflecting the dim light. The background is a horizon line separating the dark ocean from a gradient sky, transitioning from deep blue at the top to warm oranges and reds near the horizon, with some faint dark clouds visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene of an ocean beach at sunset. There are no visible animals, insects, or fish present in the image. Therefore, no camouflage is detected or applicable."
+}

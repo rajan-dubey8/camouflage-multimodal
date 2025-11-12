@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cichlid",
+  "background_description": "The background consists of blurred greenish-brown water with visible suspended particles, characteristic of an aquarium. In the lower part, there are blurry rocks or substrate, some appearing to have white or light-colored deposits. Another bright yellow fish is partially visible and out of focus in the bottom left corner.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Cichlid fish with a light grey/white body and irregular dark grey blotches. Its distinct coloration and well-defined shape make it stand out against the blurred, darker greenish-brown aquarium background and rock formations, indicating a clear absence of camouflage."
+}

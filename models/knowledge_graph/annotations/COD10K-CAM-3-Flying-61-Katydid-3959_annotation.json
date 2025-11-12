@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a dense cluster of green plant stems, elongated green seed pods or developing buds, some featuring pale pinkish-white tips. Interspersed among these are dried plant fragments and feathery white seed heads, possibly from dandelions or similar plants. A dark, out-of-focus background creates depth behind the immediate foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid demonstrates effective camouflage primarily through exceptional color blending. Its vibrant green body perfectly matches the dominant green hues of the surrounding plant stems and buds, making it very difficult to distinguish from the foliage. The speckled pattern on its body further aids in breaking up its outline, contributing to pattern matching with the varied textures and small irregularities of the plant material. Although its distinct insect shape, long legs, and antennae are somewhat discernible upon close inspection, the overall effect is that the Katydid blends remarkably well into its environment, requiring effort to spot."
+}

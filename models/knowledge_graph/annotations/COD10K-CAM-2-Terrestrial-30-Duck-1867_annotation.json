@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Duck",
+  "background_description": "The background consists of a fast-flowing rocky stream. There are numerous dark grey and brown rocks, some partially submerged, and many covered in patches of vibrant green moss. The water is turbulent, with areas of white foam and clear stretches revealing a darker riverbed.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The duck, with its uniform dark grey plumage and distinct shape, stands out against the varied background of the rocky stream. While its dark color might have some tonal similarity to the darker, wet rocks, its smooth texture contrasts sharply with the rough rocks and the frothy, turbulent water. Crucially, the duck is positioned against bright white foamy water, creating a high contrast that makes it easily visible and prevents any effective color blending or shape disruption."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background consists of a vibrant underwater coral reef ecosystem. It features various types of coral and rock formations, predominantly in shades of muted green, blue-grey, and brown. Some areas are covered in soft algae, while others show rough, pitted surfaces of calcified coral. A prominent feature is a large, deep red sea fan. The overall lighting is subdued, characteristic of deeper water, creating an environment with varied textures and diffuse light.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The image shows an underwater coral reef with several small reef fish exhibiting effective camouflage. These fish are difficult to spot because their body coloration, which includes light greys, blues, and mottled patterns, closely matches the muted tones and varied textures of the surrounding rocks and coral structures. This high color and texture similarity, combined with a low contrast difference, allows them to blend seamlessly with the complex reef environment. For example, the elongated, pale fish visible near the upper part of the main image and in the crops almost disappears against the similarly colored coral/rock substrate. This 'color blending' camouflage helps them evade predators and ambush prey. The large red sea fan, while an organism, is a prominent feature and not camouflaged."
+}

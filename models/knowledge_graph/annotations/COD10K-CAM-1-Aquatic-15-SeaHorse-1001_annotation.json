@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The seahorse is situated on a branching gorgonian coral. The coral branches are highly textured with numerous small, irregular, nodular structures or polyps, and display colors ranging from light reddish-white to darker brown/purplish tones. The background behind the coral is a distinct, vibrant green, likely representing the open water or distant marine vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The seahorse exhibits outstanding camouflage through a combination of mimicry, color blending, and texture matching. Its body is adorned with prominent, bumpy tubercles that flawlessly replicate the polyps and irregular surface structures of the gorgonian coral it resides upon. The seahorse's coloration, a blend of white with bright reddish-orange accents, very closely matches the hues found on the coral branches, which include light pinkish-white and darker reddish-brown areas. This remarkable similarity in shape, texture, and color allows the seahorse to integrate almost perfectly with its environment, rendering it exceptionally difficult to detect by predators."
+}

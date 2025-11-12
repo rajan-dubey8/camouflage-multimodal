@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The underwater environment consists primarily of a light greyish-white sandy and rocky seafloor. Various marine growths are present, including distinct patches of bright green encrusting coral or algae, large brown branching gorgonian corals, and a delicate purple fan coral. The overall texture of the environment is highly varied, from smooth sand to rough, irregular rock formations and intricate coral structures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, slender reef fish is expertly camouflaged against the sandy-rocky seafloor and a dark branching gorgonian coral. Its greyish-brown coloration almost perfectly matches the tones of the coral branches and the shadowed areas of the sandy substrate, resulting in exceptionally low contrast. The fish's elongated and slender body shape further contributes to its disguise, blending seamlessly with the linear structures of the coral and the general texture of the ocean floor, making it extremely difficult to visually differentiate from its surroundings."
+}

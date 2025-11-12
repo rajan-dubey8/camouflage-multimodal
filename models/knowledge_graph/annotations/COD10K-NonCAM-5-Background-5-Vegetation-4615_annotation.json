@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wild plant in a grassy outdoor environment",
+  "background_description": "The background consists of a clear, bright blue sky in the upper portion. Below the sky, there is a hillside covered with dry, yellowish-brown grass and weeds, interspersed with some small green patches and yellow flowers. A tall, light-colored wooden pole (utility pole) and power lines are visible on the left side, and a portion of a stone or concrete structure is present on the right side of the background. The foreground is dominated by a light green plant stem with several long, slender seed pods.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The main subject is a plant stem with seed pods in an outdoor, grassy environment. Since there is no organism present, there is no camouflage to detect or analyze."
+}

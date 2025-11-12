@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background depicts an aquatic environment, likely an aquarium, with blurred green artificial or natural aquatic plants in the midground and foreground. The water appears clear, with reflections and light sources visible in the upper background against a soft blue hue, suggesting an open water area or tank wall. The bottom is indistinct but hints at a substrate.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a golden-colored fish, identifiable as a Goldfish or a similar carp variety due to its body shape and barbels. Its bright, reflective golden scales stand out significantly against the darker, blurred green and blue background, indicating a clear lack of camouflage. The animal is highly conspicuous in its environment."
+}

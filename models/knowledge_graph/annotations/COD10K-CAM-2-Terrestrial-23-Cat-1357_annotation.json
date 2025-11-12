@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists primarily of a woven natural fiber hammock (likely burlap or jute) in which the cat is resting, suspended by rough, gnarled tree branches. Behind these elements, there is a warm, yellowish-brown, somewhat textured wall or rock face, creating an overall earthy and arid environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The cat's fur is a sandy, golden-brown color that almost perfectly matches the hue of the woven natural fiber hammock it is resting in. This excellent color blending makes the cat very difficult to distinguish from its immediate resting place. Furthermore, the overall warm, earthy tones of the surrounding dry branches and the background rock/wall complement the cat's coloration, reducing visual contrast. While the fur texture is softer than the coarse hammock, the dominant factor of color similarity and the low contrast between the cat and its environment create highly effective camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a tree trunk with rough, textured bark. The bark exhibits various shades of grey, brown, and reddish-brown, and is extensively covered with splotches of grey-white, greenish-grey, and yellowish lichens. In the blurry background, there are hints of green and autumn-colored (yellowish-brown) leaves and smaller branches.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The Cicada demonstrates excellent camouflage against the tree bark. Its body coloration, a mix of mottled greys, browns, and dark shades, closely matches the dominant colors of the bark and the various lichens growing on it. The rough, irregular texture of the Cicada's body also blends remarkably well with the fissured and uneven surface of the bark, minimizing any textural contrast. While its wings are somewhat transparent, the darker veins and the slight opacity contribute to the overall blend. The overall contrast difference between the Cicada and its perch is low, making it difficult to spot at first glance. The prominent black and white striped abdomen is a slight departure but does not negate the overall effective blending of the majority of its body with the environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a dense network of branching gorgonian coral (or similar sea fan). The coral branches are primarily pale pinkish-white or cream, adorned with numerous small, scattered reddish-brown polyps or textured bumps. Behind the coral structure, the environment is a dark, almost black, blurred oceanic backdrop, emphasizing the intricate details of the coral and the seahorse.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse exhibits exceptional camouflage by perfectly matching the color, texture, and pattern of the gorgonian coral it is clinging to. Its pale pinkish-white body with small reddish-brown bumps precisely mimics the coral's branches and polyps, making it incredibly difficult to distinguish from its environment. The irregular, lumpy surface of the seahorse further blends with the coral's natural texture, and its small size allows it to appear as just another part of the coral structure, effectively disrupting its outline and making it virtually invisible."
+}

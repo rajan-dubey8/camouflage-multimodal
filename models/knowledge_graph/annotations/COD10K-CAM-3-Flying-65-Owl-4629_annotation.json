@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of a section of a building, featuring a dark grey slate tiled roof with horizontal layers. Below the roof is a dark grey/black gutter. To the left and below the gutter is a wall constructed from irregular, rough-hewn natural stone blocks in shades of tan, grey, and brown, with visible mortar lines. The overall environment is muted in color with varying textures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The owl exhibits effective camouflage by blending with the building's features. Its mottled brown, grey, and tan plumage closely matches the natural stone blocks of the wall and the weathered appearance of the roof tiles. The irregular patterns on its feathers also mimic the rough, uneven textures and the variations in color present in the stone and slate. While its overall shape is still somewhat discernible, its coloration and patterning significantly reduce its contrast against the background, making it less conspicuous, especially against the stone wall and shadowed areas beneath the roof line."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a rugged, multi-layered cliff face or rocky bank. It features strata of reddish-brown and tan earthy material interspersed with numerous dark grey to black angular rocks and pebbles of various sizes. There are deep shadows and crevices, creating a textured and irregular surface with varying light and dark areas.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The birds exhibit effective camouflage against the rocky, earthy background. Their dark brown to grey plumage closely matches the color of the numerous dark rocks and the shadowed areas of the cliff face, resulting in high color similarity. This significantly reduces their visibility. While their feathered texture differs from the rough rock, the overall irregular and rugged appearance of the birds against the similarly irregular and textured environment helps them to blend. Their placement within crevices and shadowed spots further enhances their concealment by breaking up their outlines and reducing contrast, making them difficult to distinguish from the environment at first glance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "River landscape at dusk",
+  "background_description": "The scene depicts a wide, serene river landscape at what appears to be dusk. The sky dominates the upper portion, displaying soft gradients of pale blue and light grey, blended with subtle streaks of pinkish-orange from the setting sun. Wispy clouds are scattered across the sky. Below the sky, a dark, dense line of trees, likely a forest, stretches across the horizon, appearing as a dark silhouette. The foreground consists of a vast expanse of light brown to grayish-brown sand or dried mud, possibly a wide riverbank or delta, with subtle textural variations and some small debris.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily showcases a natural environment consisting of a sky, a distant forest line, and a wide sandy/muddy riverbank. There are no visible animals, insects, or fish present in the image that would require camouflage. Therefore, no camouflage is detected, and the relevant camouflage metrics are set to 'none' or 0.0."
+}

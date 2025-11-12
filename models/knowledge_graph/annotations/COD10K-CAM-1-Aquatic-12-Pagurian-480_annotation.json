@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Pagurian",
+  "background_description": "The background consists of a vibrant underwater scene with numerous orange colonial anemones or soft corals displaying a spiky, feathery texture. Interspersed are light brown to beige rocks, some covered with mottled textures, possibly encrusting algae or sponges. There are also areas of darker reddish-brown and yellowish-green matter, suggesting a diverse marine floor.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Pagurian, housed in a prominent shell, does not effectively blend with its environment. Its shell features a distinct dark brown, geometric pattern against a lighter cream/reddish-brown base. This pattern and coloration stand out against the vibrant orange spiky corals and the more uniform, mottled textures of the surrounding rocks and marine growths. The shell's smooth texture also contrasts with the rougher, more complex textures of the background elements. While some reddish-brown tones in the shell exist in the background, the overall effect is one of high visibility rather than concealment, due to the distinct pattern, shape, and moderate color contrast."
+}

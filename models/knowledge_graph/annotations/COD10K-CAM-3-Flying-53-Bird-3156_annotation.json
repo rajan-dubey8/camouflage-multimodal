@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of the deeply furrowed bark of a tree trunk. The bark is primarily grey and brown, with irregular textures, cracks, and patches of lighter lichen or moss, creating a mottled appearance. The immediate area around the bird is in sharp focus, while the rest of the background further to the right is softly blurred.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits excellent camouflage against the tree bark. Its plumage features a complex pattern of white, light brown, dark brown, and grey streaks and speckles that highly resemble the varied tones and textures of the bark. The irregular patterns on its back and wings mimic the rough fissures and patches of lichen on the tree. The overall color palette of the bird's feathers is nearly identical to the grey-brown bark, resulting in very low color and texture contrast. This combination of color blending and pattern matching makes the bird incredibly difficult to discern from its environment, especially given its posture clinging to the trunk."
+}

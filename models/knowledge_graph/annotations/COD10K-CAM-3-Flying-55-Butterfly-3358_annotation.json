@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of dry, light brown to beige fallen leaves and desiccated grass blades, some appearing like straw. The lighting creates distinct shadows and highlights, emphasizing the crumpled and textured appearance of the leaves and the linear forms of the grasses. There are hints of green plant stems visible towards the bottom of the frame.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The butterfly demonstrates effective camouflage through a combination of color blending and shape disruption. Its closed wings are predominantly a mottled beige/light brown/grey hue, which very closely matches the color of the dry fallen leaves and straw-like grasses it is resting upon. This strong color similarity significantly reduces its visual distinction from the immediate environment. Furthermore, the overall shape of the butterfly with its wings folded, particularly the angular and somewhat irregular outline, resembles a crumpled dry leaf or a piece of organic debris, which contributes to shape disruption. While there are some more distinct orange and white markings on the upper part of the wing, these patterns are somewhat broken and do not entirely negate the overall blending effect. The low contrast difference between the butterfly's dominant coloration and the background makes it challenging to spot, indicating successful camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Muntjac deer",
+  "background_description": "The background consists primarily of vibrant green grass, both short and longer blades, with some hints of dry grass or soil showing through in patches, particularly in the foreground directly beneath the animal. There are also darker, shaded areas within the grass.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Muntjac deer exhibits camouflage through its coloration and disruptive pattern. Its fur is a mix of earthy browns and grays, with lighter spots scattered across its back. While the immediate bright green grass provides some contrast, these colors and the spotted pattern would effectively break up the animal's outline and help it blend into environments with varied foliage, dappled sunlight, and patchy ground, such as forest undergrowth. The spots mimic the play of light and shadow, making it harder for predators to distinguish the animal's form. Against the current uniform bright green, the effectiveness is moderate, but the pattern itself is a clear camouflage adaptation."
+}

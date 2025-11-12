@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists primarily of a bed or sofa covered with a plush fabric, likely a duvet or blanket, featuring a distinct black and white zebra-stripe pattern. There is also a large pillow with the same zebra print. The stripes are irregular and vary in width, creating a dynamic, high-contrast visual texture across the entire surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The human child is wearing a onesie or pajamas that perfectly match the black and white zebra-stripe pattern of the bedding and pillow. This creates excellent pattern matching and color blending for the majority of the human's body that is covered by the clothing. The texture of the pajamas also appears similar to the plush bedding, further enhancing the blend. However, the camouflage is not complete due to the visible face, hands, a bright red cup, a pink wristband, and distinct toys (a doll and a mermaid) that stand out against the patterned background, breaking the illusion. Despite these elements, the dominant visual effect is one of a significant portion of the organism blending with its immediate environment through pattern mimicry."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater coral reef environment, specifically a crevice or overhang within the reef structure. The dominant features are rough, irregular coral formations in vivid shades of red, deep purples, and some darker areas indicating shadows. The floor of the crevice and surrounding areas feature coarse sand, detritus, and small gravel, which appear light beige to off-white with scattered darker particles and hints of pinkish-red.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The fish, which appears to be a type of pufferfish or porcupinefish, is quite visible within the coral crevice. Its body coloration, primarily light tan to off-white with distinct dark brown spots, contrasts sharply with the vibrant red and deep purple hues of the surrounding coral. While the fish is physically concealed by the crevice, its own visual attributes do not blend with the environment. The smooth texture of its body also differs significantly from the rough, irregular surfaces of the coral and the granular texture of the sandy bottom. Its shape and prominent eye create a high contrast against both the darker shadows within the crevice and the brighter, saturated colors of the coral, making it easily discernible."
+}

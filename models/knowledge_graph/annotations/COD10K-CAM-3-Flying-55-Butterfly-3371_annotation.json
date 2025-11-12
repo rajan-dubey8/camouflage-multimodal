@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of various light-colored pebbles and small rocks, interspersed with green plant stems, small white flowers, and some darker green foliage. The scene is well-lit, showing subtle shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly exhibits a highly effective disruptive coloration pattern on its underside wings, featuring mottled patches of white and olive-green. This pattern allows it to blend remarkably well with its immediate environment. The white areas on its wings perfectly match the white flowers it is resting on, while the olive-green patches closely resemble the color and variegation of the surrounding green plant stems and foliage. This combination of color blending and pattern matching breaks up the butterfly's outline, making it difficult for a predator to distinguish its shape against the visually complex background of flowers, leaves, and pebbles. The overall effect is a significant reduction in detectability, demonstrating clear camouflage."
+}

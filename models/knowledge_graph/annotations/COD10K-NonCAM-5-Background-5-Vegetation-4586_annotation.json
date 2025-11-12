@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Volcanic landscape with lava flows and vegetation",
+  "background_description": "The image depicts an aerial view of an active volcanic landscape. The majority of the scene is covered by dark grey to black solidified lava flows, characterized by a rough, uneven, and clumpy texture. Interspersed within the lava fields are distinct patches of vibrant green vegetation, indicating areas where plant life has established or survived. Some sections of vegetation appear reddish-brown, suggesting stress or recent exposure to heat. In the background, thick plumes of white smoke or steam rise from the lava, obscuring parts of the distant horizon under an overcast, light grey sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a volcanic landscape primarily composed of solidified black lava flows and patches of green vegetation, with plumes of smoke/steam in the distance. No animals, insects, or other organisms are visible within the frame, hence there is no subject for camouflage to be present or evaluated. The scene is purely environmental."
+}

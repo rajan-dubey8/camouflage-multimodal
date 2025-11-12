@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky coastline",
+  "background_description": "The scene features a pale, cloudy sky above a tranquil turquoise-green ocean with gentle waves. The foreground consists of a rocky shore composed of various sizes of light brown and tan stones, interspersed with darker patches of earth or wet rocks, and a section of lush green foliage along the left bank.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism, insect, or fish is visible in the image. The scene is purely an environmental landscape depicting a rocky coastline, ocean, and sky, therefore no camouflage is present."
+}

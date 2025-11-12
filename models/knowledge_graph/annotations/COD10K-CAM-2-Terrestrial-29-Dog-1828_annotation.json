@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Dog",
+  "background_description": "The immediate background for the visible parts of the organism is a light, speckled, off-white/beige carpet. Above and partially covering the dog is a plaid blanket featuring red, dark blue, and cream squares, with a cream-colored, sherpa-like lining visible underneath.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The visible parts of the dog, specifically its reddish-brown paws/legs and a small portion on the left, stand out clearly against the light, speckled off-white/beige carpet. The dog's fur color has a high contrast with the background carpet, and its texture is also distinct. While the dog is mostly concealed by the plaid blanket, its exposed features do not blend with the surrounding environment, thus demonstrating no camouflage."
+}

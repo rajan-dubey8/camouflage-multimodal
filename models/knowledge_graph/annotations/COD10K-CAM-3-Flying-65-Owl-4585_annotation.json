@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The background consists of dense, dry, golden-brown and light brown grasses with numerous thin, linear stalks, interspersed with darker patches of soil and rocks. There are also some sparse patches of darker vegetation and very few small green plants. The overall texture is highly varied and cluttered, characteristic of a dry grassland or scrubland environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The owl exhibits excellent camouflage, blending remarkably well with its environment. Its plumage features a mix of light browns, tans, creams, and darker streaks that perfectly match the colors of the dry, golden-brown grasses and the underlying soil and rocks. The streaky and mottled patterns on its feathers effectively disrupt its natural owl shape, making it harder to perceive as a distinct entity against the visually busy background of grass and detritus. While its eyes and some lighter facial features create a minor contrast, the overall effect of color blending and pattern matching makes the owl very difficult to spot at first glance, indicating strong camouflage."
+}

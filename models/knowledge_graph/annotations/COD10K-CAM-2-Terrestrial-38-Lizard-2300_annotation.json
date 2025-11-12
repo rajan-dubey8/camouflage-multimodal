@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a textured, rough surface. On the left, there's a dark brown rock, transitioning into a section covered with light grey-green, clumpy lichen or moss. To the right, the dominant texture is dense, dark green moss with some lighter green highlights and thin, sparse green plant stalks. The overall environment is rocky and heavily vegetated with moss and lichen.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage through both color blending and pattern matching. Its dorsal coloration, a mix of muted brown, green, and dark stripes, closely matches the hues of the moss, lichen, and underlying rock. The longitudinal stripes on its back help to disrupt its outline and blend with the linear textures of the moss and plant stalks. The lizard's overall texture, with its scaled skin, also harmonizes well with the rough, varied textures of the environment, reducing its contrast and making it very difficult to spot against the complex background."
+}

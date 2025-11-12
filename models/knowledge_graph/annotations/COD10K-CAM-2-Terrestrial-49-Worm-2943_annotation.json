@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The organism is situated on a large, smooth, dark green leaf, which shows signs of being eaten. In the immediate background, there are other out-of-focus green leaves and blurry brown branches, suggesting a dense, leafy environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The organism exhibits excellent camouflage through color blending. Its body is a vibrant green that very closely matches the color of the large leaf it is resting and feeding upon. This strong color resemblance makes it exceptionally difficult to distinguish from its immediate background. While its cylindrical shape and a slight sheen create some minimal contrast, and it has a noticeable lighter lateral stripe and small white dots, the overall effect is one of effective concealment. The slight countershading (lighter underside) also contributes to flattening its appearance, further enhancing its ability to blend into the foliage."
+}

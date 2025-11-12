@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background is a gorgonian coral, predominantly white/pale pink in its structural elements, densely covered in numerous small, star-shaped polyps that are reddish-orange to pink. The coral exhibits an intricate, branching, and textured surface with irregular bumps and spiky projections from the polyps.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse, specifically a pygmy seahorse, demonstrates exceptional camouflage by almost perfectly mimicking its gorgonian coral host. Its body displays a white/pale pink base with reddish-purple spots, which precisely matches the coloration of the coral's structure and its reddish polyps. Furthermore, the seahorse's skin is covered in bulbous tubercles (bumps) that replicate the shape, size, and texture of the coral polyps, effectively disrupting its outline and making it visually indistinguishable from the surrounding coral. The combination of color, pattern, and shape resemblance makes the seahorse incredibly difficult to spot, even upon close inspection."
+}

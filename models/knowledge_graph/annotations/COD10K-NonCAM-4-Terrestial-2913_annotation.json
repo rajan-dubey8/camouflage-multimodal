@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African lions",
+  "background_description": "The background consists of dry, golden-brown savanna grassland with sparse patches of dried straw-like grass and bare sandy earth in the foreground. In the mid-ground and background, there are areas of taller, more dense dry grass.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The lions exhibit strong camouflage through color blending. Their tawny-brown coats are highly similar in hue and lightness to the surrounding dry savanna grass and sandy earth. This allows them to blend into their environment, reducing their visibility to prey. While their distinct shapes and the male's mane create some contrast, their overall coloration provides excellent concealment against the natural backdrop."
+}

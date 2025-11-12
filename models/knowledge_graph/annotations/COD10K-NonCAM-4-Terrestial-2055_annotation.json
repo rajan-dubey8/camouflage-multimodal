@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Ibex",
+  "background_description": "The upper background is a clear, light blue sky. The lower background consists of an out-of-focus golden-brown grassy plain or hillside, featuring dry stalks and subtle color variations.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Ibex's brownish-grey coat and earthy-toned, rugged horns are naturally adapted for color blending within its typical habitat of rocky, mountainous terrain and dry vegetation. In this specific image, its fur color provides moderate similarity with the golden-brown grassy foreground, offering some degree of natural concealment. However, a significant portion of the animal, particularly its head and prominent horns, is silhouetted against a bright, clear blue sky. This creates a high contrast difference that makes the Ibex quite visible in parts of the frame, reducing the overall effectiveness of its natural camouflage in this particular visual context, even though its coloration is inherently a form of camouflage."
+}

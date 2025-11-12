@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Pronghorn",
+  "background_description": "The background consists of a sprawling field of green grass, varying in length and density. There are also patches of lighter, drier grass and some visible soil. Small, indistinct plants and weeds are scattered throughout, with subtle shadows indicating direct sunlight.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Pronghorn displays a natural camouflage strategy known as color blending. Its tan-brown upper coat, combined with lighter undersides and white patches, helps it blend with the varied colors of its natural habitat, which includes grasslands, prairies, and semi-arid regions. While the animal is clearly visible against some of the vibrant green grass in this specific image, its overall coloration provides a moderate level of concealment by matching the drier grasses, soil, and earth tones commonly found in its environment, reducing its contrast against the background and making it harder for predators to spot, especially from a distance."
+}

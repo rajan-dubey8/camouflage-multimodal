@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a seabed covered in small, irregularly shaped pebbles or gravel. The pebbles vary in color, including white, light grey, dark grey, brown, and some black, creating a mottled, granular texture across the entire surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Flounder exhibits excellent camouflage against the pebbly seabed. Its body coloration is a mottled mix of light grey, white, and brown, with irregular dark spots, almost perfectly matching the diverse colors and granular texture of the surrounding pebbles. The speckled pattern on its skin mimics the visual noise created by the scattered stones. Its flat body shape allows it to lie flush with the substrate, minimizing shadows and blending seamlessly into the contours of the environment. The combination of color blending and pattern matching makes it very difficult to distinguish the organism from the background, effectively concealing it."
+}

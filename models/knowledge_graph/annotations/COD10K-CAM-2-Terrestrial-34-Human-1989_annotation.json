@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a dense, dark forest or woodland environment. It features several large, dark tree trunks with deeply textured bark, some appearing to be covered in moss or lichen. The forest floor is covered with dry, yellowish-brown tall grass, various green bushes, and undergrowth. There are also fallen logs covered in moss. The overall lighting is dim and dappled, creating a mix of shadows and muted tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The human is effectively camouflaged by wearing a multi-cam or similar patterned uniform that closely matches the greens, browns, and grays of the dense forest environment. The uniform's pattern aids in color blending and pattern matching with the tree bark, various shades of foliage, and dry undergrowth, thereby breaking up the human's silhouette (shape disruption). The individual is also strategically positioned partially behind a large, dark tree trunk and amidst dense bushes, utilizing natural cover and shadows to further conceal their presence. While the grey hair on top of the head provides a slight point of contrast, the overall effect of the clothing and positioning significantly reduces visibility and blends the human with their surroundings."
+}

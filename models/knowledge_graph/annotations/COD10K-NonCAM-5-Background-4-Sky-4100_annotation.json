@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean sunset with boats",
+  "background_description": "The scene depicts an ocean sunset with a vibrant sky displaying gradients of orange, red, and yellow, dominated by a bright, round sun low on the horizon. The ocean surface reflects these warm colors, showing gentle ripples and a darker blue-grey tone in areas. Silhouettes of a sailboat on the left and a yacht on the right are visible against the bright background, along with a paddleboard and another small floating object in the foreground water.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural environment featuring a sunset over the ocean with several man-made objects (boats, paddleboard). No animals, insects, or fish (organisms) are visible in the image. Since there are no organisms present, the concept of biological camouflage does not apply. The visible elements, such as the boats, are clearly distinguishable as dark silhouettes against the bright sky and reflective water, indicating a high contrast difference rather than an attempt at concealment."
+}

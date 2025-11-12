@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi Fish",
+  "background_description": "The aquatic environment is a dark, murky pond with visible water lily pads on the surface. Submerged areas show hints of dark plant matter or algae, and there are small reflective particles or debris scattered in the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image features several Koi fish with vibrant patterns of orange, white, and yellow. Their bright coloration stands out significantly against the dark water background and lily pads, indicating a clear absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Interior room with outdoor view",
+  "background_description": "The scene depicts the interior of a dark, possibly abandoned, room. Two gridded windows allow light to penetrate, revealing a view of numerous bare tree branches against a bright blue sky, characteristic of late autumn or winter. The interior walls and floor are predominantly in deep shadow, appearing dark brown and black, with some areas illuminated by sunlight displaying warmer, muted brown and orange tones where the light hits the surfaces.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an interior environmental scene with windows looking out onto a natural landscape. There are no visible organisms (animals, insects, or fish) present in the image. Therefore, no camouflage is detected or analyzed."
+}

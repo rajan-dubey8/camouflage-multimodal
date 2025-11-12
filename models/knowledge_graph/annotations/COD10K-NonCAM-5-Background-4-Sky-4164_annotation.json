@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Church building and trees",
+  "background_description": "The background is a bright, clear blue sky with some faint wispy clouds. The scene includes a large stone church building with a dark, pointed steeple and roof, surrounded by a variety of trees. Some trees have vibrant green foliage, while others display autumn shades of yellow and orange, and dark green coniferous trees are also present. The church walls appear to be made of light grey stone.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features a man-made church building surrounded by various trees under a clear blue sky. No organisms (animals, insects, or fish) are visible within the frame. Therefore, no camouflage is detected or applicable, and the relevant camouflage metrics are set to 'none' or '0.0' as per the rules."
+}

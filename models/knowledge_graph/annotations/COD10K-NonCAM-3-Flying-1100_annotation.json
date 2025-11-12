@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Spotted beetle",
+  "background_description": "The background consists primarily of a bright, uniformly green, out-of-focus area, likely distant foliage or vegetation. The insect is perched on a blurred brown branch or twig, which serves as its immediate environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The insect displays vivid and highly contrasting colors, featuring prominent black spots against a bright yellow and orange body. These colors stand out sharply against both the green background and the brown branch it is resting on. This type of bold coloration is characteristic of aposematism, where an organism signals its toxicity or unpalatability to potential predators, rather than attempting to blend in with its environment for camouflage."
+}

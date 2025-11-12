@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a rugged, dry, and gnarled tree branch with deep crevices and a rough, grayish-brown bark texture. Delicate strands of spiderweb are visible clinging to the branch and the cicada exuvia. Beyond the branch, the background is a soft, out-of-focus blur of light green and yellowish-green, indicating distant foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The cicada exuvia (molted shell) displays excellent camouflage against the dry, textured tree branch it is clinging to. Its overall dusty, grayish-brown coloration almost perfectly matches the weathered bark of the branch, providing high color similarity. The rough, granular texture of the exuvia also closely mimics the intricate patterns and crevices of the bark, contributing to high texture similarity. The contrast difference between the organism and its immediate environment is very low, making it difficult to discern at first glance. While its shape is distinct upon close inspection, the combination of matching color and texture allows it to blend seamlessly into its arboreal surroundings."
+}

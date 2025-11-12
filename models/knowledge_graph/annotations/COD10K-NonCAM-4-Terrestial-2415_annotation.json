@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giant Anteater",
+  "background_description": "The background consists primarily of vibrant green grassland or pasture, with some areas of slightly taller, denser green foliage in the distance. The texture is largely uniform short grass with occasional individual blades visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The giant anteater's dark brown and black fur, with a distinctive diagonal stripe, stands out starkly against the bright green grass of the environment. There is a high contrast in both color and brightness between the animal and its surroundings, and its shaggy texture does not blend with the fine blades of grass. Therefore, it is not camouflaged in this particular habitat."
+}

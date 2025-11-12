@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rhinoceros",
+  "background_description": "The rhinoceros is situated on dry, sandy, and earthy ground with visible small rocks and uneven terrain. In the background, there are blurred green leaves, suggesting foliage, and indistinct rocky formations. The ground is predominantly brown and greyish-brown.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.7",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The rhinoceros exhibits natural camouflage through color blending. Its thick, gray-brown, wrinkled skin closely matches the dusty, rocky, and earthen tones of its immediate environment. The muted coloration helps reduce its visibility against the similar-colored ground and rocks. The rough texture of its skin also shares some resemblance with the uneven, rocky terrain. While not perfectly invisible, its natural coloring significantly aids in blending into its typical habitat, making it less conspicuous to predators or prey."
+}

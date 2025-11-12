@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black bird with prominent red throat",
+  "background_description": "The background consists of a blurred, plain, muted yellowish-brown or olive-green surface. The bird is perched on a light brown wooden branch or log, which has a visible grain texture. A hint of green foliage is visible on the lower right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage is predominantly black, with a striking and vibrant red feathered throat patch. These colors stand out sharply against the muted yellowish-brown background and the light brown wooden perch. There is a high contrast between the bird's dark body and bright red feature and its environment, and no visual cues suggest an attempt to blend in through color, texture, or pattern mimicry. The prominent red patch is likely a display feature rather than a camouflage adaptation."
+}

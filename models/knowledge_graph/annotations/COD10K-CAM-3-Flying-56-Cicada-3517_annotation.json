@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a dark, deeply textured tree trunk with rough, furrowed bark. Behind the tree trunk, there is a brightly lit, heavily blurred out-of-focus area with distinct bokeh circles, suggesting foliage or distant light sources against a bright sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The cicada exuviae (shed skins) are not camouflaged in this image. They are significantly lighter in tone (medium gray/off-white) compared to the dark, almost black tree bark they are clinging to. This high luminance contrast makes them stand out very clearly. Additionally, their segmented, chitinous texture and distinct insectoid shape do not blend with the rough, deeply furrowed texture of the bark. There is no pattern matching or shape disruption occurring; instead, their form and brightness make them easily detectable against the background."
+}

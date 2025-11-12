@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green Frog",
+  "background_description": "The background consists of dark, still water, likely a pond or shallow lake, with hints of submerged organic debris such as leaves or plant matter. The surface reflects light, creating bright patches.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "Two green frogs are clearly visible floating on the surface of dark water. Their bright green and yellowish coloration, combined with distinct patterns, creates a strong contrast against the dark background, indicating no camouflage is present. The animals stand out clearly from their environment."
+}

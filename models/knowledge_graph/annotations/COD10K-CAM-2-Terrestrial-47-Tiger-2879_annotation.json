@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dense growth of tall, thin, light green/grey, thorny succulent plants with some reddish tips, resembling euphorbia. Interspersed among these are patches of dry, pale straw-colored grass. Behind these plants, the environment appears to be blurred, light brown, rocky or sandy terrain, indicating a dry, arid landscape.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The tiger exhibits strong camouflage in this environment. Its base orange-tan fur color blends remarkably well with the dry, pale grass and earthy tones of the background, achieving high color similarity. While its fur texture differs from the surrounding plants and grass, its characteristic black stripes serve as a highly effective form of pattern matching and disruptive coloration. These vertical stripes mimic the dappled light and shadow, as well as the linear, vertical structures of the dense succulent plants and dry grass, breaking up the tiger's outline and making it harder for an observer to distinguish its form as a continuous entity. The overall contrast difference is medium; although the stripes are high contrast against the orange fur, they contribute to the camouflage by mimicking the environment's patterns rather than making the animal stand out."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of a dark, gnarled tree branch with a very rough, irregular surface. It is covered in patches of dark brown bark, lighter tan and off-white lichen or dried, flaky material, and some subtle greenish tones suggesting moss or algae. The immediate surroundings are predominantly black, indicating a very dark environment or focused lighting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Gecko is exceptionally well-camouflaged in this image. Its body coloration, which includes mottled browns, olives, and patches of tan/white, perfectly matches the colors of the tree branch and the lichen/bark covering it. Furthermore, the gecko's skin texture is rough and irregular, mimicking the rugged surface of the branch. Crucially, its body shape features distinctive leaf-like or bark-like protrusions and an irregular outline (characteristic of leaf-tailed geckos), which effectively disrupt its form and prevent it from being recognized as a distinct animal. This combination of color blending, pattern matching, and sophisticated shape disruption makes it almost indistinguishable from its environment, offering near-perfect concealment."
+}

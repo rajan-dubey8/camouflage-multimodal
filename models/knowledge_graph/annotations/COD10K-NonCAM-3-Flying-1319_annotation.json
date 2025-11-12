@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of lush, out-of-focus green foliage, with varying shades from bright lime green to deep, dark green. There are also visible brown branches or stems that the bird is perched on. The environment appears to be a dense, leafy forest or garden.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage is a vibrant, striking red, which creates a very high color and brightness contrast against the predominantly dark green, blurred foliage of its background. This stark visual difference makes the bird highly conspicuous rather than concealed. There is no evidence of color blending, disruptive patterns, or mimicry with the surrounding environment. The bird's coloration is clearly not for camouflage, but likely for display or communication."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of numerous small, irregularly shaped pebbles or gravel. These pebbles vary significantly in color, including shades of light grey, dark grey, white, beige, light brown, and some reddish-brown. They are densely packed, creating a rough, uneven texture across the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth exhibits excellent camouflage against the gravel background. Its wings display a complex, mottled pattern of greys, dark greys, and black markings that perfectly mimic the varied colors and irregular textures of the surrounding pebbles. The subtle hint of orange/brown on its hind wings (partially visible) also blends with some of the earthier tones in the gravel. The pattern on its wings effectively breaks up its outline, making it difficult to distinguish from the similarly textured and colored background. This results in high color and texture similarity, and low contrast difference, allowing it to blend seamlessly with its environment."
+}

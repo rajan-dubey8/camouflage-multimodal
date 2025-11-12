@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Moose",
+  "background_description": "The background consists of blurred natural vegetation and terrain. It features areas of bright green coniferous trees, lighter green and yellowish grasses or shrubs, and patches of sunlit brownish earth or rocks, suggesting a forested or mountainous landscape on a clear day.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The moose's dark brown to black fur contrasts sharply with the brighter, predominantly green and yellowish-brown background vegetation. Its large size and distinct silhouette make it easily visible and detectable against the sunlit environment. There is no significant color blending, texture matching, or disruptive patterning to conceal the animal in this specific scene."
+}

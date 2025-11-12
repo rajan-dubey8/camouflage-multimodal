@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of shallow, murky water over a muddy and sandy substrate. There are varying shades of brown earth, some darker patches that could be submerged debris or deeper mud, and numerous thin, sparse aquatic plants. These plants are mostly green or reddish-brown, protruding slightly above the water surface, with small water droplets visible on their stems.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage against its natural environment. Its skin coloration, a mottled mix of greens, browns, and grays, perfectly matches the muddy ground and sparse aquatic vegetation. The irregular, bumpy texture of its warty skin also mimics the uneven surface of the mud and the clumpy plant growth, helping to break up its outline. The dark green patches on its back blend seamlessly with the darker plant matter and submerged elements in the water. Only its eye stands out slightly, but the overall body shape and patterns dissolve into the background, making it very difficult to spot at first glance. This is a clear example of effective color blending and pattern matching."
+}

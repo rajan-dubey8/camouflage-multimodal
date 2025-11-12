@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dry, rocky ground covered with numerous fallen autumn leaves. The leaves display various shades of brown, orange, and tan, some appearing brittle and textured with visible veins. There are also flat, light gray-brown stones and rocks scattered throughout the scene, with strong sunlight creating distinct shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly exhibits effective camouflage primarily through color blending. Its wings are a muted light brown/tan color, which closely matches the dry fallen leaves and the lighter-colored stones and rocks in the immediate environment. While the texture of its wings is distinct, its veining has a subtle resemblance to the veins on some of the dry leaves. The overall contrast difference between the butterfly and its surroundings is low, making it blend seamlessly into the earthy, autumnal palette. The butterfly's shadow also helps integrate it into the environment, preventing it from appearing as a stark, disconnected object."
+}

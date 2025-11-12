@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of various vertical plant stalks and blades. Some are vibrant green, while others appear dried and brownish, with a prominent dried brown stalk directly adjacent to the Katydid. The environment has a somewhat dark, possibly nocturnal, lighting, which brings out the textures of the plant matter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid exhibits strong camouflage by blending exceptionally well with the dried brown plant stalk it is clinging to. Its body and wing coloration are a light yellowish-brown, almost beige, which perfectly matches the hue of the stalk. The texture of its wings, with subtle veins and fine speckles, also harmonizes with the somewhat fibrous and irregular surface of the dried plant material. This combination of high color and texture similarity, along with very low contrast difference against its immediate background, makes the Katydid difficult to distinguish at first glance. While there are green leaves in the broader background, its position against the matching brown stalk highlights the effectiveness of its specialized color blending."
+}

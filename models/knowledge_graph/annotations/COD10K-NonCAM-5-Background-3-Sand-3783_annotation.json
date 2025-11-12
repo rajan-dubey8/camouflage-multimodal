@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean waves on beach at sunset",
+  "background_description": "The image captures a blurred, painterly scene of ocean waves breaking and receding on a sandy beach. The upper portion shows turbulent, dark blue and grey water, indicative of waves. The lower half features wet sand or shallow water reflecting a warm, soft orange-pink glow from the sky, likely from a sunset or sunrise. The overall texture is smooth and streaky due to motion blur, creating an abstract, serene coastal atmosphere.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene of ocean waves on a beach, with no visible animals, insects, or fish present. As there is no organism, the concept of camouflage is not applicable. All camouflage-related metrics are therefore set to 'none' or '0.0' where appropriate, and contrast_difference is set to 'low' as a default when no subject for comparison exists."
+}

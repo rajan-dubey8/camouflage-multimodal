@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Elephant",
+  "background_description": "The background consists of dry, yellowish-brown grass and sparse herbaceous plants in the foreground and midground. Behind this, there is a dense expanse of green foliage from various trees and bushes, indicating a savanna or bushland environment. The lighting is diffused, suggesting an overcast day or late afternoon.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a large African Elephant prominently in the center. Its massive size and solid grey coloration create a high contrast against both the dry, light-colored grass and the dense, green foliage in the background. Elephants are not known to rely on camouflage for concealment; their sheer scale makes blending into most environments impractical. Thus, the elephant stands out clearly and exhibits no camouflage."
+}

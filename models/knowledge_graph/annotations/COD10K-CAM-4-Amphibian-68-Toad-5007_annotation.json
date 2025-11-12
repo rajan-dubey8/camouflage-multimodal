@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "A forest floor environment featuring a rough-textured log or piece of wood, interspersed with dry brown leaves and sparse green foliage. The scene is illuminated by natural sunlight, creating areas of shadow and highlights.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The toad demonstrates effective camouflage primarily through color blending and texture similarity. Its mottled grey and brown coloration, along with its bumpy, warty skin, closely mimics the appearance of the surrounding dry leaves, soil, and the rough surface of the log it is resting upon. This minimizes visual contrast and creates a seamless integration with its natural habitat, making it challenging to detect against the background. The animal's shape and outline are also broken up by the irregular patterns and shadows, further enhancing its camouflage."
+}

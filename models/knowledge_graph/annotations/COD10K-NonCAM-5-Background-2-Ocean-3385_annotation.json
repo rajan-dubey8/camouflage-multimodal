@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Mushroom coral",
+  "background_description": "The coral is situated on a dark, open-mesh plastic grid, likely a frag rack in an aquarium. Through the openings of the grid, light-colored (possibly white or light blue) gravel or substrate is visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features a mushroom coral, an organism with a light brown-pink base and prominent yellow-orange polyps, placed on a dark, artificial plastic mesh grid within an aquarium setting. The vibrant coloration and distinct fleshy, bumpy texture of the coral provide a strong visual contrast against the smooth, black, geometric pattern of the grid and the lighter substrate visible beneath it. As such, the coral is highly visible and does not exhibit any form of camouflage (color blending, disruptive pattern, or mimicry) against this immediate artificial background. While corals in their natural reef environment often integrate visually with their surroundings, in this specific context, there is a clear absence of camouflage."
+}

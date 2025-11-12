@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Bream",
+  "background_description": "The background consists of murky, greenish-brown water, characteristic of a freshwater lake or pond with suspended sediment or algae. There are no visible complex structures like rocks, coral, or plants, just diffuse water with some particles.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Bream fish with prominent scales and fins. Its form is well-defined against the murky green aquatic background. While its coloration blends somewhat with the water, it is clearly visible and not attempting to hide, indicating no active camouflage."
+}

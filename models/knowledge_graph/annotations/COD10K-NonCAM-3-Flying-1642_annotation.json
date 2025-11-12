@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blue Jay",
+  "background_description": "The background consists of blurred warm brown and orange tones, likely out-of-focus foliage or bare branches of trees, creating a soft, earthy backdrop with some indistinct vertical lines.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Blue Jay's vibrant blue, white, and black plumage contrasts sharply with the warm, blurry brown background. While its lighter belly has a slight tonal resemblance to some parts of the background, the overall effect is one of high visibility rather than concealment. The prominent blue feathers stand out significantly against the earthy tones, indicating no effective camouflage in this specific environment."
+}

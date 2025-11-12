@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mallard duck",
+  "background_description": "The background consists of a grassy bank in the foreground and mid-ground, featuring dry, short brown grass mixed with sparse green blades. In the blurred background, there is a calm body of water, likely a pond or river, which appears dark and somewhat reflective, showing subtle ripples and reflections of the environment (possibly trees or sky) further back. The overall lighting is bright and natural, indicating a sunny day.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mallard duck exhibits a degree of natural camouflage through its plumage, primarily 'color blending'. The brown feathers on its back and breast show medium color similarity to the dry brown grass and earthy tones of the bank where it is resting. The darker parts of its plumage also blend somewhat with the dark, reflective water in the background. While the iridescent blue-green head of the male Mallard is a vibrant, contrasting feature, and its white flanks create a noticeable outline against the grass, the earthy tones of its body still contribute to breaking up its silhouette and blending into the natural environment of riverbanks and ponds. It is not entirely hidden, but its coloration aids in general concealment rather than stark visibility."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dark, rugged, rock-like wall or cliff face, possibly in shadow. The foreground is covered with dry, sparse grass and soil, illuminated by sunlight.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.4,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion's tawny, golden-brown fur is a natural form of camouflage designed for blending into dry savanna grasslands and sandy environments. While the foreground with dry grass offers some color similarity, the dominant dark, rocky background and the strong sunlight highlighting the lion create a high contrast, reducing the overall effectiveness of its natural color blending in this specific scene. Therefore, camouflage is present (due to natural coloration) but its effectiveness is moderate."
+}

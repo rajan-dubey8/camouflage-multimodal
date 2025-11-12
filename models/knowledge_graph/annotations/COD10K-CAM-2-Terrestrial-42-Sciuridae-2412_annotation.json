@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sciuridae",
+  "background_description": "The background consists of a rusty, dark brown metal pole on which the Sciuridae is perched. The pole has a circular hole. Behind the pole and the Sciuridae is a stark, bright white or very light grey, undifferentiated sky or wall.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The Sciuridae, an Indian palm squirrel, features a greyish-brown body with distinct light and dark stripes running along its back. It is perched on a rusty metal pole which is dark brown and reddish-orange. While there might be some minor tonal overlap between parts of the squirrel's fur and the darker rust, the prominent stripes and the squirrel's overall form create a clear visual distinction from the pole's texture and color. Furthermore, the background behind the pole is a stark, bright white, which creates an extremely high contrast with the squirrel's body, making it highly conspicuous. Neither its colors nor its patterns allow it to blend with the rusty metal or the bright white sky/wall. Therefore, the organism stands out clearly against its environment."
+}

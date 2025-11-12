@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a vibrant garden scene. The Mantis is perched primarily on a plant with thick green stems and fleshy, ovate green leaves. This plant also features numerous clusters of small, delicate pinkish-white flowers. In the blurred background, there are hints of other green foliage (likely trees) and splashes of vivid magenta flowers.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Mimicry",
+  "explanation": "The mantis demonstrates excellent camouflage in this image. Its body is a soft, light green color that almost perfectly matches the green of the plant's stems and leaves it is resting on. This high degree of color similarity makes it incredibly difficult to distinguish the mantis from the foliage. Furthermore, its elongated body and folded wings give it a linear, somewhat leaf-like or stem-like appearance, contributing to mimicry and disrupting its recognizable insect outline. While its head is somewhat positioned near the pink flowers, the dominant green body blends seamlessly with the surrounding green plant material, resulting in a low contrast difference overall."
+}

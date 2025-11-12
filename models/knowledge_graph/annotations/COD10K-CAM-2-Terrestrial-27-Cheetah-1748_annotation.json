@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The background consists of a dense, semi-arid woodland environment. It features numerous intertwined tree trunks and branches of varying thicknesses, some bare and some covered with small green leaves. The ground is covered with sparse grass and dry earth, with patches of darker shadows and dappled light filtering through the canopy. The overall visual texture is busy and complex, dominated by browns, greens, and grays.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Cheetah is highly camouflaged in this image. Its tawny fur with distinct black spots blends exceptionally well with the cluttered woodland background. The yellow-brown base color matches the dry earth, tree trunks, and sun-drenched patches, while the black spots effectively mimic the irregular shadows and darker areas created by the dense foliage, branches, and tree bark. This pattern matching (disruptive coloration) breaks up the Cheetah's outline, making it difficult for the eye to discern its form against the busy, dappled light and shadow environment. The overall visual noise of the background, combined with the Cheetah's patterned coat, significantly reduces its visibility."
+}

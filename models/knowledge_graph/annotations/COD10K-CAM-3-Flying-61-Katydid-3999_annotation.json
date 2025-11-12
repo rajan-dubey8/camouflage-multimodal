@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of large, green deciduous leaves, likely oak, which are wet and covered with water droplets. Some leaves show signs of damage, with holes and brown discoloration or spots, indicating natural wear or possible disease. The prominent veins of the leaves are visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid exhibits excellent camouflage through mimicry, specifically resembling a green leaf. Its large wings are perfectly shaped and colored like a healthy green leaf, complete with visible 'veins' that enhance the illusion. The vibrant green coloration of the Katydid closely matches the healthy parts of the background leaves. The presence of water droplets on its back further enhances its resemblance to the wet leaves in the environment, creating a highly cohesive appearance. While its legs and antennae are somewhat discernible upon close inspection, the overall effect is a highly effective blending with its natural leafy environment, making it difficult to distinguish from the foliage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rhinoceros",
+  "background_description": "The background consists of an expansive African savanna landscape, primarily covered with tall, dry, golden-brown grasses and some scattered greener shrubs. A large, dense tree with green foliage is prominent to the right, and the sky is a bright, slightly hazy white.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The rhinoceros is a large, dark-grey animal. In this scene, it is positioned against a backdrop of predominantly dry, light-golden savanna grass and a bright sky. Its dark, solid form creates a high contrast against the lighter, textured environment, making it easily distinguishable. There is no attempt at color blending, mimicry, or disruptive patterning that would conceal it within this specific habitat. Therefore, the rhinoceros exhibits no camouflage in this image."
+}

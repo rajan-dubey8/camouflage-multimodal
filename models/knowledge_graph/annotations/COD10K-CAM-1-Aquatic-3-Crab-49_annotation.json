@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of a shallow water environment, likely a beach or shoreline, covered in a diverse array of small pebbles, gravel, and fragmented shells. The pebbles vary in color from light tan, beige, and white to various shades of brown, reddish-brown, and dark grey. Some areas are slightly submerged in clear water, causing a subtle ripple effect and wet appearance on the stones. The overall texture is rough and granular, with a mix of smooth, rounded stones and sharper shell fragments.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The crab demonstrates excellent camouflage against its pebbled beach environment. Its carapace and legs are a mottled mix of light beige, tan, and brown, with darker speckles and patterns that perfectly mimic the varied colors and textures of the surrounding wet and dry pebbles, gravel, and shell fragments. The crab's coloration blends seamlessly with the dominant hues of the substrate, making it difficult to distinguish from the background. The irregular patterns on its shell also help to disrupt its outline and prevent it from standing out as a singular, distinct shape amidst the heterogeneous arrangement of stones. Both color and texture similarity are high, resulting in a low contrast difference, which contributes significantly to its successful concealment."
+}

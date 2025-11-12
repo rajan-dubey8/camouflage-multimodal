@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ClownFish",
+  "background_description": "The background is dominated by a dense aggregation of brownish-orange anemone tentacles, which are long, sinuous, and varied in height and orientation, creating a highly textured and complex visual field. Parts of a darker, possibly rocky or coral, substrate are visible in the upper left background, providing a deep, shadowy contrast.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "While the clownfish's bright orange body and stark white stripes create a high color contrast against the muted brownish-orange and tan hues of the anemone, the dense and complex structure of the anemone tentacles provides effective camouflage. The numerous tentacles physically obscure significant portions of the fish's body and break up its outline, making it difficult for a predator to clearly discern its presence or shape amidst the chaotic background. This reliance on structural concealment and shape disruption, rather than color or pattern matching, is a key aspect of its camouflage in this specific habitat."
+}

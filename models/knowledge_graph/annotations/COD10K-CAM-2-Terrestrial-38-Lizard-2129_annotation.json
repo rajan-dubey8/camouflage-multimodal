@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dense green foliage, primarily fronds of what appear to be ferns or small palm-like plants, with many individual leaf blades. There are also scattered dried brown leaves and earthy tones on the forest floor, especially in the lower portion of the image. The overall environment is somewhat shaded, creating a mix of light and dark green areas with natural textures.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits strong camouflage, primarily through color blending and pattern matching. Its body displays a complex pattern of greens, yellows, browns, and black mottling that closely mimics the colors and visual 'noise' of the surrounding environment. The greens on its body blend seamlessly with the green foliage, while the brown and earthy tones on its lower body and tail match the dried leaves and ground. The intricate patterns on its skin also help to disrupt its outline, making it difficult to distinguish from the fragmented light and shadow present in the dense plant material. While the lizard is in focus and thus somewhat discernible, its natural patterning provides excellent concealment within this specific habitat."
+}

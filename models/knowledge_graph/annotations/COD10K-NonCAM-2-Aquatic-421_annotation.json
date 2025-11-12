@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The aquatic environment consists of a sandy seabed, predominantly dark grey and brown with fine to medium grains. There are small scattered pebbles, shell fragments, and patches of darker organic detritus or plant matter visible on the bottom, illuminated by direct overhead light.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays an elongated Pipefish resting on a sandy seabed. Its greenish-brown coloration and textured body somewhat blend with the natural shades of the sand and detritus, creating a moderate resemblance to its surroundings. However, it is distinctly visible and not actively camouflaging its presence; it is simply part of its natural habitat and appearance."
+}

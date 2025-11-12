@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Fern foliage in a forest setting",
+  "background_description": "The scene depicts dense fern foliage against a dark, shadowy forest floor. The image is processed with a strong blue/purple monochrome filter, casting everything in deep indigo and lavender tones, with some highlights on the fronds. The background shows hints of fallen plant debris and rough textures.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image primarily features fern foliage within a forest environment. As no organism requiring camouflage detection is present, all camouflage-related metrics are set to default 'none' or '0.0' values."
+}

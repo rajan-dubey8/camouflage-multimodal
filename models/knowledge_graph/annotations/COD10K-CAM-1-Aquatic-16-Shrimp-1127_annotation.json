@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a large sea anemone with numerous elongated, tubular tentacles of varying lengths. The tentacles are generally greenish-brown with lighter, pale blue/white rounded tips. The central body of the anemone exhibits darker greenish-blue tones with visible striations. The environment is underwater, appearing murky with fine particulate matter suspended, creating a speckled texture in the water, especially where light reflects. The overall lighting is dim.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Shrimp displays highly effective camouflage, primarily through its remarkable transparency. Its body is largely clear, allowing the colors and textures of the underlying sea anemone and the surrounding water to show through. This results in very high color similarity with its immediate environment. While the shrimp has some faint white and blue markings, these are irregular and contribute to breaking up its form, making its outline indistinct against the complex background of the anemone's tentacles. The low contrast difference between the shrimp and its surroundings, combined with its transparent nature and the visually busy environment of the anemone, makes it very difficult to spot, demonstrating excellent color blending."
+}

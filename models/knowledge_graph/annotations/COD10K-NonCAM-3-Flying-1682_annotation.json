@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird at feeder",
+  "background_description": "The immediate foreground shows a bright red plastic bird feeder platform. To the right, there's a translucent cylindrical container filled with light-brown and beige birdseed, slightly out of focus. The background behind the bird is a softly blurred gradient from dark grey/black on the upper left to a lighter, somewhat bluish-grey lower down, suggesting distant out-of-focus foliage or a shaded area.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage, consisting of a brown head and dark body with some iridescent dark blue/black feathers on the wing, is distinct against the bright red artificial bird feeder it is perched on. The bird stands out clearly due to the high color contrast with the feeder. While its natural coloring might offer some blending in a more natural environment (like among tree branches or shrubbery), in this specific scene, it is positioned against man-made objects and a blurred background that do not provide any effective concealment. Therefore, no camouflage is present."
+}

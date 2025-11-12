@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background directly surrounding the small dark bird in the foreground consists of a concrete or paved edge which is partially in shadow, bordered by vibrant green grass. The immediate substrate beneath and around the bird is dark earth or shadowed concrete, which is uneven and textured.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shadow hiding",
+  "explanation": "The small, dark-feathered bird in the foreground exhibits a moderate level of camouflage. Its dark plumage closely matches the shadowed, dark earth and concrete edge it is situated upon, allowing it to blend well with these darker tones. The low contrast between the bird and its immediate environment makes it less conspicuous. While its smooth feather texture differs from the rough ground, its small size helps to minimize this difference, allowing it to largely disappear into the shadows and dark substrate."
+}

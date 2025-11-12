@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a murky body of water, likely a pond or swamp, densely covered by a layer of small, light green floating plants (duckweed). Scattered throughout are taller blades of dark green grass or reeds, particularly on the left and top. Darker areas of the water indicate submerged vegetation, mud, or shadows, creating a complex and varied texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage through both color blending and pattern matching. Its skin features a mottled pattern of various shades of green, brown, and dark spots that perfectly mimic the fragmented appearance of the floating duckweed, submerged plant matter, and the darker patches of water. The irregular pattern on its back breaks up its outline, making it difficult to distinguish from the surrounding clutter. The colors align closely with the greens of the plants and the browns/blacks of the murky water and debris, resulting in a low contrast difference and high overall similarity to its environment."
+}

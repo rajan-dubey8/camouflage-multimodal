@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish on purple gorgonian",
+  "background_description": "The background is an underwater coral reef scene. It features a diverse rocky substrate covered in various types of hard corals, sponges, and algae. Prominent features include a large, vibrant purple sea fan (gorgonian coral), yellow encrusting corals, and numerous textured rocks. The overall palette includes muted greens, browns, and whites from the rocks and some corals, contrasted by the striking purple of the gorgonian and the yellow coral formations. The water is clear, revealing the detailed textures of the reef.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "A pipefish is visible clinging to the branches of the large purple gorgonian coral. Its elongated body shape, segmented appearance, and subtle striped pattern allow it to remarkably mimic the individual branches and polyps of the gorgonian, making it very difficult to distinguish from the coral itself. While its primary color is not purple like the main gorgonian, its muted brown and tan stripes blend effectively with the finer details and slightly varied coloration found within the coral's structure and the surrounding rocky reef, creating a low contrast and high texture similarity. This form of crypsis relies heavily on structural mimicry to avoid detection by predators."
+}

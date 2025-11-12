@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background is an underwater scene dominated by a dense growth of vibrant red and orange soft coral. The coral consists of numerous feathery, frilly polyps, with some areas showing lighter, almost white, underlying branches. The texture is intricate and highly irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The GhostPipefish demonstrates outstanding camouflage in this image. Its body shape is highly modified with numerous filamentous and spiky appendages that perfectly mimic the intricate, frilly polyps and branching structure of the surrounding red and orange soft coral. The fish's coloration, a mottled pattern of reds, oranges, and whites, precisely matches the vibrant hues of the coral. This combination of shape disruption, texture matching, and color blending makes it incredibly difficult to discern the organism from its environment, appearing as an integral part of the coral."
+}

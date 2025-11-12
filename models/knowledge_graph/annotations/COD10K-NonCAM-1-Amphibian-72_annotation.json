@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of a large, vibrant green lily pad or similar aquatic plant leaf, partially illuminated by sunlight and featuring distinct shadow areas. There's a hint of dark water or submerged vegetation in the upper left corner.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "A clearly visible frog with mottled brown and green skin is resting on a bright green lily pad. Despite some natural blending with the darker green tones of the leaf due to its own color variations and shadows, the frog's distinct shape, texture, and lighter brown stripes make it stand out against its environment. There is no active camouflage being employed."
+}

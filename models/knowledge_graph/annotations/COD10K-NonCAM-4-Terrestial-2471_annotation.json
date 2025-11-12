@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of an aquarium environment featuring bright green artificial plastic plants, some red and blue artificial coral-like decorations on the gravel substrate, light tan gravel at the bottom, and a dark, possibly textured, background panel on the left side behind a black aquarium filter/heater. The water is clear, reflecting some light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The goldfish exhibits a vibrant golden-orange coloration which stands out significantly against the background elements of the aquarium. The artificial green plants, tan gravel, and dark filter provide no matching colors or textures for the fish to blend in. Its bright uniform color creates a high contrast with its surroundings, making it highly visible and indicating a complete absence of camouflage in this environment."
+}

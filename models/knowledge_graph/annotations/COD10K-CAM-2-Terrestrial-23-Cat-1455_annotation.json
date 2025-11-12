@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a lower section of textured light grey stucco wall and an upper section of light beige brick wall. In front of these walls, there is a dense raspberry bush with numerous large, vibrant green leaves and several clusters of red and dark purple berries. A dark, flat rock is visible in the lower foreground, partially obscuring the cat.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The cat's tail, which is the only visible part of the organism, is a distinct bright orange with dark stripes. This coloration stands out significantly against the predominant green leaves of the raspberry bush and the light grey/beige of the background walls. There is a strong color contrast and no pattern matching with the environment, making the cat highly visible and therefore not camouflaged in this image."
+}

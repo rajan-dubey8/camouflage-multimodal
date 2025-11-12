@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sailfin Tang",
+  "background_description": "The background consists of blurred aquatic elements, predominantly vivid blue water on the left, transitioning to lighter blues and soft, unfocused orange and brown hues on the right, suggesting a coral reef or rocky environment in the distance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image features a vibrantly colored Sailfin Tang with prominent dark blue, white, and orange-brown stripes, and a bright yellow tail. Its distinct pattern and coloration stand out clearly against the blurred blue and muted background, indicating no camouflage is present."
+}

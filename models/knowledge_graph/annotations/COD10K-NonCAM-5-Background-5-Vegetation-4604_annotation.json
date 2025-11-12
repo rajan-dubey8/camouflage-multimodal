@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Swampy pond with duckweed and logs",
+  "background_description": "The image shows a murky swamp or pond surface, predominantly covered by a dense layer of bright green duckweed. Patches of dark water are visible between the duckweed. Several dark brown submerged logs and a prominent tree branch lie across the water. Along the main branch, small white fungi-like growths are visible. Larger green aquatic plant leaves and thin stems are also present, especially on the right side.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No visible organism (animal, insect, or fish) is present in the image. The scene depicts a natural aquatic environment composed of water, duckweed, logs, branches, and other plant matter. Therefore, camouflage assessment for an organism is not applicable."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background environment is an underwater scene dominated by large, undulating, wavy structures that appear to be a type of coral or anemone, primarily in shades of pale green and yellowish-brown. There are also darker, more textured rocky or coral formations further back, and a patch of light sandy substrate towards the bottom.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The Shrimp is distinctly visible against its environment and exhibits no effective camouflage in this image. While its main body is a translucent pale greenish-yellow, which somewhat matches the light green/yellow hue of the immediate background coral/anemone, it features a prominent, vibrant red stripe along its dorsal side and striking bright white antennae. These strong color elements create a very high contrast against the background, drawing immediate attention to the organism. The texture of the shrimp is relatively smooth, contrasting with the wavy and somewhat ridged texture of the surrounding coral-like structures. The overall effect is that the shrimp stands out rather than blending in."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "White wolf",
+  "background_description": "The background depicts a forest scene with blurred dark green foliage, brown tree trunks, and dappled sunlight creating shadows. There are visible patches of lighter green vegetation on the forest floor.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The white wolf is clearly visible and stands out against the dark, earthy tones of the forest background. Its light-colored fur provides very low color and texture similarity with the brown tree bark and green foliage, resulting in a high contrast difference. While white fur would offer excellent camouflage in a snowy environment, it offers no camouflage in this specific forest setting."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "Dark aquatic environment, likely an aquarium, with visible artificial green plants in the background and foreground. The water appears dark, and a bright light source is visible reflecting at the top, illuminating the fish. There are shadows indicating a dark substrate or other submerged elements.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a large, bright golden Goldfish with shimmering scales, very distinct against the dark background and green artificial plants. There is also a blurry Angelfish in the foreground. Neither fish exhibits any form of camouflage; they stand out prominently in their environment."
+}

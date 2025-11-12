@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Human",
+  "background_description": "The background consists of a natural outdoor environment with a focus on ground cover. The foreground and midground feature predominantly dry, light-brown grassy patches, interspersed with some greener blades and dried leaves on the ground. Behind the human, there is a dense line of vibrant green bushes and trees, with more sparse vegetation and a bright, slightly overcast sky visible further in the distance. The lighting is bright, casting some soft shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Other",
+  "explanation": "The human is highly camouflaged, almost disappearing into the environment. They are wearing a ghillie suit over a camouflage uniform. The ghillie suit provides excellent texture mimicry, perfectly blending with the dry grass and sparse ground vegetation through its fibrous, irregular material. The colors of the suit and uniform (tans, browns, and dull greens) closely match the surrounding dry grass, earth, and even the hints of green foliage, achieving high color similarity. Furthermore, the ghillie suit effectively breaks up the distinct human silhouette, disrupting its shape and making it very difficult to discern the human form. This comprehensive approach results in a very low contrast difference, rendering the individual extremely difficult to spot against the natural background."
+}

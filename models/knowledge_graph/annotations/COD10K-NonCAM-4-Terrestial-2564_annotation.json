@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists of light brown, dry, sandy soil on the ground, interspersed with several large, greyish-brown rocks and boulders. There are faint shadows of what appear to be branches cast on some of the rocks. The overall environment is arid and rocky with sparse vegetation.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebra's distinctive black and white stripes provide a high contrast against the light brown soil and grey rocks of the background. While zebra stripes are a form of disruptive coloration designed to break up the animal's outline or confuse predators in specific environments (like tall grass or among a moving herd), they do not blend effectively with the colors or textures of this particular rocky, open terrain. Therefore, the zebra is highly visible in this scene, and its natural camouflage is not effective here."
+}

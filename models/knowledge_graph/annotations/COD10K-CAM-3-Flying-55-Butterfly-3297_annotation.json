@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of the highly textured, fibrous bark of a tree. The bark is composed of long, vertical strips that appear to be peeling or shredding, creating deep crevices and raised areas. The colors range from light tan and pale brown to darker reddish-browns, with some greyish undertones in the more weathered sections.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly is exceptionally well-camouflaged against the tree bark. Its closed wings display a mottled light brown/tan color with subtle patterns that almost perfectly match the predominant hues and textures of the fibrous, peeling bark. The vertical lines and irregular patterns on its wings blend seamlessly with the natural striations and crevices of the bark. The butterfly's posture, holding its wings vertically and tightly, further enhances this effect by breaking up its typical butterfly shape, making it resemble a piece of the bark itself or a dry, dead leaf. The low contrast difference between the butterfly and its surroundings, combined with the high similarity in both color and texture, makes it very difficult to distinguish, achieving effective crypsis."
+}

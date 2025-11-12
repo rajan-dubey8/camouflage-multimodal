@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Egret",
+  "background_description": "The background consists of a clear, bright blue sky with very subtle, diffuse white clouds visible in the lower left portion. The bird is perched on a thick, gnarled, dark brown dead tree branch that shows signs of texture and age.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Egret is a brilliant white bird, and in this image, it is prominently displayed against a deep blue sky and a dark brown branch. Its bright white plumage creates a very high contrast against both the blue background and the darker branch, making it highly visible. There is no visual blending of colors or textures with its immediate environment, nor any disruptive patterns or mimicry evident. Egrets typically use their conspicuous white coloration for display or to attract mates, rather than for concealment in such an open setting."
+}

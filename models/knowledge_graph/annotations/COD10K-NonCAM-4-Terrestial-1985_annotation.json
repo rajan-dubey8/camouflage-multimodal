@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Waterbuck",
+  "background_description": "A uniformly blurred, vibrant green background, likely consisting of dense foliage or grass, indicating a lush natural environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The waterbuck's dark brown and grayish-brown fur provides a strong contrast against the bright, out-of-focus green background. Its coloration does not blend with the vibrant green foliage, and its texture is clearly distinct from the background. The animal is prominently visible and easily detectable in this scene, indicating a lack of effective camouflage against this specific environmental backdrop."
+}

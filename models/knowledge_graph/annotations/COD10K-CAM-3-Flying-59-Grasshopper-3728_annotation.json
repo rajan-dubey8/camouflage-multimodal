@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of a thick, dark brown branch or log with a rough, mottled texture. It features patches of lighter brown, reddish tones, and specks of greenish-white material, possibly lichen or moss. The area behind the branch is a blurred, very dark green/brown, suggesting foliage or shadow out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper demonstrates exceptional camouflage. Its body features a highly mottled pattern of dark browns, reddish-browns, and yellowish-green hues, which precisely match the colors and tones of the branch it is perched on, including the lichen-like speckles. The rough, textured exoskeleton of the grasshopper closely mimics the bark-like surface of the branch, making it visually integrate with its surroundings. The overall low contrast between the organism and its environment further obscures its outline, making it very difficult to spot. Additionally, its flattened, irregular shape on its back helps to disrupt its typical insect silhouette, making it appear more like a part of the branch itself rather than a distinct creature."
+}

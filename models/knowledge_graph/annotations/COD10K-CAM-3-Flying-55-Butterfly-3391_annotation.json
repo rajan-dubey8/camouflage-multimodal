@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a plant stem surrounded by small, oval, glossy dark green leaves. The background behind the immediate plant is blurred, showing soft tones of light grey-green and brownish-grey, suggesting distant foliage or an open sky.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly's wings display a mottled pattern of yellowish-green and off-white patches. This pattern is a form of disruptive coloration, aiming to break up the butterfly's outline and allow it to blend into environments with varied textures, such as lichen-covered surfaces or areas of dappled sunlight and shadow. While the yellowish-green tones offer some color blending with the green foliage, the surrounding leaves are a darker, more uniform green, and the prominent white patches create a high contrast against them. The texture of the fuzzy wings also differs significantly from the smooth, glossy leaves. Therefore, while the pattern itself is a clear camouflage mechanism (pattern matching and shape disruption), its effectiveness is only moderate in this specific environment, as the butterfly's distinct colors and high-contrast patches prevent it from being completely hidden against the dark green leaves."
+}

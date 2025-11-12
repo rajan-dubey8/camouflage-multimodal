@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Corals",
+  "background_description": "Clear blue-green ocean water, rocky substrate, and various other stony corals (brain corals, branching corals) in muted browns, greens, and grays, providing a diverse textured environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a vibrant underwater coral reef featuring various corals, including prominent bright red fan corals and other stony corals. Corals are organisms, hence entity_type='Organism'. However, the most visible corals, especially the red fan corals, stand out distinctly against the blue water and surrounding reef structures, showing no signs of camouflage. No other camouflaged organisms are clearly identifiable in the scene. The object_category 'Fish' is selected as the closest available aquatic animal category in the schema, despite corals being invertebrates."
+}

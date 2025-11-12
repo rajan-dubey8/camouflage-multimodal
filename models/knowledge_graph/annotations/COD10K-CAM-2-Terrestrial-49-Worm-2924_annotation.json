@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of a dense network of small, elongated green leaves arranged on slender, greenish-brown stems. The foliage is vibrant green in places, with darker shadows suggesting depth and overlapping leaves. Some leaves show minor imperfections or light filamentous debris. The overall environment is leafy and organic.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The 'Worm' (a caterpillar) exhibits effective camouflage primarily through color blending. Its body is a vibrant green, almost identical to the dominant color of the surrounding leaves, making it very difficult to distinguish at a glance. The fine white dots on its body create a subtle texture that, while not perfectly matching the smooth leaves, doesn't drastically break the overall visual flow. There are some lighter yellow-green markings along its side and head, which create a slight contrast, but these colors are also present as natural variations within the plant, such as lighter parts of stems or younger leaves. The overall low contrast between the organism's body and the foliage allows it to blend seamlessly with its environment, making it challenging for predators to spot."
+}

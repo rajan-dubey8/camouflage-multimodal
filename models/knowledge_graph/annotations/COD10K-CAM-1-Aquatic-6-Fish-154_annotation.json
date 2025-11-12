@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a rocky or coral seafloor covered with a variety of marine flora, including dark reddish-brown and olive-green algae, as well as patches of vibrant, bright green, string-like seagrass. The water above is a clear turquoise-blue, illuminated by sunlight from above.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage against its immediate environment. Its skin is covered in a complex, mottled pattern of dark browns, blacks, olive greens, and lighter yellowish-browns, which closely matches the colors and variegated textures of the rocky substrate and the various algae growing on it. The intricate, irregular splotches and patterns on its body effectively break up its outline, making it difficult to distinguish from the similarly textured and irregularly shaped background elements. The fish's rough, lumpy texture further enhances its resemblance to the encrusted rock and marine growth, resulting in low color and texture contrast with its surroundings. While bright green seagrass is present, the fish itself is positioned primarily against the darker, more complex rocky seafloor, achieving significant blending."
+}

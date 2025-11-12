@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of several white flowers with ruffled petals, prominent dark red/maroon blotches at the base of the petals, and bright yellow-orange centers. Green leaves are visible in the surrounding foliage, some in soft focus, others sharper. The lighting is bright, casting some subtle shadows on the petals.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider is exquisitely camouflaged against the white petal of the flower. Its body is a bright, creamy white, almost perfectly matching the color and luminosity of the flower petal it is resting on. The spider's relatively smooth texture also blends well with the delicate, slightly creased surface of the petal, making it very difficult to spot at first glance. The low contrast between the spider and its immediate background allows it to effectively disappear into the floral environment, a clear example of color blending for predatory purposes or defense."
+}

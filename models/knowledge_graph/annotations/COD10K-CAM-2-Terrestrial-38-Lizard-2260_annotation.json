@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dense, uneven layer of dry wood chips, bark pieces, and small, irregularly shaped stones. The colors are predominantly various shades of grey, brown, and desaturated reddish-brown, creating a chaotic, fragmented texture across the entire surface. Some pieces show lighter weathered sections, while others are darker and rough.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard demonstrates excellent camouflage in this image. Its dorsal coloration, a complex mosaic of dark greys, browns, and lighter specks, precisely matches the varied hues and tones of the surrounding wood chips and stones. The rough, scaled texture of its skin mimics the irregular, fragmented surfaces of the bark pieces, further enhancing its visual integration. The intricate patterns on its back effectively break up its body outline (shape disruption), making it difficult to differentiate from the jumbled background debris. The overall low contrast between the lizard and its environment means it blends seamlessly, making it very challenging for a predator to detect."
+}

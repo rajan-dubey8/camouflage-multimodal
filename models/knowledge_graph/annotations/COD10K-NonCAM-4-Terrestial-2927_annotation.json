@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown Bear",
+  "background_description": "The background consists of blurred natural elements, primarily dark green mosses and darker brown/grey rocks or earth. It appears to be a forested or rocky, natural environment, with various organic textures and muted earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The brown bear's fur exhibits various shades of brown, which blend effectively with the muted greens and darker browns/greys of the natural background, characteristic of a forest or rocky environment. The overall coloration and natural, somewhat shaggy texture of the fur allow for good color blending with the earthy and mossy tones present, reducing the bear's contrast against its surroundings. This is a common form of camouflage for many large mammals, helping them to remain less conspicuous in their habitat."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "River Otter",
+  "background_description": "The background consists of dark, wet rocks, many of which are covered in patches of green moss and some foliage. There are also some smoother, rounder stones visible. The overall color palette of the environment is dark greens, greys, and browns, indicative of a damp, earthy, possibly riverside or forest floor setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The river otter exhibits effective camouflage primarily through color blending. Its dark brown and grey wet fur closely matches the dark, wet rocks, mossy patches, and earthy tones of its environment. The low contrast between the otter's body and its immediate surroundings, coupled with the similar dark coloration, helps it blend into the shadowed, damp habitat. While not perfectly invisible, its natural coloration significantly reduces its visibility against this type of background, making it harder to spot by predators or prey, which is characteristic of color blending camouflage."
+}

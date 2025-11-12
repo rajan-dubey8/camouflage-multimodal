@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of several dried, crumpled leaves in various shades of brown and dark reddish-brown, some showing intricate textures and veins. Behind these leaves, there is a soft, out-of-focus green blur, suggesting distant healthy foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The butterfly exhibits excellent camouflage, blending almost seamlessly with the surrounding dried leaves. Its closed wings display a mottled brown coloration with patterns that closely resemble the veins and textures of dead foliage. The ragged edges of its wings further enhance the illusion of a withered leaf, contributing to shape disruption. While there is a distinct eyespot on one wing, the overall effect is one of remarkable mimicry, making it very difficult to distinguish the butterfly from its environment. The color, texture, and overall form match the background exceptionally well, resulting in low contrast difference against the immediate surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dry, arid landscape with sparse, tall light brown grass, numerous bare, thorny branches, and a rocky, sandy terrain. The ground is covered with various sizes of brown and reddish-brown stones and pebbles. The overall color palette is dominated by muted earthy tones, including light browns, tans, ochres, and reddish-browns, suggesting a dry scrubland or savanna environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Tiger exhibits camouflage primarily through its distinctive black stripes on an orange-tan base coat. The orange-tan fur provides a moderate level of color blending with the dry, light brown grasses and the sandy, rocky ground. The most significant camouflage mechanism is 'Pattern matching' via disruptive coloration; the vertical black stripes help to break up the tiger's solid outline, mimicking the vertical patterns of tall grass stalks and shadows cast by branches in its natural habitat. While the tiger is quite visible in this specific, somewhat open and brightly lit rocky environment, its markings are inherently designed to provide concealment. The brightness of its orange coat and the distinct white markings create some contrast against the muted background, preventing a perfect blend, but the striped pattern is still effective at disrupting its form, especially if it were to remain still or be partially obscured by vegetation."
+}

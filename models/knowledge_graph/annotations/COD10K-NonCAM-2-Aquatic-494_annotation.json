@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Grouper",
+  "background_description": "The background consists of deep blue-green open water, appearing blurry and indistinct. There are no specific environmental features visible such as coral reefs, sandy seabed, or rocks, indicating the fish is in open water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a fish with bright orange and tan mottled patterns, which stand out significantly against the uniform blue-green water background. Its coloration and distinct shape make it highly visible, indicating a complete absence of camouflage."
+}

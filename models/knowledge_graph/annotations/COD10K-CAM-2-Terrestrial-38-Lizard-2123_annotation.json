@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of dry, rocky ground with varying sizes of light brown/beige rocks and sandy patches. Sparse, low-lying vegetation includes both vibrant green, leafy plants with small purple flowers and extensive areas of dry, gnarled, dark brown/black root-like structures and dried plant debris. Shadows are present, creating areas of darker tones and complex textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The lizard exhibits effective camouflage by blending its dark, mottled gray-brown and black coloration with the various elements of its rocky, sandy, and vegetated environment. Its dorsal pattern and color closely mimic the dark shadows cast by rocks, the gnarled dried roots and plant debris, and the darker crevices of the rocks. The rough, scaly texture of its skin also closely matches the coarse textures of the rocks and dried vegetation. While it is perched on a green plant, its dominant dark tones and irregular patterning help to disrupt its outline and merge with the overall visual noise of the complex background, making it difficult to discern at first glance without active searching."
+}

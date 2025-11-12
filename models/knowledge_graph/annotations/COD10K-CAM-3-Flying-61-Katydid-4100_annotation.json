@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a light green plant with a prominent central stalk from which multiple thinner stalks radiate, topped with clusters of small, spherical bright yellow flowers or buds, and star-like white structures. Behind this plant, the environment is a soft, out-of-focus medium green, suggesting dense foliage or grass.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Katydid exhibits strong camouflage primarily through color blending. Its vibrant green body, including its wings and long legs, perfectly matches the hue of the green stems of the plant it is resting on, as well as the blurry green foliage in the background. This high degree of color similarity makes the insect blend seamlessly into its environment, making it difficult to spot at first glance. While its shape is distinct, the lack of significant color or luminance contrast with the surrounding vegetation is highly effective in concealment."
+}

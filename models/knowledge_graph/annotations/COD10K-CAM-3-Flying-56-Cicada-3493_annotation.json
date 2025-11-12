@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists primarily of a tree trunk with rough, textured bark. The bark displays a variety of colors including light green patches, dark brown areas, and lighter greyish-brown streaks and grooves. Some areas appear to have moss or lichen growing on them. To the right, the background is a soft-focus, blurred expanse of bright green, indicative of distant foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The two cicadas in the image demonstrate effective camouflage against the tree bark. Their body colors, particularly the greens and mottled browns, closely match the hues of the lichen, moss, and natural woody tones present on the bark. The textures on their exoskeletons and the intricate veining on their translucent wings contribute significantly to pattern matching with the rough, irregular surface of the bark. This visual similarity in both color and texture helps to disrupt their outlines and reduce their contrast against the background, making them blend in remarkably well and challenging to spot without close inspection."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clark's Anemonefish",
+  "background_description": "The background features a vibrant coral reef environment. The most prominent feature is a large, light orange-yellow anemone with numerous delicate, finger-like tentacles, where the anemonefish reside. Behind the anemone, there are various hard corals, including branching coral structures, and patches of green algae or soft coral, all illuminated by natural light filtering through the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "Two Clark's Anemonefish (Amphiprion clarkii) are clearly visible, characterized by their dark bodies and distinct white vertical stripes. They are resting within the tentacles of a light orange-yellow anemone. Their contrasting colors and smooth texture make them stand out significantly against the textured background of the anemone and the surrounding coral reef, indicating a complete absence of camouflage."
+}

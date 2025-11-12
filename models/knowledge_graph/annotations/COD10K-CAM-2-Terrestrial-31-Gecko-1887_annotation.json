@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The gecko is resting on a sturdy, horizontal tree branch. The branch itself has rough, textured bark with patches of light greyish-white lichen and darker brown, exposed wood. The background is a heavily blurred, out-of-focus forest environment, predominantly dark green and grey, with bright, diffuse bokeh lights filtering through the canopy, suggesting dappled light conditions.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The gecko demonstrates exceptional camouflage in this image. Its skin coloration perfectly matches the greyish-white lichen and dark brown bark of the tree branch, making it almost indistinguishable from its surroundings. The gecko's highly textured and bumpy skin flawlessly mimics the rough texture and irregular patterns of the bark and lichen. Furthermore, its body shape is irregular and blends into the natural contours of the branch, achieving excellent shape disruption. The combination of color matching, pattern replication, and outline distortion results in extremely low contrast between the gecko and its environment, rendering it virtually invisible to a casual observer. It seamlessly integrates with the branch, appearing as an extension of the natural wood and growth."
+}

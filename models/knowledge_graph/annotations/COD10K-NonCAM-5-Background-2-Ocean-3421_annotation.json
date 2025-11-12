@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef fish",
+  "background_description": "The background is an intricate underwater coral reef ecosystem, characterized by a diverse array of hard and soft corals. Colors include shades of deep blue from the water, vibrant pinks, purples, browns, light beiges, and hints of green and yellow from the various coral species. Textures are highly varied, ranging from the smooth surfaces of some rocks, to the delicate, branching structures of hard corals, the ruffled and undulating forms of soft corals, and granular, bumpy textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features a vibrant coral reef, where at least two small fish are expertly camouflaged. One fish, visible above the green-yellow branching coral in the lower-center (and clearly in the bottom-right crop), exhibits horizontal stripes that act as a disruptive pattern, breaking up its body outline and blending it seamlessly with the complex, varied textures and patterns of the surrounding coral branches. Another fish, likely a goby, is visible in the lower-right area (also in the bottom-right crop) with an eye discernible; its mottled coloration and texture perfectly match the sandy, rocky substrate and detritus. Both fish demonstrate high color and texture similarity with their immediate surroundings and maintain a low contrast difference, making them extremely difficult to spot against the busy reef environment. The striped pattern on one fish is a clear example of disruptive coloration, while the other's overall blend relies on both color and texture matching to achieve a highly effective concealment."
+}

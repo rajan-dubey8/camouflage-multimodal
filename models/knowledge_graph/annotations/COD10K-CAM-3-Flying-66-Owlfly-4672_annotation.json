@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Owlfly",
+  "background_description": "The background consists of tree bark, heavily covered with light greenish-gray and white lichen. The bark itself is rough, cracked, and irregular, with various shades of gray, brown, and white. There are deep crevices and textured surfaces that contribute to a heterogeneous visual environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Owlfly demonstrates exceptional camouflage in this image. Its entire body is covered in a granular, light greenish-gray substance that perfectly mimics the lichen growing on the tree bark. The organism's irregular, flattened shape blends seamlessly with the rough and broken texture of the bark, disrupting its outline and making it very difficult to distinguish from its surroundings. Its coloration, including subtle darker speckles, directly matches the various shades and patterns of the lichen and bark. The only elements that slightly stand out are the tips of its dark, claw-like appendages, but even these are integrated into the overall visual clutter of the bark texture. This combination of color blending, pattern matching, and shape disruption makes it nearly invisible."
+}

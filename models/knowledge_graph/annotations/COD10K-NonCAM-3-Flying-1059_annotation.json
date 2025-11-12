@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Long-legged fly",
+  "background_description": "The background is a uniformly lit, light yellowish-white surface with a slightly rough, granular texture, possibly a wall or a natural rock surface. It lacks distinct patterns or features that the insect could blend into.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The long-legged fly in the image is not camouflaged against its background. Its dark, metallic body, black compound eyes, and patterned wings create a high contrast against the uniformly light yellowish-white, textured surface it is resting on. While its slender, brownish-orange legs have some slight color similarity to the background, the overall body shape, coloration, and distinct patterns on the wings do not blend with the plain, rough texture of the surface. There is a clear visual separation between the insect and its environment, indicating a lack of effective camouflage for this particular setting."
+}

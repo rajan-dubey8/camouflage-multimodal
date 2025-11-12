@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The image displays an underwater scene dominated by a dense formation of branching corals. The coral structures feature various hues of yellow-green, light brown, and pale purple/blue tips, creating a highly textured and intricate submarine landscape. Sunlight penetrates the water, casting some shadows and highlighting the coral formations.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image showcases an underwater coral reef. While corals are living organisms, they are sessile and form the primary structural environment in this context, rather than being a distinct, mobile organism attempting to camouflage within a separate background. The scene itself is classified as an 'Environment' for the purpose of camouflage detection, and no active camouflage by a separate subject is present or detectable."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Grizzly bear",
+  "background_description": "The background consists of a shallow body of water, likely a river or stream, with a muddy bank visible beyond. The water is dark and reflective, with subtle ripples. Behind the water and bank, there is dense, tall, dry vegetation, appearing as reeds or grasses in muted shades of yellow, brown, and dull green, suggesting late autumn or early winter. A few small rocks are visible in the shallow water.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The grizzly bear exhibits moderate camouflage primarily through color blending. Its dark brown fur, which appears somewhat wet and matted, matches the muted, earthy tones of the muddy riverbank and the dark, reflective water. While the bear's solid form and texture are still discernible, its coloration helps it blend with the subdued natural palette of the environment, particularly against the shadowed parts of the background and the dry vegetation. The contrast difference is medium as the bear's silhouette is still clear, but its colors do not strongly stand out against its surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef aquarium",
+  "background_description": "The image features a diverse underwater scene, likely within an aquarium, characterized by a dark blue to black water background. The foreground and midground are dominated by various types of corals and marine invertebrates. Colors include bright yellow, neon green, light purple, pinkish-brown, red-orange, and off-white. Textures vary greatly, showcasing branching structures, feathery polyps, convoluted brain-like patterns, and bulbous forms.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a vibrant coral reef composed of numerous visible marine invertebrates (corals). While corals are living organisms, no additional animal (such as a fish, crab, or other mobile creature) is discernible as being camouflaged or hidden within the coral structures. The corals themselves are the main subjects and are not attempting to blend deceptively with a non-living background; rather, they form the prominent and colorful elements of the reef environment. Therefore, no camouflage is detected for any hidden organism."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a large, rough, dark grey rock face, primarily in shadow, which occupies the upper left and center-right. The foreground features patches of vibrant green grass intermingled with dry brown earth and sparse dry vegetation.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion possesses natural camouflage through its tawny, golden-brown fur which is inherently designed for color blending with dry savannah grasses and sandy terrains. This provides a medium color similarity to the dry earth and some lighter patches of the environment. However, in this specific image, the lion is brightly illuminated by direct sunlight, creating a strong visual contrast against the dark, heavily shadowed rock face directly behind it. This high contrast difference, combined with the distinct textural differences between its fur and the rough rock/fine grass, makes the lion relatively conspicuous rather than blending seamlessly. While the camouflage mechanism (color blending) is present due to its natural coloration, its effectiveness is reduced in this particular scene due to the strong lighting conditions and varied background elements."
+}

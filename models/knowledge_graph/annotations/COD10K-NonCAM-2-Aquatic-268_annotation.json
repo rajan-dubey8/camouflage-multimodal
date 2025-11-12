@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Powder Blue Tang",
+  "background_description": "The background consists of clear blue aquatic environment, likely an aquarium, with visible water surface reflections. There are various corals at the bottom, appearing as branching, stony structures in shades of beige and light brown, mixed with some green algae. A dark, possibly rock or coral, structure is visible in the upper right corner.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Powder Blue Tang (Acanthurus leucosternon) with its vibrant blue body, bright yellow dorsal fin, and distinct white and black tail. Its striking coloration strongly contrasts with the surrounding corals and water, indicating no camouflage."
+}

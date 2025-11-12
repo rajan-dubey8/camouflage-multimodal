@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron in flight",
+  "background_description": "The background consists of a uniformly blurred, dense mass of green foliage, likely trees or shrubs. The colors are predominantly dark to medium green, indicating a natural environment such as a forest edge or wetlands vegetation, rendered with a soft bokeh effect due to a shallow depth of field.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a Great Blue Heron in flight against a blurred green background. The bird's prominent grey-blue plumage stands out significantly against the dark green foliage, resulting in a high contrast difference. While Great Blue Herons possess cryptic coloration (e.g., countershading and color blending with water or sky when still) to aid in hunting or evading predators in their typical habitats, in this specific scene and activity (flying against a dense green backdrop), its coloration does not provide effective concealment. There is low color and texture similarity between the bird and the background, making it highly visible rather than camouflaged."
+}

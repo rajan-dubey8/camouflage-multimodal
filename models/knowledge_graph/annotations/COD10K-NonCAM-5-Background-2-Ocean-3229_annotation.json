@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface and cloudy sky",
+  "background_description": "The image presents a vast expanse of turquoise ocean water in the foreground and midground, characterized by subtle ripples and gentle waves on its surface, indicating calm conditions. The water appears clear and shallow in parts, with light reflections visible. Above the distinct horizon line, a dramatic and heavy dark gray to blue-gray cloudy sky dominates, suggesting overcast weather or an approaching storm. The overall scene is serene but with a hint of looming weather.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an environmental scene consisting solely of the ocean surface and an overcast sky. There are no visible animals, insects, fish, or any other organisms present in the frame. As such, there is no subject to evaluate for camouflage. Consequently, camouflage is not present, and related metrics are set to default 'none' or '0.0' values as per the rules for images without visible organisms."
+}

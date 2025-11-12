@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background consists of a field of green grass, largely out of focus, creating a soft bokeh effect. The colors range from light to medium green, with some darker shadows and subtle hints of dried grass or earth tones near the base. A few small, indistinct yellow specks might be tiny flowers.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit exhibits effective camouflage through color blending. Its mottled brown and grey fur closely matches the natural earthy tones and dried vegetation often found within green grassy environments. The varied texture of its fur also helps it blend with the dense, irregular blades of grass, further obscuring its outline. The low contrast between the rabbit's body and its surroundings makes it difficult to distinguish, especially with the added concealment of the tall grass partially covering its body. This combination of color and texture similarity, along with reduced contrast, allows the rabbit to blend seamlessly into its natural habitat, aiding in predator avoidance."
+}

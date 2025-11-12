@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with cumulus clouds",
+  "background_description": "The image features a clear, bright blue sky as the primary background. Scattered across the sky are numerous white cumulus clouds of varying sizes and densities, ranging from small, wispy patches to larger, fluffier formations. The clouds are predominantly white with some soft gray undertones where shadows are cast, indicating their three-dimensional nature. The overall scene is bright and airy.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays an environmental scene consisting solely of a blue sky and white clouds. There are no animals, insects, fish, or any other organisms visible within the frame. As no organism is present, there is no subject to exhibit camouflage, hence camouflage is not present and cannot be assessed."
+}

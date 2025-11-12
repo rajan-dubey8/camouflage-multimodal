@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Fossilized sedimentary rock",
+  "background_description": "The image displays a close-up view of a sedimentary rock surface. The primary matrix is a yellowish-brown, fine-grained material, appearing somewhat sandy or muddy in texture. Embedded within this matrix are numerous grey to off-white, shell-like structures of varying sizes and shapes, which are identifiable as fossils. Some of these fossils show clear segmentation or ripple patterns, suggesting ancient marine organisms. Darker specks and patches are distributed across the surface, possibly mineral deposits, organic matter, or debris. The overall texture is rough and uneven. On the far left, blurry grey, angular rock fragments are visible, suggesting a larger rocky environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a geological formation, specifically a piece of sedimentary rock containing fossils. Fossils are the preserved remains or traces of organisms from a past geological age, not living organisms. Therefore, there is no living animal, insect, or fish present in the image that could exhibit camouflage. As no organism is visible, camouflage is not applicable, and the relevant camouflage attributes are set to 'none' or '0.0' according to the rules."
+}

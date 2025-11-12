@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Soft coral polyps",
+  "background_description": "The background consists of out-of-focus, blurry mass of similar soft coral structures, with predominant blueish ambient light and hints of orange-brown and pink hues, characteristic of an underwater reef environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The soft coral polyps exhibit camouflage primarily through color blending and textural similarity, making them appear as an integral part of the surrounding reef environment. Their orange-brown stalks and white, feathery tips blend seamlessly with the ambient underwater hues and the blurred backdrop of similar coral structures. The dense, intricate texture of the polyps also contributes to breaking up any distinct outlines, aiding in their integration into the complex reef ecosystem and making them less conspicuous within their natural habitat."
+}

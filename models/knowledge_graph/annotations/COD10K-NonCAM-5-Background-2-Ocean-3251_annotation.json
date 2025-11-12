@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Parrotfish",
+  "background_description": "The background consists of a diverse coral reef, featuring a mixture of stony corals and branching corals with textures ranging from lumpy and irregular to more defined branches. Colors include shades of dark brown, green, beige, and prominent patches of pink, purple, and reddish-brown corals, all under natural underwater lighting conditions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The parrotfish is clearly visible against the coral reef background. Its vibrant blue and green coloration, particularly the iridescent quality, creates a high visual contrast with the generally more muted or textured tones of the surrounding corals. There is low color and texture similarity between the fish and its immediate environment, indicating no apparent camouflage strategy in this specific context. The fish's distinct shape and bright colors make it stand out."
+}

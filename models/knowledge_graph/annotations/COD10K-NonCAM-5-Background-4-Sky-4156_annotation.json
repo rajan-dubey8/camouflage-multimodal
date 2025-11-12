@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban sky with bare trees and building",
+  "background_description": "The image displays an urban sky scene during either dusk or dawn. The sky features a gradient transitioning from a pale blue-grey at the top to a warm, soft peach and orange hue closer to the horizon. Scattered, diffused clouds in shades of grey and subtle pink are visible. In the mid-ground, a prominent row of bare deciduous trees with dark, intricate branch patterns forms a strong silhouette against the brighter sky. To the right, the top section of a modern grey building with a structured rooftop is visible. A small airplane is faintly discernable in the upper part of the sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an environmental scene consisting of an urban sky, bare trees, a building, and a distant airplane. There are no visible animals, insects, or fish, nor any other type of organism present in the image. Therefore, there is no entity for which camouflage could be assessed, and thus no camouflage is present."
+}

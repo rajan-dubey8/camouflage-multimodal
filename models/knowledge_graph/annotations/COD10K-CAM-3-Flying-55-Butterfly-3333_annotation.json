@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a blurred field of dried yellowish-brown grasses and some soft green vegetation in the distance. The butterfly is perched on a dried plant stem with several dark, spherical, spiky seed heads. The overall lighting is somewhat bright, causing parts of the background to appear hazy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.2",
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The butterfly, with its prominent black and yellow/cream patterns, stands out distinctly against the muted, blurred yellowish-brown and green background. While its lighter wing sections might share some color tones with the dried grasses, the stark black markings create a very high contrast, making the butterfly highly conspicuous. Its sharp, defined shape and bold patterns do not blend with the soft, indistinct textures and colors of the environment or the dark, spiky seed heads it is resting on. There is no evidence of color blending, pattern matching, or other camouflage techniques to help it merge with this specific background."
+}

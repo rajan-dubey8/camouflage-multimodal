@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The environment is an underwater scene, likely a shallow seabed or riverbed. It primarily consists of coarse, light brown sandy substrate and several large, irregular rocks. The rocks are covered in fine sediment, some darker rough textures, and scattered small patches of green aquatic vegetation. The lighting is warm and somewhat dim, creating soft shadows. A blurred reddish-pink object, possibly a starfish or another rock with growth, is visible on the right side.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "Both fish in the image demonstrate excellent camouflage. Their bodies are mottled with shades of brown, tan, and gray, which perfectly match the granular sandy bottom and the textured rocks. The foreground fish's speckled pattern blends seamlessly with the sandy substrate. The background fish has prominent branched appendages on its head that mimic the detritus or small plant growth often found on rocks, effectively disrupting its outline and making it resemble part of the environment rather than a distinct organism. Their overall coloration, patterns, and textures are highly similar to the background, resulting in low contrast difference and making them very difficult to discern from their surroundings. This combination of color blending, pattern matching, and shape disruption makes them nearly invisible in their natural habitat."
+}

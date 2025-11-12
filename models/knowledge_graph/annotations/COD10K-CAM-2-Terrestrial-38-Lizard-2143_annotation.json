@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is perched on a large, fallen, weathered wooden log or branch, which is light brown to greyish-tan with deep grooves, cracks, and varied textures. The background consists of a dense forest with numerous tall, slender tree trunks, appearing blurred and ranging in color from dark brown to grey, suggesting a woodland or bushland environment. Some muted green foliage is visible on the forest floor in the distance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage by perfectly blending with the fallen log it is resting on. Its scaly skin features mottled patterns of browns, greys, and tans that precisely match the color palette of the weathered wood. Furthermore, the rough, textured surface of its scales mirrors the coarse, cracked texture of the log, making its form difficult to distinguish from its immediate environment. The low contrast difference between the lizard and the log further enhances its concealment, allowing it to become almost invisible against the natural backdrop."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The organism is perched on a large, textured tree branch or trunk. The background features more tree branches, some in sharp focus and others blurred in the foreground and background, creating visual clutter. A clear, light blue sky is visible in the upper part of the image. The bird appears to be sitting within a nest constructed from dry twigs.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Frogmouth exhibits exceptional camouflage in this image. Its plumage is a perfect match for the tree bark in terms of both color (mottled grey and brown tones) and pattern, mimicking the rough, ridged texture of the wood. The bird's posture, combined with the surrounding network of branches (some blurred in the foreground), effectively disrupts its outline and prevents it from standing out. The low contrast between the bird and its environment, particularly the tree branch it's resting on and the twig nest, makes it incredibly difficult to spot, exemplifying highly effective crypsis. The overall effect is that the bird blends seamlessly into its arboreal surroundings, appearing almost indistinguishable from the tree itself."
+}

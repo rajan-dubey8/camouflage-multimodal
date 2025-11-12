@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach with ocean waves",
+  "background_description": "The foreground displays light brown to tan colored sand, which is finely textured with subtle variations in shade and some scattered darker specks. In the midground, gentle turquoise-blue ocean waves meet the shore, creating a thin line of white foam as they break. The background is dominated by clear, calm turquoise-blue ocean water with soft surface ripples, reflecting the sunlight.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural environment consisting of a sandy beach and the ocean. There are no visible organisms (animals, insects, fish, etc.) present within the frame. Since no organism is detected, the concept of camouflage does not apply to this scene."
+}

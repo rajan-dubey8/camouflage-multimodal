@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a sloping earthen bank, primarily composed of dry, clumpy soil with visible roots and small debris. Patches of sparse green foliage and small plants are scattered across the bank. A large fallen log runs horizontally across the upper part of the image. The area is under dappled sunlight, creating varying degrees of illumination and shadow, which adds to the textural complexity.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage against the dirt bank. Its closed wings display a mottled pattern of browns, tans, and greys, which almost perfectly matches the color and tone of the dry, sunlit soil it is resting upon. The irregular patterns and subtle 'eyespots' on its wings effectively mimic the texture of small clumps of dirt, pebbles, and organic debris on the ground, disrupting its outline and allowing it to blend seamlessly. The contrast difference between the butterfly and its immediate surroundings is very low, making it difficult to distinguish from the background at first glance. This combination of color blending and pattern matching creates a highly effective concealment."
+}

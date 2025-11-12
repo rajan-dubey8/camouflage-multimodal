@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rippled sand texture",
+  "background_description": "The image displays a close-up of fine-grained sand, likely a tidal flat or beach, intricately sculpted into a series of parallel ripples or waves. Strong directional lighting casts distinct shadows, enhancing the three-dimensional texture and creating alternating bands of bright, light-brownish sand and dark, shadowed troughs. The overall color palette is earthy, dominated by various shades of brown and gray.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environment, specifically a rippled sandy surface. There is no visible organism (animal, insect, or fish) present within the frame. Therefore, there is no camouflage to detect, and all camouflage-related metrics are marked as 'None' or '0.0' as per the established rules for images without an organism."
+}

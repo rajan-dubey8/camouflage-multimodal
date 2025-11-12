@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense layer of dried autumn leaves in various shades of brown, ranging from reddish-brown to a lighter tan. There are also several small twigs and bits of organic debris scattered amongst the leaves, creating a textured and somewhat mottled ground cover. Some areas show darker shadows or patches of earth beneath the leaves.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The butterfly exhibits excellent camouflage through its striking resemblance to a dried leaf. Its closed wings are an almost perfect match in color, texture, and pattern to the surrounding leaf litter. The various shades of brown on its wings, along with the distinct vein-like patterns and slightly rough texture, effectively mimic the appearance of decaying foliage. This high degree of color and texture similarity, combined with the very low contrast against the background, makes the butterfly exceptionally difficult to distinguish from its natural environment, essentially appearing as another piece of leaf litter. This is a clear case of mimicry."
+}

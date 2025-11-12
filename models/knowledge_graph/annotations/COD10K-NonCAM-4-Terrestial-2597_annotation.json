@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bobcat",
+  "background_description": "The background consists of an open field covered predominantly with dry, light brown to tan grass, which appears somewhat sparse in places. On the right side, there is a small, low pile of natural rocks and reddish-brown bricks, partially obscured by the surrounding dry vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bobcat exhibits effective camouflage through color blending. Its fur has a grayish-brown base with tawny undertones and dark spots/streaks, which closely matches the dry, yellowish-brown colors of the surrounding grass. While the physical texture of its fur differs from the linear texture of the grass, the varied patterns on its coat also contribute to breaking up its silhouette (disruptive pattern), making it less distinct against the natural background. The overall color similarity is high, allowing the bobcat to blend well into its habitat, reducing its visibility to both prey and predators, although it is still clearly discernible upon close inspection."
+}

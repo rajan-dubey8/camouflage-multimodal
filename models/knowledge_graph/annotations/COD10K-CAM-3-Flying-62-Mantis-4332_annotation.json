@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is positioned on a vibrant green plant stem adorned with several small, intricate purple flowers and small green leaves/bracts. The background is a soft, out-of-focus blur of varying shades of green and yellowish-green, indicative of dense foliage or distant vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Mimicry",
+  "explanation": "The mantis exhibits excellent camouflage, primarily achieved through superior color blending and mimicry. Its vivid green body, including its wings and legs, perfectly matches the hue of the plant stem, the surrounding green leaves, and the blurred green background, resulting in very low color contrast. Furthermore, its elongated and slender body shape, particularly how its wings are folded, effectively mimics the form of a leaf or a new shoot of the plant. Its posture, clinging vertically along the stem, further enhances this illusion, making it incredibly difficult to distinguish the mantis from its botanical environment upon first glance."
+}

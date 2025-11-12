@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The grasshopper is resting on a large, rough rock surface that is predominantly white and grey, extensively covered with various patches of pale green and yellowish-grey lichen. The background behind the rock is blurred, showing hints of autumnal foliage with green, orange, and brown hues.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage against the lichen-covered rock. Its mottled brown, grey, and black coloration closely matches the varied hues of the rock and the pale green/yellowish-grey lichen patches. Furthermore, the textured exoskeleton of the grasshopper with its ridges and patterns mimics the rough, irregular surface of the rock and the granular texture of the lichen, allowing it to blend seamlessly. The low contrast between the organism and its immediate surroundings, coupled with the pattern matching, effectively disrupts its silhouette and makes it very difficult to spot at first glance."
+}

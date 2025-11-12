@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Stonechat bird",
+  "background_description": "The background is highly blurred (bokeh effect), showing soft, diffused tones of light brown, beige, and grayish-tan, characteristic of dry vegetation or sandy/dirt ground. The bird is perched on a thin, dry, light-colored branch that appears to be part of the muted environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Stonechat bird displays prominent and contrasting coloration, featuring a distinct black head, a white patch on the neck/wing, and a vibrant reddish-orange breast and flanks. These striking colors stand out significantly against the soft, blurred, light-colored background and the muted tones of the dry branch it is perched on. There is no significant color blending or disruptive patterning that would help the bird conceal itself in this specific environment. The bird's bright plumage, especially the orange, creates a high contrast, making it easily visible rather than camouflaged."
+}

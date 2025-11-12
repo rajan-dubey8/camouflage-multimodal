@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The spider is situated on a vibrant yellow flower with numerous slender petals radiating from a densely textured yellow-orange central disc. The background behind the flower is out of focus, showing blurred green foliage and darker, indistinct shapes below.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage by perfectly matching the bright yellow color of the flower petals it is resting on. Its body and legs are almost indistinguishable in hue from the surrounding petals, making it very difficult to spot at first glance. The smooth texture of its exoskeleton also blends reasonably well with the petal surface. This effective color blending significantly reduces contrast and allows the spider to appear as an integral part of the flower, likely for ambushing prey or avoiding predators."
+}

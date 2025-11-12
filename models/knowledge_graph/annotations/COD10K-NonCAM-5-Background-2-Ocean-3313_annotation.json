@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Fluorescent coral polyp",
+  "background_description": "Dark, deep blue to black water background with blurred reddish-purple coral structures forming the mid-ground behind the vibrant green polyps.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a vibrant, fluorescent green coral polyp colony against a dark, contrasting background. The bright coloration and distinctive curly, textured tentacles create a high visual contrast with the surrounding dark water, making the organism highly conspicuous. There is no evidence of color blending, disruptive patterns, or mimicry that would allow the coral to conceal itself within its environment. Instead, its visual prominence suggests a strategy of standing out, possibly related to its biological functions such as photosynthesis (if containing symbiotic algae) or attracting prey, rather than achieving camouflage. Although a living organism, the object_category is set to 'Environment' due to the provided schema options not including specific invertebrate categories, and coral structures commonly form part of marine environments."
+}

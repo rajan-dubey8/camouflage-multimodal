@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background consists of an underwater sandy seabed with various coral formations and rocks. There are some branching white corals, as well as darker, lumpy greenish-brown corals and sponges. The overall lighting is diffuse blue-green, characteristic of a shallow marine environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Stingaree's base body color, a muted blue-grey, does share some general tones with the sandy seabed and the blue cast of the water, offering a moderate degree of color similarity. However, this is largely negated by the prominent, bright blue spots that are scattered across its dorsal surface. These vivid spots create a strong visual contrast against both the Stingaree's body and the environment, making it easily discernible. Additionally, the Stingaree's relatively smooth skin texture contrasts with the granular sand and rough, textured corals and rocks, further preventing it from blending seamlessly. While its flat shape allows it to lie low, the distinctive coloration and clear outline make it stand out rather than blend in with its surroundings."
+}

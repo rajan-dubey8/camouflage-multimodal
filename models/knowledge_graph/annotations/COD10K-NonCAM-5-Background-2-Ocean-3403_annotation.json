@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral formation",
+  "background_description": "The underwater background consists of a sandy and rocky seafloor, varying in texture from fine sediment to coarse rubble. The overall color palette is dominated by muted teal and blue tones due to the water, with patches of darker shadows and lighter, pale rock surfaces. A smaller, distinct blue coral formation is visible to the right.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The main coral formation, a type of stony coral, exhibits natural camouflage primarily through color blending. Its pale, muted beige color closely matches the surrounding sandy and rocky seafloor, significantly reducing its visual contrast with the environment. The irregular branching structure also provides some textural resemblance to the varied substrate and other rock formations, further aiding its integration into the underwater scene and making it less conspicuous to predators or prey. While corals are sessile organisms and do not actively 'camouflage' in the same way mobile animals do, their natural coloration and form contribute to their concealment within their habitat."
+}

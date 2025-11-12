@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of reddish-brown soil, which is somewhat clumpy and textured, possibly a part of a tree root or bank. Scattered across the ground are dried leaves, twigs, and small pieces of organic debris in various shades of brown and grey. Sparse green blades of grass and small green plants are visible in the foreground and around the frog, providing pockets of vibrant greenery. The lighting suggests a somewhat shaded environment, creating darker tones and areas of lower visibility.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits a clear form of camouflage through both color blending and pattern matching. Its skin features a mottled pattern of bright greens, dark greens, and some lighter creamy/brownish tones. This coloration allows it to blend effectively with the patchy environment, where both green vegetation and brown earthy tones are present. The bright green patches on its back align well with the green grass and small plants, while the darker green and brown patterns provide some similarity to the dried debris and soil. However, the frog's bright green portions do create a medium contrast against the dominant reddish-brown soil and dark tree root, preventing perfect blending. The irregular, bumpy texture and mottled pattern on its skin also help break up its outline, making it less distinctly visible against the varied textures of the ground, rather than presenting a smooth, contrasting shape. While not perfectly invisible, its coloration and patterns are clearly adapted to its habitat, making it difficult to spot at first glance."
+}

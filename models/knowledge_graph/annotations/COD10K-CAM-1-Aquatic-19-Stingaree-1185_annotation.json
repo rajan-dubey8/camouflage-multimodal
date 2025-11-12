@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stingaree",
+  "background_description": "The background consists of a shallow, clear sandy seabed. The water surface above creates dynamic patterns of bright sunlight and shadow ripples that are cast onto the sand and the organism. The sand is light grey to beige, fine-grained, with subtle undulations.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Stingaree demonstrates excellent camouflage. Its dorsal coloration is a near-perfect match to the light grey and beige sandy seabed, achieving high color similarity. The light ripples from the water's surface cast dynamic patterns of light and shadow over both the organism and the sand, which the stingaree's natural patterning (or lack thereof, blending with the uniform sand) effectively mimics, contributing to pattern matching and further disrupting its outline. Its flattened body shape allows it to lie flush with the bottom, minimizing its profile and shadow, and the irregular light patterns further obscure its form, resulting in low contrast difference and effective shape disruption. Overall, it blends almost seamlessly with its environment."
+}

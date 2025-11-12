@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Wild Dog pups",
+  "background_description": "The background consists of murky, greenish-brown water with ripples and some sparse debris. Behind the pups, there are darker, wet rocks and muddy ground, suggesting a shallow natural water body or stream.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The African Wild Dog pups display a natural disruptive pattern camouflage. Their coats feature irregular patches of black, tan/brown, and white fur. This varied coloration serves to break up their body outlines, making them harder to perceive as a single, coherent shape against a complex background. While they are partially submerged in water, which is not their primary habitat for camouflage, the dark and tan patches offer some color similarity with the murky water and the dark, wet rocks/mud in the background. The high internal contrast of their distinct color patches works to disrupt their form. However, the white patches and the clear distinction between fur texture and water prevent perfect blending, and their presence in the water makes them somewhat more noticeable than if they were in a drier, vegetated environment."
+}

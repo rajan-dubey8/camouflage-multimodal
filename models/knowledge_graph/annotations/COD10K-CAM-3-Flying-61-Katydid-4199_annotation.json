@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of a tree trunk with light greyish-brown bark, heavily covered in dense patches of vibrant green and darker, almost blackish-green moss. The moss creates a highly textured and irregular surface with small, leafy structures. Some parts of the bark are visible where the moss is thinner. Behind the trunk, a softly blurred, uniform green background indicates distant foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Mimicry",
+  "explanation": "The Katydid is exceptionally well camouflaged against its moss-covered tree trunk environment. Its body coloration, a mottled mix of green and brown, perfectly matches the various shades of the surrounding moss and the underlying bark. The most striking aspect of its camouflage is the highly developed texture and shape of its body, particularly its legs and antennae, which are spiky and irregular, mimicking the branching and clumpy structure of the moss. This provides excellent pattern matching and shape disruption, breaking up the insect's outline and making it appear as an extension of the natural plant growth on the tree. The low contrast difference between the Katydid and its surroundings makes it very difficult to discern, effectively hiding it from casual observation."
+}

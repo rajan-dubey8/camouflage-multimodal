@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wet sandy beach with water patterns",
+  "background_description": "The image displays a close-up of a wet sandy surface, likely a beach or tidal flat, under low-angle sunlight. The sand exhibits intricate patterns of ripples, channels, and smooth areas formed by receding water. Colors range from deep grayish-blue and dark brown in shadowed areas to shimmering golden-yellow and light beige where sunlight directly reflects off the moist sand and thin film of water. The texture is smooth and granular in parts, with distinct linear patterns from the water flow.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment consisting of wet sand with patterns formed by water movement. There are no visible organisms (animals, insects, or fish) present within the scene. Therefore, there is no subject to assess for camouflage against the background."
+}

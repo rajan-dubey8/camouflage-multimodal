@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The organism is resting on a large, reddish-brown rock characterized by a rough, granular texture and numerous embedded lighter-colored, crystalline specks. The background beyond this rock is out of focus, appearing as a blurred mixture of lighter greyish-brown tones, likely more rocks or dry earth, with some indistinct darker patches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.78,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Mantis exhibits effective camouflage against its rocky environment. Its body coloration, a complex mix of browns, yellows, and blacks, closely mimics the varied hues and granular appearance of the reddish-brown rock it rests upon. The dominant brown tones blend seamlessly with the rock's base color, while the intricate yellow patterns and black speckles on its body effectively match the lighter mineral inclusions and shadows present on the rock's surface. This combination of color blending and pattern matching works to disrupt its outline (shape disruption), making it difficult to discern the insect's form from the textured background. While not perfectly invisible, its visual characteristics significantly reduce its conspicuousness."
+}

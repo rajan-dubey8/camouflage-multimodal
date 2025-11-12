@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The Katydid is perched on a vibrant green leaf and a slender green stem. The background is predominantly a deep, uniform black, suggesting a nighttime setting or heavy shadow, which provides a stark contrast to the brightly illuminated organism and foreground foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Mimicry",
+  "explanation": "Despite the Katydid's inherent adaptations for camouflage, such as its bright green coloration and leaf-like wing shape (mimicry), it does not effectively blend with its environment in this specific image. The organism is intensely illuminated, making its vibrant green color stand out sharply against the deep black background. Even against the green leaves, its vivid hue and clear outline make it highly conspicuous rather than hidden. The high contrast created by the lighting prevents its natural camouflage mechanisms from being effective in this photographic context, causing it to stand out visually."
+}

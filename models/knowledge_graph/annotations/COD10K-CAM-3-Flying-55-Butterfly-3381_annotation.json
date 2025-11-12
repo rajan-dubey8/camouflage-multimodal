@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense field of small, vibrant yellow flowers with green stems and leaves. The foreground flowers are in focus, while the background appears softly blurred, creating a tapestry of yellow and green hues.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The butterfly demonstrates excellent camouflage through color blending with its environment. Its wings and body are primarily a bright yellow-green, which remarkably matches the dominant yellow of the surrounding flowers and blends well with the green foliage. This high color similarity and low contrast difference make the butterfly blend seamlessly into the floral background, making it challenging to spot at a glance. The small dark spots on its wings are minor details that do not significantly disrupt the overall color match."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dense, tangled mat of dried plant material, primarily light brown and beige straw-like stems and leaves. There are variations in hue from yellowish-brown to darker grayish-brown, with some underlying dark patches and a thin strand of green grass visible. The texture is rough and linear, formed by many overlapping, irregularly shaped dry plant fragments.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The mantis exhibits excellent camouflage, blending almost seamlessly with its environment of dried straw and plant stems. Its body coloration is a near-perfect match for the varying shades of brown and beige present in the dry vegetation. Furthermore, its elongated, slender body shape remarkably mimics the form of the dry stems, making it very difficult to distinguish from the background clutter. The mantis's legs and antennae are also thin and stick-like, adding to the overall effect of appearing as just another piece of plant debris. This combination of color blending and structural mimicry (specifically a stick or twig mimicry) provides highly effective crypsis."
+}

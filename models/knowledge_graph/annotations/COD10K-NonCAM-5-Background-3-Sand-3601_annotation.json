@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sand dunes desert",
+  "background_description": "The image features a vast desert landscape dominated by large, rolling sand dunes. The dunes exhibit a range of sandy brown and tan hues, with deep, dark shadows cast by the setting sun or a low sun angle, creating strong contrasts and emphasizing the undulating forms and textures of the sand. The upper portion of the image shows a clear, bright blue sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an environmental scene consisting of sand dunes and sky. There are no visible organisms such as animals, insects, or fish present in the frame. According to the rules, if no organism is visible, camouflage is not considered present or evaluated. The high contrast difference mentioned refers to the natural contrast between sunlit and shadowed areas within the sand dunes themselves, not in relation to an camouflaged object."
+}

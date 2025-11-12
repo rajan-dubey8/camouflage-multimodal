@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Centipede",
+  "background_description": "The background consists of a damp, textured surface, likely decaying wood or rich soil with organic detritus. It features various shades of dark to medium reddish-brown, with prominent shiny, wet, and almost black patches indicating moisture and decomposing matter. The overall texture is irregular, with fine vertical striations and amorphous dark blotches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The centipede exhibits good color blending with its environment. Its body is a reddish-brown, which closely matches the dominant mid-tone browns of the damp, decaying background material. While its smooth, segmented body and distinct legs create some visual difference from the irregular textures of the wood/detritus, its overall hue and moderate contrast allow it to blend in rather than stand out prominently. The shiny segments of its body also somewhat echo the wet, reflective patches on the background, further aiding its blending. If it were moving, it would likely be more noticeable, but in this static pose, its coloration provides effective camouflage."
+}

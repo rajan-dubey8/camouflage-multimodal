@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Forest stream with rocks and lush vegetation",
+  "background_description": "The scene depicts a forest stream with clear, shallow water flowing over and around numerous rocks and pebbles. The rocks vary in size, shape, and color, ranging from light grey to dark brown, many covered in patches of green moss. The stream bed is composed of smaller stones and leaf litter. On the left, a tree trunk with an epiphyte (bird's nest fern) stands next to the water. The surrounding area is densely vegetated with various green plants and foliage, creating a shaded, natural environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features a natural environment consisting of a forest stream, various rocks, tree trunks, and dense foliage. No animals, insects, or fish are discernible within the frame, which are the subjects for camouflage detection. Therefore, no camouflage is present."
+}

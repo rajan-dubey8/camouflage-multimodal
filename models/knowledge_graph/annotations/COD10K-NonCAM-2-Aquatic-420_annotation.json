@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sailfin Tang",
+  "background_description": "The background consists primarily of clear, vibrant blue water. In the lower left and bottom, there are blurred, light tan/white organic structures, possibly dead coral branches, anemones, or detritus, suggesting a shallow reef or aquarium environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Sailfin Tang, identifiable by its distinctive dark blue and bright white vertical stripes, and prominent dorsal and anal fins. Its bold pattern stands out against the uniform blue water and blurred background structures, indicating no camouflage."
+}

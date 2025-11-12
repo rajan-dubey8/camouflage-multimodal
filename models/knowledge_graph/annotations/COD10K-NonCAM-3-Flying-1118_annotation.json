@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Skipper butterfly",
+  "background_description": "The background consists of blurred, vibrant green foliage, likely leaves or grass. In the foreground, there are clusters of white flower buds and one fully open white flower with a light green center, all attached to a slender green stem.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The skipper butterfly, with its muted brown and olive-green body and wings, is positioned on a bright white flower against a vibrant green, out-of-focus background. Its colors do not closely match the bright white of the flower or the intense green of the foliage. The contrast between the insect's body and its immediate surroundings (flower and background) is moderate, making it easily discernible. Therefore, in this particular scene, the insect is not effectively camouflaged."
+}

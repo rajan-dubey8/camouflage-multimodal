@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background is a coarse-grained rock surface, likely granite, characterized by a dominant light greyish-white base color with numerous small black and dark grey specks, as well as larger, irregular reddish-brown patches and veins. The texture is rough and uneven.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits exceptional camouflage against the rocky background. Its body and legs are a mottled mix of light grey-brown, dark brown, and hints of reddish-brown, which precisely match the primary colors, specks, and reddish veins present in the granite-like rock. The intricate, irregular patterns on the spider's legs and body mimic the granular texture and fragmented coloration of the stone, effectively breaking up its silhouette. The visual texture of the spider also blends well with the rough surface of the rock. This high degree of color and pattern matching, combined with low contrast, makes the spider very difficult to distinguish from its environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a forest floor covered in dry, fallen leaves of various sizes and shades of brown, dried twigs, and dark soil. The texture is rough and irregular, with numerous small details, shadows, and variations in light across the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The three butterflies exhibit excellent camouflage against the forest floor. Their wings, mottled with shades of brown and cream spots, closely match the colors of the dry leaves, twigs, and soil in the background. The irregular patterns on their wings mimic the varied textures, shadows, and fragmented shapes of the leaf litter. The overall contrast between the butterflies and their surroundings is low, making them difficult to discern. Their closed wings, with their irregular outlines, also contribute to shape disruption, making them appear as just another piece of organic debris rather than a distinct organism. This combination of strategies makes them very well-hidden."
+}

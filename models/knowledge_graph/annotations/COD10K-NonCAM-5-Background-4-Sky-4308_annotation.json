@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky with iridescent clouds",
+  "background_description": "The sky is predominantly covered with a diffused layer of gray and white clouds. Scattered within these clouds are several distinct patches exhibiting vibrant iridescent colors, including pink, green, blue, and yellow, characteristic of nacreous or iridized clouds. The overall texture is soft and varied, with lighter and darker areas of cloud cover.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism (animal, insect, or fish) is visible in the image. The image solely depicts atmospheric phenomena, specifically a cloudy sky with striking iridescent cloud formations, therefore no camouflage is present or applicable."
+}

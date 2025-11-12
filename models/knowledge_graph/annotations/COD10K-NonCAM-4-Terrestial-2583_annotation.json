@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Snow Leopard",
+  "background_description": "The background consists of dark, rocky, and uneven surfaces, resembling a cave or a rocky outcrop. The colors are predominantly dark grey and brown tones with some lighter patches and subtle textures, indicating natural or simulated rock formations.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Snow Leopard exhibits camouflage primarily through its disruptive pattern. Its thick coat features a pale yellowish-grey base color with dark spots and rosettes (broken up into smaller spots on the head and limbs). This patterning is naturally adapted to blend with the varied textures, shadows, and rocks of its mountainous habitat. While the overall pale coloration of the leopard creates some contrast against the dark background in this specific image, the dark rosettes and irregular patterns effectively break up the animal's outline, making it harder for a predator or prey to discern its form. The mottled appearance of its fur visually mimics the unevenness and shadows of rocky terrain, contributing to a medium level of color and texture similarity despite the overall brightness difference."
+}

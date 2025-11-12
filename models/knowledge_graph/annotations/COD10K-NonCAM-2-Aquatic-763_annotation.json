@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "The background consists of dark, uniform deep blue/grey open water, possibly within an aquarium. There are small white specks or particles suspended in the water, suggesting either marine snow or bubbles. No specific seabed features, coral, or rocks are distinctly visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Lionfish, easily identifiable by its distinctive striped patterns (reddish-brown and white/light blue) and long, spiky venomous fins. Its elaborate coloration and complex form create a high contrast against the dark, featureless aquatic background, indicating a clear absence of camouflage. The animal stands out prominently."
+}

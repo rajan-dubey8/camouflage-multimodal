@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-crowned Night Heron",
+  "background_description": "The bird is standing on a flat, uniform dark gray asphalt or concrete surface with a fine, granular texture. The surface shows minimal variation in color and no significant features that could aid in concealment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Black-crowned Night Heron's distinct plumage, featuring a bright white chest, a black cap and back, and gray wings, creates a high contrast against the uniform dark gray asphalt background. Its colors do not blend with the ground, making it easily visible. The bird's soft, feathery texture is also very different from the hard, grainy texture of the pavement. There is no effective color blending, disruptive pattern, or mimicry present to conceal the bird in this specific environment."
+}

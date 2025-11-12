@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of the cross-section of an old tree stump, displaying prominent concentric growth rings in shades of grey, brown, and weathered silver. Numerous deep cracks radiate across the surface, some filled with darker debris. Patches of vibrant green moss adhere to the top-left edge, and a few blades of green grass are visible on the far left. The overall texture is rough, dry, and detailed with the fibrous nature of aged wood.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The lizard demonstrates effective camouflage against the tree stump. Its mottled brown and grey coloration, along with the intricate pattern of darker speckles and stripes on its body, closely matches the varying tones and complex textures of the weathered wood grain and cracks. This high degree of color and pattern similarity makes it blend seamlessly with its environment, reducing its detectability. The lizard's flattened posture also minimizes its profile and casts minimal shadows, further enhancing its concealment. Additionally, another lizard is partially visible within a deep crevice in the stump, showcasing excellent use of environmental features and shadow hiding for near-perfect concealment."
+}

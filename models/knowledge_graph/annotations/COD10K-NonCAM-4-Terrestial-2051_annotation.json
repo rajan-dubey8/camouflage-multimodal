@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Ibex",
+  "background_description": "The background consists of an out-of-focus grassy field in muted green and brown tones, transitioning to a darker, blurry forest edge or dense foliage in the upper background. The overall impression is a natural, open landscape with soft textures.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Ibex exhibits a degree of camouflage through color blending. Its coat is a grayish-brown, which generally matches the earthy and muted green tones of the grassy, slightly shadowed environment. While the animal is clearly visible, its coloration helps it to somewhat blend into the natural backdrop, reducing its distinctness, especially against darker areas or during twilight conditions where contrast is naturally lower. The texture similarity is low due to the blurry background, and there's a medium contrast difference, preventing a perfect blend but still aiding in concealment."
+}

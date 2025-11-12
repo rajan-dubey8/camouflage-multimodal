@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rudd",
+  "background_description": "The background consists of dark blue open water, suggesting a deeper part of a freshwater environment or an aquarium, with some faint reflections or disturbances visible near the water surface at the top.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows several Rudd fish with distinct silvery bodies and bright orange-red fins. Their coloration and shape stand out prominently against the dark blue aquatic background, indicating no camouflage is present."
+}

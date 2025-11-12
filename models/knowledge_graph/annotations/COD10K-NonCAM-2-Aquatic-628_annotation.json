@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Acara",
+  "background_description": "The background consists of a clear blue aquarium wall, clear water with small air bubbles, and a planted substrate. The substrate is covered with small brown gravel and various green aquatic plants, including some with broad leaves and others that are bushy. There are also pieces of driftwood or rock formations providing additional texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows multiple Blue Acara fish with iridescent blue-green bodies and some orange/yellow markings. They are highly visible against the distinct solid blue background of the aquarium and the contrasting green plants and brown substrate, indicating no attempt at camouflage."
+}

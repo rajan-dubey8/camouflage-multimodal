@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Small marine invertebrates on coral",
+  "background_description": "The background is a stony coral surface, likely a type of mushroom or plate coral, characterized by prominent, raised, radial ridges (septa) separated by grooves. The texture is highly patterned with alternating light beige/white ridge tops and darker brown/beige grooves, creating a strong linear and corrugated appearance. The overall impression is a complex, textured, and patterned marine substrate.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Mimicry",
+  "explanation": "The image shows at least two small marine invertebrates camouflaged on a stony coral surface. The camouflaged organisms exhibit highly effective mimicry by closely matching the coral's structural patterns and colors. Their coloration, primarily beige, brown, and white, blends seamlessly with the hues of the coral's ridges and grooves. The elongated, segmented bodies and striped patterns of the invertebrates align perfectly with the coral's radial textures and linear patterns, allowing them to integrate into the background's form and texture. This combination of color matching and structural mimicry makes the invertebrates extremely difficult to distinguish from the coral, resulting in a low contrast difference and high camouflage score. While not technically an 'Insect' in a strict biological sense (likely a type of crustacean or worm), 'Insect' is chosen as the closest available category for a small invertebrate within the provided schema."
+}

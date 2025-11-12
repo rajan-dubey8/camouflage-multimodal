@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Stonefish",
+  "background_description": "The background is an underwater sandy seabed, displaying subtle ripples and fine sediment. The ambient light filtering through the water creates dappled patterns and casts soft shadows. The colors of the sand are muted tones of grey, brown, and faint green.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.92,
+  "confidence": 0.98,
+  "camouflage_type": "Mimicry",
+  "explanation": "The image clearly shows a stonefish, an organism renowned for its exceptional camouflage. Its body perfectly mimics the irregular shape, rough, porous texture, and mottled coloration of the surrounding rocks and sandy seabed. The fish's skin is covered in bumps, ridges, and a variety of growths that resemble sediment, algae, or small coral formations, making it almost indistinguishable from its environment. This high degree of mimicry, combined with color and texture blending, results in a very low contrast difference against the background, allowing it to blend seamlessly and ambush prey or avoid predators."
+}

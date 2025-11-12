@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Oscar fish",
+  "background_description": "The background consists of dense green aquatic plants, likely artificial, creating a vibrant green backdrop. The substrate is a light-colored gravel mixture with some darker pebbles and a larger, rounded dark brown rock on the left side. Another fish is partially visible in the upper right portion of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an Oscar fish (Astronotus ocellatus) with its characteristic dark body and striking orange/red irregular patterns. It stands out distinctly against the green plant background and light gravel, indicating no camouflage is present."
+}

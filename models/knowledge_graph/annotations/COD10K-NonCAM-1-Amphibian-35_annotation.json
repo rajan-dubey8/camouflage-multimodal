@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of numerous irregularly shaped, light-colored pebbles or gravel, dominated by off-white, light gray, and pale beige tones. Some sparse, out-of-focus green plant stems are visible in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a toad with mottled green, brown, and yellow patterned skin, resting on a bed of light-colored gravel. Its distinct coloration and warty texture provide a strong visual contrast against the smooth, pale rocks, confirming the absence of camouflage as per the dataset's rules."
+}

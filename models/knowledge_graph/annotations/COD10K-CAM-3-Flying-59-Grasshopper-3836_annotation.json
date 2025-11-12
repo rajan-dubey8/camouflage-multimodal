@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a dense, tangled mass of dried grass blades and stems. These elements are predominantly in shades of light brown, beige, various greys, and dark brown, with some underlying darker shadows creating depth. The textures are linear, fibrous, and somewhat rough, characteristic of dry, brittle vegetation. A few slender, greener stalks are also visible, but the overall environment is dominated by dry plant matter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The grasshopper exhibits exceptional camouflage by perfectly blending with its environment. Its body color, a mottled mix of grey, light brown, and beige, precisely matches the dominant hues of the dried grass blades and stems. The linear patterns and striations on its elongated body mimic the fibrous texture of the surrounding dry vegetation. Crucially, the grasshopper's slender and elongated shape makes it indistinguishable from a dried stick or blade of grass, an excellent example of object mimicry (crypsis). The combination of color blending, pattern matching, and shape mimicry results in very low contrast against the background, rendering the organism almost invisible and making it incredibly difficult to spot amidst the tangle of natural debris."
+}

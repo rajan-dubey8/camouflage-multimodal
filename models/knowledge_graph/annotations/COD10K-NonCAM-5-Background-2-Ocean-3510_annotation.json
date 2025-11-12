@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The underwater environment displays a vibrant coral reef, primarily composed of various stony corals, some branching and others more encrusting, alongside dense patches of green and brown algae. A large, bright pink sea anemone with numerous flowing tentacles dominates the central foreground. The overall color palette consists of natural browns, beiges, greens, and the striking pink of the anemone.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a small clownfish (Anemonefish) partially visible within the tentacles of a large, prominent pink sea anemone. The clownfish has distinct black and white stripes with yellow fins. This high-contrast coloration does not blend with the varied textures and colors of the surrounding coral reef, nor does it blend with the bright pink of the anemone. While clownfish famously use anemones for protection and shelter from predators, their own visual appearance does not provide camouflage through color blending, disruptive patterns, or mimicry of the environment. Therefore, no visual camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Large fish head",
+  "background_description": "The background is a dark, blurry expanse of deep blue-green or greenish-black, characteristic of dimly lit underwater environments. It appears to be deep water with no distinct features, textures, or objects, creating a monochromatic and indistinct setting.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits color blending camouflage. Its dark grey-blue coloration with subtle blue highlights closely matches the deep blue-green hues and low light conditions of the aquatic background. This high degree of color similarity, combined with the overall low contrast of the scene, makes the fish difficult to distinguish from its environment. While there is no specific texture mimicry, the indistinct and blurry nature of the background further aids in obscuring the fish's form, contributing to its concealment."
+}

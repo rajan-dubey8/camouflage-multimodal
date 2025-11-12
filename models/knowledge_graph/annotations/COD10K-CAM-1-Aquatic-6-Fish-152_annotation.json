@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a sandy seabed with a light, muted greenish-blue hue. Scattered across the sand are numerous small to medium-sized rocks and coral rubble, many of which are covered in a thin layer of sediment or algae, giving them a textured, mottled appearance in shades of light grey-green and brown. There are also a few small clusters of darker green plant-like growths.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish, appearing to be a type of garden eel, exhibits camouflage primarily through color blending. Its pale, almost white body closely matches the light coloration of the surrounding sandy seabed, reducing its visual contrast with the environment. While its upright, slender shape emerging from a dark burrow is distinct, the light body color helps it to blend into the immediate sandy tones. The burrow itself provides an additional layer of concealment, allowing the fish to quickly retreat and serving as a form of shadow hiding, further enhancing its camouflage by hiding most of its body and providing a safe haven."
+}

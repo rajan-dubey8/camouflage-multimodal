@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blood Parrot Cichlid fish",
+  "background_description": "The background consists primarily of deep blue water with reflections of light. Towards the bottom right, there are dark greenish-brown rocky structures or artificial decor, showing a rough, textured surface with some lighter spots. There are also visible vertical markings on the tank glass.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Blood Parrot Cichlid fish display vibrant orange, yellow, and light pink coloration, which creates a strong contrast against the dark blue water and the dark greenish-brown rocky structures of their environment. Their smooth body texture also differs significantly from the rough texture of the rocks. There is no attempt at color blending, mimicry, or disruptive patterning to help them conceal themselves. Instead, their bright colors make them highly conspicuous, indicating an absence of camouflage for concealment purposes."
+}

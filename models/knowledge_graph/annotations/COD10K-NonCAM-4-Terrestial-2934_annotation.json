@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown bear",
+  "background_description": "The bear is resting on a sandy and rocky shore, which is sparsely covered with patches of dry, yellowish-brown seaweed or vegetation. In the foreground, there is calm water. The background consists of a vast body of water (likely a bay or ocean) under an overcast, light blue-gray sky, with faint, hazy blue-gray landmasses or mountains in the far distance.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The brown bear exhibits a degree of natural camouflage through color blending. Its reddish-brown fur tone closely matches the earthy colors of the sandy shore and the scattered yellowish-brown vegetation it is resting on. While its large form and fur texture are distinct from the granular ground, the overall color harmony reduces its contrast with the immediate environment, making it less conspicuous than if it were a contrasting color. This coloration helps it blend into natural coastal or forest environments where similar earth tones are prevalent."
+}

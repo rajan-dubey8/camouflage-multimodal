@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tropical marine fish",
+  "background_description": "The background consists of a sandy seabed with small, granular particles in shades of muted brown and grey, transitioning into darker, blurred rock formations or shadowed areas in the mid-ground and upper-right corner, exhibiting a generally drab and textured underwater environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits vibrant yellow and blue stripes and patterns that stand out significantly against the muted, sandy, and rocky underwater background. Its bright coloration and distinct patterns do not blend with the surrounding environment in terms of color, texture, or form, indicating a clear lack of camouflage."
+}

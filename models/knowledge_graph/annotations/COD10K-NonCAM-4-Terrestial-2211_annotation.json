@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bobcat",
+  "background_description": "The background consists of a textured tree trunk with vertical grooves, and a forest floor covered in a dense layer of dry brown leaves, wood chips, small twigs, and scattered grey-brown rocks and soil. The colors are predominantly earthy tones of browns, grays, and muted reddish-browns.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The bobcat exhibits strong camouflage through color blending. Its fur, which is a mix of grayish-brown and subtle reddish-brown tones with some darker speckles, perfectly matches the colors of the dry leaves, wood chips, and bark on the forest floor. This high color similarity and low contrast difference between the animal and its environment make it very difficult to distinguish its form from the surrounding debris, helping it to remain hidden from both prey and predators."
+}

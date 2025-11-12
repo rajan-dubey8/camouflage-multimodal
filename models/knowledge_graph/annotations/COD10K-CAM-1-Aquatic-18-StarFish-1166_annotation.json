@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of an underwater rocky reef structure with various marine life. It features dark, craggy rocks covered in patches of reddish-orange coral, dark brown whip-like corals, a large, intricate dark blue gorgonian fan coral, and some small, light yellow/green sponge-like formations. The water itself is a deep, clear blue.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The StarFish in this image is a prominent light blue/lavender color with a relatively smooth texture. This color and texture strongly contrast with the surrounding environment, which is primarily composed of dark, earthy-toned rocks, reddish corals, and intricate dark gorgonian fans. While the overall underwater environment has a blue cast, the specific vibrant hue and brightness of the starfish make it highly distinct from the darker, more varied background elements. Its smooth form also stands out against the rough, textured reef and corals, making it easily visible and indicating no significant camouflage."
+}

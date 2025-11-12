@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Oscar Fish",
+  "background_description": "The background consists of blurred aquatic elements, likely an aquarium setting, with indistinct shapes and varying shades of green, red, and brown, indicating plants, rocks, or tank decor out of focus in the water.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays the head of an Oscar fish with prominent light grey, orange-red, and dark reddish-brown coloration. Its distinct features and strong colors make it stand out against the blurry background, confirming the absence of camouflage."
+}

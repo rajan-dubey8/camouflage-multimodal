@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Grouper fish",
+  "background_description": "The background consists of dark, blurred aquatic elements, likely rocks or coral formations, with murky greenish-blue water. Another very faint, blurred fish shape is visible in the deeper background.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The fish exhibits camouflage through a disruptive pattern of light, irregular spots on its brownish-grey body. This pattern, combined with the overall muted coloration, helps to break up its silhouette and blend with the textures and colors of a rocky or coral-rich underwater environment. While the fish is visible, its markings reduce its contrast and make its outline less distinct against the varied background, aiding in concealment from both predators and prey."
+}

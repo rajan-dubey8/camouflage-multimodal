@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense layer of dry forest floor debris, including numerous interwoven twigs, dried leaves, and plant matter. The colors are predominantly desaturated browns, beiges, and dark grays, with areas of deep shadow and brighter highlights, creating a highly textured and visually cluttered environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The butterfly is highly camouflaged in this image. Its folded wings display a mottled pattern of browns, beiges, and dark markings that remarkably mimic the dry leaves, twigs, and shadows on the forest floor. The color palette of the butterfly perfectly aligns with the desaturated tones of the background, making color similarity very high. Furthermore, the intricate and irregular patterns on its wings break up its outline and blend seamlessly with the fragmented textures of the debris, achieving high texture similarity and low contrast difference. This combination makes the butterfly very difficult to distinguish from its surroundings, effectively hiding it from predators."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background is a rough, textured surface, likely made of stone or concrete, exhibiting a range of light beige, off-white, and varying shades of gray-brown. It features irregular ridges, cracks, and a granular, somewhat pebbly texture across its surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The moth demonstrates excellent camouflage against the stone background. Its wings feature a mottled pattern of light and dark gray-brown speckles and lines that perfectly mimic the rough, granular texture and varied coloration of the wall. The irregular lines on its wings align well with the natural cracks and ridges present on the surface, disrupting its outline. The overall color palette of the moth is almost identical to the dominant beige and grey tones of the background, making it incredibly difficult to distinguish its form from the environment."
+}

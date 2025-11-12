@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Leaf-mimicking insect",
+  "background_description": "The background is primarily composed of a large, green, palm-like leaf with prominent, parallel veins. Beyond the main leaf, there is blurred green foliage, some darker shaded areas possibly indicating other plants or soil, and a few bright spots of light filtering through, suggesting a natural, vegetated environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The small organism on the leaf exhibits effective camouflage through mimicry. While its light brown/tan color and rough, crumpled texture show low similarity to the smooth, green leaf it rests upon, creating a high contrast, its overall shape and appearance are highly reminiscent of a dead, dried piece of leaf or bark. This strategy allows the insect to be overlooked by predators, as it appears to be non-living organic detritus rather than an edible organism, blending into the general environmental context where such debris is common."
+}

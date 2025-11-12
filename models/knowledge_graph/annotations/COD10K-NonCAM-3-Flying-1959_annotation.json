@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Common Myna",
+  "background_description": "The bird is perched on thin, bare, light-brown branches. The background is heavily blurred, showing muted tones of light brown, beige, and soft green, characteristic of dry, sparse vegetation or shrubland.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Common Myna displays prominent features such as a black head, dark brown body, and distinct bright yellow beak and legs. These features create a medium to high contrast against the light-brown, bare branches it is perched on and the muted, blurry background of dry vegetation. While the overall brown body might offer some general blending with earthy tones, the striking black and yellow elements make the bird easily visible. The numerous foreground branches physically obstruct the view of the bird, but the bird's own coloration and patterns do not effectively mimic or blend with its immediate surroundings to achieve active camouflage."
+}

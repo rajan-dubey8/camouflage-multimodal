@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "American Goldfinch",
+  "background_description": "The bird is perched on a white, finely meshed cylindrical bird feeder. The mesh has a regular, patterned texture. Behind the feeder, the background consists of blurred green foliage and some muted brown/beige tones, suggesting distant trees or bushes in an outdoor setting.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The American Goldfinch, with its striking bright yellow plumage and black wings, stands out in high contrast against the white mesh bird feeder. There is no color blending, texture matching, or disruptive patterning that would help it conceal itself within this immediate environment. Its vibrant colors make it highly visible, indicating an absence of camouflage against this background."
+}

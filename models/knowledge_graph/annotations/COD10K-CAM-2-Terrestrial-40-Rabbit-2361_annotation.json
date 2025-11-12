@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Rabbit",
+  "background_description": "The background depicts a winter environment predominantly covered in white snow. There are uneven snow drifts and mounds, with patches of dry, light brown grasses and sparse, thin bare tree branches protruding from the snow. In the mid-ground, there are thicker, dark tree trunks, and the overall scene has a muted, cool color palette. The immediate foreground shows a mixture of snow, dirt, and scattered small pebbles.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The rabbit demonstrates highly effective camouflage, primarily through color blending. Its body is covered in thick, white fur, which perfectly matches the extensive white snow that dominates the environment. This coloration significantly reduces the rabbit's visual contrast against its background. The soft, fluffy texture of its fur also blends well with the uneven and granular texture of the snow, making its outline less distinct. While its ear tips, nose, and eyes introduce minor brown and darker elements, these are relatively small areas compared to the large white mass of its body, which merges seamlessly with the snowy landscape. The overall effect is a low contrast difference, making the rabbit very difficult to spot in this winter setting."
+}

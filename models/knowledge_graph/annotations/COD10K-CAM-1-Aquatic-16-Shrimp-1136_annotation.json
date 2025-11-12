@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Other",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a sandy underwater environment, interspersed with various sizes of pebbles and small rocks in shades of light brown, grey, and off-white. There are also fragments of organic debris, detritus, and possibly shell fragments scattered throughout the sand. Above the shrimp, there is a larger, textured structure, possibly a shell or rock overhang, which creates a shaded area.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The shrimp exhibits excellent camouflage within its environment. Its body coloration, a mottled grey-brown with distinct horizontal dark stripes, closely matches the sandy, pebbly substrate and organic detritus. The translucent quality of parts of its body further aids in blending. The dark stripes act as pattern matching, breaking up the shrimp's solid outline and mimicking the irregular textures and shadows found in the sand and amongst the small rocks and debris. This disruptive coloration reduces the contrast between the organism and its surroundings, making it very difficult to discern its shape and presence. The overall low contrast difference between the shrimp and the background, combined with its patterns, contributes significantly to its successful concealment, particularly enhanced by the shadowed area it rests beneath."
+}

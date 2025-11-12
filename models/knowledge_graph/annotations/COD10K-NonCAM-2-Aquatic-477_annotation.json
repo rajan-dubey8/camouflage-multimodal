@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Yellowfin Trevally",
+  "background_description": "The background consists of deep blue open water, with faint indications of rocky or coral structures in the lower right corner. Small particles are suspended in the water, adding a slight texture to the otherwise smooth aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Yellowfin Trevally, characterized by its metallic blue-silver body and distinct bright yellow fins. Its vibrant colors and defined shape stand out against the deep blue aquatic background, indicating no camouflage is present."
+}

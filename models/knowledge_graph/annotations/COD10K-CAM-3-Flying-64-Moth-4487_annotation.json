@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a dark green plant leaf, which is heavily textured with prominent veins and small white specks. A significant portion of the leaf is covered with discolored, dried, and possibly fungal or decaying patches, exhibiting shades of brown, grey, and off-white. This area is rough and mottled in texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth exhibits excellent camouflage by perfectly blending with the discolored, dried, and mottled patch of the plant leaf it is resting on. Its wings are a complex pattern of browns, grays, and whites that precisely match the colors and intricate textures of the decaying leaf surface. The irregular shape and patterns on its wings also effectively disrupt its outline, making it extremely difficult to distinguish from the surrounding background. The moth has strategically chosen a spot that maximizes its crypsis, demonstrating a strong example of color blending, pattern matching, and shape disruption."
+}

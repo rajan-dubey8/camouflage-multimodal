@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense arrangement of green leaves and brown branches, characteristic of a shrub or tree in natural foliage. Some leaves are in sharp focus around the chrysalis, while others are blurred in the foreground and background, creating depth. Darker areas suggest shadows and deeper parts of the vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The Butterfly chrysalis exhibits remarkable camouflage, specifically a type of mimicry known as masquerade. Its entire body is colored a vibrant green, virtually identical to the surrounding leaves, achieving high color similarity. The chrysalis's elongated and pointed shape, along with the visible veins and subtle texture on its surface, closely mimics the appearance of a fresh leaf. This combination of color, shape, and texture makes it exceptionally difficult to distinguish from the actual foliage, resulting in a very low contrast difference with its immediate environment. The natural shadows also help to further break up its outline, contributing to its effective concealment."
+}

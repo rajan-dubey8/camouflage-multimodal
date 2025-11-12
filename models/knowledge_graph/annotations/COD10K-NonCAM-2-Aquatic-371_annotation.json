@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Anthias",
+  "background_description": "The aquatic environment features a dense coral reef dominated by dark, branch-like coral structures with a textured surface. The water is murky with a purplish-blue tint, and small particles are suspended. Other smaller, banded fish (likely Banggai Cardinalfish) and various encrusting corals and rocks are visible in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The primary aquatic animal is a brightly colored orange and pink Anthias fish. Its vivid coloration creates a strong contrast against the dark, muted tones of the coral reef background, making it stand out clearly without any visible camouflage characteristics."
+}

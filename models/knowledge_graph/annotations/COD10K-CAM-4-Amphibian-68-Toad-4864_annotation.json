@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dense, uneven layer of wood chips, bark fragments, and dried organic debris. The dominant colors are various shades of muted browns, greys, and some darker reddish-browns, creating a highly textured and visually noisy environment with irregular shapes and patterns.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad demonstrates excellent camouflage, blending exceptionally well with its environment of wood chips. Its coloration, a mottled mix of browns and greys with darker spots, precisely matches the varied hues of the surrounding wood fragments. The toad's warty skin texture also perfectly mimics the rough, fragmented, and uneven surface of the bark and wood chips. This combination of color blending and texture matching effectively breaks up the toad's outline, making it extremely difficult to distinguish from the background noise. The low contrast difference between the toad and its surroundings further enhances its concealment, allowing it to integrate almost seamlessly into the visual pattern of the debris."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tidal beach with sand ripples",
+  "background_description": "The image captures a vast, expansive tidal beach under a clear blue sky. The foreground and midground are dominated by sand, featuring pronounced ripple marks created by water and wind, which vary in texture from wet, reflective surfaces in shallow pools to drier, patterned areas. In the distance, the flat beach transitions to low sandy dunes with sparse vegetation and a few small, light-colored beach structures. The horizon shows a faint line where the ocean meets the sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment, specifically a wide tidal beach landscape characterized by extensive sand ripple patterns and shallow water. There are no visible animals, insects, fish, or any other organisms present in the scene. Therefore, no camouflage is detected or applicable."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "A plain, uniform, light gray-beige surface with subtle fine speckles, lacking any complex textures or distinct patterns.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The image features a moth with intricate patterns and mottled coloration in shades of brown, gray, and cream, characteristic of a disruptive pattern designed to blend with natural environments such as tree bark or rocks. However, the moth is positioned against a plain, uniform, light gray-beige background. This background does not match the moth's natural camouflage, resulting in a clear visual contrast. Therefore, despite possessing inherent camouflage features, the moth is not effectively camouflaged in this specific scene and is easily visible."
+}

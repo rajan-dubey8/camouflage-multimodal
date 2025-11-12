@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a rough, uneven surface, likely rock or concrete, covered with small pebbles, grains of dirt, and patches of dry, brown and greenish moss or lichen. The overall color palette is earthy, dominated by various shades of brown, grey, and some muted green, with areas of brighter highlights and darker shadows due to the irregular texture and direct sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits excellent camouflage by closely matching the color, texture, and pattern of its rocky, mossy environment. Its body features a mottled pattern of browns, greys, and white hairs that perfectly blend with the small stones, dirt, and dried moss patches on the surface. The rough, hairy texture of its legs and abdomen mimics the coarse, irregular texture of the substrate, further disrupting its outline. Although the dark carapace has some shine, its overall coloration and patterned legs make it difficult to distinguish from the background, minimizing contrast and disrupting its shape."
+}

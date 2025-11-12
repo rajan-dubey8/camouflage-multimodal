@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Dense forest undergrowth",
+  "background_description": "The scene is dominated by vibrant green, fan-shaped palm leaves in the foreground and midground, with prominent veins. In the background, out of focus, are dark brown tree trunks with textured bark and additional layers of green foliage. Sunlight filters through the canopy, creating bright, blurred highlights in the distance and illuminating some of the leaves.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No identifiable organism (animal, insect, or fish) is visible in the image. The scene exclusively depicts a natural environment consisting of various green plant leaves and tree trunks. Therefore, there is no subject present that could be camouflaged. The small, light brown object visible on a leaf in the lower-left quadrant appears to be an inanimate object or plant debris, not an organism."
+}

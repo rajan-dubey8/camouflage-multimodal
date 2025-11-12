@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background environment is an underwater scene dominated by various marine plant life, likely algae or seaweed, and rocky substrate. There are dense clusters of branching, light greenish-brown algae in the foreground and around the fish, interspersed with darker, more robust plant-like structures. A reddish-orange sponge or coral-like growth is visible behind the fish's head, and a patch of lighter blue-green water is visible through a gap in the vegetation to the right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage within its environment. Its body color is a mottled greenish-brown with lighter speckles, which closely matches the varied colors of the surrounding algae and rocky substrate. The fish's texture appears rough and bumpy, mimicking the irregular surfaces of the surrounding marine growth. Furthermore, its speckled pattern effectively breaks up its outline, making it difficult to discern where the fish ends and the background begins. The fish is also nestled among the dense vegetation, utilizing the physical structures of the algae for further concealment, contributing to shape disruption. The overall effect is a low contrast difference between the fish and its immediate surroundings, allowing it to blend in very effectively."
+}

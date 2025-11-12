@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of still, shallow water with a soft, out-of-focus reflection of verdant vegetation, displaying muted shades of light green, pale yellow, and diffuse greyish-blue. The water surface itself is a gentle blend of desaturated greenish-brown and light grey, contributing to a tranquil, hazy atmosphere. Two distinct blades of bright green grass emerge from the water in the foreground on the right.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog exhibits effective camouflage by blending seamlessly with its aquatic environment. Its muted olive-brown coloration closely matches the greenish-brown and greyish tones of the shallow water and the blurred reflections of the surrounding vegetation. The low contrast between its head and the water's surface, combined with the soft lighting, helps obscure its presence. While its prominent, reflective eyes are a point of higher contrast, the overall body and head shape are effectively disguised by the color matching and partial submergence. The reflection of its head in the water also further helps to disrupt its outline and integrate it into the water's surface."
+}

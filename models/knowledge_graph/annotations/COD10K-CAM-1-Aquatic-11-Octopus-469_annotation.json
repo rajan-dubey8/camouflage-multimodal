@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The background consists of dark, rugged underwater rock formations and sediment. The rocks show various shades of dark brown, reddish-brown, and some areas with lighter, possibly encrusting material or coral. The textures are rough, irregular, and mottled, indicating a natural underwater rocky crevice or cave.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Shadow hiding",
+  "explanation": "The octopus demonstrates excellent camouflage by perfectly matching the colors and intricate textures of the surrounding dark, rocky underwater environment. Its skin displays mottled dark brown and reddish-brown patterns that blend seamlessly with the irregular rock surfaces and sediment. The organism is tucked deep into a crevice, utilizing the shadows and irregular shapes of its refuge to further disrupt its outline and conceal its presence. While the visible white mass of eggs creates a contrasting element, the octopus's own body is highly adapted to blend with the background."
+}

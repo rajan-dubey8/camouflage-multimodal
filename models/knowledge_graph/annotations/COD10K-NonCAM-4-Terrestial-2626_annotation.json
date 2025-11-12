@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "African Elephants",
+  "background_description": "The background consists of a dry savanna landscape with scattered acacia trees and sparse, dry golden-brown grass. The soil in the foreground is a reddish-brown earth. The sky above is partly cloudy with light blue and grey tones, suggesting either early morning or late afternoon.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "While the elephants' dusty, reddish-brown/grey skin tone offers a degree of color blending with the dry earth and vegetation of the savanna, their immense size and distinct silhouettes make them highly visible within the scene. They are not attempting to hide, and their natural coloring provides only a minimal level of concealment rather than active camouflage for predator evasion or ambush. Therefore, despite some color matching, they are clearly not camouflaged."
+}

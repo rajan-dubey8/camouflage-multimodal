@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of light beige to light brown tree bark with a rough, deeply textured surface. Numerous fine cracks and deeper crevices are visible, creating an irregular pattern of light and shadow across its surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth exhibits excellent camouflage against the tree bark. Its wings and body display a mottled pattern of light beige, grey, and dark brown, which precisely matches the colors present in the cracked and textured bark. The intricate, wavy patterns on its wings mimic the natural irregular fissures and shadows on the bark, contributing to high texture similarity. The overall contrast between the moth and its environment is low, making it difficult to distinguish its outline. The irregular patterns also help in shape disruption, breaking up the typical silhouette of an insect."
+}

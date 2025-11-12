@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "A terrestrial paved surface composed of light brown and grey concrete blocks or pavers, with patches of green moss growing in the crevices between them. The lighting is dim, suggesting night or low light conditions.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A visible toad (an amphibian) with warty, dark brown and greenish skin is clearly present in the foreground. It stands out distinctly against the lighter, smoother concrete paver background, confirming that no camouflage is present. The animal's texture is also highly distinct from its environment."
+}

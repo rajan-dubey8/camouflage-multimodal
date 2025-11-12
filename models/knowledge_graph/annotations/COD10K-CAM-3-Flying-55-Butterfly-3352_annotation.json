@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a rough, granular surface, likely rock or tree bark, characterized by a highly mottled texture. It is composed of numerous small, irregular particles ranging in color from dark grey and black to reddish-brown and speckled with off-white and light grey granules, creating a visually complex and uneven pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Butterfly is exceptionally well camouflaged against its background. Its wings display a complex pattern of dark grey, brown, and light grey markings that perfectly mimic the speckled, granular texture and varied color palette of the rock surface. The intricate patterns on its wings, featuring lines, zigzags, and mottled patches, effectively break up its outline and blend seamlessly with the irregular speckles and variations in the background, making it very difficult to distinguish. Both the overall color scheme and the fine-grained texture of the butterfly's wings match the environment almost perfectly, resulting in a very low contrast difference."
+}

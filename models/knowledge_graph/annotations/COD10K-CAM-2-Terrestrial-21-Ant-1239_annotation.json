@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Ant",
+  "background_description": "The background consists of rough tree bark with deep crevices and a varied texture. Colors include shades of grey, brown, and patches of vibrant green moss or lichen. Some areas appear lighter and smoother, while others are darker and more fractured.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The ant is clearly visible against the tree bark background. Its dark brown to black body with reddish-brown legs and a distinctive bright orange head marking provides a moderate color and brightness contrast against the various shades of grey, brown, and green moss on the bark. Furthermore, the ant's smooth, somewhat reflective chitinous body texture contrasts sharply with the rough, irregular, and matte texture of the tree bark, preventing it from blending in effectively."
+}

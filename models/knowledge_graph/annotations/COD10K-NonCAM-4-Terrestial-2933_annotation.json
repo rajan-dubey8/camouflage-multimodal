@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "European polecat",
+  "background_description": "A soft-focus, vibrant green background consisting of blurred foliage, with slightly sharper green branches visible on the right side, indicative of a natural outdoor environment like a forest or thicket.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The European polecat's dark brown/black fur and lighter facial markings stand in high contrast against the bright, out-of-focus green foliage background. Its coloration does not blend with the dominant green hues of the environment, making it easily discernible. No disruptive patterns or mimicry are evident to help it conceal itself in this specific visual context."
+}

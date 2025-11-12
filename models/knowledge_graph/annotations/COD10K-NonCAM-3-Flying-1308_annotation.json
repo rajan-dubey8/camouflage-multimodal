@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Scarlet Ibises",
+  "background_description": "The background consists of a muddy wetland environment with dark brown, wet soil and shallow puddles of water. Clumps of green and some dried, lighter green/brown grass and reeds are interspersed throughout the mud.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Scarlet Ibises are a vivid, almost fluorescent red, which creates a very strong contrast against the muted tones of the wetland environment. The background is dominated by dark brown mud, green grass, and greyish water, none of which share color or texture similarities with the birds. Their bright plumage makes them highly conspicuous rather than camouflaged."
+}

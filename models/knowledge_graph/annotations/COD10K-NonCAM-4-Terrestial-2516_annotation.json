@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Roe Deer",
+  "background_description": "A winter or early spring forest scene featuring patches of white snow covering the ground, large rocks and earth mounds heavily covered in vibrant green moss, and slender bare deciduous trees with some lingering dry brown leaves in the distant background. A large dark tree trunk is partially visible on the right side of the foreground.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Roe Deer's brownish-gray winter coat exhibits color blending with elements of the background such as the brown tree trunks and dry leaves, offering a moderate degree of camouflage. However, its coloration contrasts significantly with the bright white snow and the vivid green moss patches, making it more discernible in parts of the scene. The texture of its fur is also distinct from the surrounding snow, moss, and bark, and its overall form is clearly visible, preventing high camouflage effectiveness in this specific mixed environment."
+}

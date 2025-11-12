@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a vibrant and complex coral reef ecosystem underwater. The immediate surroundings of the focal fish are composed of various types of coral, including branching purple sponges, light brown stony corals with a lumpy texture, and encrusting algae or sediment on rocky substratum. The colors of the reef are mottled browns, creams, oranges, and purplish-blues. In the midground and background, there are schools of small yellow fish and a striped butterflyfish swimming, with deeper blue water beyond.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish, which appears to be a scorpionfish or stonefish, exhibits exceptional camouflage. Its body coloration, a mottled mix of browns, creams, oranges, and reddish-purplish hues, perfectly matches the colors of the surrounding rocky substratum and the various corals and sponges. Beyond color, its highly irregular shape, covered in numerous dermal flaps, spines, and wart-like textures, mimics the complex and rough textures of the coral and rock formations. This creates a remarkable pattern matching effect. The irregular outline effectively disrupts its body shape, making it incredibly difficult to distinguish from the environment. The combination of color blending, detailed pattern matching, and shape disruption results in a very low contrast difference between the fish and its background, making it almost invisible."
+}

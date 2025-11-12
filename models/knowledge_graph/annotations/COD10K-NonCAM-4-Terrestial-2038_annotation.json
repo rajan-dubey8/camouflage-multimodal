@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Woman on wooden pier",
+  "background_description": "The background consists of a clear, vibrant turquoise ocean with visible horizontal bands of deeper blue, suggesting varying depths or underwater features. A faint, distant landmass is visible on the horizon under a light blue sky. In the foreground, there is a light-colored, weathered wooden pier with distinct plank lines where the woman is seated.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a human (woman) sitting on a wooden pier. The individual is wearing a bright yellow top and a pink cap, which create a strong color contrast against both the light brown weathered wood of the pier and the blue-green hues of the ocean. The textures of the clothing and skin are distinctly different from the wooden planks and the rippling water. The subject's form is also clearly defined and does not blend with the surroundings in any way. Therefore, there is no camouflage present."
+}

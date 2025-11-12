@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of a dense, feathery marine invertebrate, likely a crinoid (feather star). It is characterized by numerous branching arms that are predominantly very dark brown or black, interspersed with delicate, pale off-white or beige pinnules that create a highly textured, complex, and somewhat striped appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption / Pattern matching / Mimicry",
+  "explanation": "The GhostPipefish exhibits exceptional camouflage against its crinoid background. Its highly irregular body shape, adorned with numerous spiky and frilly appendages, perfectly mimics the feathery texture and complex branching structure of the crinoid. The fish's coloration, a mottled pattern of dark reddish-brown and white, closely matches the dark branches and pale pinnules of the background. This combination of shape disruption, pattern matching, and mimicry effectively breaks up its outline and blends its form and texture seamlessly into the environment, making it incredibly difficult to detect."
+}

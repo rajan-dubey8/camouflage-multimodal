@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "ClownFish",
+  "background_description": "The background consists of a dense cluster of sea anemone tentacles. These tentacles exhibit a range of colors from dark reddish-brown to a lighter yellowish-tan, with some appearing somewhat translucent. They are cylindrical, flexible, and intricately curled and twisted, creating a complex, undulating texture and a mosaic of light and shadow. Small granular particles (possibly sand or debris) are visible on some of the darker tentacles.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The ClownFish, with its striking bright orange body and prominent white stripes outlined in black, stands out distinctly against the predominantly dark brown and yellowish-tan tentacles of the sea anemone. Its vivid coloration creates a high contrast with the muted, earthy tones of the background, making it easily identifiable. The fish's smooth texture and defined shape also contrast with the soft, undulating, and less defined forms of the anemone tentacles. While the anemone provides a protective habitat for the ClownFish, its coloration in this specific image does not offer visual camouflage; rather, it makes the fish highly conspicuous."
+}

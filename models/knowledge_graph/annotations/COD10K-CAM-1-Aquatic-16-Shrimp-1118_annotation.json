@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Malacostraca",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of numerous pale yellowish-green to olive-colored sea anemone tentacles. These tentacles are cylindrical, soft, and slightly translucent, with rounded, lighter-colored tips. They are densely packed, creating an undulating and textured surface with varying levels of light and shadow, against a dark, blurry background in some areas.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.78",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The shrimp exhibits effective camouflage primarily through its largely translucent body. This allows the yellowish-green color of the host anemone tentacles to show through, resulting in high color similarity with its immediate surroundings. The small, scattered dark and white speckles on its body act as a form of pattern matching, breaking up its outline and blending with the irregular textures and light variations of the anemone's surface. The overall low contrast difference between the shrimp and the anemone further aids its concealment. Additionally, its irregular and somewhat 'ghost-like' shape contributes to shape disruption, making it difficult for predators to distinguish its form from the dense, tubular tentacles. These combined elements make the shrimp remarkably difficult to spot."
+}

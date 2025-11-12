@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Riverbank landscape at dusk",
+  "background_description": "The image features a wide, sandy or muddy riverbed with subtle undulations and scattered small patches of green vegetation. In the distance, dense, dark green tropical forest lines the banks of a river or large body of water. The sky is largely overcast, displaying a gradient of pale blues, greys, and soft pinks, suggesting either dawn or dusk.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily showcases a natural riverine landscape. Although an artificial object (a blue toy monster) is held prominently in the foreground, it is not an organism. This toy is bright blue with distinct red and white features, which creates a high visual contrast against the muted, earthy tones of the sandy riverbed and the pale, overcast sky. There are no natural organisms visible within the environment that are attempting to camouflage themselves. Therefore, no camouflage is detected."
+}

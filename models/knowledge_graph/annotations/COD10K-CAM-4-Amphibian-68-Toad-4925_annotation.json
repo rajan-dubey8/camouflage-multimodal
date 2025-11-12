@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of vibrant green moss, some darker earthy patches, and indistinct blurry natural elements, suggesting a forest floor or damp, vegetated area with organic debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad's mottled brown, tan, and greenish-grey coloration, along with its rough, warty skin texture, provides excellent camouflage against the background of green moss and earthy tones. The natural patterns on its skin disrupt its outline, making it blend seamlessly with the irregular textures and varied colors of the environment. While the bright orange eyes are a distinct feature and some parts of its body show medium contrast against the vibrant green moss in this close-up, the overall effect is one of effective concealment, mimicking the natural debris and uneven ground of its habitat through color matching, pattern disruption, and textural similarity."
+}

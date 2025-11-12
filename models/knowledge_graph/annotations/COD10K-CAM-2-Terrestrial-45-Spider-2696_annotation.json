@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of numerous light brown to beige-colored rocks of various sizes and irregular shapes, creating a rugged, textured terrain. Some rocks show pitted surfaces and slight variations in shade due to shadows and natural inconsistencies. The overall environment is dry and rocky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The spider exhibits excellent camouflage by perfectly matching the color and texture of the surrounding rocks. Its body is a light brown/beige hue, almost identical to the dominant color of the stones. Furthermore, the spider's hairy, somewhat rugged exoskeleton creates a visual texture that closely mimics the rough, pitted surfaces of the rocks. This combination of color blending and pattern matching significantly reduces visual contrast, making it very difficult to discern the spider from its environment. The irregular shape of the spider's body also contributes to shape disruption, breaking up its outline against the uneven rock surfaces."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists predominantly of dark, almost black, wood mulch chips of various sizes and irregular shapes. Interspersed among the dark mulch are numerous lighter brown, reddish-brown, and greyish pieces of wood, dried leaves, and plant debris. The ground surface is rough, uneven, and highly fragmented, creating a complex visual texture. A vibrant green leaf or blade of grass is visible in the bottom right, but the immediate vicinity of the toad is dominated by the organic debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad demonstrates excellent camouflage through a combination of color blending, pattern matching, and shape disruption. Its mottled reddish-brown and dark brown coloration closely matches the various shades of dried leaves, lighter wood chips, and reddish debris found within the mulch. The toad's warty, bumpy skin texture, along with its irregular body shape, mimics the rough and fragmented texture of the surrounding wood mulch, making it difficult to distinguish its form from the background clutter. While there is some medium contrast between the toad's lighter areas and the very dark mulch, its overall pattern and placement low amidst the debris effectively break up its outline, allowing it to blend seamlessly with the environment."
+}

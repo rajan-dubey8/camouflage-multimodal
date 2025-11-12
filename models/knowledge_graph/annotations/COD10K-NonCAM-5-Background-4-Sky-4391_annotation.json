@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky over a wooded landscape",
+  "background_description": "The background consists of a dramatic, overcast sky dominated by large, dense grey and white cumulus clouds, with occasional patches of clear blue sky visible. Below the sky, there is a dense foreground of dark green coniferous trees, likely junipers or cedars, with varying heights and textures. In the far distance, a hazy urban area and a dark hill or mountain are visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural environment consisting of a cloudy sky and evergreen trees in a landscape. There are no visible animals, insects, or fish present in the image. Therefore, there is no organism to evaluate for camouflage, and as per the rules, camouflage is not present."
+}

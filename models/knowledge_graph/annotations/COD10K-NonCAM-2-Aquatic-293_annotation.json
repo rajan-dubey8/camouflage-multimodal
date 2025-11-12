@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Foxface Rabbitfish",
+  "background_description": "The background consists of dark blue-green open water, with some indistinct, blurry darker areas in the distance, suggesting a deep part of an aquarium or the edge of a reef. Another similar fish is partially visible in the upper background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a Foxface Rabbitfish (Siganus vulpinus) with bright yellow fins, light brown body, and prominent dark stripes, being cleaned by a distinct blue and black Bluestreak Cleaner Wrasse (Labroides dimidiatus). Both fish exhibit vibrant coloration that contrasts sharply with the dark blue-green open water background, confirming the absence of any camouflage."
+}

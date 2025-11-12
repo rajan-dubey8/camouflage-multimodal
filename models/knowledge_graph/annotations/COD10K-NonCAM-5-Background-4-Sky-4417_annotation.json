@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image displays a dynamic cloudy sky. Large, bright white cumulus clouds are prominent, with their tops illuminated by sunlight, contrasting against patches of deep blue sky. Beneath and interspersed are darker, denser gray storm clouds, indicating a more ominous weather condition. The lower portion of the image is very dark, suggesting a rain event or an approaching storm front. The textures are varied, from soft and fluffy white clouds to more rugged and heavy dark cloud formations.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": "0.0",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an environmental scene of a cloudy sky with no visible organisms (animals, insects, or fish) present. Therefore, there is no camouflage to be evaluated."
+}

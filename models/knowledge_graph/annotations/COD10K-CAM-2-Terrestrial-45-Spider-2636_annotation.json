@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a tree trunk covered in rough, textured bark. The bark is primarily light grey with patches of off-white and darker grey/brown in the deeper crevices and shadows. It exhibits a highly irregular, cracked, and ridged surface pattern with numerous small scales and variations in depth and tone.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider exhibits exceptional camouflage against the tree bark. Its body and legs are mottled with light grey, off-white, and dark grey patterns that precisely mimic the colors and rough, irregular texture of the surrounding bark. The variation in tones on the spider's body blends seamlessly with the highlights and shadows of the bark's ridges and crevices. This strong pattern matching and color blending effectively disrupt the spider's outline and make it very difficult to distinguish from its environment, resulting in high visual concealment."
+}

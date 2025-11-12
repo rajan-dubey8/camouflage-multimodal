@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a tranquil freshwater environment with a visible bank of lush green marsh grasses and aquatic vegetation. Behind the bank, a deciduous forest with numerous tree trunks and branches, some bare and some with emerging light green foliage, creates a muted brown and green backdrop. The foreground is dominated by the calm water, reflecting the colors of the sky and the trees, creating vertical streaks of brownish-green and light brown. Several small pieces of debris and lily pads are scattered on the water's surface.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Heron, with its distinct pale blue-grey plumage, stands out significantly against the surrounding environment. Its coloration creates a strong contrast with the darker browns and greens of the water, marsh vegetation, and the reflective surface of the pond. The bird's relatively smooth texture also differentiates it from the varied textures of the rough tree bark, fine grass blades, and ripples in the water. There is no effective color blending, pattern matching, or shape disruption at play in this specific image, making the Heron easily identifiable and not camouflaged."
+}

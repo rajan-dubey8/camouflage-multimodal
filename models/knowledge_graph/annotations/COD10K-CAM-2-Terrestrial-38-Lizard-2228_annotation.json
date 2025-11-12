@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a rocky, arid environment. There are numerous light grey and off-white rocks, some with patches of yellow-orange lichen and dark green moss. Interspersed among the rocks are abundant dry, light brown and beige straw-like grasses and dried plant debris. A small, out-of-focus green plant is visible in the lower-left foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage by blending seamlessly with its rocky and dry grassy environment. Its mottled grey-brown coloration, interspersed with darker spots and patterns, closely matches the color palette of the light-colored rocks, dry straw, and dead plant matter. The rough, textured scales of the lizard mimic the irregular surfaces of the rocks and the coarse texture of the dried vegetation. The intricate patterns on its body also serve to disrupt its outline, making it difficult to distinguish its form from the visual clutter of the background. The low contrast difference between the lizard and its immediate surroundings further enhances its ability to remain concealed."
+}

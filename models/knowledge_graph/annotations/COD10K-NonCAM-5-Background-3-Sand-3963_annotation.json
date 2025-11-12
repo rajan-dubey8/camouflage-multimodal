@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Desert landscape",
+  "background_description": "The image displays a vast desert landscape dominated by rolling sand dunes. The sand exhibits varied shades of golden yellow, orange, and light brown, sculpted into distinct ripples and crests by wind, creating natural patterns of light and shadow across the terrain. The sky above is a clear, deep blue with minimal cloud cover, meeting the horizon line in the distance.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural desert environment composed entirely of sand dunes and a blue sky. There are no visible organisms (animals, insects, fish, etc.) present within the frame that could potentially be camouflaged against the background. Therefore, no camouflage is detected."
+}

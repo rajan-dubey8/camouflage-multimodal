@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cabezon",
+  "background_description": "The background consists of murky, greenish-brown water with numerous small particles suspended, suggesting an aquatic environment with some sediment. Behind the fish, there are large, dark, irregular shapes appearing to be rocks or boulders, some faintly covered with algae or moss. The lighting is somewhat dim, creating a natural, subdued underwater scene.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Cabezon, a type of large sculpin, with a mottled brown and grey body, large head, and prominent eyes. While its coloration and texture somewhat blend with the rocky, dim background, it is distinctly visible and not actively camouflaged to hide from view."
+}

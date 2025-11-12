@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterflies",
+  "background_description": "The main subject is resting on a vibrant green leaf with visible vertical venation. The background is blurred and consists of dark green foliage or shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterflies exhibit bright white, dark brown, and orange/tan patterns on their wings which contrast strongly with the vibrant green leaf they are resting on and the dark green, blurred background. Their distinct coloration and patterns do not blend with the surrounding environment, making them highly visible rather than camouflaged."
+}

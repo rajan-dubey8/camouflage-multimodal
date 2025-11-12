@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The background consists of dark, murky water, likely within an aquarium, with a substrate of colorful gravel (blue, red, and green) at the bottom. The overall aquatic environment is simple and appears to be an artificial tank setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Goldfish is predominantly white with a distinct orange patch on its head and flowing fins, making it highly visible against the dark water background and the colorful, artificial gravel. There is no visual resemblance or blending with its immediate surroundings, confirming the absence of camouflage."
+}

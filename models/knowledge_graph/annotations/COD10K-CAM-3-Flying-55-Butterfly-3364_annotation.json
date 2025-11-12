@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists primarily of a rough, textured wall, likely made of stucco or stone. It has an irregular, bumpy, and granular surface with many small depressions and protrusions, creating a mottled appearance. The dominant color of the wall is a light beige or sandy brown, with subtle variations in tone and shadow from its texture. Beyond the wall, there's a bright, out-of-focus background showing some greenery and possibly a building structure.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly's wings exhibit an intricate pattern of light browns, grays, and dark speckles and stripes that perfectly align with the varied coloration and rough texture of the wall. The irregular distribution of dark and light patches on its wings mimics the natural variations, bumps, and shadows present on the textured stucco surface. This remarkable color and pattern matching, along with the low contrast between the organism and its environment, makes the butterfly's outline effectively disrupted and its presence incredibly difficult to discern, causing it to appear as an integrated part of the wall itself."
+}

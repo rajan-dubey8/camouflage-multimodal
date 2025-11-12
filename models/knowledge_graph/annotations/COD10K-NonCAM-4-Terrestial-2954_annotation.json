@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sheep",
+  "background_description": "The background consists primarily of a bright, out-of-focus snowy landscape, creating a soft, diffuse white environment. There are faint hints of darker, less defined objects further back in the snow.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image shows the head of a black-faced sheep against a bright white, snowy background. The dark color of the sheep's face and wool creates a strong, high-contrast silhouette against the snow, making it highly visible and easily distinguishable from its environment. There is no evidence of color blending, disruptive patterns, or mimicry that would help the sheep conceal itself. Therefore, no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a dense arrangement of long, slender, dark green aquatic plant blades, likely seagrass, oriented in various diagonal and horizontal directions. The environment is dim, suggesting an underwater setting, with patches of darker shadows and some subtle lighter flecks on the plant surfaces.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Pipefish exhibits excellent camouflage primarily through mimicry of its environment. Its long, extremely slender body perfectly imitates the shape and linear form of the surrounding seagrass blades. While its base color (light yellowish-brown with darker bands) is not a direct match for the vibrant green of the healthiest plants, the earthy tones blend effectively with the varied lighting, shadows, and potentially older or decaying parts of the seagrass. The horizontal banding on its body further enhances the illusion, breaking up its outline and creating a pattern that merges with the dense, linear texture of the background. Its orientation parallel to the plant blades also contributes significantly to its ability to disappear within the habitat, making it very difficult to distinguish from the vegetation."
+}

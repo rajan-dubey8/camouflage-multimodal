@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Coral reef organisms",
+  "background_description": "The image depicts a vibrant underwater scene, likely a reef aquarium, featuring various types of live corals and rocky formations. In the foreground and left, there is a green coral with glowing purple tips (resembling a Hammer or Torch coral), extending branching polyps. In the mid-ground right, a knobby orange/beige coral structure is visible. At the top left, a larger, feathery light purple/pink coral is present. The background consists of dark, rugged rock formations with patches of purple and blue hues, characteristic of a healthy reef environment under specialized lighting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image prominently features various types of corals, which are marine animals (organisms). According to the rules, 'If the image mainly shows an animal... set entity_type=\"Organism\"'. However, these corals are not camouflaged. Their vibrant colors (green with purple, orange, light purple) and distinct forms make them stand out clearly against the darker rocky substrate and each other. There is a high contrast difference between the corals and some background elements, and low color and texture similarity, all of which contribute to them being highly visible rather than hidden. The 'object_category' is selected as 'Fish' because it is the only marine animal option available in the strict schema, despite corals being invertebrates. This is a forced choice due to schema limitations, not a biological classification."
+}

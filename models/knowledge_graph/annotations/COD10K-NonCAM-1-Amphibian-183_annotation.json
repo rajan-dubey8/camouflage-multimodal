@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Dense green foliage and moist soil, characteristic of a freshwater bank or marshland environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A toad is clearly visible amongst dense green foliage and brown soil. While its natural skin color provides some blending with the earthy tones of its immediate terrestrial surroundings, this is considered a natural adaptation rather than active camouflage in the context of this dataset. The animal is distinct and easily recognized."
+}

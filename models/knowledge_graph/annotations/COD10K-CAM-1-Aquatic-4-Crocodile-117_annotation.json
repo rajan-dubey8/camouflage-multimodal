@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists of a shallow body of water with a slightly murky, reflective surface. The water has a bluish-grey tint, indicating sky reflection. It is surrounded by dense, dry, straw-colored reeds and tall grasses, both submerged in parts and emerging from the water. There are also some pieces of woody debris or branches floating or partially submerged in the water, especially in the upper background. The overall environment is a wetland or swampy area.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Texture matching / Shadow hiding / Shape disruption",
+  "explanation": "The crocodile in this image is highly camouflaged. Its dark, rugged skin color, ranging from deep grey to greenish-brown, blends exceptionally well with the murky, shadowed water and the dried-out vegetation surrounding it. The texture of its scaly back, with its prominent scutes, closely resembles the uneven surface of partially submerged logs or debris, which are present in the environment. The crocodile is partially submerged, breaking its outline and disrupting its shape, making it harder to distinguish from the water's surface and the reflections. The subtle glints of light on its wet back also mimic the sparkle of light on the water. The low contrast between its body and the surrounding water and vegetation further enhances its concealment, allowing it to appear as just another part of the natural wetland environment."
+}

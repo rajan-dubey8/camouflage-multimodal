@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of vibrant green plant foliage, likely a tomato plant, with thick, fuzzy stems and broad leaves. There are also hints of yellow flowers and other blurred green elements in the soft-focus background, suggesting a dense garden environment under bright natural light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending",
+  "explanation": "The 'Worm' (a large green caterpillar, likely a hornworm) exhibits excellent camouflage through color blending. Its body is a bright, vivid green that almost perfectly matches the various shades of green found in the surrounding leaves and stems of the plant it is feeding on. While its size is considerable, its coloration makes it visually integrate into the foliage. The diagonal white stripes on its body further aid in breaking up its outline and could be interpreted as part of the plant's natural patterns or light reflections, reducing its detectability. The overall contrast difference between the organism and its immediate environment is low, making it difficult to spot at first glance."
+}

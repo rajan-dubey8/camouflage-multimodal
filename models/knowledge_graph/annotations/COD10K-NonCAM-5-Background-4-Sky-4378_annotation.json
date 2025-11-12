@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Clouds and sky",
+  "background_description": "The image captures an aerial view from an airplane, showing a vast expanse of white, fluffy cumulus clouds stretching to the horizon. Above the cloud layer, the sky is a clear, deep blue, transitioning slightly lighter towards the horizon. The wing of the airplane is visible in the lower left foreground, indicating the perspective.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts an environmental scene of clouds and sky, viewed from an airplane. There are no visible animals, insects, or any other organisms present in the frame. Therefore, camouflage cannot be present or evaluated."
+}

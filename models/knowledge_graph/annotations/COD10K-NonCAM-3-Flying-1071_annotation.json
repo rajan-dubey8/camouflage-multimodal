@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Hoverfly",
+  "background_description": "The background consists of a vibrant purple thistle flower with fine, spiky petals in the foreground, and a soft-focus, blurred green foliage area behind it, creating a natural outdoor setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The image shows a hoverfly, which displays Batesian mimicry. Its black and yellow/orange striped abdomen closely resembles the warning coloration of a bee or wasp. This is a form of camouflage where a harmless species (the hoverfly) mimics a dangerous one to deter predators. While the hoverfly's colors contrast sharply with the purple flower and green background, its camouflage is effective in misleading predators about its potential harm, hence 'Mimicry' is selected as the camouflage type. The color and texture similarity with the immediate background are low because the mimicry is aimed at another organism, not the environment."
+}

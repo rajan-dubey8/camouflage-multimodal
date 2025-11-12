@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense, cluttered aquatic environment, likely a pond or wetland edge. It features numerous vertical and diagonal stalks of both vibrant green reeds and dried, light brown, fibrous plant debris. Patches of dark, murky water are visible between the vegetation, some with small green floating plants. The overall environment is rich in varied textures and colors.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The frog demonstrates effective camouflage primarily through color blending. Its bright green back perfectly matches the hue of the fresh green reeds and small aquatic plants in the immediate vicinity. The darker, brownish-olive coloration on its lower body and legs blends seamlessly with the submerged decaying plant matter and the murky water. This strong color resemblance makes the frog challenging to discern from its natural environment, significantly reducing its visibility. Although its overall shape is somewhat discernible upon closer inspection, the excellent color match causes it to visually merge with the diverse greens and browns of the cluttered background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of a weathered, grey-brown wooden surface, likely a plank or log, showing distinct grain patterns, cracks, and some areas of darker discoloration and moss/lichen. In the upper right and left, out-of-focus green blades of grass or reeds are visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard demonstrates excellent camouflage against the weathered wooden surface. Its dorsal coloration, a mix of grey, brown, and darker stripes, closely matches the dominant grey-brown tones of the wood, exhibiting high color similarity. The textured scales of the lizard also blend seamlessly with the rough, grainy texture of the wood, creating high texture similarity. The longitudinal stripes on the lizard's back further enhance the camouflage by mimicking the linear patterns and cracks found in the wood grain, contributing to pattern matching. The overall contrast difference between the lizard and its immediate surroundings is low, making it difficult to discern its outline and form at first glance. The partially obscured view by the out-of-focus blades of grass also adds to its concealment."
+}

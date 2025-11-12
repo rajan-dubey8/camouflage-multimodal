@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a dense, lush wetland environment. Predominantly green foliage with various plant types, including broad leaves (possibly lily pads or similar aquatic plants), tall grasses, and smaller leafy vegetation. There are patches of vibrant yellow flowers and some distinctive purple spiky flowers. In the foreground, several fallen logs or branches, some covered in light-colored lichen, are partially submerged in dark, reflective water, suggesting a swampy or slow-moving river setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Heron is prominently positioned in the image and does not blend with its environment. Its large size and distinct plumage, primarily consisting of gray, white, and dark blue-gray feathers, create a clear visual separation from the predominantly green, yellow, and brown background. While the muted tones of the heron are natural, they do not match the dominant colors or textures of the dense foliage, the brightly colored flowers, or the weathered logs. The heron's outline and internal contrast are distinct against the busy background, making it easily identifiable rather than camouflaged."
+}

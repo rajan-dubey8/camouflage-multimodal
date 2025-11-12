@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red Deer stag",
+  "background_description": "The background consists primarily of dry, tall, pale yellowish-brown grasses and reeds, interspersed with sparse bare tree branches and trunks, indicative of a woodland or open field environment in a non-foliage season. There are also hints of green vegetation closer to the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Red Deer stag displays effective color blending camouflage. Its reddish-brown fur closely matches the muted, earthy tones of the dry, pale yellowish-brown grasses and bare tree branches that dominate the background. This high color similarity helps the deer blend seamlessly into its natural habitat, particularly during seasons when vegetation is dry and less green. While the texture of its fur differs from the linear dry grass and rough branches, the overall low contrast difference and strong color match significantly reduce its visibility, making it less conspicuous to predators. The bare branches in the foreground also provide some visual obstruction, naturally enhancing its concealment."
+}

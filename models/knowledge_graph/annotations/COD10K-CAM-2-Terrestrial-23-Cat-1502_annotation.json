@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The cat is resting on a weathered stone or concrete ledge. Behind it, to the left, is a large, rough-textured stone pillar or wall, composed of various shades of dark grey, brown, and possibly mossy green patches. To the right, there is a very bright, overexposed white area, indicating an intensely lit outdoor space or opening. A narrow, vertically oriented window opening is visible further to the left, also letting in bright light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The cat displays effective camouflage through a combination of color blending and pattern matching. Its tabby fur, consisting of various shades of grey, brown, and darker stripes, closely matches the mottled and weathered appearance of the stone wall and ledge it is resting on. The irregular patterns in its fur help to break up its outline against the rough, textured surface of the stone. The overall luminance of the cat is also quite similar to the shadowed stone environment, contributing to a low contrast difference with its immediate surroundings. While the cat would stand out significantly against the bright white background on the right, its primary position against the dark, textured stone pillar and ledge provides good concealment."
+}

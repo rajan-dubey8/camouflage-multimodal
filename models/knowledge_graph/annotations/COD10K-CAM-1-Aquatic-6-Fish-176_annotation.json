@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background is dominated by a dense, intricate gorgonian coral, primarily orange in color. It features numerous small, soft, polyp-like growths giving it a textured and somewhat fuzzy appearance. Thicker, paler, almost white branches are interspersed throughout the orange coral structure. Dark, almost black areas are visible in the background, likely representing deep water or shadows between the coral formations.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Shape disruption / Pattern matching",
+  "explanation": "The fish is exceptionally well-camouflaged within the gorgonian coral. Its elongated, slender body is positioned vertically, closely mimicking the shape and orientation of the coral branches. The fish's translucent body features faint orange-reddish stripes and overall coloration that perfectly blend with the dominant orange hue of the coral polyps and branches, demonstrating excellent color blending and pattern matching. While its smooth texture isn't identical to the coral's intricate polyps, its semi-transparency and the alignment of its form with the background significantly reduce its visual contrast. Only its eye provides a distinct dark spot, but the rest of its body effectively dissolves into the complex environment, making it very difficult to detect."
+}

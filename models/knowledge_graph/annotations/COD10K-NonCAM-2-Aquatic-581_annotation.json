@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Bigeye Fish",
+  "background_description": "The background depicts a dark, deep aquatic environment with extensive dark, bushy marine growth, likely deep-sea corals, hydroids, or algae, covering a substratum. On the left, delicate, pale, branching organisms are visible. The water itself appears dark blue-green, suggesting significant depth or low light conditions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly features a Bigeye Fish with prominent reddish-silver scales and large eyes. Its bright coloration and reflective body stand out significantly against the dark, textured deep-water background, indicating a clear absence of camouflage."
+}

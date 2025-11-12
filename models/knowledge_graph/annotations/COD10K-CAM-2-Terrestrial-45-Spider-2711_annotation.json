@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The organism is situated on a white/creamy daisy-like flower with a yellowish-orange central disk. The petals are broad and somewhat flat. The stem of the flower is green and visible below. The background beyond the flower is highly out-of-focus, appearing as dark, desaturated olive-green and brown tones, likely distant vegetation or ground, with blurred lighter specks.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage by perfectly matching the color of the daisy-like flower it is resting upon. Its pale, creamy-yellow body blends seamlessly with the white petals and the lighter tones of the flower's yellowish-orange central disk. This high degree of color similarity results in very low contrast between the spider and its immediate floral environment, making it incredibly difficult to spot. The spider's relatively smooth texture also harmonizes with the smooth surface of the petals, further enhancing the blend. This form of camouflage, often employed by crab spiders, is a prime example of ambush predation where the predator waits undetected for prey, as evidenced by the dark insect nearby."
+}

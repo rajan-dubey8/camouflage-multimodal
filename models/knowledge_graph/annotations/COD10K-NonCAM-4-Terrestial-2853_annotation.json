@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Seal",
+  "background_description": "The background consists of a reddish-brown sandy beach scattered with small, similarly colored pebbles and stones. In the upper left, a small section of the ocean with white breaking waves is visible at the shoreline.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The seal's dark brown to blackish fur color strongly contrasts with the reddish-brown sand and pebbles of the beach. Its smooth, wet-looking texture also differs significantly from the grainy and rocky texture of the environment. The animal is easily discernible against its surroundings, indicating no camouflage is present."
+}

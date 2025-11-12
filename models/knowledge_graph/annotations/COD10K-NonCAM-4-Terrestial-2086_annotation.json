@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of dark, flowing water with subtle ripples and reflections. The water appears murky and dark grey-brown, suggesting a river or stream bed with possibly submerged rocks or sediment. The textures are fluid and somewhat blurred due to motion and depth.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.7,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The otter exhibits camouflage through color blending. Its dark brown fur, with slightly lighter underparts, closely matches the dark, wet tones of the water and the riverbed. This natural coloration helps the otter blend in with its aquatic environment, reducing its visibility to both prey and potential predators. The low contrast difference between the otter and its background further enhances this blending effect, making it less discernible in the murky water."
+}

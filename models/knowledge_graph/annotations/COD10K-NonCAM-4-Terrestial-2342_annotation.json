@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness",
+  "background_description": "The background is an arid or semi-arid savannah landscape with sparse, dry yellowish-brown grass and numerous light-colored (pale grey to off-white) pebbles and small rocks. In the far distance, a blurry line of darker green trees or shrubs is visible under a pale blue to light grey sky.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lioness exhibits effective camouflage through color blending. Its tawny, yellowish-brown coat closely matches the dominant colors of the dry grass, earth, and light-colored rocks in the savannah environment. This color similarity allows the lioness to blend in with its surroundings, making it harder for prey to detect, especially from a distance or during low-light conditions. While its body shape is clearly discernible against the immediate foreground, the overall chromatic harmony significantly reduces its visibility within the wider landscape."
+}

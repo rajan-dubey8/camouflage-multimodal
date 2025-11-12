@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Canary-like bird",
+  "background_description": "The bird is perched amidst a dense network of thin, brown tree branches with sparse green leaves. The background is a blurry mix of darker green foliage and a lighter, somewhat teal-colored mesh or distant hazy environment, suggesting an aviary or natural dense bush.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird's bright yellow underparts and face stand out significantly against the dark brown branches and the green/teal background. While its olive-green/brown back feathers share some color with the distant foliage, the prominent yellow coloration creates a high contrast, making the bird easily visible rather than blending into its environment. There is no attempt at mimicry or disruptive patterning that would conceal its form or presence."
+}

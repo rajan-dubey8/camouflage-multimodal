@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Hoverfly",
+  "background_description": "The insect is perched on a cluster of small, delicate flowers, primarily white and pale pinkish-green, with some flowers fully open displaying yellow-green stamens and others still in bud form. A green stem is visible. The background behind the flowers is dark and heavily out-of-focus, appearing as deep shade or distant foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The hoverfly displays Batesian mimicry, a type of camouflage where a harmless species evolves to imitate the warning signals of a harmful species to deter predators. Its prominent black and yellow/orange striped abdomen closely resembles that of a stinging insect, such as a wasp or bee. While these colors do not blend with the white flowers or the dark, out-of-focus background, the mimicry itself serves as an effective defense mechanism by falsely signaling danger to potential predators. The strong contrast of the stripes and colors against both the insect's body and the environment further enhances the warning signal, rather than hiding the insect."
+}

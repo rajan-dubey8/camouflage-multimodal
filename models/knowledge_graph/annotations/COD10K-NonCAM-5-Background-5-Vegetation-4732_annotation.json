@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lake and mountain landscape from a patio",
+  "background_description": "The scene depicts a large body of water (likely a lake or reservoir) surrounded by densely forested mountains under a heavily overcast, dark grey sky. The water surface is choppy and reflects the dim, diffused light. In the foreground, a wet, dark-colored concrete or tiled patio features several potted plants, including tall palms and smaller foliage, along with a dark plastic chair. A rustic wooden railing made of logs separates the patio from the water.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features an environmental scene, encompassing a lake, mountains, sky, and a patio with plants and a chair. There are no visible animals, insects, or fish present in the image. Therefore, no camouflage is detected as there is no organism to assess for camouflage."
+}

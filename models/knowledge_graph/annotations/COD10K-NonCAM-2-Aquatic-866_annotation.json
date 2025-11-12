@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background depicts a murky, dark underwater environment. Suspended particles are visible in the water, indicating a natural or somewhat turbid aquatic habitat. There are diffuse yellowish-brown light reflections on what appears to be the water's surface or objects just above, suggesting external light sources. A slender, dark, vertical object, likely a submerged log or plant, is partially visible behind the fish.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits countershading, a form of color blending camouflage common in aquatic animals. Its dorsal (top) side is a darker silver-grey, while its ventral (bottom) side is lighter. This coloration helps to reduce its silhouette against the varying light conditions in water: the darker back blends with the darker depths when viewed from above, and the lighter belly blends with the brighter surface light when viewed from below. Although the fish is clearly visible in this particular image, its inherent coloration is a camouflage adaptation to its environment."
+}

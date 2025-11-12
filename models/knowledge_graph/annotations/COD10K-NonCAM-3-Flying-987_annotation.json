@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Perched bird",
+  "background_description": "The background consists of a tree branch, predominantly brown and gnarled, with several smaller bare twigs extending from it. To the right, some thin twigs bear clusters of small, bright red berries. The distant background is a soft-focus, blurry expanse of muted green foliage, suggesting a natural, vegetated environment like a forest.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird is easily visible against its background. Its coloration, featuring a dark cap, a distinct white eye-patch, grey upperparts, rufous underparts, and dark blue wings/tail, creates clear contrasts with both the brown tree branch and the muted green foliage in the background. While natural, these colors do not blend seamlessly with the environment; instead, the bird's prominent markings and overall form stand out. There is low color similarity, as the bird's distinctive hues are not closely matched to the dominant greens and browns in a blending manner. Texture similarity is also low, as the bird's smooth plumage does not mimic the rough bark of the branch or the soft texture of the distant foliage. The high contrast difference ensures the bird is easily detected."
+}

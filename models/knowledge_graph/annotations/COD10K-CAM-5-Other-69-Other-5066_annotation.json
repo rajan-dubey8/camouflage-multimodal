@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebra",
+  "background_description": "The background consists of dense green foliage with numerous small leaves, interspersed with brown, thorny tree branches. Patches of lighter green and brown suggest grass or distant vegetation in the deeper background, creating a visually complex and fragmented environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.75,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebra's distinctive black and white stripes act as a form of disruptive pattern camouflage. While the colors themselves contrast with the green and brown background, the high-contrast stripes break up the animal's body outline. This effect is enhanced by the dense, fragmented tree branches and leaves that partially obscure the zebra, making it difficult for a predator to perceive its full form and exact location. The visual 'noise' created by the foliage combined with the stripes further hinders clear identification, especially at a distance or in low light."
+}

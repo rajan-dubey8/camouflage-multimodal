@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hummingbird",
+  "background_description": "The background consists of blurred green foliage, featuring broad green leaves, with one prominent leaf acting as a perch. There are faint indications of rain or water droplets in the soft-focus background.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The hummingbird is highly visible due to its iridescent and vibrant green and blue plumage, especially the prominent blue patch on its throat. While its green feathers share some general color with the surrounding green foliage, the bird's overall striking appearance, iridescence, and the distinct contrasting blue patch prevent it from effectively blending into its environment for concealment. Its coloration appears more suited for display than for camouflage in this context."
+}

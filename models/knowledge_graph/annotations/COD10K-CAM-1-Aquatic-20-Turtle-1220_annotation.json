@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Turtle",
+  "background_description": "The background consists of damp, dark earth or mud, interspersed with small rocks, decaying leaves, and organic debris. It features various shades of dark brown, black, reddish-brown, and some muted green from plant matter. The texture is rough, irregular, and appears moist, with visible specs of dirt and organic material.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption / Other",
+  "explanation": "The turtle exhibits exceptional camouflage. Its skin and visible parts of its shell are mottled with dark browns, blacks, and earthy yellowish-tan hues that perfectly match the damp, muddy, and debris-strewn forest floor. The rough, irregular texture of its head and body, further enhanced by what appears to be a natural coating of mud and organic matter, seamlessly integrates with the surrounding environment of soil, small rocks, and decaying leaves. This combination significantly reduces both color and texture contrast, making its outline extremely difficult to discern. The overall shape is also disrupted by the irregular texture and mud. The only feature that stands out clearly is its bright, speckled eye, which serves as the primary indicator of its presence."
+}

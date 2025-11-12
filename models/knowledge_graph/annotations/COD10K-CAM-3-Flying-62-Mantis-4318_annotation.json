@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a tree trunk covered in rough, deeply fissured bark. The bark displays a mottled pattern of various shades of grey and brown, with irregular textures, ridges, and cracks running vertically and horizontally across the surface, giving it a weathered and uneven appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Mantis is exceptionally well-camouflaged against the tree bark. Its body coloration, a mottled pattern of greys and browns, perfectly matches the hues of the surrounding bark. Furthermore, the Mantis's exoskeleton possesses a rugged, irregular texture that closely mimics the deep fissures, ridges, and rough surface of the tree trunk. The angular and uneven contours of its body also contribute to shape disruption, breaking up its outline and making it blend seamlessly with the natural irregularities of the bark. The overall low contrast between the organism and its environment makes it almost indistinguishable, indicating highly effective camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a rocky intertidal zone, featuring numerous wet, dark grey, black, and reddish-brown stones and pebbles of various sizes. Patches of bright green moss and dark brown seaweed cling to some rocks. Areas of light sandy or muddy ground are visible between the stones. A shallow pool of water with reflections is present in the upper right, showing submerged rocks and algae. The environment is textured, varied, and well-lit with some strong shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The birds exhibit excellent camouflage for their rocky, intertidal environment. Their dorsal plumage features a complex pattern of dark brown, black, and lighter tan/white streaks and spots, which closely mimics the varied colors and textures of the wet, irregular rocks, pebbles, sand, and seaweed. This 'salt and pepper' or mottled pattern effectively breaks up their outline (shape disruption) and allows them to blend into the visually cluttered background (pattern matching and color blending). While their white undersides and bright orange legs offer some contrast, these are less visible when the birds are foraging with their heads down and largely obscured by their bodies and the surrounding environment. The overall effect is that they are difficult to spot initially, becoming apparent only upon closer inspection, indicating effective camouflage against predators or for hiding from prey."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a large, irregularly shaped reddish-pink to orange-yellow coral or sponge structure, possibly covered with fine sediment or detritus, on the right side and bottom. The left side and upper central area are dominated by very dark, almost black, water or shadowed spaces, interspersed with numerous small, bright particulate specks, possibly plankton or light reflections. The texture of the coral/sponge is somewhat porous and uneven.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Pipefish in this image exhibits prominent, high-contrast red and white banding along its entire body, with a greenish-blue tip on its tail. This distinct pattern and coloration create a strong visual separation from the surrounding environment. While some red hues of the pipefish might faintly resonate with parts of the reddish coral/sponge, the bright white bands stand out starkly against both the dark water background and the textured coral/sponge. There is no effective color blending, pattern matching, or shape disruption that allows the organism to disappear into its surroundings. Its elongated, curved form is clearly outlined, making it highly conspicuous rather than camouflaged."
+}

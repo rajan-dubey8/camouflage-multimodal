@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The organism is resting vertically on a thin, dead-looking, dark brown branch or stem. The immediate background consists of blurred, vibrant green grass and foliage. Further in the distance, out-of-focus dark tree trunks are visible, suggesting a forest or woodland edge setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The dragonfly displays strong camouflage against the branch it is perched on. Its body and wings are primarily mottled shades of brown and grey, which closely match the dark, woody color of the branch. The texture of its body, appearing somewhat rough and segmented, combined with the dusty, veined appearance of its wings, mimics the rough surface of the branch. This excellent color and texture matching results in a very low contrast difference between the organism and its immediate substrate, making it difficult to discern its outline and presence to an observer. While the background is green, the organism is perfectly situated on a complementary brown surface, maximizing its concealment."
+}

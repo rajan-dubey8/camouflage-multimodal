@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Underwater coral reef",
+  "background_description": "The scene is an underwater environment dominated by a large, complex coral formation in the foreground, with numerous smaller coral structures and a sandy seabed extending into the mid-ground. The water is clear and blue, with sunlight filtering down from above. In the deeper background, the water becomes a darker blue, and a diver's silhouette is faintly visible. The coral itself is varied, with rough, textured surfaces, ranging in color from dark grey-green to hints of purple and lighter beige on some polyps and branches.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts an underwater coral reef environment. While there are small fish visible in the scene, they are not exhibiting any clear signs of camouflage; their colors and patterns do not blend significantly with their immediate surroundings (either the coral or the open water). The coral formations themselves, though biological, are part of the stationary environment and do not actively camouflage. Therefore, no organism in the image demonstrates camouflage."
+}

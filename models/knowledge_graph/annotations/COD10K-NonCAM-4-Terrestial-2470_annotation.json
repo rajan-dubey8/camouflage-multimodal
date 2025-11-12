@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Zebras in savanna",
+  "background_description": "The background consists of a grassy savanna landscape with patches of light green and dry brownish grass, interspersed with scattered thorny shrubs and numerous leafless, gnarled trees, suggesting a dry or winter season. The overall lighting is soft, likely overcast, contributing to muted tones.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The zebras exhibit a classic form of camouflage known as disruptive pattern or disruptive coloration through their distinctive black and white stripes. While highly conspicuous to human eyes in daylight, these stripes serve multiple camouflage purposes. They break up the animal's silhouette, making it difficult for predators (especially those with monochromatic or dichromatic vision, or hunting in low light conditions) to discern individual outlines. When in a herd, the stripes create a 'dazzle camouflage' effect, making it extremely challenging for a predator to single out and pursue one animal, as the merging patterns create visual confusion. The sharp contrast of black and white against the more muted greens and browns of the savanna, along with the very different texture of fur compared to foliage, reduces color and texture similarity, forcing the camouflage to rely on pattern disruption."
+}

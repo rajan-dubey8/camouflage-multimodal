@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Slender fish",
+  "background_description": "The underwater scene features a varied seafloor composed of fine sand mixed with debris, larger rocky formations, and various types of coral. Prominent features include a large, bulbous purple/blue coral formation in the center, smaller beige and brown corals, and rugged rock outcrops. The lighting is diffused, indicating a certain depth or turbidity, creating areas of shadow and muted colors across the scene. The overall color palette of the background is dominated by dull greens, greys, browns, and blues from the sand, rocks, and water.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "A slender, silvery-white fish is subtly camouflaged against the dark, shadowy side of the large purple coral. Its body color and semi-translucent quality allow it to blend almost seamlessly with the muted blue and grey tones of the coral and the dim light of the underwater environment. The low contrast between the fish's body and its immediate background makes its outline indistinct, making it very difficult to spot. This is a clear example of color blending camouflage, where the organism matches the overall color and light conditions of its surroundings to avoid detection. In contrast, the small, vibrant blue fish visible elsewhere in the image is not camouflaged and stands out clearly."
+}

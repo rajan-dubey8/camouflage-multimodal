@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hedgehog",
+  "background_description": "The background consists of reddish-brown soil, interspersed with dry, light brown grass and leaves, and some patches of sparse green grass. The lighting is dim, suggesting a nocturnal or low-light environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The hedgehog's dark, mottled quills and fur exhibit a medium color similarity with the dim, earthy tones of the reddish-brown soil and dry vegetation, as well as the shadowed green grass in its immediate environment. The irregular, spiky texture of its quills also helps to break up its outline against the varied textures of the ground cover (dry leaves, soil, sparse grass), reducing its contrast with the surroundings, especially under low light conditions where these animals are active. This combination of color and texture blending provides a moderate level of concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a ground covered with numerous rounded pebbles and rocks of varying sizes and shades of gray, interspersed with smaller gravel. There are also a few sparse blades of grass visible in the lower-left foreground. The overall texture is coarse and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits effective camouflage against its rocky and pebbly environment. Its mottled plumage, composed of various shades of light and dark gray, closely matches the grayscale tones and irregular, speckled texture of the surrounding pebbles and gravel. This strong similarity in both color (grayscale) and texture helps to break up the bird's outline and visual form, making it difficult to distinguish from the background. The low contrast difference further enhances its ability to blend in, embodying both color blending and pattern matching camouflage strategies."
+}

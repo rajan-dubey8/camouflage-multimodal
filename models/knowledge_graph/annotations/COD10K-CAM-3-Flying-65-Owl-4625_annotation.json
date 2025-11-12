@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Owl",
+  "background_description": "The owl is perched on a gnarled, weathered, and deeply textured tree stump or branch. The wood is primarily dark brown and grey with visible cracks, grooves, and rough surfaces. Above and to the sides, there are blurred green leaves, some brightly lit, casting dappled light and shadows. The distant background, visible between the tree parts, is a soft, out-of-focus blend of light green and yellowish hues.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The owl exhibits excellent camouflage by blending seamlessly with the tree bark it is perched on. Its mottled plumage, featuring various shades of brown, grey, and off-white, closely matches the color palette of the weathered wood. The intricate patterns and speckles on its feathers mimic the rough, cracked, and textured surface of the tree, effectively breaking up its outline. Furthermore, the owl is positioned within the natural irregularities and shadows of the tree stump, and partially obscured by the dappled light filtering through the leaves, which further enhances its concealment. Only its bright eyes offer a slight contrast, but the overall effect is one of high integration into its environment, making it very difficult to detect at first glance."
+}

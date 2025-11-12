@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Hammer Coral",
+  "background_description": "The background is dark, out of focus, and appears to be an artificial aquarium environment with a dark, irregular, possibly mesh-like or coarse rocky texture. A black grid-like structure is visible in the upper left portion of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image prominently features a Hammer Coral (Euphyllia), an aquatic organism with vibrant green tentacles tipped with lighter bulbs, and an orange-brown body. The coral's bright and distinct coloration and fleshy, tubular form create a high contrast against the dark, out-of-focus background, which consists of an irregular, possibly mesh-like or coarse rocky texture typical of an aquarium setup. There is no evidence of camouflage as the coral's appearance makes it highly conspicuous rather than blending with its surroundings. Its coloration is likely intrinsic to its biology (e.g., symbiotic algae) rather than an adaptation for concealment. (Note: 'Fish' was chosen for 'object_category' due to schema limitations as 'Coral' or 'Invertebrate' are not available options, and it is a prominent marine organism.)"
+}

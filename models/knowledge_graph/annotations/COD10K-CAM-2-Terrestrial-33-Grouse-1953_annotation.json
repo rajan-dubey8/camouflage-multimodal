@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Grouse",
+  "background_description": "The background consists of dense, dry, brownish-yellow grassy vegetation, intermingled with thin dark twigs and branches. There are patches of darker soil or leaf litter visible beneath the grass, and some sparse green shoots and reddish leaves appear at the very bottom. The overall environment is a muted, desaturated palette of browns, grays, and yellows, characteristic of late autumn or early winter undergrowth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Grouse is exceptionally well camouflaged in this image. Its plumage features a complex pattern of mottled browns, grays, blacks, and whites that almost perfectly matches the colors and textures of the dry, reedy grass and sparse twigs in its environment. The intricate feather patterns act as both color blending and pattern matching, making the bird's outline extremely difficult to discern. The high degree of color and texture similarity, combined with a low contrast difference between the bird and its surroundings, allows the Grouse to blend seamlessly with the surrounding vegetation, making it very hard to spot at first glance. The disruptive coloration further aids its concealment by breaking up its natural shape."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a softly blurred field of muted green, typical of distant foliage, behind the butterfly. The butterfly is perched on a vibrant purple flower with visible petal textures. Below the purple flower, there's another blurred shape of a reddish-pink color, likely another flower or leaf.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly is prominently visible and does not exhibit camouflage. Its dark black wings with distinct white markings create a high contrast against both the blurred green background and the vibrant purple flower it is resting on. There is no significant blending of colors or textures with its immediate surroundings; instead, its coloration makes it stand out rather than blend in."
+}

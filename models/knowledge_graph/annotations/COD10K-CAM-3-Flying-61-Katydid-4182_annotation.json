@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of dense, lush green foliage with various shades of green leaves, some appearing lighter due to lighting and others darker in shadow. There are also visible brown branches and stems. Many leaves have small, white speckles across their surface, and some show minor imperfections or holes. The overall environment is rich in organic textures and natural patterns.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.95",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The Katydid exhibits exceptional camouflage, primarily through mimicry. Its entire body, particularly the enlarged forewings, is shaped, colored, and textured to perfectly resemble a green leaf. The green coloration precisely matches the surrounding foliage, and its body displays vein-like patterns and small white speckles that mirror the natural variations and textures found on the background leaves. There's even a small, irregular hole on its 'wing' that convincingly simulates leaf damage. This combination of color blending, pattern matching, and highly effective shape mimicry makes the Katydid incredibly difficult to distinguish from the actual leaves it rests upon, resulting in very low contrast with its immediate environment."
+}

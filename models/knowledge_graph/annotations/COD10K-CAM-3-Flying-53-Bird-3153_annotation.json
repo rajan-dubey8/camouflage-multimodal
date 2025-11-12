@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense field of tall, dry reeds and grasses. The dominant colors are muted shades of greyish-brown, tan, and straw-yellow, with some darker reddish-brown, possibly cattails, in the upper right. Many of the reeds have soft, feathery plumes, creating a busy, textured environment with vertical elements and varied tonal values.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits remarkable camouflage, primarily through color blending and pattern matching. Its plumage features an intricate mix of browns, tans, creams, and dark streaks that perfectly mimic the varied hues of the dry reeds and grasses. The streaked and mottled pattern on its body and wings not only matches the coloration but also the busy, linear textures of the background foliage, effectively breaking up the bird's outline. This combination of matching colors and disruptive patterns significantly reduces its contrast against the environment, making it blend in seamlessly despite being captured in motion."
+}

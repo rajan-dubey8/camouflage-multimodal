@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hummingbird",
+  "background_description": "The background consists of a bright, clear blue sky, slightly out of focus, transitioning to a darker, more muted blue-green area in the lower left, possibly indicating distant foliage or shadow. The foreground includes a bright red plastic hummingbird feeder with yellow feeding ports and a clear plastic reservoir filled with liquid.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The hummingbird is brightly colored with an iridescent red gorget and greenish-grey plumage on its body, which stands out prominently against the clear blue sky and the bright red feeder. Its coloration serves purposes other than camouflage, such as display or species recognition. There is no visual attempt to blend in with its immediate environment through color, pattern, or texture matching, nor is it mimicking another object or using disruptive coloration to conceal itself from predators or prey. It is clearly visible and easily distinguishable from its surroundings."
+}

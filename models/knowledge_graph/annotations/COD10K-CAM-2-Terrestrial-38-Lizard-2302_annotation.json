@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is positioned on a large, broad, dark green leaf with visible veins and some dark spots/imperfections. Another similar leaf frames the top of the image. The background consists of very dark, out-of-focus foliage with several bright, circular bokeh lights, indicating light filtering through a dense, shadowy environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.8,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard exhibits camouflage primarily through color blending. Its vibrant lime green to yellowish-green coloration largely matches the general green theme of the surrounding foliage. This color mimicry helps it blend into a leafy environment, making it less conspicuous to predators or prey. However, the lizard's specific hue is notably brighter and more saturated than the immediate dark green leaves it is perched on, creating a moderate contrast. Its smooth skin texture also differs from the somewhat rougher, veined surface of the leaves. Despite these distinctions, the overall green color scheme provides a functional degree of camouflage within this specific environment."
+}

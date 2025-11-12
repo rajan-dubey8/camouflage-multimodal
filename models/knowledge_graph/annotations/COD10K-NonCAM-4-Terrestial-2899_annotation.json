@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Prairie dogs",
+  "background_description": "The background consists of dark brown soil with sparse patches of green grass in the foreground, and a large, textured greyish-brown rock or earthen wall in the mid-ground and background. The overall color palette is earthy and muted.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The prairie dogs exhibit a sandy to light brown fur color which provides a medium level of color similarity with the greyish-brown rock and earthy tones of their environment. While they stand out against the darker soil in the immediate foreground, their coloration helps them blend with the broader background, which is typical for their natural habitat (prairies, grasslands, arid regions). This color blending helps reduce their visibility to potential predators."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical beach and ocean",
+  "background_description": "The scene features a bright, clear blue sky over a vast expanse of turquoise and blue ocean. In the foreground, there are shallow rocky areas with visible underwater textures and some green coastal vegetation. A sandy beach lined with numerous palm trees and distant buildings is visible on the left side of the coastline. A hazy landmass or island appears on the distant horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a tropical coastal environment, encompassing the ocean, beach, sky, and distant land. There are no visible animals, insects, or fish present in the scene, which are the subjects typically exhibiting camouflage. Therefore, no camouflage is detected."
+}

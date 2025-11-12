@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Chameleon",
+  "background_description": "The background consists primarily of vibrant, healthy green leaves from a plant or tree, some appearing glossy and others with more texture or slight curling. Behind the foliage, a clear, light blue sky is visible, particularly towards the upper right and along the edges of the leaves.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The chameleon exhibits effective camouflage through its remarkable color and pattern matching with the surrounding green leaves. Its body is a mottled green with lighter speckles and patterns that closely mimic the varying shades and textures found on the foliage, allowing it to blend seamlessly into the leafy environment. The granular texture of its skin also contributes to breaking up its outline, aiding in shape disruption. While its coloration provides excellent similarity with the leaves (high color similarity), parts of its body, particularly its head and back, are silhouetted against the bright, uniform blue sky, creating a moderate contrast difference in those areas. This reduces the overall effectiveness of the camouflage somewhat, as it is easily detectable where it meets the sky. However, within the dense foliage, it is very well hidden, primarily through color blending and pattern matching."
+}

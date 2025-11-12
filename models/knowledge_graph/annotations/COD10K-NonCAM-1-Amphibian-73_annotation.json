@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Green Frog",
+  "background_description": "The background consists of clear, bright blue water, suggesting a man-made pond or pool. The water surface shows gentle ripples and reflects the frog's image, indicating a calm and shallow aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "A Green Frog is clearly visible floating on bright blue water. Its green and brown coloration contrasts sharply with the plain blue background, making it stand out prominently. There is no attempt at camouflage as the animal's colors and patterns do not blend with the simplistic aquatic environment."
+}

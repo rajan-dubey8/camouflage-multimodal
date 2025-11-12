@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Grey Squirrel",
+  "background_description": "The background consists of a thick, gnarled tree branch with grey-brown bark and some patches of lighter lichen, where the squirrel is perched. Behind the branch, there is a blurred expanse of green foliage, likely evergreen needles, suggesting a forest or park environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The Grey Squirrel displays effective camouflage through color blending. Its grey and brownish fur, particularly on its back and sides, closely matches the grey-brown tones of the tree branch it is sitting on. The variegated texture of its fur also aids in blending with the somewhat rough and mottled texture of the bark. The overall low contrast difference between the squirrel's body and its immediate perch helps it to disappear into the tree environment, making it harder for predators to spot when still."
+}

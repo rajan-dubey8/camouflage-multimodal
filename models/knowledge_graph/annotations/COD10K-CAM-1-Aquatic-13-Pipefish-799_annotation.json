@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a sandy seafloor mixed with fine detritus, small shell fragments, and larger pieces of organic matter. Several vibrant green, broad-bladed aquatic plant leaves (likely seagrass) are interspersed throughout the scene. There is also some lighter, yellowish, branching organic material present on the left side, resembling dead coral or algae. The overall environment is underwater, with a granular and textured substrate.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Texture similarity / Shape disruption",
+  "explanation": "The Pipefish in this image demonstrates excellent camouflage. Its body is pale, almost translucent white/beige, which highly matches the color of the lighter sand grains, shell fragments, and the yellowish-white organic detritus scattered across the seafloor. The pipefish's elongated, slender shape and its somewhat irregular, granular texture closely resemble a dead or bleached piece of plant stem or detritus, making it difficult to distinguish from the surrounding background elements. Its vertical orientation among the green plant leaves further aids in breaking up its outline, allowing it to blend seamlessly into the complex textures and colors of the sandy, vegetated substrate. The low contrast between the pipefish and its immediate surroundings, particularly the non-living organic matter, contributes significantly to its successful concealment."
+}

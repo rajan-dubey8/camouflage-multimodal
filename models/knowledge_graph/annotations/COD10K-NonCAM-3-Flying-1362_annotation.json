@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hooded Crow",
+  "background_description": "The bird is perched on a light yellowish-brown, slightly textured, curved surface, possibly a concrete barrier or pipe, showing some wear and fine striations. The background is blurred, depicting muted grey and brown urban structures with horizontal lines.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Hooded Crow, with its distinct two-tone black and light grey plumage, stands out clearly against both the light yellowish-brown surface it is perched on and the blurred, muted grey/brown urban background. Its coloration does not blend with the colors or textures of its immediate environment. There is low color similarity, low texture similarity, and a high contrast difference between the bird and its surroundings, indicating a lack of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Boxfish",
+  "background_description": "The background consists of a vibrant and complex coral reef environment or rocky seabed, characterized by uneven, textured surfaces. Dominant colors include shades of dark purple, reddish-brown, and dark green, indicating various corals, algae, and encrusting organisms.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Boxfish with distinct black and white striped patterns on a light blue/white body, and a yellow caudal fin. Its prominent colors and smooth texture stand out sharply against the rough, mottled, and darker tones of the coral reef background, indicating a clear lack of camouflage."
+}

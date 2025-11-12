@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists primarily of a tree trunk with rough, deeply textured bark. The bark features various shades of brown, from reddish-brown to darker, almost black crevices, and lighter, flaking layers. The texture is irregular and uneven, with vertical lines and fissures. Parts of the background, especially on the right, appear slightly out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The mantis exhibits outstanding camouflage against the tree bark. Its body color, a mottled pattern of dark browns, grays, and lighter speckles, almost perfectly matches the various shades and patterns present in the rough bark. The texture of its exoskeleton, particularly its wings, mimics the rugged, flaking surface of the tree trunk, making it visually indistinguishable from the surrounding environment. The overall contrast between the mantis and its background is remarkably low, allowing it to blend seamlessly and making it very difficult to detect visually."
+}

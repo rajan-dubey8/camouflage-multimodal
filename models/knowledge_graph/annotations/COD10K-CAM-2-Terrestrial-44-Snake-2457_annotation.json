@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists of various sized rocks, pebbles, and coarse soil, predominantly in shades of brown, tan, and grey. There are also darker shadowed areas, particularly on the left, created by larger rocks or debris, and lighter sunlit rock surfaces. The textures are rough and granular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding / Shape disruption",
+  "explanation": "The snake demonstrates excellent camouflage. Its scales feature a mottled pattern of dark browns, greys, and tans, which perfectly match the varied earthy colors of the surrounding rocks and soil. The intricate scaly texture of its skin also closely mimics the rough, granular surfaces of the stones and ground. The snake is coiled within a crevice, utilizing the shadows and uneven terrain to further disrupt its outline and blend seamlessly with the environment. The combination of color matching, pattern disruption, and strategic positioning results in a very low contrast difference, making the snake very difficult to spot."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Tits",
+  "background_description": "The background consists of dense green tree foliage with numerous leaves and branches. There are varying shades of green, from bright sunlit areas to darker shadowed sections, with hints of blue sky visible through gaps.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features two Great Tits, which have distinct black, white, and yellow plumage. These colors and patterns create a high contrast against the predominantly green leaves and brown branches of the tree foliage. There is no significant color blending or disruptive patterning that allows them to merge with their environment, making them easily noticeable rather than camouflaged."
+}

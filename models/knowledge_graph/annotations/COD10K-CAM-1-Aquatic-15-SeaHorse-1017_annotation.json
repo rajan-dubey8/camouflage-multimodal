@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of dark blue-green water, a vertical glass surface on the left with some green algal growth, and prominent live rock formations in the foreground. The live rock is irregular, textured, and predominantly reddish-purple with white and lighter patches, possibly coralline algae or other marine growth.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse exhibits excellent camouflage by closely matching the colors and textures of the live rock it is clinging to. Its body is a mix of reddish-brown and purplish hues with yellowish speckles, which mirrors the predominant reddish-purple and lighter patches on the textured rock. The irregular surface of the seahorse's body, particularly its dorsal ridges, further helps it blend with the uneven, rough surface of the rock, disrupting its outline and making it difficult to distinguish from the environment. This combination of color, texture, and shape mimicry significantly reduces its visibility."
+}

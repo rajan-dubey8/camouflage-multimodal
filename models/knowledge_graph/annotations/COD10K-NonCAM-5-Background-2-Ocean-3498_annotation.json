@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small reef fish",
+  "background_description": "The underwater scene features a dominant large, round yellowish-green plate coral. Surrounding it are areas of sandy seafloor, smaller coral formations, and rocky rubble with varied textures and colors ranging from light grey to brown and dark green. The water is clear with a blue-green tint, and sunlight creates diffused lighting and some shadows on the seabed. The camouflaged fish is positioned against a darker, rough, greyish-brown rocky/dead coral area.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "A small, dark-colored reef fish is present near the upper-left edge of the large yellowish coral, where it transitions into a greyish-brown rocky substrate. The fish's dark pigmentation provides a high degree of color similarity with the shadows and muted tones of the dead coral and rocky background, making it extremely difficult to detect. The low contrast between the fish and its immediate surroundings, combined with the irregular texture of the background, effectively conceals the fish through color blending."
+}

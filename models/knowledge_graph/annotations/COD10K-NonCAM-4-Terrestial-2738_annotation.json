@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Coyote",
+  "background_description": "The background consists of a natural environment with blurred green foliage in the immediate foreground, obscuring the lower part of the animal. Behind the animal, there are indistinct shapes and textures of darker green vegetation, shadowed areas, and earthen tones, suggesting a wooded or bushy area with dappled light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The coyote exhibits effective camouflage through color blending. Its fur, a mix of grizzled grey, brown, and tan, closely matches the muted earthy tones and dry vegetation found in its habitat. While there is bright green foliage in the foreground, the animal's natural coloration allows it to blend seamlessly with the darker, shadowy areas and the overall neutral palette of the background. The varied tones in its fur also help to break up its outline, contributing to its low contrast against the environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of vibrant green leaves with serrated edges, suggesting a deciduous tree like birch. There are also brown stems/twigs and a distinct green, textured, catkin-like structure where the organism is perched. The overall background is a mixture of bright and slightly darker green foliage, with some blurred brownish areas further back.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The 'Worm' (caterpillar) demonstrates excellent camouflage through color blending. Its body is a bright, vibrant green, almost perfectly matching the color of the fresh leaves and the catkin-like structure it is gripping. While its smooth, segmented body with small black dots has a different texture than the flat leaves, its texture blends well with the bumpy surface of the catkin. The yellow lateral stripes are subtle and do not significantly break the camouflage. The overall contrast difference between the organism and its immediate environment is very low, making it difficult to spot at a casual glance."
+}

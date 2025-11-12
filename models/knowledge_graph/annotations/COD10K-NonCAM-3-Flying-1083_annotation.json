@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of various green grasses and leafy plants, some in sharp focus and others softly blurred. There are also dried brown leaves and patches of dark brown soil visible, indicating a natural, possibly overgrown, ground environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly displays prominent black wings with striking white and light blue patterns. These distinct colors and patterns create a high contrast against the green foliage and brown ground of the background. There is no attempt at color blending or texture matching with the surrounding environment; rather, the butterfly stands out clearly. Therefore, no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "A vibrant underwater coral reef, characterized by complex, convoluted coral formations. The colors are predominantly reddish-brown, dark brown, and areas covered with green algae, along with dark crevices and shadowed sections.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The fish, a moray eel, demonstrates camouflage primarily through pattern matching and by utilizing its environment. Its body is bright yellow with irregular black spots. While the yellow hue creates a noticeable color contrast with the surrounding reddish-brown, green, and dark coral environment, the black spots serve as a disruptive pattern. These spots help to break up the eel's distinct shape and outline, making it harder for predators or prey to perceive its form against the complex, textured backdrop of the coral reef. Furthermore, the eel's position, emerging from a dark coral crevice, provides physical concealment and leverages shadows to further obscure its presence. This combination of disruptive coloration and crevice dwelling contributes to its camouflage, despite its vivid color."
+}

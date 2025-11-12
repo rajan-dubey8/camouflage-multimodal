@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "House Finches",
+  "background_description": "The birds are perched on a metallic outdoor light fixture, which appears to be covered in a light dusting of snow or ice. Behind them is a bright blue wall with horizontal siding panels.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The House Finches are not camouflaged in this scene. Their brown and grey plumage provides a strong visual contrast against the vibrant blue background of the building's siding, making them clearly stand out. While their colors might offer some blending in a natural environment like tree branches or dry leaves, they do not match the specific colors or textures of this man-made environment (metallic light fixture and painted blue wall), nor do they employ any disruptive patterns or mimicry for concealment."
+}

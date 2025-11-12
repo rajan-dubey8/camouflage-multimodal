@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a sandy beach surface, densely covered with numerous small, spherical pellets made of sand. These pellets are uniform in size and irregular in texture, matching the surrounding sandy ground which is composed of fine grains and scattered larger shell fragments.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The crab exhibits excellent camouflage by perfectly matching the color, texture, and pattern of its sandy environment. Its carapace and legs feature a mottled pattern of light grey, white, and brownish-black hues that are nearly identical to the surrounding wet sand and the numerous sand pellets. This intricate patterning effectively breaks up the crab's outline, making it extremely difficult to distinguish from the granular background. The texture of the crab's body also closely mimics the rough, aggregated texture of the sand pellets, further reducing its visibility. The low contrast difference between the crab and its immediate surroundings significantly contributes to its effective blending, making it almost indistinguishable at first glance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Blue Tang",
+  "background_description": "The background consists of a textured, rocky seabed or coral reef environment, predominantly covered in light green and brown algae, with some darker crevices and visible rock formations. A sea urchin with prominent spines is partially visible in the upper background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A vibrantly colored Blue Tang is clearly visible against the muted green and brown rocky background. Its distinct dark blue body and electric blue fins provide a high color contrast, making it stand out significantly from its surroundings. There is no visible attempt or indication of camouflage."
+}

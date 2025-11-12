@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Sparrow",
+  "background_description": "A clear, bright blue sky provides the primary background, seen through the grid pattern of a rusty, reddish-brown metal wire mesh fence. The fence posts are textured with rust and are uniformly colored.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The sparrow's grey and brown plumage offers no color blending or textural similarity with the vibrant blue sky or the rusty red metal fence it is perched upon. Its distinct shape and coloration stand out clearly against both elements of the background, making it highly visible and indicating no camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coral reef",
+  "background_description": "The image depicts a vibrant underwater coral reef scene. The background consists of clear turquoise-blue water with some deeper, darker areas. The midground and foreground are dominated by numerous hard corals of various shapes and textures. There are large, plate-like corals with fine, bumpy surfaces, appearing in shades of greenish-brown and yellowish-beige. Other corals are more branching or lumpy, with rougher textures and lighter colors such as pale beige or off-white. The overall scene is a complex and richly textured aquatic landscape.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features an underwater coral reef, which is classified as an environment. While a small feather star (an organism) is subtly visible in the upper-left, it is not the main subject of the image. The dominant visual content is the diverse coral landscape and the aquatic setting. As the analysis is for the environment itself and no camouflaged organism is the main subject, no camouflage is reported for the scene."
+}

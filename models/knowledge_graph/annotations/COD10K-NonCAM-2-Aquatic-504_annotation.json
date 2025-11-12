@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Red Snapper",
+  "background_description": "Deep water rocky reef environment with sparse marine life, typical for Red Snappers.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "Two dead fish are clearly visible in a white colander against a kitchen counter background. The prominent red fish is identifiable as a Red Snapper. There is no camouflage present, as the fish are out of their natural habitat and stand out distinctly against the man-made kitchen items. The background description refers to the natural aquatic habitat of a Red Snapper, not the non-aquatic environment shown in the image."
+}

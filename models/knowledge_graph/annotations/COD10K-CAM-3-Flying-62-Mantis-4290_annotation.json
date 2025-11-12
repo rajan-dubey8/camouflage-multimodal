@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a large, vibrant green leaf with a prominent network of light green veins. The leaf shows variations in color due to light passing through, creating brighter, translucent areas and slightly darker, more opaque regions. There are also several irregular holes in the leaf.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mantis demonstrates excellent camouflage primarily through color blending. Its body is a light, translucent green, almost perfectly matching the hue and luminosity of the surrounding leaf, especially where light illuminates the leaf. This high color similarity results in a very low contrast difference between the organism and its environment, making it difficult to distinguish. While the mantis's smooth body texture doesn't mimic the intricate venation pattern of the leaf directly, its overall green coloration effectively merges it with the foliage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a rough, granular surface, likely a rock or concrete wall. It is characterized by a speckled texture made up of various shades of gray, black, and muted brown/tan particles. The upper portion is in focus, showing distinct speckles, while the lower portion is out of focus but shows similar coloration and texture.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage. Its body coloration, a mix of grays, browns, and off-white, perfectly matches the speckled, granular texture and color palette of the rock surface it is resting on. The mottled pattern on its skin mimics the irregular speckles of the background, making it very difficult to discern its outline and form. The contrast between the lizard and its environment is remarkably low, contributing to its effective concealment. This is a clear example of both color blending and pattern matching."
+}

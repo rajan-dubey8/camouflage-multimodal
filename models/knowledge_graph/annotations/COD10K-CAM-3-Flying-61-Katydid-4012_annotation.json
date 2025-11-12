@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of highly textured tree bark, primarily in shades of brown and grey, with some greenish patches that suggest lichen or moss growth. The bark has deep crevices, ridges, and a rough, irregular surface, creating a complex and mottled pattern.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Katydid exhibits exceptional camouflage against the tree bark. Its body and wings display a complex pattern of mottled greens, browns, and greys that precisely match the various shades and discoloration found on the bark, including areas that resemble lichen. The texture of its exoskeleton, particularly on its wings, is rough and irregular, mimicking the rugged surface and deep fissures of the tree bark. This high degree of pattern matching, combined with the low contrast difference between the Katydid and its environment, makes it incredibly difficult to discern. Furthermore, its elongated and irregular shape, along with its splayed and patterned legs, effectively disrupts its outline, preventing it from standing out as a distinct entity. All these factors contribute to its near-perfect blending with the environment."
+}

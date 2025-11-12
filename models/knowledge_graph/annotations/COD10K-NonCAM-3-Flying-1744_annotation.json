@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "A vibrant, light green leaf with a relatively smooth surface, occupying the foreground and middle ground. The background is a soft-focus, darker shade of green, indicating more foliage or a shaded area.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The beetle's dark, metallic brown-bronze coloration provides very low color similarity to the vibrant light green leaf it is positioned on. There is a significant contrast difference between the dark insect and its bright background. Additionally, the smooth and somewhat shiny texture of the beetle's carapace does not blend with the finer, duller texture of the leaf. These factors make the beetle highly visible against its environment, indicating no effective camouflage."
+}

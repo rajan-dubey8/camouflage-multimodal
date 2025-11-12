@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach at low tide",
+  "background_description": "The background consists of golden-brown wet sand with distinct ripple patterns created by the receding tide. A narrow, shallow channel of water runs through the sand, reflecting the sky. Scattered small, dark pieces of debris and a single white shell are visible on the sandy surface.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a natural environment, specifically a sandy beach at low tide, with no visible organisms (animals, insects, or fish) present. The small objects scattered on the sand are inanimate debris such as a white shell and dark detritus, not living beings exhibiting camouflage behavior. Therefore, no camouflage is detected."
+}

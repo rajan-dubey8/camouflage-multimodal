@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The butterfly is perched on a cluster of dry, light brown and greenish plant material, possibly a dried flower head or seed pod, with thin bare branches extending downwards. The background behind this plant cluster is a soft, out-of-focus, vibrant green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The butterfly's wings display vivid yellow and black stripes, with additional blue and red markings on the lower wings. These striking colors and bold patterns stand in stark contrast to the muted, earthy tones (browns, dried greens) of the plant it is resting on and the soft, out-of-focus green background. The smooth texture of its wings also differs significantly from the rough, twiggy nature of the plant. There is no significant color or pattern matching, nor any shape disruption that would allow it to blend into this specific environment. Therefore, the butterfly is clearly visible and not camouflaged."
+}

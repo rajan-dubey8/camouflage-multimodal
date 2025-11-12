@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of shallow, clear water covering a dense layer of fallen, decaying leaves, twigs, and other natural detritus. The leaves are predominantly brown, dark reddish-brown, and muted olive, with various shapes and sizes, some submerged and some partially floating. Sunlight creates reflections and subtle shadows on the water's surface and the submerged objects.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits strong camouflage in this image. Its mottled skin, featuring shades of brown, tan, and olive green, perfectly matches the colors of the wet, decaying leaves and twigs that form its immediate environment. The warty texture of its skin further enhances this effect by mimicking the irregular, bumpy surfaces of the leaf litter and breaking up its own outline. The overall contrast between the toad and the background is very low, making it difficult to distinguish. Its irregular body shape also contributes to shape disruption, preventing it from standing out as a distinct form amidst the natural debris. These combined factors allow the toad to blend seamlessly with its surroundings."
+}

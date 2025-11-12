@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense layer of dried vegetation, primarily light-colored, brittle fern fronds, intertwined with fine, straw-like dry grasses and small twigs. There are also darker patches of soil or shadows, and some out-of-focus purple flowers in the lower foreground. The overall color palette is dominated by muted browns, beiges, creams, and grays, with warm light highlighting textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly exhibits excellent camouflage, blending seamlessly with its environment. Its folded wings display a mottled pattern of light beige, cream, and various shades of brown, which precisely match the colors and textures of the dried fern fronds and other dead plant material it rests upon. The intricate patterns on its wings mimic the complex, irregular surfaces of the dried foliage, making it very difficult to distinguish from the background debris. The overall contrast difference between the butterfly and its immediate surroundings is very low, as its colors and patterns break up its outline, preventing it from standing out visually. Its shape, when wings are folded, also contributes to resembling a dried leaf, enhancing the mimicry and pattern matching."
+}

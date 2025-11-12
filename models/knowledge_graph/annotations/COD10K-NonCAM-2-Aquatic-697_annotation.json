@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Shark",
+  "background_description": "The background consists of deep, open ocean water, appearing as a uniform, dark blue gradient with no visible seabed, coral, or other underwater structures, suggesting a pelagic environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two distinct aquatic animals: a large shark on the left and a smaller, striped pilot fish on the right. The shark's silvery-grey body stands out against the deep blue water, and the pilot fish's prominent black and white stripes make it highly visible. Neither animal is attempting to blend into the environment, and there are no elements in the background to facilitate camouflage. Both are clearly discernible."
+}

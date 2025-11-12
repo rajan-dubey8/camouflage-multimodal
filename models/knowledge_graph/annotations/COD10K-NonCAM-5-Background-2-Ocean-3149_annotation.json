@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small reef fish",
+  "background_description": "The background consists of a vibrant underwater coral reef environment. It features various types of corals, including dense branching green and dark brown corals, some encrusting corals with yellow-green patches, and lighter grey-blue fan corals. There are also areas of sandy seafloor visible. The overall scene is bathed in a greenish-blue light typical of shallow tropical waters, with some shadows and highlights from the varied reef structures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "A small reef fish, likely a wrasse or parrotfish, is visible amidst dense green branching coral in the center-left. The fish displays bright yellow coloration with dark vertical stripes. While the vivid yellow creates a high contrast against the predominantly green-brown coral and blue-green water, its dark stripes act as a disruptive pattern, helping to break up its outline. Its small size and strategic positioning within the complex, textured structure of the coral provide some concealment, making it less immediately obvious despite its bright colors. The overall color similarity between the fish and the background is low due to the prominent yellow, and texture similarity is also low as the fish's smooth scales contrast with the rough coral. However, the disruptive pattern and use of the environment's complexity contribute to a moderate level of camouflage."
+}

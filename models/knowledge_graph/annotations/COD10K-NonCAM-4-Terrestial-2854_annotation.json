@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Brown bears",
+  "background_description": "The background consists of light brown, dry earthy ground with some sparse green vegetation, and a blurred, lighter-toned rocky or concrete area further behind, suggesting an outdoor, possibly natural habitat or enclosure.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts two brown bears. While the brown coloration of bears provides a natural degree of blending in their typical forest or rocky habitats, in this specific scene, the bears are large, prominently featured, and highly visible. Their distinct forms, shaggy fur texture, and outlines stand out against the immediate background of light brown earth and sparse green vegetation. They are not effectively hidden or attempting to blend into the background to avoid detection, therefore no active camouflage is present."
+}

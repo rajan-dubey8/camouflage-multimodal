@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Platy fish",
+  "background_description": "The background consists of clear, open water with a smooth, gradient transition from a darker blue-green at the top to a lighter blue-green towards the bottom. There are no visible rocks, coral, or vegetation, indicating a plain aquatic environment, likely an aquarium.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a reddish-orange Platy fish with black fins swimming against a plain blue-green background. Its distinct coloring and shape stand out prominently, indicating a very low color and texture similarity to its immediate environment. There is no evidence of camouflage being used."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The aquatic environment appears to be an aquarium, featuring a seabed covered with mixed light brown and beige gravel. Artificial orange and green leafy plants are visible on the left, while a large, dark brown, textured rock formation occupies the right side. The water is clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright orange and white goldfish. Its vibrant coloration and distinct patterns provide a strong contrast against the gravel, plants, and rock, indicating no camouflage is present."
+}

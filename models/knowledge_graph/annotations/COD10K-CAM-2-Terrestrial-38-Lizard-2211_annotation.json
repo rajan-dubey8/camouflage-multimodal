@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a plant with thick, elongated, bright green leaves and stalks. These stalks have distinct vertical striations and some show hints of yellowing or browning towards their bases. The plant's structure creates natural folds and shadowed areas, with a lighter, possibly off-white, background visible in some gaps, and darker soil/potting material at the very base.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard demonstrates excellent camouflage through color blending. Its vibrant green body coloration is almost identical to the bright green of the plant's stalks and leaves where it is resting. This high color similarity makes the lizard incredibly difficult to distinguish from its immediate environment. While the lizard's skin is smooth and the plant stalks have vertical striations, the overall texture similarity is medium enough not to create a stark contrast. The difference in contrast between the lizard and its background is low, as its brightness and hue match the surrounding foliage very well. This combination of matching color and low contrast allows the lizard to blend seamlessly, making it very difficult for predators or observers to spot it at first glance."
+}

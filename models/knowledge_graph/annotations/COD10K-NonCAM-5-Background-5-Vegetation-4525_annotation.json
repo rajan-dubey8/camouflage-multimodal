@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wooded rocky hillside",
+  "background_description": "The scene depicts an outdoor environment under an overcast sky. The foreground and midground are dominated by dense, mixed green foliage, including various trees and shrubs, showing different shades of green from olive to dark green. In the upper midground and background, large, light-colored rocky formations are visible, interspersed with more dark green trees, indicating a rugged, hilly terrain. The overall lighting is soft and diffused.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural landscape composed of dense vegetation and rocky hills under an overcast sky. There are no animals, insects, or any other organisms visible within the frame. As no potential subject for camouflage is present, camouflage detection is not applicable, and thus no camouflage is identified."
+}

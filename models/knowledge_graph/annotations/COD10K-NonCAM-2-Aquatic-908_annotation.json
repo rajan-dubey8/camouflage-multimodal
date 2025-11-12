@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish among Anemone",
+  "background_description": "The background consists of numerous long, undulating tentacles of a sea anemone. Their color is predominantly a soft, muted brownish-pink or light reddish-orange, with some subtle purple or bluish hints in the shadows. The tentacles have a slightly granular or bumpy texture and are arranged in dense clusters, providing a complex organic structure.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The clownfish is clearly visible against the sea anemone. Its bright orange body with distinct white stripes outlined in black creates a high contrast with the muted brownish-pink tones and textured surface of the anemone tentacles. Clownfish are known for their vibrant coloration, which serves to identify them rather than to blend in with their environment. Their protection comes from their immunity to the anemone's stinging cells, not from camouflage. Therefore, no camouflage is present."
+}

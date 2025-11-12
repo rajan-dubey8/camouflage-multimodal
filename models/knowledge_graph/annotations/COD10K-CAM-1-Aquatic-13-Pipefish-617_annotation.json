@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a vibrant underwater reef ecosystem. The dominant feature is a section of coral and rocky substrate covered in a complex tapestry of encrusting organisms, algae, and possibly sponges. Colors observed include rusty reds, dark browns, olive greens, and patches of pale pink/white coral on the left side. The texture is highly irregular, rough, and mottled with various small growths and detritus. The upper background shows darker blue-green ocean water.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Pipefish exhibits excellent camouflage in this image. Its elongated, slender body features a mottled pattern of light tan, brownish, and reddish-brown segments with darker spots, which closely matches the varied coloration and complex textures of the coral reef environment. The pale sections of the fish blend with the light pink coral, while the darker, more patterned areas blend with the encrusting algae, sponges, and detritus on the rocky substrate. The irregular banding and spotting on its body serve to break up its outline (shape disruption), making it difficult to discern from the busy, textured background. The overall low contrast between the Pipefish and its immediate surroundings, coupled with the striking similarity in both color and pattern, allows it to blend seamlessly, making it very challenging to spot at first glance."
+}

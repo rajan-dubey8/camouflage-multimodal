@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of a wet, rocky intertidal zone covered extensively with golden-yellow filamentous and leafy algae/seaweed. There are also patches of darker, reddish-brown seaweed and exposed dark grey/black wet rock.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The StarFish is a vibrant dark purple with distinctive white, star-shaped patterns and bumps. It is situated on a background primarily composed of golden-yellow seaweed and dark, wet rocks. The strong color contrast between the bright purple of the starfish and the predominantly golden-yellow and dark background makes it highly conspicuous. Its distinct five-armed shape is clearly defined against the irregular textures of the seaweed and rock. Neither its color, pattern, nor shape blend with the immediate environment, indicating a complete lack of camouflage in this specific context."
+}

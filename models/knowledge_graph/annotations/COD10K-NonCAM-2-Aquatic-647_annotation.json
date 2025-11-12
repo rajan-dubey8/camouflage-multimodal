@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The aquatic environment consists of clear, shallow water with ripples visible on the surface, indicating movement. The background below the water appears to be a light-colored, textured seabed, possibly sand or small pebbles, rendered in muted greyish-white tones.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Goldfish with vibrant orange and white coloration. Its distinct colors stand out prominently against the muted, light-colored, textured background of the shallow water and seabed, indicating a complete absence of camouflage."
+}

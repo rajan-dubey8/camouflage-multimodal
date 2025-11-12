@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense, chaotic field of dry, cut grass and reeds. The colors are predominantly shades of light brown, tan, beige, and straw-yellow, with some darker patches of soil or shadows visible between the plant debris. The texture is rough, linear, and fragmented, with many overlapping and crisscrossing dry stems.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits highly effective camouflage. Its plumage is a mottled brown and grey, almost perfectly matching the colors of the dry, cut grass and reeds that make up its immediate environment. The streaky and speckled patterns on its feathers closely mimic the linear and chaotic texture of the surrounding vegetation, further disrupting its outline and making it blend in seamlessly. There is very low contrast between the bird's body and the background, making it exceptionally difficult to distinguish from the natural debris. The combination of color blending, pattern matching, and the disruption of its inherent shape against the busy background makes it almost invisible."
+}

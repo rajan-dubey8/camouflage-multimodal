@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Glass Frog",
+  "background_description": "A large, vibrant green leaf with visible veins, appearing moist and shiny under illumination. The background is predominantly dark on the left side, indicating deep shadow or an obscured environment, suggestive of a humid, possibly forest, habitat typically associated with amphibians near water sources.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image features a bright yellow Glass Frog with small brown spots, sitting prominently on a dark green leaf. Its vivid coloration and smooth, shiny texture stand out clearly against the textured green background, making it highly visible. There is no attempt at blending with the surroundings, confirming the absence of camouflage."
+}

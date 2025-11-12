@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The background consists primarily of the dense, elongated, and tapering tentacles of a sea anemone, which are depicted in muted shades of green and purple, appearing somewhat translucent. These tentacles create a soft, undulating texture around the fish. Beyond the anemone, the upper and left parts of the image show a deep, uniform black, suggesting a dark underwater environment or aquarium setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The clownfish exhibits bright, contrasting orange and white stripes with black outlines. These vibrant colors stand out significantly against the muted green and purple tentacles of the sea anemone and the deep black background. The fish's smooth texture also contrasts with the softer, fibrous texture of the anemone tentacles. There is no visual blending of colors or patterns with the immediate environment to conceal the fish; instead, its coloration makes it highly conspicuous. Therefore, it is not exhibiting camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a tree branch, likely deadwood or covered in aged bark, heavily adorned with bright green moss and pale, almost cream-colored lichen. There are also darker, almost black, twig-like structures and some blurred dark green foliage in the deeper background, creating a dappled, forest-like environment. The lighting highlights the textures on the branch and the lizard.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard demonstrates excellent camouflage. Its skin displays a complex mosaic pattern of reddish-brown, olive-green, and cream-colored speckles, which perfectly mimics the colors and textures of the moss and lichen growing on the tree branch. The rough, bumpy texture of its skin further enhances this blend with the uneven surface of the bark and vegetative growths. The lizard's body shape, particularly around its head and back, appears irregular and contributes to shape disruption, making its outline difficult to discern from the natural contours of the branch. The overall contrast difference between the lizard and its immediate background is very low, making it remarkably difficult to spot."
+}

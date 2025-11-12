@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Gecko",
+  "background_description": "The background consists of a rough, uneven rock surface, likely granite or a similar metamorphic rock. It features a mottled texture with varying shades of dark brown, grey, and numerous small white crystalline flecks, creating a granular appearance. There are also subtle patches of light green or grey lichen scattered across the rock.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Texture matching",
+  "explanation": "The gecko exhibits excellent camouflage against the rocky background. Its skin coloration, a mottled pattern of grey, dark brown, and lighter speckles, almost perfectly matches the composite colors and granular texture of the rock. The light and dark patches on its body mimic the crystalline flecks and darker mineral grains in the rock, effectively breaking up its outline. This high degree of color and texture similarity, combined with a low contrast difference between the organism and its environment, makes the gecko very difficult to distinguish from the rock surface."
+}

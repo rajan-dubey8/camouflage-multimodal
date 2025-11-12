@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tropical fish",
+  "background_description": "The background consists primarily of a uniform, deep blue surface, likely the back wall of an aquarium. In the bottom-left corner, there is a small area of light-colored, grainy gravel.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits vibrant orange and yellow coloration with distinct red spot and line patterns. This bright appearance stands in stark contrast to the uniform deep blue background of the aquarium, making it highly conspicuous. There is no visual resemblance in terms of color, texture, or pattern to the immediate environment (blue wall or gravel) that would suggest an attempt at camouflage. Therefore, camouflage is not present in this scene."
+}

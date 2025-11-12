@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Shark",
+  "background_description": "The background consists of deep blue open water, suggesting an ocean environment or a large aquarium tank. There are no discernible features like coral, rocks, or sand, only subtle variations in light within the water column.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a shark with its characteristic grey and white body against a uniform blue open water background. The animal is distinct and stands out, indicating no active camouflage is present or being utilized, consistent with the dataset's non-camouflaged nature."
+}

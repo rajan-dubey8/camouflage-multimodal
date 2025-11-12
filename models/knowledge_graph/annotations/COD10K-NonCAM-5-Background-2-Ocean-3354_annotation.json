@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wetland bird",
+  "background_description": "The image depicts a wetland scene with a large body of dark blue water in the foreground showing ripples. In the mid-ground, there are expansive areas of dense green aquatic vegetation, including reeds and lily pads, surrounding small islands of trees and shrubs. One of these islands features several trees, some with bare branches. The background shows more distant foliage and a clear, bright blue sky.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A dark-colored bird is clearly visible perched on a light-colored, bare tree branch on a small island within the wetland. The bird's dark plumage creates a high contrast silhouette against the lighter branch and the clear sky, making it easily distinguishable. There is no effective blending of colors or textures with its immediate surroundings to aid in concealment."
+}

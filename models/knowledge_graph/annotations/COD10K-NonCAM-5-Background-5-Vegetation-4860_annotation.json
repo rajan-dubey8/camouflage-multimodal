@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lakeside sunset with silhouetted tree",
+  "background_description": "The scene depicts a sunset over a calm body of water. The sky transitions from a soft blue-grey at the top to a vibrant golden orange at the horizon, with the sun prominently visible and reflected brightly on the water's surface. In the mid-ground, a dark, bare tree with sparse, gnarled branches is silhouetted against the bright sky and water. Distant city buildings and construction cranes are also silhouetted along the horizon line. The foreground features a dark, angular pathway or boardwalk leading to stepped structures at the water's edge.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a landscape scene dominated by a silhouetted tree against a sunset over a lake with distant city buildings. There are no visible animals, insects, or fish in the image. According to the rules, camouflage analysis is only performed for visible organisms. Since no organism requiring camouflage is present, camouflage is not applicable, and therefore set to 'No Camouflage'."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black swans",
+  "background_description": "The background consists of rippled, murky green water with some floating light-colored debris (possibly petals or small leaves) and reflections. The water's surface has a slightly textured, disturbed appearance.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features two black swans with prominent red beaks swimming in green water. Their dark coloration creates a strong contrast against the lighter green water, making them highly visible. There is no attempt at color blending, mimicry, or disruptive patterning that would help them blend into this aquatic environment. Their distinct features and colors ensure they stand out rather than blend in."
+}

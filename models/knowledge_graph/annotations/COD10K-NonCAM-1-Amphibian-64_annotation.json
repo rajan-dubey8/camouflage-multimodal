@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "A flat, rusty orange textured rocky surface with darker mottled specks, suggesting dry ground near an aquatic habitat.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "A small gray-brown toad is clearly visible and distinct from the rusty orange rocky background. Its coloration and textured skin do not blend with the surroundings, indicating no camouflage."
+}

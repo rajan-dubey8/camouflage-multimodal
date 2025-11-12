@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wheatear",
+  "background_description": "The foreground background consists of large, textured rocks in various shades of light brown, beige, and grayish-white (likely from lichen), suggesting a dry or arid environment. Behind these rocks, there is a soft-focus, vibrant lime green area, indicative of lush vegetation or grass, creating a blurred backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Wheatear exhibits good color blending camouflage against the rocks it is perched upon. Its plumage is predominantly sandy brown, beige, and light gray, which closely matches the earthy tones and sun-bleached appearance of the rocks. This allows the bird to blend effectively with its immediate stony environment. While its feather texture is distinct from the rough rock, the overall visual impression, especially from a distance, provides a moderate level of texture similarity, helping it integrate visually. However, the vibrant green background behind the rocks creates a significant color contrast, making the bird more noticeable when considering the entire scene rather than just its perch."
+}

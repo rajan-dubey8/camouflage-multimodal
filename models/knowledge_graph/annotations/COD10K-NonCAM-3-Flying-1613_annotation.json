@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pond Heron",
+  "background_description": "The background consists of a dark green body of water, likely a pond or lake, with ripples on the surface. Numerous lily pads (or lotus leaves) of varying sizes and shades of green and yellowish-white float on the water, reflecting sunlight. Some out-of-focus green foliage is visible in the immediate foreground.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird, identified as a Pond Heron, exhibits a high degree of contrast against its environment in this particular scene. Its prominent white wings and underparts stand out significantly against the dark green water and the lighter green/yellowish lily pads it is landing on. While its reddish-brown head and back could potentially offer some blending with certain muddy or vegetated elements in other contexts, in this aquatic setting, the overall effect is one of high visibility rather than concealment. The bird's colors and patterns do not closely match the dominant colors or textures of the water and aquatic plants, preventing effective camouflage."
+}

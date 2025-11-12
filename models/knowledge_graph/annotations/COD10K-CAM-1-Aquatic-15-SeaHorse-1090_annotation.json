@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background is an intricate underwater reef environment composed of various coral and rock formations. It features mottled textures and a diverse color palette, including dark browns, rusty reds, oranges, yellows, and patches of green algae. A large, smooth-textured, vivid blue starfish or sponge is prominently positioned on the left side of the image, extending into the frame.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The seahorse exhibits strong camouflage through a combination of color blending, pattern matching, and shape disruption. Its body displays a dark brown base with intricate yellow-gold blotches and lines, which perfectly mimic the irregular patterns, textures, and earthy color variations (browns, yellows, oranges) found on the surrounding coral and rock structures. The seahorse's bumpy, somewhat spiky body texture further blends with the rugged, encrusted surface of the reef. Although a vibrant blue starfish/sponge provides a contrasting element in the immediate vicinity, the seahorse's own coloration and morphology allow it to seamlessly integrate with the background reef, making it challenging to spot despite its central placement."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Ethiopian Wolf",
+  "background_description": "The background consists of undulating terrain covered predominantly with low-growing, dense silvery-grey shrubs or heather-like vegetation, with some patches of darker green ground cover and drier brown plant material. The overall impression is a high-altitude moorland or steppe environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Ethiopian Wolf is clearly visible against the backdrop of silvery-grey vegetation. Its reddish-brown fur creates a strong visual contrast with the light colors and fine textures of the environment, making it stand out rather than blend in. Despite its natural coloration potentially offering blending in other environments, it does not provide effective camouflage in this specific scene."
+}

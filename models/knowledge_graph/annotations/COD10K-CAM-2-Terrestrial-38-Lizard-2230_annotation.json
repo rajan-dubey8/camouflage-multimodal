@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dry, rocky terrain. There are numerous stones and pebbles of varying sizes and shapes, predominantly in shades of light grey, beige, tan, and some darker grey or black. The texture is rough and irregular, characteristic of a desert or arid environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits effective camouflage by blending its body coloration and patterns with the rocky environment. Its dorsal side is primarily greyish-blue with subtle speckles, closely matching the prevalent grey and light-colored stones. The tail features distinct dark and light bands, which mimic the varied tones and broken patterns of the scattered rocks and pebbles, aiding in shape disruption. This combination of color matching and pattern disruption helps break up its outline and makes it less conspicuous against the rough, stony background. While the ventral side displays brighter yellowish-green and a prominent turquoise patch, these colors are less visible from a typical predator's viewing angle (from above), thus maintaining the overall camouflage effectiveness."
+}

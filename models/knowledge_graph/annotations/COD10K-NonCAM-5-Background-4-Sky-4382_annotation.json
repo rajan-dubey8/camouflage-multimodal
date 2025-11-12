@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy landscape with distant city and mountains",
+  "background_description": "The scene is dominated by a heavily overcast sky with multiple layers of grey clouds, ranging from light to dark shades. A small patch of pale blue sky is visible in the mid-upper section. Below the cloud layer, a hazy line of distant blue-grey mountains forms the horizon. Further down, an urban or suburban area with various buildings and scattered trees is visible, appearing dark and indistinct. The immediate foreground features dark, silhouetted evergreen trees.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an environmental scene consisting of a cloudy sky, distant mountains, an urban landscape, and foreground trees. No animals, insects, or fish are visible anywhere in the image. Therefore, no camouflage is present as there is no organism to demonstrate camouflage."
+}

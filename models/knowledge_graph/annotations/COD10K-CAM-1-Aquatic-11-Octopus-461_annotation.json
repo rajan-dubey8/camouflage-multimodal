@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Cephalopod",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a vibrant and complex shallow coral reef environment. It features various types of stony corals, including branching forms and more massive structures, along with rocky substrate and patches of sand. The colors range from muted browns, beiges, and greens of the corals to the deep blue-green of the clear ocean water above. The overall scene is highly textured with many irregular shapes and patterns, creating a visually busy habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching / Color blending / Shape disruption",
+  "explanation": "The organism, although identified as an Octopus for the purpose of this response, exhibits remarkable camouflage. Its mantle displays intricate, high-contrast patterns of black, white, and iridescent blue-green, which perfectly mimic the varied textures, shadows, and light reflections found within the coral reef. The convoluted, wavy edges of its form further disrupt its outline, preventing it from standing out as a singular shape against the busy background. This combination of pattern matching, color blending with the reef's natural hues, and shape disruption makes the organism blend almost seamlessly with its complex coral environment, demonstrating highly effective crypsis."
+}

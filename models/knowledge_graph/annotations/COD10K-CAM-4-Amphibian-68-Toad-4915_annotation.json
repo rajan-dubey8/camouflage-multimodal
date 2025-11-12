@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dense layer of dried organic material, primarily brown and tan leaves, possibly pine needles, and small twigs. There are various shades of brown, reddish-brown, and dark grey present, with irregular linear patterns and rough, textured surfaces. Some areas show signs of moisture with visible water droplets.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage against its natural environment. Its skin coloration, a mottled pattern of various shades of brown, tan, and dark grey/black, closely matches the dried leaves, pine needles, and twigs in the background. The bumpy, warty texture of its skin mimics the rough and irregular textures of the organic debris, further enhancing the blend. The dark patches on its body also act as pattern matching, breaking up its outline and making it difficult to distinguish from the shadowed areas and varied textures of the ground cover. The overall low contrast difference between the toad and its surroundings contributes significantly to its ability to remain concealed."
+}

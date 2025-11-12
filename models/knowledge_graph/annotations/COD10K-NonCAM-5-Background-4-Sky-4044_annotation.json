@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy rural landscape",
+  "background_description": "The image depicts a rural landscape under a dramatic sky, rendered in black and white. The upper portion of the scene is dominated by dense, horizontally stretched dark clouds on the left, gradually lightening and becoming sparser towards the right side of the sky. The lower half shows a dark, silhouetted foreground composed of varied vegetation including bushy trees and shrubs. A faint outline of a building with a pitched roof is visible in the middle-left distance, and thin power lines stretch across the top-left corner. The overall texture of the clouds is wispy and layered, contrasting with the dense, organic textures of the foreground foliage. The scene implies either twilight or an heavily overcast day.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely displays an outdoor rural landscape with a cloudy sky and no discernible animals, insects, or fish. As such, there is no organism present within the frame to exhibit any form of camouflage. The scene itself, however, presents high contrast between the dark clouds and silhouetted foreground against the lighter areas of the sky."
+}

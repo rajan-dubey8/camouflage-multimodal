@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dense, dark forest floor with dry leaves, sparse green foliage, and exposed tree roots or small branches. There are several dark tree trunks and large moss-covered rocks in the deeper shadows. The entire scene is characterized by strong dappled sunlight filtering through the canopy, creating bright yellow-orange patches of light interspersed with deep, irregular shadows on the uneven ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The tiger exhibits strong camouflage in this image. Its distinctive orange fur with black stripes blends remarkably well with the sun-dappled forest environment. The golden-orange hues of its fur align with the bright patches of sunlight on the forest floor, while the dark black stripes effectively mimic the deep shadows cast by the trees and foliage. This 'pattern matching' strategy, combined with 'color blending' and 'shadow hiding', breaks up the tiger's outline ('shape disruption'), making it difficult to discern its full form against the visually noisy background of light and shadow. While parts of its body are brightly lit, these areas seamlessly integrate with the equally bright spots of sunlight on the ground, preventing it from standing out as a singular, distinct object."
+}

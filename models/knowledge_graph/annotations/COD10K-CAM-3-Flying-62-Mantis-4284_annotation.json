@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is situated on a vibrant, light green leaf with visible veins and several irregular holes, suggesting prior insect damage. The background consists of blurred, softer shades of green foliage, indicating a lush, leafy environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Mimicry",
+  "explanation": "The mantis exhibits a highly effective form of camouflage through mimicry. Its body is entirely brown, with an irregular, jagged shape, rough texture, and visible patterns that perfectly mimic a dry, withered, or decaying leaf. While its brown color strongly contrasts with the bright green live leaf it is clinging to, and its texture differs from the smooth, fresh leaf, its overall form is designed to be mistaken for an inanimate object (a dead leaf) within its natural environment. This type of mimicry aims to deceive predators by appearing as something unappetizing or unremarkable, rather than blending seamlessly in color or texture with its immediate living backdrop."
+}

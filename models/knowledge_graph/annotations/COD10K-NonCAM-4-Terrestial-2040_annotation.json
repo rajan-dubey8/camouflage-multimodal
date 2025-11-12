@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Young child",
+  "background_description": "An indoor living space with a dark reddish-brown polished wooden floor, white walls, and a bright yellow sofa or furniture piece partially visible on the right. The background is brightly lit, suggesting an open area or window, possibly a kitchen or hallway.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a young child who is the clear and prominent subject. The child's skin tone and light grey shirt create a high contrast against the dark wooden floor, white walls, and bright yellow furniture in the background, making the child highly visible. There is no evidence of the child attempting to blend into the surroundings or mimic any objects, therefore, no camouflage is present."
+}

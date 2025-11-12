@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of numerous round, bulbous structures, likely the polyps of an anemone or coral. These polyps are predominantly a uniform, light cream to off-white or pale orange color, with subtle translucent qualities. Some of the polyps also exhibit small, irregular purple markings or patterns on their surface, providing a textured and organic environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The shrimp exhibits effective camouflage primarily through a combination of translucency and pattern matching. Its body is largely translucent, allowing it to take on some of the light and color tones of its bulbous, cream-colored host, thereby reducing its overall visual mass and helping it blend with the background environment. Furthermore, the shrimp has distinct purple markings and spots on its legs, claws, and carapace that closely mimic the irregular purple patterns visible on the polyps of the anemone or coral it is perched upon. While its red eyes and internal organs provide some contrast, the translucency and, especially, the precise pattern matching with the host's markings significantly reduce its detectability. The overall shape of the shrimp is still discernible, and its texture does not match the globular background, preventing a perfect camouflage score, but the specific color and pattern elements are highly effective."
+}

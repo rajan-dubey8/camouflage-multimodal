@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists of blurred green foliage or grass, varying in shades from bright lime green to a slightly muted yellowish-green. The dragonfly is perched on a distinct, bright green, slender plant stem that traverses the image diagonally.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly is clearly visible against the green plant stem and blurred green background. Its body features distinct bright yellow and orange stripes contrasted with dark brown/black segments and legs. This coloration does not blend with the surrounding green environment, resulting in high contrast and low color and texture similarity, indicating no active camouflage. Dragonflies typically rely on speed and flight rather than static camouflage for predator evasion."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sky with cumulus clouds",
+  "background_description": "The image features a deep, vibrant blue sky, partially covered by large, billowy cumulus clouds that are predominantly bright white with some grey shading, indicating depth. Faint, wispy cirrus clouds are also visible in the bluer parts of the sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a natural sky scene with no visible animal, insect, or fish. As such, there is no organism present in the environment to exhibit camouflage. Therefore, camouflage is not applicable."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Worm",
+  "background_description": "The background consists of a vibrant green tomato plant with several unripe, spherical green tomatoes. The stems are also green and appear slightly fuzzy or hairy. There are some green leaves visible. The very far background is out of focus, showing blurred dark green foliage with hints of blue-green, suggesting more vegetation under sunlight.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The 'Worm' (which is a caterpillar, likely a tobacco hornworm or tomato hornworm) exhibits excellent camouflage. Its body is a bright, vivid green color that almost perfectly matches the color of the unripe green tomatoes and the surrounding stems of the plant. This high degree of color similarity makes it extremely difficult to spot at first glance. While its texture is smoother than the fuzzy stems, it integrates well with the overall organic appearance of the plant. The dark spots on its side are small and do not significantly break the color continuity, resulting in a low contrast difference with its environment."
+}

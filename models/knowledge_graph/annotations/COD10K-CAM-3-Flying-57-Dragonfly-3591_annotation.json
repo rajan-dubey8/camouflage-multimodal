@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists of a dense arrangement of green foliage, primarily long, slender grass blades, some with visible water droplets. There are also broader, lighter green leaves and hints of darker, possibly reddish-purple plant elements in the deeper background, creating a textured and varied green environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly's bright orange and yellow body with prominent black markings stands out clearly against the vibrant green grass and foliage. Although its wings are largely transparent, their dark venation and darker tips still create a discernible pattern and outline against the background. The strong color contrast between the insect's body and its environment, coupled with a lack of pattern or texture matching, prevents it from blending in effectively. It is easily identifiable in the image."
+}

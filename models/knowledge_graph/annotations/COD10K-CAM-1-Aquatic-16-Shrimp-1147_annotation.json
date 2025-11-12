@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a dark, complex underwater environment, likely a rocky reef or a crevice within one. It features various encrusting marine life such as reddish-purple corals, dark brown and grey rocks, and patches of green algae. The lighting is dim, creating deep shadows and an overall murky appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The organism, identified as 'Shrimp' per instructions (though visually resembling a Spiny Lobster), exhibits excellent camouflage. Its body features a mottled pattern of dark brown, reddish-brown, and lighter speckles that closely match the irregular textures and colors of the surrounding rocky crevices and encrusting corals. The rough texture of its carapace further mimics the uneven surfaces of the environment. Its position deep within a crevice utilizes shadow hiding, reducing its overall contrast against the dark background. While its striped antennae are somewhat more distinct, the main body blends almost seamlessly, making it very difficult to spot."
+}

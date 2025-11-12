@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness and cub",
+  "background_description": "The background consists of dense, green savanna grass with some drier, yellowish patches, typical of an African grassland environment. The ground beneath the grass appears to be earthy. The scene is illuminated by strong, warm sunlight, casting shadows and highlighting the textures of the grass and the lions' fur.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lions' tawny, sandy-brown fur provides effective color blending camouflage, allowing them to merge with the dry grasses and earthy tones of their natural savanna habitat. While the immediate background in this image features lush green grass which slightly increases their visibility compared to a dry season, their inherent coloration is a primary adaptation for stealth. The color similarity is medium because their fur tones align well with the drier elements of the savanna, even if the immediate grass is green. Texture similarity is low as their fur is distinctly different from the linear blades of grass. The contrast difference is medium due to the bright sunlight and the green backdrop, but the principle of camouflage is clearly demonstrated through their natural coloring, aiding them in hunting and hiding."
+}

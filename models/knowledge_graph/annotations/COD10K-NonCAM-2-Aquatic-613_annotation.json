@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Glass Tetra",
+  "background_description": "The background consists of dark, deep water with blurry green and brownish aquatic plants or algae visible in the bottom corners. Small particulate matter is suspended in the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A translucent Glass Tetra is clearly visible in the image, with its pale body and distinct red eye standing out against the dark, plant-filled aquatic background. There are no patterns, colors, or behaviors indicative of camouflage."
+}

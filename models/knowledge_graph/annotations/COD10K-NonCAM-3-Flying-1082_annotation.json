@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Green Heron",
+  "background_description": "The bird is perched on a slender, dry-looking branch that has several smaller twigs extending from it. The background is composed of out-of-focus bright green foliage, suggesting a lush, leafy natural environment, likely a forest or wetland area.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Green Heron exhibits camouflage primarily through color blending. Its plumage features dark greenish-gray on its back and wings, reddish-brown on its neck, and darker brown/black on its head. These colors closely match the natural tones found in its typical wetland habitats, which include shadowy vegetation, tree branches, and muddy banks. While the bird is somewhat visible against the bright, out-of-focus green background in this specific lighting, its overall coloration is designed to reduce its contrast and outline against a varied natural backdrop, making it less conspicuous to both prey and predators by merging with the surrounding environment."
+}

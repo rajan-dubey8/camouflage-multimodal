@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of weathered, light greyish-brown wooden planks with visible grain patterns and some darker crevices. It is brightly lit by sunlight, casting distinct shadows.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's vibrant orange and black coloration with distinct patterns stands out sharply against the light, weathered wooden background. There is no visual resemblance in color or texture between the butterfly and its current surroundings, making it highly visible and indicating a complete absence of camouflage in this specific context."
+}

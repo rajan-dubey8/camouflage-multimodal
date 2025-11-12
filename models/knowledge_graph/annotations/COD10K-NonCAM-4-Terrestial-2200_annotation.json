@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background is out of focus, appearing as a smooth, plain, light beige or tan wall or structure on the left and center, with a distinct vertical dark gray or black stripe on the right side. It lacks natural textures like foliage or rock and appears artificial.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.98,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The tiger possesses a natural camouflage pattern consisting of bright orange fur with black stripes. This disruptive coloration is highly effective in its native habitat of tall grasses, forests, and jungles, where the stripes help break up its outline and blend with the shadows and vertical patterns of vegetation. However, in this image, the tiger is positioned against a smooth, artificial background consisting of a plain light beige/tan wall and a dark vertical stripe. This background does not match the colors or textures of its natural environment, causing the tiger to stand out distinctly. Therefore, while the tiger inherently possesses camouflage, it is not effectively camouflaged in this specific scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky shoreline",
+  "background_description": "The image features rugged, dark grey to brownish-grey rock formations with numerous holes, crevices, and rough textures. Patches of light-colored sand and crushed shell debris are visible in the depressions. Small, succulent-like plants with green leaves and reddish stems grow in scattered clusters among the rocks. In the upper left corner, a small section of light blue-green ocean water is visible, indicating a coastal environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The image primarily depicts a rocky coastal environment. Although the main subject is the landscape, several small marine organisms, including snails and a crab-like crustacean, are visible within the environment and exhibit effective camouflage. The crab-like creature's brownish-grey coloration and rough texture highly resemble the surrounding porous rocks and sandy patches, resulting in high color and texture similarity and low contrast difference. Similarly, the small snails' shells blend with the lighter rock and shell debris. This allows these organisms to blend seamlessly into the rugged environment, despite not being the main focal point of the image."
+}

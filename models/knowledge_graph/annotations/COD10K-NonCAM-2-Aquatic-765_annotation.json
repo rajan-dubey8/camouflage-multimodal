@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus Fish",
+  "background_description": "The background consists of dark-colored rocks or driftwood and lush green aquatic plants. There are also hints of another fish partially visible in the upper left, blending with the darker tones.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a brightly colored orange Discus fish with a distinct shape and red eye. Its vivid coloration stands out prominently against the dark rocks and green plants of its aquatic environment, indicating a complete absence of camouflage."
+}

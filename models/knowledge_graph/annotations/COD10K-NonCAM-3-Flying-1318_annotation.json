@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small bird",
+  "background_description": "The bird is resting on a textured, mottled surface, likely stone or concrete, with shades of gray, brown, and subtle hints of blue/purple. The background behind the bird is a uniformly blurred, muted gray-blue surface.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird exhibits bright yellow plumage on its underside, olive-green on its back, a bluish-gray chest, and a dark head. These colors stand out distinctly against the predominantly muted gray and brown mottled stone surface it is resting on, and against the blurred gray-blue background. There is a high contrast difference in both color and pattern, making the bird easily discernible. Therefore, no camouflage is present in this specific environment."
+}

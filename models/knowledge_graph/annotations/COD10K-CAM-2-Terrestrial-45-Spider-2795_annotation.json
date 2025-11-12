@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of dark, clumpy, uneven soil or moist earth, possibly mixed with decaying organic matter and small roots. There are also patches of small, light-green foliage (possibly moss or tiny sprouts) scattered across the dark surface. The overall texture is rough, irregular, and granular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The spider exhibits excellent camouflage, blending remarkably well with its environment. Its body and legs display a mottled pattern of browns, grays, and dark earth tones that perfectly match the color palette of the surrounding soil and organic debris. The rough, hairy texture of the spider's body and legs also mimics the uneven, clumpy texture of the ground, further enhancing its concealment. There is a low contrast difference between the spider and its background, making its outline indistinct and difficult to perceive. The combined effect of color and texture matching, along with pattern disruption from its irregular shape, makes it very hard to spot despite its size."
+}

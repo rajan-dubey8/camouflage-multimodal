@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of a coarse substrate of various sizes of gravel and small rocks. The rocks display a mottled pattern of colors including dark grey, brown, off-white, and distinct patches of reddish-pink, orange, and darker purplish-brown. There are also hints of smaller detritus or marine growth integrated into the rocky seafloor. The overall texture is rough and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage by perfectly blending with the complex rocky and gravelly substrate. Its body coloration, featuring a base of light beige/white with a dense, reddish-purple reticulated pattern, closely mimics the colors and intricate textures of the surrounding rocks and marine growth, particularly the reddish and purplish patches. The irregular, bumpy surface texture of the fish's body further enhances this mimicry, making it appear as just another textured part of the seafloor. The fish's flattened and irregular body shape, along with its splayed fins, helps to disrupt its outline, preventing it from being easily recognized as a distinct organism. The overall contrast between the fish and its environment is remarkably low, making it very difficult to spot."
+}

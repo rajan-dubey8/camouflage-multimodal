@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal landscape with sailboat",
+  "background_description": "The image features a rugged coastal landscape. On the left, a steep cliff face composed of dark brown and light beige rocks is visible, topped with a dense line of dark green evergreen trees (likely pine or fir). The majority of the lower half and right side of the image is dominated by deep blue ocean water, appearing calm with a subtle texture. The upper part of the image consists of a clear, light blue sky, transitioning slightly in hue towards the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image primarily depicts a natural coastal environment, including rocky cliffs, evergreen trees, the ocean, and the sky. There are no visible organisms (animals, insects, or fish) present in the scene that would exhibit camouflage. The sailboat is a man-made object and does not possess natural camouflage. Therefore, no camouflage is detected."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Bumblebee",
+  "background_description": "The background consists of a vibrant green leaf with clearly visible veins and a somewhat smooth, slightly waxy texture. Portions of the leaf are brightly lit by direct sunlight, casting subtle shadows from the insect, while other areas appear slightly darker.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The bumblebee's distinct black and white/grey coloration provides very low color and texture similarity with the bright green leaf background. Its body stands out significantly due to high contrast against the foliage, making it easily visible to an observer. There are no patterns or forms that would disrupt its outline or allow it to blend into the environment, indicating a complete absence of camouflage."
+}

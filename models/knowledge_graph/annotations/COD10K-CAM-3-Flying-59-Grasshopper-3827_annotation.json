@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of various shades of green leaves and plant stems. The foreground shows a vibrant green leaf with visible veins and slight textures, which the grasshopper is resting on. Other leaves are partially visible, some in focus, others blurred, creating a natural, leafy environment with some areas of shadow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The grasshopper in this image does not effectively blend with its environment. Its primary body color, particularly the wings and abdomen, is a distinct brown/tan. This color creates a high contrast against the bright, vibrant green leaf it is positioned on. While some parts of its head and thorax exhibit yellowish-green hues, these are insufficient to overcome the overall color mismatch with the predominantly green background. The shape and texture of the grasshopper also stand out against the smooth, veined surface of the leaf, making it visually prominent."
+}

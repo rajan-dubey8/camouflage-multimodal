@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Koala",
+  "background_description": "The background consists primarily of vibrant green grass, evenly mown, with some slightly taller blades in the foreground on the right. In the mid-ground and background, there are blurred darker green areas suggesting trees or dense foliage. A rustic wooden post stands on the right side of the image.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The koala's grey and white fur stands out significantly against the bright green grass. Koalas are typically found in eucalyptus trees, where their coloration provides excellent camouflage against tree bark and foliage. However, in this open grassy environment, there is very low color and texture similarity between the koala and its immediate surroundings, resulting in a high contrast difference and no effective camouflage."
+}

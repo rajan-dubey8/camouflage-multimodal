@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists predominantly of vibrant, translucent green marine algae, likely sea lettuce, forming numerous wavy, irregular sheets and folds. Below the dense algal growth, a darker, murky seafloor or rocky substrate is visible, covered in fine sediment and some scattered detritus. The water appears to contain suspended particles, creating a somewhat diffused lighting environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.5,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Pipefish exhibits a degree of camouflage primarily through its body shape. Its long, slender, and elongated form allows it to blend with linear elements often found in aquatic vegetation, such as plant stems or strands of algae, even though the surrounding algae here are broad and leafy. Its dull greenish-brown coloration provides some color blending with the general greenish tint of the environment and the less vibrantly lit areas of the algae or underlying substrate, though it does not perfectly match the bright green of the dominant algae. While its smooth texture contrasts with the wavy algae, its overall slender silhouette and subdued color help to disrupt its recognizable form as a fish, making it less conspicuous rather than perfectly hidden."
+}

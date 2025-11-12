@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of light brown, fine-grained sand sparsely covered with dry, thin green and brownish plant stems and leaves, as well as numerous small, white, spiral-shaped empty snail shells and tiny dark debris. The overall environment appears dry and somewhat barren.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The toad exhibits excellent camouflage in this environment. Its dorsal coloration features a mottled pattern of yellowish-green and dark brown/black spots that closely resemble the color and texture of the sandy ground with scattered debris and dry vegetation. The granular appearance of its skin blends seamlessly with the grainy sand and the small fragments of plant matter and shells. This pattern effectively disrupts its outline and minimizes contrast, making it very difficult to distinguish from its immediate environment, thus providing strong protection from predators or aiding in ambushing prey. The white spots on its back even somewhat mimic the small white shells scattered around."
+}

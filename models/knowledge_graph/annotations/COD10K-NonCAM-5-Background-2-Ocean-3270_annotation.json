@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rough ocean and rocky coast",
+  "background_description": "The scene captures a turbulent ocean surface, characterized by dark, choppy waves and brilliant, shimmering reflections of sunlight creating bright silver-white patches across the water. Towards the bottom, waves break into foamy white crests, revealing underlying dark blue-green water. A dark, rugged rocky coastline is visible in the lower right portion of the frame, appearing shadowed and stark against the dynamic water.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an environmental scene featuring a rough ocean and a rocky coastline. There are no visible animals, insects, or fish present in the image. As such, there is no organism to evaluate for camouflage, and therefore, camouflage is not present."
+}

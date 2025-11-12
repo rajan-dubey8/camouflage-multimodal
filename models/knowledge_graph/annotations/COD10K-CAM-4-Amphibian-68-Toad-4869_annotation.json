@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a forest floor with a mix of organic matter. It features dark green pine needles and small branches, upright reddish-brown mosses or small plants, dried brown leaves, and patches of lighter green foliage. The environment is dappled with sunlight and shadows, creating a varied and textured ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage against its forest floor environment. Its mottled brown, grey, and dark patterns closely match the colors of the dried leaves, soil, and the reddish-brown and darker green vegetation surrounding it. The rough, warty texture of its skin blends seamlessly with the varied textures of the moss, pine needles, and leaf litter. Furthermore, the irregular patterns on its back effectively disrupt its body outline, making it difficult to distinguish its form from the visual 'noise' of the background. The low contrast difference between the toad and its immediate surroundings further enhances its ability to blend in, making it very challenging to spot at first glance."
+}

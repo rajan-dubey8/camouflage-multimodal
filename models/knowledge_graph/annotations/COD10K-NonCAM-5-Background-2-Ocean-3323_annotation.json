@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Brain coral",
+  "background_description": "The background consists of darker, blurred underwater features, likely other coral or rock formations, and murky open water with visible particulates. Colors are predominantly deep blues and greens, creating a less defined, shadowed backdrop.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.8",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending",
+  "explanation": "The image features a large brain coral, which is a living organism. Its intricate labyrinthine texture and varied yellow-green coloration contribute to its camouflage within a coral reef environment. The coral's natural color palette, though vibrant, is common among healthy reef ecosystems, providing high color similarity with its surroundings. The highly textured and convoluted surface of the coral also offers high texture similarity, allowing it to seamlessly integrate visually with the complex and diverse surfaces of a coral reef, making its individual form less distinct. The object_category is set to 'Environment' because, while the brain coral is an organism, its sessile nature and role in forming a significant, landscape-like structure of the underwater environment, combined with the lack of a more specific animal category (e.g., 'Invertebrate') in the provided schema, makes 'Environment' the most fitting choice to describe its visual contribution to the scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Angelfish",
+  "background_description": "Dark, out-of-focus background, suggesting open water or a deep aquarium setting with minimal light and a faint reddish tint at the bottom edge.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a close-up of an Angelfish with a distinct golden-orange head fading into a light purplish body. Its vibrant colors contrast sharply with the dark, featureless background, indicating no camouflage is present."
+}

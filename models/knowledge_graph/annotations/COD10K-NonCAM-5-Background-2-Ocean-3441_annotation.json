@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface with breaking waves",
+  "background_description": "The image displays a vast expanse of the ocean under a clear, bright blue sky. Numerous waves are visible, cresting and breaking into white foam as they move towards the viewer. The water itself is a deep blue-green, reflecting the light and showing variations in tone. The horizon line where the sea meets the sky is slightly hazy. The textures vary from the smooth surface of the water in calmer sections to the turbulent, frothy texture of the breaking waves.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment, specifically the ocean with breaking waves and the sky above. No animals, insects, or fish are visible within the frame. Therefore, there is no organism present that could be employing camouflage."
+}

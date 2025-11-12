@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Airplane taking off against blue sky",
+  "background_description": "A clear, vast blue sky with no visible clouds or other environmental features.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a commercial airplane against a clear blue sky. An airplane is a man-made object and not an organism. As per the rules, if no organism is visible, camouflage_presence is 'No Camouflage', camouflage_score is 0.0, camouflage_type is 'None', color_similarity is 'none', and texture_similarity is 'none'. Additionally, airplanes are designed for visibility and identification, not for concealment. The aircraft's white fuselage and discernible markings stand in high contrast against the uniform blue background, making it easily detectable. Therefore, no camouflage is present."
+}

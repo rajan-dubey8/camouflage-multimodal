@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Grunt fish",
+  "background_description": "The background consists of dark, muted blue-green water in the upper portion, transitioning to a lighter, granular sandy or rocky bottom texture in the lower portion. There are some blurred, darker coral-like structures visible towards the bottom left. Another smaller, out-of-focus blue fish is present in the upper right background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The fish exhibits prominent bright yellow and blue wavy patterns across its body and fins, along with a distinct black spot near its tail. These vibrant colors and intricate patterns create a high visual contrast against the muted blue-green water and the granular, sandy bottom of its immediate surroundings. The fish's coloration and texture do not blend with the background, nor do they mimic any specific environmental features to aid in concealment. Instead, its appearance makes it highly conspicuous, indicating a lack of camouflage in this particular scene."
+}

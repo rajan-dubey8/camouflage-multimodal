@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a dense arrangement of dry, woody plant branches with sparse green leaves and numerous clusters of small, light-colored flowers. The dominant colors are muted browns, off-whites, and dull greens, suggesting a dry or arid environment. The overall texture is busy and somewhat mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The butterfly is effectively camouflaged by its coloration and wing patterns. The intricate brown, orange, and cream spots on its wings closely match the muted tones of the dried flowers and plant material it is resting on. The clustered, non-uniform nature of the flowers and branches in the background also provides an environment where the butterfly's patterned wings blend in, disrupting its outline and making it difficult to distinguish from its surroundings. The overall effect is a significant reduction in visual contrast and an excellent example of pattern matching and color blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Chipmunk",
+  "background_description": "The background consists of a dense arrangement of out-of-focus, thin, greyish-brown tree branches and twigs. The overall impression is a muted, woody, natural forest undergrowth or thicket, with some very blurred green hints in the deepest background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The chipmunk exhibits camouflage primarily through disruptive patterns and color blending. Its fur features a mix of brown, tan, grey, and distinct black and white stripes that closely match the muted color palette of the surrounding greyish-brown tree branches and twigs. The stripes serve as a disruptive pattern, breaking up the chipmunk's body outline and making it harder for predators to distinguish its form against the complex, linear textures and shadows of the dense woody background. The high color and texture similarity further enhances its ability to blend into its natural habitat, despite its central and in-focus position in the image."
+}

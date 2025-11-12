@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Crab",
+  "background_description": "The background consists of a sandy beach surface composed of numerous small, irregularly shaped particles. These particles are predominantly light beige, off-white, and cream-colored, interspersed with many small reddish-orange and darker brown fragments, likely coral, shell, and rock detritus. A larger, light-colored, porous coral rock is also visible in the upper right portion of the image, contributing to the varied texture and color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The crab demonstrates effective camouflage through both color blending and pattern matching. Its primary body color is a pale off-white/cream, which perfectly matches the dominant color of the sand and the larger coral rock. The carapace of the crab features a mottled, slightly granular texture with subtle darker speckles, which mimics the varied granular nature and mixed debris of the sandy environment. Furthermore, the crab's legs have distinct reddish-orange markings and darker spots. These specific colors and patterns are echoed by the numerous reddish-orange coral fragments and darker bits scattered throughout the sand, making these features blend rather than stand out. While the crab is discernable upon close inspection, its overall coloration, texture, and pattern disruption make it very difficult to spot against this specific background, achieving a high degree of concealment."
+}

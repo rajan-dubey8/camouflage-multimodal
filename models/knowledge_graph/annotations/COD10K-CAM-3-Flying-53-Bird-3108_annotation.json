@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of dense, dark green foliage, primarily composed of thin, elongated leaves and slender branches. There are also lighter green, elongated seed pods or young leaves interspersed throughout. The lighting is dappled, creating areas of shadow and light, and contributing to a complex, busy texture.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The bird's camouflage is highly effective due to its vibrant green plumage, which perfectly matches the dominant green color of the surrounding dense foliage. While the bird has prominent red coloration on its head and belly, these areas are partially obscured by foreground branches and leaves. The dappled lighting further helps to break up the bird's outline and create a complex visual scene where its form is disrupted by the interwoven branches and leaves, making it difficult to discern from the environment. The primary mechanism is color blending, supported by shape disruption from the dense vegetation."
+}

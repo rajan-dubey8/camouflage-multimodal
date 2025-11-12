@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "ScorpionFish",
+  "background_description": "The background consists of a sandy and rocky seafloor, covered with fine sediment, algae, and various detritus. There are patches of reddish and pinkish coral or encrusting organisms, as well as some darker, more textured rocks. A sea urchin with dark spines is visible in the upper right quadrant, blending with the debris. The environment is highly textured and mottled.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The ScorpionFish exhibits remarkable camouflage. Its body coloration, a mottled mix of greens, browns, and whites with reddish hues, perfectly matches the sandy, algal-covered, and rocky seafloor. The fish's irregular body shape, with various fins and skin appendages, mimics the rough, uneven texture of the surrounding rocks and debris, effectively breaking up its outline. This combination of color blending, pattern matching, and shape disruption makes it incredibly difficult to discern the fish from its environment, allowing it to blend seamlessly and ambush prey or evade predators."
+}

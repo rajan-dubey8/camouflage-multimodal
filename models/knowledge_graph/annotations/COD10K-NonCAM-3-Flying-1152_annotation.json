@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The bird is perched in a nest or dense branch structure composed of various brown twigs and branches, interwoven with numerous dark green leaves. The background behind the bird is a blur of lighter green foliage, suggesting a dense forest or tree canopy.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Blue Heron's predominant light grey-blue plumage provides no significant color blending or textural similarity with the surrounding environment, which is dominated by vibrant green leaves and brown woody branches. The bird's coloration creates a high contrast against the background, making it easily visible. While Great Blue Herons often blend with watery or reedy environments, in this dense green foliage, its distinct color and form do not aid in concealment."
+}

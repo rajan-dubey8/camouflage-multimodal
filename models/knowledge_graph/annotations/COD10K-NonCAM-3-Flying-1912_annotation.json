@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of lush green foliage, appearing to be a climbing vine with small, roundish leaves. Behind the foliage, there is a light-colored, textured stone or brick wall, showing granular details and mortar lines. Some leaves show hints of yellowing.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly, with its dark blue and black wings, stands out prominently against the vibrant green leaves and the light-colored, rough stone wall. There is a significant contrast in both color and texture between the butterfly and its immediate environment, making it easily detectable. No characteristics of color blending, mimicry, or disruptive patterns are observed that would help it conceal itself in this setting."
+}

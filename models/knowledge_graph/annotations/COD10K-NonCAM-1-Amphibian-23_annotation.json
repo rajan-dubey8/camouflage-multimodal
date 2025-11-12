@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Bullfrog",
+  "background_description": "Freshwater pond with submerged vegetation, possibly algae-covered rocks, and a muddy or silty bottom.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Bullfrog with dark green and brownish mottled skin, which stands out distinctly against the lighter human hand it is resting on. There is no attempt at or presence of camouflage in this depiction, as the animal is not integrated with its immediate surroundings (human skin)."
+}

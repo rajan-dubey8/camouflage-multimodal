@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dry deciduous forest. There are numerous tree trunks, some bare with fine branches, others with sparse green foliage, and some with denser green canopies further back. The ground is covered extensively with dry, light brown to yellowish grass and fallen leaves, intermixed with patches of exposed soil and rocks. The lighting creates areas of dappled sunlight and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Pattern matching / Color blending",
+  "explanation": "The tiger's orange-brown fur and black stripes provide effective camouflage in this dry forest environment. The warm orange-brown color closely matches the hues of the dry grass, fallen leaves, and earthy tones of the ground. The vertical black stripes are crucial for pattern matching, mimicking the shadows cast by tree trunks, branches, and the vertical elements of the dry grasses. This striped pattern works to break up the tiger's outline, making it difficult to discern its form against the visually cluttered and varied textures of the forest undergrowth and tree shadows. While the tiger is visible upon close inspection, its natural coloration and pattern allow it to blend significantly with its surroundings, reducing its detectability to prey and observers."
+}

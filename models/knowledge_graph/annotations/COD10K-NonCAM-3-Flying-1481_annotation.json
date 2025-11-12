@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "House Finch",
+  "background_description": "The bird is perched on a dark gray/brown metal bird feeder with a cage-like structure visible on the left. The background beyond the feeder is out of focus, showing blurred muted gray tones shifting to a soft green area on the right, suggesting distant natural elements or foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The House Finch exhibits natural camouflage through its streaky brown, gray, and white plumage. This pattern serves as a disruptive pattern, breaking up its body outline to make it harder to discern against varied natural backgrounds like tree bark, dry leaves, or shadowy areas. While perched on an artificial metal feeder, its muted coloration still offers some color blending with the dark tones of the feeder and the overall desaturated background. The streaky texture, though not perfectly matching the smooth metal, provides some visual disruption. The bird is visible, but its inherent plumage is designed for concealment, making camouflage present though its effectiveness is moderate in this specific artificial setting."
+}

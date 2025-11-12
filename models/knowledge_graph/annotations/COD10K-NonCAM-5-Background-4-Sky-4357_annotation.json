@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky over silhouetted structures",
+  "background_description": "The background consists primarily of a sky filled with various shades of grey and white clouds, with patches of clear blue sky visible between them. The clouds exhibit a soft, wispy texture in some areas and denser, more uniform coverage in others. Below the horizon, a dark silhouette of buildings, possibly a sign, and bare trees is visible against the brighter sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image predominantly displays a cloudy sky and the silhouetted tops of structures and trees, representing an environmental scene. There are no visible organisms (animals, insects, or fish) present in the image that could be attempting to camouflage. Therefore, camouflage is not applicable."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists primarily of a vibrant, bright green fern leaf, with a ribbed and textured surface. Other parts of the fern or dense foliage are visible in the background, appearing slightly out of focus and creating a uniform green environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits excellent camouflage through color blending. Its entire body is a vivid green, almost perfectly matching the bright green hue of the fern leaf it is perched upon. While its physical shape and some subtle textural differences can be discerned upon close inspection (especially around the head and eyes), the overwhelming visual effect is one of seamless integration with its environment. The lack of significant color or brightness contrast between the grasshopper and the fern makes it very difficult to spot at first glance, effectively concealing it from potential predators."
+}

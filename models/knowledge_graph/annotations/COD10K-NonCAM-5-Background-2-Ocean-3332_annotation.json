@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Environment",
+  "object_name": "Branching coral",
+  "background_description": "The background consists of clear, blue ocean water with ripples of sunlight visible near the surface. Below and surrounding the main coral structure is a sandy seabed scattered with coral rubble, smaller rock formations, and sparse, delicate marine vegetation like sea fans or gorgonians, all indicative of a vibrant coral reef ecosystem.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The branching coral displays camouflage primarily through disruptive patterning and color blending. Its intricate, irregular, and highly branched structure effectively breaks up its outline, making it difficult to discern as a single entity against the complex and varied background of the coral reef. This form allows it to blend seamlessly with other reef structures, rocks, and marine vegetation. Although its orange-brown color stands out against the blue water, it blends well with the earthy tones and textures present in other parts of the reef and seabed. This natural integration within its habitat helps protect it from potential predators or environmental disturbances by making it less conspicuous as an individual organism within the bustling ecosystem."
+}

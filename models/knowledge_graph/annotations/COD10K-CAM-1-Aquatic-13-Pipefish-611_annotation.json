@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of numerous thick, elongated, undulating tentacles of what appears to be a sea anemone or soft coral. These tentacles are predominantly dark reddish-brown with a textured, slightly corrugated surface. Many of the tentacles terminate in distinct, round, bright white tips. The overall environment is dark, suggesting a deep-water or shadowed aquatic setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Pipefish is a pale, almost translucent white color. It is positioned amongst dark reddish-brown anemone tentacles. While some tentacles have bright white tips, the main body of the pipefish is long and uniformly pale, creating a strong contrast with the dominant dark brown coloration of the surrounding tentacles. Its smooth texture also differs from the visibly striated texture of the tentacles. Due to its distinct color, shape, and contrast against the majority of its immediate environment, the pipefish clearly stands out and does not blend with its surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sea urchin",
+  "background_description": "A vibrant underwater coral reef scene featuring varied corals, including table-like branching corals and encrusting stony corals, interspersed with patches of light-colored sand and dark, algae-covered rocks and shadowed crevices. The water is clear, allowing light to illuminate the diverse textures and muted colors of the marine environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "A sea urchin is visible in the upper-middle section of the image, nestled within a dark, rocky crevice among algae-covered rocks and corals. Its dark coloration (black/deep brown) and spiny, irregular texture remarkably blend with the shadows and the rough, textured surfaces of the surrounding environment, making it difficult to distinguish from the background. The low contrast and high color and texture similarity between the sea urchin and its immediate surroundings facilitate its camouflage. A small black fish is also visible near a coral in the foreground, but it stands out against the lighter sand and is not camouflaged. The 'Fish' category is used as the closest available marine animal category for the camouflaged sea urchin within the given schema, despite sea urchins being echinoderms."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Cephalopod",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a dense, heterogeneous mix of rough underwater rocks, sediment, and possibly some small encrusting organisms or algae. The environment features varying shades of brown, olive green, grey, and hints of yellow, creating a mottled and textured surface with numerous nooks and crannies and areas of fine particulate debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The octopus exhibits outstanding camouflage in this image. Its skin color perfectly mimics the varied earthy tones of the rocky, sediment-covered background, displaying a complex pattern of mottled greens, browns, and off-whites that blend seamlessly with the environment. Furthermore, the octopus has expertly altered its skin texture, producing raised papillae and irregular patterns that replicate the rough, bumpy, and uneven surfaces of the surrounding rocks and debris. This remarkable texture matching, combined with precise color blending, effectively disrupts its natural outline and creates a very low contrast difference between the organism and its surroundings. Only its prominent eyes offer a clear visual indication of its presence, underscoring the effectiveness of its concealment."
+}

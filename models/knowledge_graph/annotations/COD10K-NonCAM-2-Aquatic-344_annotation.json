@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Lionfish",
+  "background_description": "The background consists of clear, uniform blue-green open water, without any visible seabed, rocks, coral, or algae.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Lionfish with its distinctive black, white, and brownish striped pattern and elaborate fins. Its vibrant and high-contrast markings stand out sharply against the plain, undifferentiated blue-green water background, indicating a complete absence of camouflage."
+}

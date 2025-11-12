@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Yellow fish in coral reef",
+  "background_description": "The background is an underwater coral reef ecosystem, characterized by various formations of light-colored, rocky coral structures, interspersed with branching dark green sea plants (likely gorgonians or sea fans). The water has a light blue-green hue, creating a somewhat hazy visibility. The overall texture of the reef is rough and irregular.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features several small yellow-bodied fish swimming within a coral reef. These fish exhibit color blending camouflage, as their yellowish-green coloration somewhat matches the ambient light conditions in the shallow water and blends with certain lighter-colored coral patches and the overall greenish-blue tint of the underwater environment. However, their smooth texture and distinct outlines, contrasted against the rough, varied textures of the coral and sea plants, prevent them from being perfectly concealed. The camouflage makes them less conspicuous but not entirely invisible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a dense layer of small, rounded pebbles and gravel. The stones vary significantly in color, including shades of dark grey, black, brown, tan, yellow, white, and some reddish-orange hues. The overall texture is rough and irregular, with individual stones creating a heterogeneous pattern across the substrate.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Flounder in this image exhibits excellent camouflage. Its dorsal surface displays a mottled pattern of dark brown, black, yellowish-tan, and whitish patches that remarkably mimic the diverse colors and irregular textures of the gravel bed it rests upon. The irregular shape of its body, combined with the disruptive coloration, breaks up its outline, making it extremely difficult to distinguish from the surrounding stones. Both the color palette and the granular texture of the fish's skin align almost perfectly with the background, resulting in very low contrast and high similarity, allowing it to blend seamlessly with its environment."
+}

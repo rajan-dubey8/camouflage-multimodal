@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a water surface heavily covered with a dense layer of green and brownish-green algae or duckweed. There are also irregular patches of darker, open water visible beneath the vegetation. The surface has a rough, granular, and somewhat matted texture due to the aquatic plants. Thin, dry plant stems or debris are scattered across the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage through a combination of color blending and pattern matching. Its skin features mottled patterns of greens, browns, and darker specks that closely resemble the varying shades and textures of the algae-covered water and the darker open water patches. The overall low contrast between the frog and its environment makes its outline difficult to discern. The frog is partially submerged, and the bubbles around its head further help to break up its form, making it blend seamlessly into the murky, vegetated water. While its eyes are somewhat noticeable, the body itself is very well concealed."
+}

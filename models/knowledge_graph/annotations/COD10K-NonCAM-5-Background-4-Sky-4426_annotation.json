@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cloudy sky",
+  "background_description": "The image features a deep, uniform dark blue sky occupying the upper portion, contrasted with a large, volumetric white cloud filling the lower part of the frame. The cloud displays various shades of white and light grey, indicating its fluffy, textured nature and depth.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively shows a natural environment, specifically a sky with clouds. There are no visible organisms, such as animals, insects, or fish, present in the frame. Therefore, the concept of camouflage is not applicable to this scene."
+}

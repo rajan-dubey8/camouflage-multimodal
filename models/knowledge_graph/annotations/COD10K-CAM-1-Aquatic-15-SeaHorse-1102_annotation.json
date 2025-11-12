@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a dense, vibrant pink/reddish-orange coral structure, likely a gorgonian or soft coral. It has a highly textured and bumpy surface, appearing to be covered in numerous small, irregularly shaped polyps or growths. There are areas both in sharp focus and softly blurred, indicating depth within the coral, with some darker, almost black, shadowy areas in the deeper background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse exhibits exceptional camouflage by perfectly mimicking its coral habitat. Its body color is a pale pinkish-white with numerous prominent reddish-orange/pink spherical growths (tubercles) that are virtually identical in color, texture, and shape to the polyps and bumps on the surrounding coral. This allows for high color similarity and texture similarity with the background. The irregular, bumpy surface of the seahorse also effectively disrupts its outline, making it difficult to distinguish its form from the coral's complex structure, resulting in a very low contrast difference and superb blending into its environment. This is a classic example of a pygmy seahorse's specialized camouflage."
+}

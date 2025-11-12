@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dark, granular, possibly concrete or stone surface with varying levels of light reflection, creating a speckled appearance. Above this surface, in the upper portion of the image, there is dark foliage from a conifer or similar plant, mostly in shadow, with some tips illuminated by direct light. The lizard is primarily on the textured surface.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The lizard exhibits effective camouflage by matching the dark, granular texture and coloration of the stone or concrete surface it rests upon. Its dark brown and olive-green hues blend well with the mottled grey-brown of the background, which is also speckled with lighter particles. The harsh lighting creates a strong, dark shadow directly beneath and behind the lizard, which further aids in obscuring its form and reducing its visible contrast against the already dark environment. While its overall shape is still somewhat discernible due to the direct light hitting its back, the combination of color matching and shadow utilization significantly reduces its detectability."
+}

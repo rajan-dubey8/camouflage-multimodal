@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Mockingbird",
+  "background_description": "The background consists of a dense network of tree branches. There are thick, dark brown main branches and numerous thin, lighter-colored twigs. The branches are profusely covered with small, light pink blossoms, creating a visually busy and somewhat cluttered environment. A bright, possibly overcast sky is visible through the gaps in the foliage.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption",
+  "explanation": "The Mockingbird's gray plumage provides a medium level of color similarity with the muted tones of the bare twigs and the overall diffused light. While its color does not match the vibrant pink blossoms or the dark brown bark, its neutral tones prevent it from starkly contrasting with the natural environment. The primary camouflage effect comes from the incredibly dense and intricate network of branches and twigs surrounding the bird. This visual clutter effectively disrupts the bird's outline and makes it difficult to discern its full shape, causing it to blend into the busy background rather than standing out. The bird is partially obscured by the foliage, contributing to its concealment despite not having perfect color or pattern matching."
+}

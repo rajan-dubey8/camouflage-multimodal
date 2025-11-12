@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Roadside landscape with mountains and flags",
+  "background_description": "The scene depicts a clear blue sky with large, white cumulus clouds dominating the upper half. Below, a range of green, forested mountains stretches across the horizon. In the mid-ground, a paved road, possibly made of reddish-brown bricks, is lined with tall, lush green trees and grey metal streetlights. Numerous red flags, including one with the Taiwan flag design, are displayed along the road. Towards the right side, some modern, light-colored buildings are visible amidst more greenery.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively features an outdoor landscape comprising a sky, clouds, mountains, trees, a road, streetlights, and buildings. There are no visible organisms (animals, insects, or fish) present in the scene. Therefore, no camouflage can be observed or assessed in this image."
+}

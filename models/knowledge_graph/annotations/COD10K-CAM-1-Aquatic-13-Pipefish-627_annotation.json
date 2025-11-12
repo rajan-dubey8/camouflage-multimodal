@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a complex underwater environment, featuring dark, irregular rocky or coral structures, mottled with patches of lighter, possibly encrusting organisms like sponges or soft corals. There are also visible greenish patches, likely algae, and some small white detritus-like elements scattered across the darker areas. The overall texture is rough, uneven, and biologically diverse.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.65",
+  "confidence": "0.9",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Pipefish exhibits camouflage primarily through pattern matching and mimicry of its environment. Its slender, elongated body, marked with irregular brown stripes, white patches, and yellowish-green bands, allows it to blend with the diverse textures and colors of the coral and rocky substrate. While the brighter parts of the fish create a noticeable contrast against the very dark areas of the background, its disruptive coloration breaks up its outline. The striped pattern resembles the irregular growths, detritus, or fragments common in its habitat, making it difficult to discern as a distinct organism. This combination of shape and pattern helps it mimic environmental features rather than standing out starkly, despite some localized color and brightness mismatches."
+}

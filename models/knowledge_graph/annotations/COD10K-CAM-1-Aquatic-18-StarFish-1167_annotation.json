@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Echinoderm",
+  "object_name": "StarFish",
+  "background_description": "The background consists of an underwater rocky or coral reef wall, densely covered with diverse marine life. It features a highly textured surface with various forms of algae, sponges, and possibly corals, displaying a mottled palette of greens, browns, purples, pinks, oranges, and some lighter yellow/beige patches. The overall impression is one of rich, irregular, and varied organic textures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The two starfish in the image, one vibrant red and the other bright orange, are highly conspicuous against their underwater reef environment. Their uniform, strong colors create a high color and luminance contrast with the generally darker, more mottled, and varied hues of the background (greens, browns, purples, and mixed oranges). Furthermore, their distinct five-armed shapes and relatively smooth texture stand out clearly against the highly irregular, rough, and complex textures of the surrounding rock, algae, and sponges. There is no effective blending of color, pattern matching, or shape disruption to conceal them; instead, they are prominently displayed."
+}

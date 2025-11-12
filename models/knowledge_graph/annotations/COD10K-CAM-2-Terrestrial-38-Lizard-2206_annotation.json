@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists of a dense arrangement of vertical reed stalks and leaves, varying in color from vibrant green to dry straw-yellow and light brown. A prominent feature is a gnarled, dark brown to black piece of wood, likely a stump or branch, on which the lizard is perched. Gaps in the foliage reveal hints of a blurred lighter background, possibly sky or water. The overall environment is cluttered with linear and organic textures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The lizard is partially obscured by the dense vertical reeds, which offer some physical concealment. However, the organism itself, particularly its head and upper body, displays a distinct pattern of bright yellow/cream markings against a dark, possibly dark green or black, base. This high-contrast patterning makes the lizard quite noticeable against the more uniform green and brown tones of the surrounding reeds and the dark, textured wood it is perched on. While the cluttered environment provides some visual noise, the lizard's coloration and pattern do not effectively blend with its immediate surroundings, causing it to stand out rather than seamlessly integrate."
+}

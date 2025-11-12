@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of rough, deeply fissured tree bark. It features a complex texture with various shades of grey, brown, and patches of greenish-yellow and reddish-brown lichen or moss. The bark has prominent ridges and deep crevices, creating a mottled and irregular surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The bird exhibits excellent camouflage against the tree bark. Its plumage is a complex pattern of browns, greys, and white streaks that perfectly mimic the coloration and texture of the rough bark. The dark and light streaks on its back align with the shadows and highlights of the bark's crevices and ridges. The overall color palette of the bird, including the lighter feathers, blends seamlessly with the varied tones of the bark and the lichen patches, making it very difficult to distinguish the bird's outline from the irregular background."
+}

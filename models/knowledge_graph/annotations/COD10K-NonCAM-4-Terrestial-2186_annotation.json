@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red squirrel",
+  "background_description": "The squirrel is perched on a dark, textured tree stump or log, displaying rough bark with visible cracks and patterns. The background behind the log consists of soft-focus, blurred green foliage, indicative of a forest or woodland environment, with some brighter yellowish-green bokeh suggesting filtered sunlight.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The red squirrel exhibits natural camouflage through color blending. Its reddish-brown fur provides a moderate color match with the earthy, dark brown tones of the tree stump it is resting on, allowing it to blend into the woody elements of its habitat. The greyish-brown tail also helps to merge with the varied tones of bark. While its fur texture is distinct from the rough bark, and it stands out more against the bright, blurred green foliage in the background, its overall coloration is adapted to help it conceal itself from predators and prey within a forest environment."
+}

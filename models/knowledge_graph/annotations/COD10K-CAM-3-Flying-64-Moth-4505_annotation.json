@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The background consists of a dense layer of dry, fallen leaves, predominantly in various shades of reddish-brown, brown, and some areas with yellowish-brown and darker brown patches. The leaves display natural textures including veins, wrinkles, and some minor decay or damage. There are also thin, dark brown twig-like structures or prominent leaf veins visible among the leaves.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The moth exhibits exceptional camouflage, perfectly mimicking a dead, fallen leaf. Its wings are folded into a triangular shape, closely resembling the form of a dried leaf. The colors of its wings are a mottled blend of browns, reddish-browns, and tans, which almost exactly match the various shades of the surrounding leaf litter. A prominent ridge across its wings strongly resembles the central vein or a small twig, further enhancing the illusion. The subtle patterns on its wings mimic the textures and minor imperfections found on natural leaves. The low contrast between the moth and its environment, combined with its deceptive shape and detailed pattern matching, makes it incredibly difficult to distinguish from the background leaves. This is a classic example of Batesian mimicry, specifically mimesis, where the moth mimics an inanimate object."
+}

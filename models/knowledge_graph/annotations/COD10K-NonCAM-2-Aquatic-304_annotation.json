@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Goldfish",
+  "background_description": "The aquatic environment is an aquarium with a substrate of mixed white and green gravel. There is some visible green algae or growth on the gravel and the glass walls of the tank. The water appears clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "Two brightly colored orange goldfish are clearly visible against a light-colored gravel background in an aquarium. Their vibrant coloration significantly contrasts with the surroundings, indicating no camouflage."
+}

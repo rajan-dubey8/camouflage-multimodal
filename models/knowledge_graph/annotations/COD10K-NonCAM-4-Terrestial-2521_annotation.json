@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gorilla",
+  "background_description": "The background consists of large, textured grey rock formations with some darker crevices and shadows, suggesting an artificial rock wall in a zoo enclosure. There is a thin, textured rope-like object hanging vertically in the upper right.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The gorilla, with its dark grey to black fur (and 'silverback' lighter fur on its back), is clearly visible against the lighter grey, rocky background. There is a significant contrast in both color and texture between the animal and its environment. The gorilla's morphology and coloration do not provide any effective concealment or mimicry against these rock formations, making camouflage absent in this scene."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Clear shallow water over sandy and pebbly bottom",
+  "background_description": "The scene depicts a clear, shallow body of water (likely a lake or shore) with sunlight shimmering on its surface. The water is transparent, revealing a bottom composed of light brown to reddish-brown sand mixed with numerous grey, white, and brown pebbles of varying sizes. Ripples on the water surface create dynamic light patterns on the submerged ground.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a natural environment consisting of shallow, clear water over a sandy and pebbly bottom. After careful examination of the main image and all provided crops, no animal, insect, or fish is visible within the scene. Therefore, the concept of camouflage is not applicable as there is no organism to conceal itself."
+}

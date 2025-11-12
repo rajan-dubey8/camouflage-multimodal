@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists of a dense, thorny bush with numerous small, spiky green leaves. Several brown-grey branches are visible, some covered in patches of pale green/grey lichen and sharp thorns. The scene is brightly lit by natural sunlight, creating varying shades of green and brown, with some areas in shadow.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The dragonfly is clearly visible in the image and does not effectively blend with its environment. Its body features distinct cream/pale yellow and dark brown/black stripes which create a noticeable contrast against the predominantly green leaves of the bush. While some of its darker colors might marginally align with the brown branches, the overall color palette of the dragonfly (especially the lighter segments) does not match the vibrant green, nor the grey-brown of the branches and lichen. The texture of the dragonfly's segmented body is also distinct from the rough bark of the branches and the smooth, spiky leaves. Its shape and vertical orientation, though somewhat slender, are not sufficiently disrupted by the background elements to achieve camouflage. The contrast between its body and the background is enough to make it easily detectable."
+}

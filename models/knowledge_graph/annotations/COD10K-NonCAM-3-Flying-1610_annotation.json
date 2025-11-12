@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Red Avadavat (Strawberry Finch)",
+  "background_description": "The background consists of blurred, uniform green foliage or vegetation, indicating an outdoor natural environment. The bird is perched on a thin, grey metallic wire or stiff stem.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage, featuring prominent bright red areas (beak, eye-ring, lower back/tail), distinct white spots on dark wings, and a brownish-grey body, stands out significantly against the uniformly blurred green background. There is no attempt at color matching or disruptive patterning to blend with the environment, making the bird highly visible. Therefore, no camouflage is present."
+}

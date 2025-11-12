@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Glowlight Tetra",
+  "background_description": "The background consists of lush, vibrant green aquatic plants, appearing to be an underwater planted environment like an aquarium. Some plants are in sharp focus, while others are softly blurred, creating depth.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Glowlight Tetra, identifiable by its slender body, iridescent blue-green scales, and a distinct bright orange-red horizontal stripe running along its mid-body. Its vibrant coloration and specific markings make it stand out prominently against the green aquatic plants in the background, indicating no attempt at camouflage."
+}

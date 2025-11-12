@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a sandy or fine gravel seabed, appearing mottled with various shades of light beige, gray, and darker brown/black patches. The texture is granular and irregular, with subtle variations in elevation and composition, typical of a shallow marine or estuarine floor.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Flounder exhibits excellent camouflage against the seabed. Its flat body shape allows it to lie flush with the environment. The fish's dorsal surface displays a complex pattern of light beige/off-white, dark brown/black spots, and distinctive blue ocelli (eye-like spots) with lighter centers. This coloration and intricate pattern remarkably mimic the granular, mottled texture and color variations of the sandy and gravelly seabed. The dark patches on the flounder blend seamlessly with the darker recesses and small stones in the background, while the lighter areas match the sand. Even the blue spots, while vibrant, are scattered in a way that could be perceived as variations in light, water effects, or small blue-tinged marine debris or organisms on the seabed, thereby disrupting the fish's outline and preventing it from standing out as a singular, distinct object. The overall effect is a highly effective blend of color and texture that makes the flounder very difficult to distinguish from its immediate environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists primarily of green foliage, including a serrated green leaf or branch that the butterflies are clinging to. Below this, there is a dark, thorny stem. Other leaves, some blurred and out of focus, create a natural, leafy environment with varying shades of green and muted browns in the deeper background, suggesting dappled light and shadow.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The two butterflies in the image demonstrate exceptional camouflage through mimicry. Their closed wings are a distinct yellowish-green color, almost perfectly matching the hue of the surrounding leaves. What makes their camouflage particularly effective is the intricate pattern on their wings, which precisely mimics the venation and texture of a real leaf, including subtle variations and irregularities. The shape of their closed wings also contributes to the illusion, making them appear like drooping or folded leaves clinging to the branch. This combination of color, pattern, and shape blending significantly reduces their visibility against the natural foliage, making them very difficult to distinguish from the environment."
+}

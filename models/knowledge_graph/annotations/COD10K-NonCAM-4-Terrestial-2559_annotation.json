@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "White Rhinoceros",
+  "background_description": "The background consists primarily of light brown, dry, dusty soil and scattered small rocks. To the left, a large grey boulder is visible, and in the upper right, there is some sparse green, spiky vegetation.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.3,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The White Rhinoceros displays a muted grey-brown skin tone that somewhat aligns with the dusty, earthy colors of its immediate environment. This provides a degree of color blending. However, despite this minimal color similarity, its enormous size, distinct and unbroken silhouette, and prominent features (like its horns) ensure it stands out clearly against the background. There are no disruptive patterns or mimicry traits that would effectively break up its outline or allow it to conceal itself. Therefore, while there is some natural coloration alignment, it does not achieve effective camouflage."
+}

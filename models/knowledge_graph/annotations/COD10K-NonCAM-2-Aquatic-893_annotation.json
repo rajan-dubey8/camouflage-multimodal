@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus fish in an aquarium",
+  "background_description": "The background consists of dark blue/purple aquarium water, largely out of focus. In the foreground, there are blurry, bright green aquatic plants. Parts of other dark-colored fish are also visible in the background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The main fish, a Discus, is brightly colored with prominent yellow and orange hues, which stand out significantly against the dark blue water background and the vibrant green foreground plants. Its smooth body and distinct fins do not blend in with the surrounding textures or patterns. There is no visual evidence of color blending, mimicry, or disruptive patterns to aid in concealment within this specific environment. Therefore, the fish is clearly visible and not camouflaged."
+}

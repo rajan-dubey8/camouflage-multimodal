@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "White-faced Heron",
+  "background_description": "The background consists of a body of water with a yellowish-brown hue, showing subtle ripples and reflections. Beyond the water, a blurred bank is visible, covered in green and brown vegetation, likely reeds or tall grasses, suggesting a wetland or riverine environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The White-faced Heron is clearly visible in flight, with its light grey plumage and distinctive white face contrasting sharply against the warm yellowish-brown water and the muted green-brown vegetation of the background. Its form and colors do not blend with the environment, and there is no pattern or texture mimicry to conceal its presence. Therefore, no camouflage is present."
+}

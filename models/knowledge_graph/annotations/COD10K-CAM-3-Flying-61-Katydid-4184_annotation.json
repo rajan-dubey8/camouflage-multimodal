@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background is covered with a dense, uneven carpet of vibrant green moss or lichen, which has a very irregular, lumpy, and organic texture with numerous small lobes and crevices. Patches of reddish-brown soil or decaying organic matter are visible beneath the moss in several areas.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Katydid demonstrates excellent camouflage in this image. Its body, especially the legs and parts of its head, are a translucent, vibrant green that closely matches the dominant color of the surrounding moss. The wings feature an intricate pattern of lighter green and darker reddish-brown mottling, which perfectly mimics the texture and coloration variations within the moss and the exposed reddish-brown soil. The irregular, spiky protrusions on its head and the overall rough, textured appearance of its body break up its outline, preventing it from appearing as a distinct entity against the similarly irregular and lumpy background. This combination of color blending, pattern matching, and shape disruption results in a very low contrast difference, making the Katydid exceptionally difficult to spot."
+}

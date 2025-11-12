@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "SeaHorse",
+  "background_description": "The background consists of a sandy seafloor, likely shallow water, with scattered small green aquatic plants or algae, and various pieces of brown organic detritus and sediment. The texture is granular and uneven, with fine particles and rougher debris.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The SeaHorse exhibits excellent camouflage in this image. Its body coloration, a mottled brown and beige, perfectly matches the sandy substrate and the surrounding organic detritus. Furthermore, its extensive dermal appendages, which are frilly and irregular, effectively disrupt its outline and mimic the texture and appearance of the surrounding seaweed, algae, and debris. This combination of color matching and elaborate structural mimicry makes it incredibly difficult to distinguish the organism from its immediate environment, resulting in a very low contrast difference and high visual blending."
+}

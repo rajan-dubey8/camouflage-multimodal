@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a soft, out-of-focus blur of green vegetation, transitioning from a darker green at the bottom to a lighter, somewhat yellowish-green towards the top right, suggesting dappled light. In the foreground, there is a thin, mostly green, slightly woody stem or branch with small, dark nodes or buds.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "Both mantises exhibit a degree of camouflage through color blending and shape disruption. The upper mantis is predominantly brown, blending reasonably well with the browner tones of the stem it's clinging to, and its elongated body shape somewhat mimics a dry twig. The lower mantis is vibrant green, which helps it blend with the general green hues of the stem and the blurred green background foliage. Its slender body also contributes to shape disruption, making it resemble a green shoot or leaf stem. However, in this close-up view, their distinct outlines, visible segmentation, and the slight variations in color from the immediate background prevent them from being perfectly hidden, making them moderately discernible."
+}

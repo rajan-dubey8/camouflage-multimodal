@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Roe deer",
+  "background_description": "The background consists of a grassy field. The foreground and mid-ground feature green and dry, yellowish-brown grass. In the distant background, there is a blurry line of trees or shrubs, appearing in muted brown and orange tones, suggesting a wooded edge.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Roe deer exhibits camouflage through color blending. Its brownish-gray coat closely matches the dry, yellowish-brown grass in the foreground and the earthy tones of the distant, blurry foliage. While there are patches of greener grass, the deer's overall coloration harmonizes well with the dominant hues of its habitat, making it less conspicuous to predators or prey. The uniform color of its fur lacks disruptive patterns but achieves effective blending with the natural environment's color palette."
+}

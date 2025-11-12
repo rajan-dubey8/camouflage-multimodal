@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Ibex herd",
+  "background_description": "The background consists of a steep mountain slope covered with dry, sparse green and brown grasses, interspersed with large, grey-brown rocks often textured with patches of dark moss or lichen. The upper part of the background is a clear, bright blue sky.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The ibex display effective camouflage through color blending with their natural habitat. Their fur ranges from reddish-brown to grayish-brown, perfectly matching the colors of the dry grasses, soil, and rocks on the mountain slope. The texture of their fur, particularly on the adult animals, has a rugged, slightly matted appearance that mimics the rough surfaces of the rocks and the tussocks of grass. This high color and texture similarity, along with a low contrast difference against the immediate terrain, allows them to blend in well, making them harder for predators to spot in this rocky, arid environment."
+}

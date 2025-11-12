@@ -1,0 +1,21 @@
+{
+  "num_categories": 13,
+  "embedding_dim": 128,
+  "categories": [
+    "Environment",
+    "Bird",
+    "Mammal",
+    "Fish",
+    "Insect",
+    "Amphibian",
+    "Reptile",
+    "Crustacean",
+    "Arachnid",
+    "Mollusc",
+    "Echinoderm",
+    "Chilopoda",
+    "Mollusk"
+  ],
+  "model_path": "kg_gnn_model_v2.pth",
+  "graph_version": "v2"
+}

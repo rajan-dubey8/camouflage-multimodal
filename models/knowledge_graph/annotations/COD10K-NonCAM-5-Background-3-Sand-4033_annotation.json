@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal mudflat with distant mountains",
+  "background_description": "The foreground consists of a wide expanse of wet, rippled mudflat or sand, showing various shades of grey, brown, and some darker patches likely from algae or organic matter. The midground features calm, shallow water with gentle waves and numerous dark, slender poles arranged in rows, possibly for aquaculture. In the background, rolling hills or mountains rise, appearing dark green and somewhat hazy. The sky is overcast with soft, diffuse clouds, typical of a coastal landscape.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a natural coastal environment with mudflats, shallow water, distant mountains, and an overcast sky. There are no visible organisms (animals, insects, or fish) present in the scene, which are typically the subjects of camouflage. Therefore, no camouflage is detected or applicable in this image."
+}

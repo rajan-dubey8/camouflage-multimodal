@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of shallow, murky water with a significant amount of dark brown to reddish-brown submerged and floating wooden debris, twigs, and plant matter. There are also sparse green aquatic plants. The environment is cluttered with natural textures and earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage primarily through color blending and pattern matching. Its dark brown, mottled skin with its warty, bumpy texture closely mimics the wet, rough surfaces of the submerged and floating wooden debris and the general detritus in the water. This allows its body to blend seamlessly with the environment, making it difficult to distinguish its form from the background clutter. While the inflated greyish-purple vocal sac, being a temporary display for calling, creates a higher contrast and momentarily breaks the camouflage, the inherent physical attributes (color, texture, and irregular shape) of the toad's body are highly adapted for concealment in this specific type of habitat. The partial submergence also aids in disrupting its outline."
+}

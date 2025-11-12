@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Metallic green fly",
+  "background_description": "The background is a vibrant, uniform lime green surface, likely a leaf or broad plant surface, exhibiting a slightly mottled, matte texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The metallic green and blue iridescent body of the fly, with its smooth, shiny texture, creates a strong visual contrast against the uniform, matte lime green background of the leaf. Despite both being green, the distinct hue, reflectivity, and strong highlights on the insect make it highly visible and easily distinguishable from its surroundings. There is no evidence of color blending, disruptive patterning, or mimicry to hide the insect, as its features stand out rather than blend in."
+}

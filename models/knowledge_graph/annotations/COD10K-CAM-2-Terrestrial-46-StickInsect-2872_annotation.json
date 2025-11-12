@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "StickInsect",
+  "background_description": "The background consists of a dense network of bare, brown and grey-brown tree branches and twigs, some in sharp focus in the foreground and others slightly blurred in the mid-ground. Behind this intricate pattern of woody structures, a soft, out-of-focus green blur suggests distant foliage or vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Mimicry",
+  "explanation": "The StickInsect exhibits exceptional camouflage through its remarkable mimicry of the surrounding dead twigs and branches. Its slender, elongated body and legs are perfectly shaped to resemble the woody structures, making it virtually indistinguishable from the actual branches. The insect's light brown-grey coloration closely matches the tones of the dried wood, further enhancing its blending. The way it holds its body and legs extends the illusion of being just another part of the branch, demonstrating high similarity in color, texture, and form with its environment. This combination of features results in very low contrast and high blending efficacy."
+}

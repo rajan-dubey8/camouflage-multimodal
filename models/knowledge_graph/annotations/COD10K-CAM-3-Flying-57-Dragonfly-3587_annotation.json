@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Dragonfly",
+  "background_description": "The background consists of a main diagonal branch, approximately 1-2 cm in diameter, which the dragonfly is clinging to. This branch has a mottled texture with hues of olive green, grey-brown, and lighter grey patches, indicative of bark or lichen. The environment behind the branch is a deeply blurred, dark, uniform expanse of brown-green, suggesting dense shadows or out-of-focus vegetation.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The dragonfly exhibits effective camouflage primarily through color blending and pattern matching. Its body, which is a mix of muted grayish-browns and speckled dark patterns, closely matches the varied colors and textures of the branch it rests upon. The fuzzy appearance of its thorax and head also contributes to blending with the rough surface of the branch. The dark, somewhat translucent wings are held close to the branch, blending with the darker parts of the branch and the shadowy background, making its outline less distinct. The overall low contrast between the insect and its immediate perch makes it difficult to spot at a casual glance."
+}

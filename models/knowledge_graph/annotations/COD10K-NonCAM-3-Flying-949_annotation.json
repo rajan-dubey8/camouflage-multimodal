@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bananaquit",
+  "background_description": "The background consists of blurred green foliage, likely trees or bushes, creating a soft, out-of-focus backdrop. The foreground features a rusty brown chain-link fence with distinct links and weathered texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The bird exhibits bright yellow plumage on its underside, a dark gray head and back, and a small red eye-patch. These vibrant and contrasting colors make the bird stand out significantly against both the blurred green foliage background and the rusty brown chain-link fence it is perched upon. There is no visual attempt at blending in with its surroundings through color, pattern, or texture matching. Its distinct coloration makes it highly visible, indicating a lack of camouflage."
+}

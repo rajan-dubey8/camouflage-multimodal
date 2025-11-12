@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Small white bird",
+  "background_description": "The background consists of a light sandy beach, sparse brown earth under several coniferous trees, green foliage from the trees and shrubs, clear turquoise ocean water, and a pale sky. The bird is located on the very light, almost white, sandy portion of the beach.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "A small white bird is visible on the light sandy beach near the base of the leftmost tree. Its white plumage provides a very high color similarity with the surrounding light-colored sand. The lack of significant contrast and the bird's small size, combined with the matching colors, make it very difficult to spot against the bright beach environment, indicating effective camouflage through color blending."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of rough, textured tree bark, predominantly in shades of brown and dark grey. There are significant patches of green moss or lichen covering parts of the bark, contributing to a mottled appearance. The surface has various indentations, grooves, and raised areas, creating a complex, irregular texture with some darker, possibly damp, spots.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Pattern matching",
+  "explanation": "The spider exhibits excellent camouflage. Its cephalothorax is a mottled brown and grey, blending perfectly with the underlying bark color. Its abdomen is a dark green with irregular brown and black patterning, which strikingly mimics the patches of moss and lichen present on the tree bark. The spider's overall textured appearance, combined with these matching colors and patterns, allows it to seamlessly integrate with the rough, variegated surface of the bark, making its outline very difficult to distinguish from the environment. The low contrast between its body and the background further enhances its concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizards are resting on a piece of weathered, greyish-brown wood, likely a log or stump, exhibiting a rough, textured surface with visible grain and cracks. The immediate environment is further obscured by out-of-focus green and dried brown grass blades, creating a natural, cluttered setting.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizards exhibit excellent camouflage against the weathered wooden surface they are resting on. Their mottled grey-brown and olive coloration, combined with speckling and irregular patterns on their scales, closely matches the color and texture of the old wood. This high degree of color and texture similarity significantly reduces their contrast with the background, making them blend seamlessly. Additionally, the surrounding blades of grass, both green and dried, further contribute to shape disruption, breaking up the lizards' outlines and making them harder to distinguish from the natural environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Wading birds on a dead tree",
+  "background_description": "The background consists of a prominent, gnarled, and bare dead tree with dark brown to grey branches. Behind the tree and birds, the sky is clear and bright blue. Some blurry, darker green/brown foliage is visible in the very bottom left corner.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The birds in the image (a Wood Stork and two American White Ibises) are predominantly white, with some black on the stork's head/wings and reddish coloration on the beaks and legs of all birds. They are perched on a bare, dark brown/grey dead tree against a bright blue sky. Their white plumage creates a very high contrast against both the dark tree branches and the blue sky, making them highly visible. There is no attempt at color blending, mimicry, or disruptive patterning to conceal them from predators or prey. Their conspicuousness suggests no active camouflage is employed in this context."
+}

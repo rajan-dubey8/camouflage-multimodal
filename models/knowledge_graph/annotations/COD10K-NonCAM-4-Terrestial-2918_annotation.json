@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Capybara",
+  "background_description": "The background consists of green grass, appearing somewhat out of focus, suggesting a natural outdoor environment like a field or a grassy bank.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.35,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The image features a capybara with brownish-grey fur. Capybaras naturally possess coloration that provides camouflage through color blending with their typical wetland and grassland habitats, often resembling mud, dried vegetation, or shaded areas. While the immediate background in this image is bright green grass, which creates a relatively high contrast and low color/texture similarity, the animal's coat color itself is an adaptation for general crypsis within its native environment. Therefore, camouflage is present as an inherent trait, though its effectiveness is limited against this specific vibrant green background."
+}

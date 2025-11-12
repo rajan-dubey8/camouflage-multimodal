@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban highway at twilight",
+  "background_description": "The image depicts an urban landscape at twilight or dusk. A large concrete elevated highway curves across the frame, with visible streetlights lining its edge and illuminating the dark underpass with warm orange light. In the background, against a clear, deep blue sky, several tall residential buildings are visible. To the left, some dark green foliage from trees can be seen. The overall scene is characterized by the contrast between the artificial light and the fading natural light.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No organism is visible as the main subject in this image. The scene primarily consists of an urban environment featuring an elevated highway, buildings, and sky. Therefore, there is no camouflage present to analyze."
+}

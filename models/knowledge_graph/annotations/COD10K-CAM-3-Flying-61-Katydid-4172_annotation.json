@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists primarily of a large, dark, matted, and fibrous mass, possibly old plant debris, a spider's nest, or some other organic accumulation, with a rough, bristly texture. Surrounding this mass and partially in the foreground are numerous stalks of dried, light brown/tan grass and seed heads. Hints of blurry green vegetation can be seen in the deeper background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The Katydid is bright green with a distinct black stripe running down its back. It is positioned directly on a dark, matted, fibrous structure, and surrounded by dried, light brown/tan grasses. The vibrant green color of the Katydid contrasts sharply with the dark browns and tans of its immediate environment. Furthermore, the smooth, segmented body of the insect does not blend with the rough, fibrous texture of the material it is on, nor the linear, fine texture of the dried grasses. This significant difference in color, texture, and overall contrast causes the Katydid to stand out prominently rather than blend in with this specific background."
+}

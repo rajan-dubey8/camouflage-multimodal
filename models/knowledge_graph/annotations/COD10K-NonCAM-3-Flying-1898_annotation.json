@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Blue Jay",
+  "background_description": "The background consists of blurred, dark green foliage on the left, indicative of deep forest or undergrowth. On the right, there is a light-colored tree trunk with visible, slightly rough bark texture. The bird is perched on a smaller, lighter grey branch.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Blue Jay exhibits strikingly vibrant blue, black, and white plumage, which creates a high contrast against the green, blurred forest background and the light-colored, textured tree bark. Its distinct coloration makes it highly conspicuous rather than blending in with its natural environment. Therefore, no camouflage is present."
+}

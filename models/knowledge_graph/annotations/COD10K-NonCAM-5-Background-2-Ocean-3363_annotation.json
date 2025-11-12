@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Green Brain Coral",
+  "background_description": "The background consists of fine white sandy substrate covering the bottom, with various scattered rocks and rubble. Some rocks are encrusted with reddish-purple coralline algae or other organisms, providing a stark color contrast to the main subject. The overall environment suggests an underwater setting, possibly a reef or aquarium, with blurry, darker blue and purple tones in the deeper background.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The primary subject, a vibrant green brain coral, exhibits no signs of camouflage. Its bright, distinct green coloration stands out significantly against the pale sandy bottom and the darker, reddish-purple encrusted rocks in its immediate vicinity. There is a high contrast difference in both color and brightness between the coral and its surroundings, making it highly visible rather than concealed. Although the coral is an organism, 'Environment' was chosen for 'object_category' as no specific invertebrate animal type was available in the provided schema enum, and the coral forms a sessile, structural part of the immediate underwater environment."
+}

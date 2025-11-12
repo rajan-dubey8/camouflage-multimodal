@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "European Robin",
+  "background_description": "The bird is standing on a bed of bright green moss and dark soil/debris. Above it is a prominent horizontal weathered grey-brown tree branch. The background behind the bird is a soft-focus woodland scene with blurred greens and muted browns, indicative of foliage and distant trees.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The European Robin is clearly visible in the image. Its distinct orange-red breast and face create a very high contrast against the greens of the moss and the muted greens and browns of the background foliage and tree bark. While parts of its back feathers are a greyish-brown that could blend with bark, the prominent bright coloration of its front makes the bird stand out rather than blend in. This striking plumage is not designed for camouflage but typically for territorial display or mating, indicating no effective camouflage is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "White Rhinos",
+  "background_description": "The environment consists of a foreground of tall, dry, golden-brown grass and sparse, bare twiggy bushes. Behind the rhinos, there are denser green bushes and some taller deciduous trees with minimal foliage. The distant background features hazy, rolling hills covered with sparse, dry vegetation and bare trees, presenting a muted brown-grey palette.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The rhinos' uniform dull grey coloration provides a degree of camouflage by blending with the muted and dusty tones prevalent in their savannah habitat, especially the dry grasses and distant hazy landscape. While their large bulk and relatively smooth texture contrast with the finer textures of the vegetation, their color helps to reduce their overall visibility, making them less conspicuous against the background. This is a form of color blending, effective in an environment dominated by natural earth tones."
+}

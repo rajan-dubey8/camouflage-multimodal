@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Black bear",
+  "background_description": "The background consists of a rocky shoreline with numerous grey and brownish rocks. Many of the rocks are covered with clusters of white barnacles, and some show patches of yellowish-green algae or seaweed. The foreground is calm water with slight ripples, reflecting the sky and surrounding environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The black bear is highly visible against the background. Its solid dark black fur contrasts sharply in both color and value with the predominantly lighter grey and barnacle-covered rocks, as well as the reflective water. The smooth texture of its fur also differs significantly from the rough, irregular textures of the rocks and barnacles. There are no patterns or coloration on the bear that allow it to blend into this specific rocky, intertidal environment."
+}

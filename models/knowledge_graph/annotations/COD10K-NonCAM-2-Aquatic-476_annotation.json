@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Bigeye Fish",
+  "background_description": "The background consists of deep blue open water, with blurry, darker shapes in the distance suggesting submerged rocky structures or a coral reef. The water appears clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a fish, likely a Bigeye Fish, with distinct reddish-bronze and silvery scales. Its prominent coloration and reflective scales stand out strongly against the deep blue, blurred aquatic background, indicating a high contrast and no attempt at camouflage."
+}

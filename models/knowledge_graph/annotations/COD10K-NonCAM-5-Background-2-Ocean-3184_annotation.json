@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Mushroom coral",
+  "background_description": "The background consists of blurred, darker purplish and reddish-brown rocky structures or other corals, providing a muted and somewhat textured base behind the main subject. The lighting creates areas of deep shadow and diffuse illumination in the aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The main subject, a mushroom coral, displays vivid pink and orange hues with purple highlights. These colors stand out sharply against the darker, muted purplish-brown background elements, which appear as blurred rocky structures or other corals. The distinct bright coloration and prominent texture of the coral do not attempt to blend with its surroundings, indicating an absence of camouflage. Its appearance is conspicuous rather than concealed. Although a living organism, the coral is categorized as 'Environment' due to its sessile nature and role as a structural component of the reef within the provided object category options."
+}

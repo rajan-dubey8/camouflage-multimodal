@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The background consists of a vibrant coral reef environment, characterized by various types of corals, predominantly in shades of orange, reddish-brown, and some areas of yellow-green. Textures are highly varied, including branching, feathery, bumpy, and irregular coral structures, with darker crevices and shadows interspersed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The shrimp exhibits excellent camouflage within its coral reef environment. Its primary body color is a reddish-orange, which closely matches the dominant warm tones of the surrounding corals and sponges. The intricate pattern of white spots outlined with darker red/purple on its body, along with its somewhat spiky and irregular appendages, mimics the complex textures and patterns found in the coral. This pattern serves as both pattern matching and shape disruption, breaking up the shrimp's outline and making it blend seamlessly with the busy, textured background. While the white spots do create some internal contrast, the overall effect is one of blending, making the shrimp difficult to distinguish from the coral, especially given the varied lighting and shadows of an underwater environment."
+}

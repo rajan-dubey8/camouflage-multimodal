@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Common Tailorbird",
+  "background_description": "The background consists mainly of a bright, light blue sky. In the foreground and partially surrounding the bird, there are thin, dry, brown-grey branches, and some out-of-focus green leaves, indicating a tree or shrub environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.35,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Common Tailorbird exhibits color blending camouflage. Its olive-green plumage on the back and wings, combined with a reddish-brown cap, is naturally adapted to blend with the green foliage and brown branches of its typical habitat. While these colors provide potential for camouflage, in this specific image, the bird is silhouetted against a bright, clear blue sky. This high contrast makes the bird quite visible, despite its inherent camouflaged coloration. Its color similarity with the surrounding green leaves and brown branches is medium, but the sharp contrast against the sky significantly reduces its overall camouflage effectiveness in this particular shot."
+}

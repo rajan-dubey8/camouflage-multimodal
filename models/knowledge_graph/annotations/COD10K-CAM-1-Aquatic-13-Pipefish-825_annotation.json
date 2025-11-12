@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a complex marine environment, featuring a rocky seafloor covered with various elements. Prominently visible are light beige to brownish branching sponge-like structures, patches of green and reddish-brown encrusting algae or other growth, and areas of coarse white and beige sand or detritus. The overall texture is irregular, mottled, and somewhat granular.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.8,
+  "confidence": 0.9,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Pipefish exhibits strong camouflage by mimicking elements of its surrounding environment. Its elongated, lumpy, and textured body shape remarkably resembles a piece of detritus, an encrusted branch, or part of the sponge growth. While its purplish-pink hue is somewhat distinct, it aligns with some of the reddish-brown algae and the overall mottled coloration of the seafloor, providing medium color similarity. Crucially, its irregular and granular surface texture closely matches the rough, uneven textures of the rocky substrate, detritus, and marine growth. This combination of shape, texture, and moderate color blending effectively disrupts its outline and allows it to blend in, making it difficult to distinguish from the non-living or sessile components of the seafloor."
+}

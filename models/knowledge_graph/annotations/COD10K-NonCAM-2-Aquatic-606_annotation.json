@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of clear, rippled water with splashes where the otters are interacting. Above the water, there are blurred reflections, suggesting an indoor or contained aquatic environment like an aquarium or zoo exhibit, possibly with a green fabric or structure reflected.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts two otters in water, their distinct brown-grey fur contrasting sharply with the greenish-blue water and their surroundings. They are prominently visible and not attempting to blend in, confirming the absence of camouflage."
+}

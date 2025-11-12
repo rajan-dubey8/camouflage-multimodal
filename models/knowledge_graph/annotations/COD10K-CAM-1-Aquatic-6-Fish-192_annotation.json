@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater rocky or sandy seabed with irregular, coarse textures. It features various shades of mottled brown, gray, and some reddish-purple areas, likely from encrusting organisms or algae. There are also smaller white fragments and patches of green algae. Natural shadows are present within crevices and depressions.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The fish's dark brown/black body and prominent bright yellow lateral stripe create a strong contrast against the lighter, mottled brown and gray rocky background. Its relatively smooth body texture also differs significantly from the rough, granular textures of the environment. Although partially positioned within a crevice, its visible portion, especially its silhouette and distinct coloration, makes it clearly discernible rather than blended with its surroundings. The two translucent, paddle-like appendages also stand out."
+}

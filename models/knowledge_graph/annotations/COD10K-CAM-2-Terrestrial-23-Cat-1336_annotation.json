@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cat",
+  "background_description": "The background consists of a rustic stone wall, constructed from irregularly shaped and sized stones. These stones are predominantly shades of gray and brown, with significant patches of white and yellowish-orange lichen growing on their surfaces. The overall texture is rough and varied, with distinct cracks and crevices between the stones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.7,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The cat demonstrates good camouflage against the stone wall. Its tabby fur features a mix of dark browns, grays, and lighter tan colors, which closely match the earthy tones of the stones themselves, as well as the darker shadows and some of the yellow-orange lichen. The striped pattern of its fur helps to break up its outline and blend with the irregular textures and varied coloration of the lichen-covered stones. While the cat's shape is still discernible upon close inspection, its coloration and pattern significantly reduce its visual contrast with the environment, making it blend in rather than stand out."
+}

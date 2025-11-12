@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Sparrow",
+  "background_description": "The bird is perched on a light grey/beige flat surface. To its left and behind, there is a weathered wooden beam with prominent grain and some flaking paint. The further background is softly blurred, showing warm, muted brownish-orange tones at the top blending into lighter, cooler blueish-grey tones towards the bottom.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The sparrow exhibits camouflage primarily through its plumage, which features a blend of browns, greys, and streaky patterns. These colors closely match the earthy tones of the weathered wooden beam and the overall muted natural background. The streaky and mottled feather patterns serve as disruptive coloration, helping to break up the bird's distinct outline and form, making it harder for predators to distinguish its shape against varied natural textures like bark, soil, or dry vegetation, rather than appearing as a solid, identifiable object."
+}

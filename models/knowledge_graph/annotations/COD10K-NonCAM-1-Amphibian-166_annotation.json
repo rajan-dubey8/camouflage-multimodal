@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "Shallow freshwater environment with visible submerged rocks, muddy patches, and some aquatic vegetation along the banks, typical of a pond or slow-moving stream.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a frog. Its natural brownish-olive coloration is present, but it does not exhibit any specialized camouflage patterns or behaviors that would make it actively blend into an aquatic environment; it is clearly discernible."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Yellow Tang",
+  "background_description": "The background consists of diverse coral and rock formations within an underwater reef environment. Colors are predominantly dark blue, deep purple, and muted greenish-brown, with some lighter patches of blue and white. The textures are rough, porous, and irregular, characteristic of live rock and stony corals.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Yellow Tang is a vibrant yellow fish positioned against a much darker, multi-colored reef background of blues, purples, and greens. Its bright coloration stands out significantly, creating a high contrast difference in both color and luminosity with its surroundings. The fish's smooth body texture also does not match the rough, irregular textures of the coral and rock formations. Therefore, there is no evidence of camouflage; the fish is highly conspicuous in this environment."
+}

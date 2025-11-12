@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is situated on a thick, rough-textured branch with a dark brown color, featuring visible bark patterns and subtle variations in hue. The background beyond the branch is a uniformly blurred, plain tan-brown, creating a soft, out-of-focus environment.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The mantis exhibits strong camouflage primarily through color blending. Its body, which is predominantly a light tan-brown, closely matches the hue of the branch it is resting on, as well as the blurred background. This excellent color matching makes the organism difficult to distinguish at a glance. While the mantis's exoskeleton has a relatively smooth texture compared to the rough bark of the branch, the overall color similarity effectively minimizes its visual contrast, allowing it to blend well into its natural environment."
+}

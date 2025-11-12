@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Foxface Rabbitfish",
+  "background_description": "The background consists of blurred underwater coral reef structures and rocks. Colors are predominantly dark blues, muted greens, and brown-grey tones, suggesting depth and indirect light. There are various textures from coral branches and irregular rock surfaces.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Foxface Rabbitfish is brightly colored, primarily vivid yellow, with distinct black and white markings on its head and fins. This coloration stands in stark contrast to the dark, muted blue, green, and brown tones of the coral reef background. The fish is highly conspicuous and does not blend into its environment in terms of color, pattern, or texture, indicating no camouflage is present. The high contrast difference makes it easily visible."
+}

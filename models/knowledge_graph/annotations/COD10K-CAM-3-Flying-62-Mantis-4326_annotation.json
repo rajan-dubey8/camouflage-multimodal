@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The mantis is situated on a slender, dried brown stem. The background consists of blurred green foliage and yellow flowers or plant structures, suggesting a natural outdoor environment with vegetation. The deepest background is dark and out of focus.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The mantis exhibits excellent camouflage by mimicking a dried twig or stem. Its elongated, slender body and legs are a very similar shade of brown and tan to the stem it is perched upon. The fine longitudinal striations on its wing casings and body further enhance its resemblance to the fibrous texture of a plant stem. The overall shape, color, and texture allow it to blend seamlessly with its immediate environment, making it difficult to distinguish from the surrounding dead plant material. While the mantis's outline is still somewhat visible, its strong resemblance to a natural twig makes it highly camouflaged."
+}

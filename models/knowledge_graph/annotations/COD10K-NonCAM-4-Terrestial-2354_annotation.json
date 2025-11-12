@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Mountain Hare",
+  "background_description": "The background consists of a dense carpet of low-lying vegetation, primarily green mosses, small reddish-brown shrubs, and patches of white-grey lichen, indicating a tundra or moorland environment. The more distant background is blurred but shows similar muted green and brown tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending",
+  "explanation": "The Mountain Hare exhibits effective camouflage through its mottled grey, brown, and subtle tan fur. This coloration highly matches the mixed green, brown, and grey tones of the low-lying vegetation and lichen on the ground where it is resting. The fur's varied texture also blends well with the organic, uneven texture of the plant cover. This high degree of color and texture similarity, coupled with low contrast difference against the immediate environment, allows the hare to blend seamlessly, making it difficult for predators to spot. This is a clear example of color blending camouflage."
+}

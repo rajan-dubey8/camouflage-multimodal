@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of the dense canopy of a tree, likely eucalyptus, featuring numerous interwoven branches and long, narrow green leaves. Patches of bright blue sky are visible through the gaps in the foliage. The tree branches display a variety of colors, from light tan and silvery-gray to darker browns, with textures ranging from smooth to rough. The heron is perched in a large, intricate nest constructed from sticks and twigs, which is nestled amongst the branches.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption / Color blending",
+  "explanation": "The heron exhibits a moderate degree of camouflage due to its position within the dense tree canopy and its nesting structure. While the bird's distinct shape is somewhat visible, especially against the bright blue sky patches, the intricate network of branches and leaves surrounding it provides significant visual clutter. This creates a strong 'shape disruption' effect, breaking up the heron's silhouette and making it harder to discern at a glance. The heron's grayish-blue plumage also offers a degree of 'color blending' with the lighter, silvery-gray tones of the tree bark and the shadowed areas of the foliage, helping it to merge with the complex arboreal environment rather than standing out starkly. The nest itself further contributes to its concealment by acting as an extension of the tree's natural structure."
+}

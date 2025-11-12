@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The Katydid is positioned on a vibrant green leaf with clearly visible venation. Above and slightly behind it, there's a dried, curled, light brown/tan plant part. The general background consists of out-of-focus green foliage and blurred dry, straw-colored grass or stems, along with a pale green-yellow stem on the right side.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption",
+  "explanation": "The Katydid demonstrates excellent camouflage through color blending and shape disruption. Its body and wings are a uniform vibrant green, almost perfectly matching the hue and saturation of the live green leaf it is resting upon. The elongated, flattened shape of its body and wings strongly resembles the form and venation of a leaf, allowing it to blend seamlessly into the foliage. The low contrast between the insect and its leafy perch makes it exceptionally difficult to distinguish from its environment, rendering it very well camouflaged."
+}

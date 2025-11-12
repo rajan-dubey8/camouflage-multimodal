@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Moray Eel",
+  "background_description": "The aquatic environment consists of dark, rugged rock formations or coral crevices, with some blurred reddish-brown and green organic growth in the background. It suggests a rocky reef or a crevice in a seabed.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows the head of a Moray Eel emerging from a rocky crevice. Its distinct patterned body (dark brown with yellowish mottling), prominent head, and open mouth make it easily identifiable. While its coloration might offer some natural blending with the dark rocks, it is highly visible due to its shape and high contrast features, indicating no active camouflage."
+}

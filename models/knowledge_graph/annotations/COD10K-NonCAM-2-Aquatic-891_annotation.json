@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Reef Fish",
+  "background_description": "The background consists of dark, shadowed areas towards the top and left, suggesting deeper water or recesses. The lower and right parts of the image show a rocky substrate, composed of various irregular stones and gravel in shades of brown, grey, and off-white. There's a larger, lighter-colored rock or coral structure in the bottom left foreground, out of focus. The overall environment is muted in color and has varied, uneven textures.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits camouflage primarily through color blending. Its body features muted grey-blue tones with small, faint blue spots and subtle horizontal lines, which generally align with the subdued color palette of the rocky, somewhat dim underwater environment. While not perfectly matching the exact patterns of the rocks, its overall coloration and irregular markings help to break up its outline and blend into the varied background textures and shades, making it moderately less conspicuous than a brightly colored or uniformly patterned fish would be in this setting. The contrast is moderate, allowing the fish to be seen but not stand out sharply against the varied background."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Sandy beach with sand pellets",
+  "background_description": "The entire scene is composed of fine-grained sand, predominantly light brown to yellowish-brown. The main feature is the presence of countless small, spherical sand pellets scattered across the surface, often clustered together. These pellets create a highly textured, uneven ground, contrasting slightly with the smoother, flatter areas of packed sand visible between the clusters. The lighting appears soft, creating subtle shadows under the pellets, enhancing the three-dimensional texture.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image displays a sandy beach surface marked by numerous small, spherical sand pellets. These patterns are characteristic traces of the feeding activity of sand bubbler crabs, which sift through sand and discard the indigestible particles as small balls. However, no organism (animal, insect, or fish) is directly visible within the frame. Therefore, according to the strict interpretation of the rules ('no visible organism'), the entity type is classified as 'Environment', and camouflage is not applicable."
+}

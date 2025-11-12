@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elk calf",
+  "background_description": "The background consists of a dry grassy field with varying shades of yellowish-brown dry grass, interspersed with some sparse green vegetation and exposed patches of lighter brown dirt and small rocks. In the upper right background, the lower body and legs of another elk are partially visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The elk calf exhibits effective natural camouflage primarily through color blending. Its fur, which transitions from a dark brown on its head and neck to a lighter brownish-tan and golden-brown on its back and sides, closely matches the dominant colors of the dry, yellowish-brown grass and dirt in its habitat. This high color similarity reduces its visual contrast with the background, making it less conspicuous. While the texture of its fur is distinct from the grass, the overall coloration and natural patterns help it blend seamlessly with the environment, aiding in predator avoidance."
+}

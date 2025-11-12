@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Frogmouth",
+  "background_description": "The Frogmouth is situated amidst a dense canopy of a tree. The background features thick, textured tree branches with mottled grey and brown bark, some covered in lighter patches resembling lichen. There are numerous green leaves, some brightly illuminated by sunlight, creating highlights, while others are in deep shadow. Smaller twigs and a nest-like structure made of dry twigs are also visible around the bird. Glimpses of a brighter, out-of-focus background, likely sky or distant foliage, appear through gaps in the leaves.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Frogmouth is exceptionally camouflaged in this image. Its plumage coloration, a mottled grey-brown with subtle patterns, perfectly mimics the texture and color variations of the tree bark and the lichen present on the branches. The bird's upright, rigid posture further enhances this effect, making it appear like a broken tree stump or an extension of a branch. The irregular feather patterns blend seamlessly with the rough bark texture. The overall contrast between the bird and its immediate arboreal surroundings is remarkably low, making it very difficult to distinguish the bird from the tree structure. Only the subtle glint of its red eye offers a hint of its presence, which is otherwise almost entirely obscured by its masterful disguise."
+}

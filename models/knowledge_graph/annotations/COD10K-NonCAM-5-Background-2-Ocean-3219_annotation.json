@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Ocean surface with submerged seaweed",
+  "background_description": "The scene depicts clear, dark blue ocean water. Submerged beneath the rippled surface are extensive patches of dark green and brownish-yellow aquatic vegetation, likely seaweed or algae, with discernible branching patterns. Some lighter-colored seaweed fragments are also visible floating on the water's surface, catching sunlight. The overall impression is a shallow coastal water environment.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "No animal organism (fish, insect, mammal, bird, reptile, amphibian, or arachnid) is visible in the image. The image primarily features ocean water and various types of aquatic vegetation (seaweed/algae). Therefore, there is no entity present to evaluate for camouflage."
+}

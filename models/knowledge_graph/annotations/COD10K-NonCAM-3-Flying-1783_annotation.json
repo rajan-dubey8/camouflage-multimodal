@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Egret",
+  "background_description": "The background consists of a wetland or marsh environment with dense, tall green reeds or grasses growing out of dark water. There are also some broad green lily pads or aquatic vegetation floating on the water surface, and the water has a somewhat reflective and slightly murky appearance with some surface foam or algae.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Egret's brilliant white plumage creates a stark contrast against the dark water and vibrant green reeds of the wetland environment. Its color and smooth texture do not blend with the linear, textured, and darker background, making it highly visible rather than camouflaged. There is no attempt at color matching, mimicry, or disruptive patterning to conceal the bird."
+}

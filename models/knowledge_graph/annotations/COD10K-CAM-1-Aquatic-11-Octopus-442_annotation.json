@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Invertebrate",
+  "object_name": "Octopus",
+  "background_description": "The background is an underwater rocky reef environment, rich with various textures and colors. It features reddish-brown rocks, some with purplish hues, interspersed with patches of green and light yellow algae, and possibly some small coral or sponges. The overall texture is rough, irregular, and complex.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Octopus demonstrates exceptional camouflage in this image. Its skin exhibits a highly mottled pattern of browns, greens, and reddish tones that perfectly blend with the diverse colors of the surrounding rocky substrate, algae, and other sessile marine organisms. Crucially, the octopus has dramatically altered its skin texture, creating numerous bumps and folds that mimic the rough, irregular surface of the rocks, effectively disrupting its outline and making it indistinguishable from its environment. Only its eyes offer a slight visual cue, but the overall integration of color, pattern, and texture makes it incredibly difficult to spot."
+}

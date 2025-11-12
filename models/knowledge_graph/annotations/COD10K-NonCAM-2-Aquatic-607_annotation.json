@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Grey Seal",
+  "background_description": "The animal is positioned on a light sandy beach, with ocean water in the background featuring visible waves and reflections of sunlight on the surface. The water is a deep blue color.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Grey Seal resting on a sandy beach. Its dark grey and mottled fur contrasts with the brighter sand and the blue water, making it easily visible. There is no evidence of camouflage being used or present."
+}

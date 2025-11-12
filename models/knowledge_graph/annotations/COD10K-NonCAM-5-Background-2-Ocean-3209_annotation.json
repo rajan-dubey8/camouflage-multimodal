@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Open ocean",
+  "background_description": "The image depicts a vast open ocean under a clear, bright blue sky. The ocean surface is characterized by numerous ripples and small waves, creating a dynamic, shimmering texture due to widespread sunlight reflection. The water colors range from deep teal to blue-green, while the sky transitions from a vibrant blue overhead to a lighter, hazier blue near the horizon, with a few sparse, wispy white clouds scattered across it.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively displays an expansive natural environment consisting of the open ocean and the sky. There are no visible animals, insects, fish, or any other organisms present within the frame. As camouflage is a biological adaptation for concealment, its presence cannot be assessed in an image devoid of living subjects."
+}

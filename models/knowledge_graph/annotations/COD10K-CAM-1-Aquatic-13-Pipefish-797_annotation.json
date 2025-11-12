@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a shallow underwater environment with a sandy, granular seabed. Numerous light green seagrass blades of varying sizes are rooted in the sand, some appearing slightly worn or covered in fine sediment. Scattered among the sand and seagrass are small pebbles, shell fragments, and reddish-brown detritus or algal strands. The overall lighting is bright and diffused, characteristic of shallow clear water.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Pipefish exhibits strong camouflage by mimicking its immediate environment. Its elongated, slender body closely resembles the surrounding light green seagrass blades and detritus, both in shape and orientation. The pipefish's body is largely translucent and pale greenish-yellow, allowing it to blend seamlessly with the lighter, sediment-covered parts of the seagrass and the sandy seabed. The reddish-brown markings on its head further enhance the camouflage by matching the color of some detritus or algal strands present in the sand. Its low contrast and high color similarity make it very difficult to distinguish from the natural background elements, providing effective concealment through mimicry of plant matter or detritus."
+}

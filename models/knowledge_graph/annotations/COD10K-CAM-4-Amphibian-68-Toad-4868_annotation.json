@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background is a terrestrial environment composed of dark, damp soil, interspersed with various natural debris. This includes small dry twigs, fragments of bark, and what appears to be decaying leaf litter. The ground exhibits a highly irregular, granular, and rough texture, with a complex interplay of light and shadow creating a visually busy field.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits exceptional camouflage. Its mottled brown and grey coloration, along with subtle reddish-brown spots, perfectly aligns with the hues of the dark soil, dry twigs, and decaying organic matter in its surroundings. The warty and irregular texture of its skin further enhances this blend by mimicking the granular and rough surfaces of the ground and debris. The toad's squat, irregular body shape and low profile also contribute significantly by disrupting its outline against the complex background, making it extremely difficult for a predator to distinguish it from the surrounding natural clutter and shadows. This synergistic combination of color matching, pattern replication, texture similarity, and shape disruption makes the toad nearly invisible in this specific environment."
+}

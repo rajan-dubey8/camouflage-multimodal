@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Torch coral",
+  "background_description": "The background consists of blurred, dark blue and aqua-blue shapes, likely other coral structures or rock, under actinic (blue/UV) lighting. The textures are indistinct due to the shallow depth of field and ambient lighting, appearing as soft, irregular forms and glowing patches.",
+  "color_similarity": "high",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image displays a Torch coral (Euphyllia glabrescens), which is a marine invertebrate. While it is an organism, it does not fit precisely into the provided `object_category` options ('Fish', 'Insect', 'Mammal', 'Bird', 'Reptile', 'Amphibian', 'Arachnid'). I have selected 'Fish' as the closest available marine category, though it is biologically inaccurate for a coral. The coral exhibits vibrant, fluorescent blue tentacles with glowing aqua-green tips, a coloration typical under actinic lighting in a reef environment. Its bright, conspicuous nature makes it highly visible rather than camouflaged. The high color similarity reflects that the coral's main body shares the dominant deep blue hue of the overall environment, but the distinct, glowing aqua tips create a high contrast difference, causing it to stand out significantly. There is no evidence of blending with background textures or mimicry, indicating a clear absence of camouflage."
+}

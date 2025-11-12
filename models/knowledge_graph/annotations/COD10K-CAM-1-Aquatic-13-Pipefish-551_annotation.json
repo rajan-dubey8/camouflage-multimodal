@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background depicts a shallow underwater environment. It is highly textured, featuring a mix of greenish algae or fine seagrass patches, interspersed with numerous light-colored, irregularly shaped pebbles, shell fragments, and other marine debris. There are also areas with reddish-brown sediment or organic matter. The overall impression is one of a cluttered, natural seabed. A spherical, light-colored object, possibly a sea urchin or sponge, is visible in the bottom right.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Mimicry",
+  "explanation": "The Pipefish exhibits good camouflage in this image primarily through mimicry and color blending. Its elongated, slender body shape and dark, mottled coloration allow it to closely resemble a piece of dead plant matter, a twig, or other natural debris common in its habitat. While its dark color contrasts with some of the lighter pebbles, it blends effectively with the darker patches of algae, sediment, and the general visual clutter of the seabed. The irregular outline of its body, combined with the textured background, makes it difficult to discern immediately from the surrounding environment, reducing its visibility to predators and prey."
+}

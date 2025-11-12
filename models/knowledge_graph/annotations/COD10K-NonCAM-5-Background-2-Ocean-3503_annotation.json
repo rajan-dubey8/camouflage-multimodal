@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Small green fish",
+  "background_description": "The background consists of dense, branching coral formations underwater. The corals exhibit a range of colors including pale yellowish-green, light brown, and purplish-grey. The texture is intricate with numerous sharp, pointed branches creating a complex, three-dimensional environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "There are several small, vibrant green fish visible among the coral branches. These fish stand out clearly against the predominantly pale yellowish-green, brown, and purplish-grey colors of the coral. Their bright color and smooth body texture do not blend with the intricate, rough, and differently colored coral structures, indicating an absence of camouflage."
+}

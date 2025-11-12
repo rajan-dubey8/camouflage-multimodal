@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Egret",
+  "background_description": "The background consists of calm, shallow water with a light blue-grey hue, reflecting the ambient light and sky. The water surface has gentle ripples, especially around the bird's legs, and a clear reflection of the bird is visible below it.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Great Egret's bright white plumage stands in stark contrast to the muted blue-grey tones of the water and sky, making it highly visible. There is no attempt at color blending, disruptive patterning, or mimicry of environmental elements. The bird's distinct shape and color ensure it is not camouflaged against its aquatic background."
+}

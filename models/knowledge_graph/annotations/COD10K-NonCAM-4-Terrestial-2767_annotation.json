@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lechwe antelopes",
+  "background_description": "The background consists of an open grassland or savanna environment. It features predominantly dry, yellowish-brown grasses of varying heights, interspersed with some patches of greener vegetation and what appears to be bare, light-colored earth or shallow water in the middle distance. The overall color palette is muted with earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Lechwe antelopes exhibit effective camouflage primarily through color blending. Their reddish-brown to tan coats closely match the dominant yellowish-brown and dry tones of the grassland environment. This coloration allows them to blend in with the sun-baked grasses and earth, reducing their visibility to predators. While their body shape is distinct, the low color contrast makes them less conspicuous against the background. The texture of their fur is smoother than the wispy grass, leading to a medium texture similarity, but the strong color match is the key factor in their camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pufferfish",
+  "background_description": "The background depicts a blurred underwater environment, likely a coral reef or rocky seabed. There is a prominent golden-yellow coral formation on the right side, and greenish-brown textured elements resembling rocks or algae on the left and bottom.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Pufferfish with distinct white spots on a greyish-brown body and bright yellow fins. Its prominent features and clear outline make it stand out against the blurred aquatic background, confirming the absence of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hawk",
+  "background_description": "The bird is perched on a black, artificial stand covered with a small patch of artificial green grass-like material. The background is blurred, showing elements such as patchy green grass, a light grey or white wall/structure, a blue rope, and possibly some wooden posts, indicating an outdoor, somewhat artificial setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a hawk perched on an artificial stand. While the bird's plumage naturally features brown, black, and rufous tones that would offer effective camouflage (likely color blending and disruptive patterns) in a natural forest or rocky habitat, in this specific scene, it is brightly lit and stands out distinctly against the blurred background elements. The artificial green of the stand, the bright parts of the background, and the blue rope do not match the bird's coloration or texture, making it highly visible rather than camouflaged."
+}

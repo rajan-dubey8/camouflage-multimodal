@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Elephant",
+  "background_description": "The background consists of a dark brown, textured sandy/dirt ground in the foreground, several weathered greyish-brown logs horizontally behind the elephant's legs, a grey concrete structure on the upper right, and a reddish-brown brick wall on the upper left.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The elephant exhibits a degree of camouflage through color blending with its environment. Its wrinkled, dark grey-brown skin shares significant textural and tonal similarities with the surrounding elements. The rough, uneven texture of its hide closely matches the coarse sandy/dirt ground and the weathered, grooved surfaces of the logs behind it. While the elephant is a large and distinct entity, its overall dark, muted coloration allows it to blend tonally with the brown earth, grey logs, and even the subdued concrete and brick in the background, reducing its contrast against these elements. This natural coloration helps elephants in their native habitats to blend into forests, savannas, or muddy environments, making them less conspicuous despite their size, especially in low light or from a distance."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of damp, lumpy earth or mud, possibly mixed with small pebbles or dried soil clumps. The colors are predominantly muted greens, greys, and brownish-yellows, with a wet, reflective surface creating bokeh effects in the out-of-focus areas. The texture is uneven, granular, and somewhat coarse.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage in this image. Its skin coloration, a mottled mix of dark greys, greens, and browns with lighter speckles, almost perfectly matches the damp, lumpy earth and pebbles it is resting on. The warty and granular texture of the toad's skin further enhances this blend by mimicking the rough, uneven texture of the surrounding ground. The irregular shape of the toad, coupled with the patterned skin, disrupts its outline against the similarly uneven background, making it very difficult to distinguish from its environment. The wet sheen on its skin also mirrors the dampness of the surroundings, adding to the overall visual continuity and reducing any reflective differences that might give it away."
+}

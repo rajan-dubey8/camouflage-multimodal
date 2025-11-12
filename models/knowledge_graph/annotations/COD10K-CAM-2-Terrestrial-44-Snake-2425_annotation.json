@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Snake",
+  "background_description": "The background consists entirely of fine-grained sand with a dominant reddish-orange hue. Individual sand particles vary in color from light cream and off-white to deep orange, brown, and dark specks, creating a textured, granular surface with no discernible large patterns.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Shape disruption",
+  "explanation": "The snake is exceptionally camouflaged, almost entirely buried within the reddish-orange sand, with only its eyes and a small portion of its head subtly protruding. The visible scales on the snake's head perfectly match the color palette of the surrounding sand, displaying similar shades of orange, brown, and off-white. Furthermore, the texture of the exposed scales appears granular and rough, mimicking the individual sand particles, which contributes to a high texture similarity. The overall effect is one of extreme concealment, where the snake's distinct shape is completely disrupted by the sandy environment, making it virtually indistinguishable from the background. The low contrast difference between the snake and the sand, except for the tiny dark pupils, further enhances its ability to disappear, making it very difficult to spot."
+}

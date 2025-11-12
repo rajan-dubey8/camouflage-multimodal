@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of light grey and darker grey paving stones or concrete slabs. The surface has a fine granular texture with some imperfections and visible lines between the slabs.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly displays vibrant orange wings with distinct black and white markings. This coloration strongly contrasts with the grey, granular texture of the concrete background. There is no attempt at blending in via color, pattern, or texture with its immediate environment. The bright colors likely serve as a warning (aposematism) rather than for concealment."
+}

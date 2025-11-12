@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists primarily of a large, rough-textured rock formation displaying a variety of earthy tones, from light grays to darker browns, with some areas appearing damp or wet, enhancing their dark hue. Behind and above the rock, there is a slope covered in white snow, and in the distant, blurred background, dark green foliage from trees is visible.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The bird exhibits good camouflage against its rocky environment. Its plumage features a blend of grayish-browns, darker browns on its back, and lighter, almost whitish, tones on its head and belly. These colors closely match the varied hues present on the rock surface, which includes both light gray and dark brown areas. The darker parts of the bird's feathers blend with the wet, darker sections of the rock, while the lighter parts blend with the drier, lighter stone and somewhat with the snow in the background. This color blending significantly reduces its visual contrast and helps to break up its outline against the complex textures of the rock, making it challenging to discern at first glance. While the texture of feathers is distinct from rock, the overall mottled appearance contributes to effective blending."
+}

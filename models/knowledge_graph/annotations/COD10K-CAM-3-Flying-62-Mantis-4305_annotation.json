@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dense, chaotic mix of dry, light brown and beige grass blades, some scattered green grass stalks, and fallen reddish-brown oak leaves. There are also thin, dry twigs and other plant debris, creating a mottled and textured ground cover. Sunlight casts varied shadows, adding to the visual complexity and breaking up outlines.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Shape disruption / Pattern matching",
+  "explanation": "The mantis exhibits excellent camouflage, blending remarkably well with its environment. Its body coloration, a mix of browns, tans, and dull greens, perfectly matches the dried grasses, fallen leaves, and subtle green stalks that make up the background. This high color similarity makes it difficult to distinguish. Furthermore, the mantis's elongated, slender shape, particularly its body and extended forelegs, mimics the linear forms of dry twigs and grass blades (shape disruption and pattern matching). The interplay of sunlight and shadow on its body also helps to break up its outline, further reducing any stark contrast differences. While not completely invisible, it requires close inspection to spot the mantis within the cluttered natural textures."
+}

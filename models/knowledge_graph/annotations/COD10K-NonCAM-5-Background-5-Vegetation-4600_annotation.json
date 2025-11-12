@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lush coastal landscape with bridge",
+  "background_description": "The scene depicts a vibrant coastal environment characterized by dense, overgrown green vegetation covering a hillside. A section of the hillside is covered in striking bright yellow/orange plant growth, possibly a flowering vine or parasitic plant. A grey metal bridge with railings extends across a gap in the foliage. In the background, the ocean's surface is visible under a hazy sky, meeting a rocky shoreline. The overall texture is varied, from the fine leaves of the green bushes to the stringy appearance of the yellow growth and the rough texture of the distant rocks.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image solely depicts a natural environment, specifically a lush coastal landscape featuring dense vegetation, a section of bright yellow plant growth, a man-made bridge, and the ocean in the background. There are no visible animals, insects, or fish within the frame. Therefore, no organism is present to employ camouflage, and consequently, camouflage is not detected."
+}

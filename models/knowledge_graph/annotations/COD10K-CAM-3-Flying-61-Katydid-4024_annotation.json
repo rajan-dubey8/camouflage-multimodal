@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a large, partially damaged, and somewhat dry leaf with numerous holes, showing a dull, muted green color with brownish edges. Behind the leaf, the environment is dark and out of focus, suggesting deep shadow or night, with faint hints of darker brown and green foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Katydid, while green, stands out significantly against the leaf it is resting on. Its body is a vibrant, almost neon green with distinctive bright yellow spots and a prominent pink/purple stripe along its back and on its head protrusion. The leaf itself is a much duller, darker green with brown tones and a rough, damaged texture. The Katydid's bright coloration creates a high color contrast, and its waxy, bumpy texture does not match the dry, veined texture of the leaf. Furthermore, the yellow eyes and pink/purple markings are striking against both the Katydid's own green and the background, preventing any effective blending. The overall effect is that the Katydid is highly visible."
+}

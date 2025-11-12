@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Gull",
+  "background_description": "The background consists primarily of a clear, light blue sky. The bird is perched on a weathered, rough-textured wooden post.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage, featuring stark black, white, and gray sections, along with a bright red beak, creates a high contrast against both the plain light blue sky and the textured wooden post. There is no visual blending of the bird's colors or patterns with its immediate environment, and its form is clearly delineated. Therefore, no camouflage is present in this scene."
+}

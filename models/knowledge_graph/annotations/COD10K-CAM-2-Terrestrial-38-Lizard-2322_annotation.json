@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background consists primarily of stacked, weathered wooden logs and planks. The wood displays prominent grain patterns, cracks, rough textures, and varying shades of gray due to weathering and lighting. To the left, there is a large, rough-textured rock or boulder. Scattered leaves, some dry and some possibly green (appearing dark gray), are also present, especially on the right side and foreground, contributing to a natural, somewhat cluttered environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits excellent camouflage. Its speckled and mottled pattern, along with its overall grayscale tone, remarkably matches the weathered, grainy texture and varying shades of the wooden logs it rests upon. The intricate patterns on its skin mimic the cracks, wood grain, and rough surface of the background, breaking up its outline effectively. The low contrast difference between the lizard and the wood makes it blend seamlessly, making it difficult to spot at first glance."
+}

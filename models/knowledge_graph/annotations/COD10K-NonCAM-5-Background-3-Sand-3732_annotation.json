@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical sandbar and ocean",
+  "background_description": "The scene displays a stunning tropical marine environment. A pristine white sandbar or shallow beach curves through clear, light turquoise waters where coral patches are visible beneath the surface. This transitions into a deeper blue ocean towards the horizon, which is topped by a bright blue sky with scattered white cumulus clouds. Small, distant islands can be seen on the far horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a natural environment comprising a white sandbar, clear turquoise ocean, and a blue sky. No organisms such as animals, insects, or fish are visible anywhere within the scene. Therefore, there is no subject present to exhibit camouflage."
+}

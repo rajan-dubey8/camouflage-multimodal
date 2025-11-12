@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bharal (Himalayan Blue Sheep)",
+  "background_description": "The immediate foreground consists of a large, rough, textured rock surface, predominantly light grey-brown in color. The background behind the animals is a very dark, almost black, indistinct area, possibly deep shadow or out-of-focus distant foliage, which provides a stark, contrasting backdrop.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.5,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Bharal exhibit natural camouflage through color blending and texture matching with their environment. Their grey-brown, shaggy fur shares similar hues and a somewhat rough texture with the large, light grey-brown rock surface they are positioned on, which is characteristic of their natural rocky habitat. This inherent coloration provides a degree of concealment against such terrain. However, the very dark, almost black background creates a high contrast silhouette, making the animals quite distinct and easily visible despite their adaptive coloration. The black and white markings on the lower legs of the standing animal also increase local contrast, further reducing overall blending effectiveness in this specific photographic context."
+}

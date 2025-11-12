@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a cluster of dry, light brown, woody branches and faded, yellowish-green leaves. There are also some darker brown, possibly dried leaf fragments or plant detritus. The overall environment appears to be a dry, sunlit shrub or plant, with the background blurring into lighter tan and brown tones.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Mantis exhibits excellent camouflage in this image. Its body is primarily a pale, creamy tan color, which almost perfectly matches the dried woody branches and faded leaves it is resting on. The slight greenish tint around its head and parts of its body also blend with the less vibrant green elements of the plant. The mantis's slender, elongated shape and posture allow it to mimic a twig or stem, further aiding in visual deception. The overall low contrast between the mantis and its immediate surroundings makes it difficult to discern, especially from a distance or without careful observation. While its texture is smoother than the rough bark, the color match and shape mimicry are highly effective."
+}

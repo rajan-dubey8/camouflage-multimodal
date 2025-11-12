@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background consists of dark, murky aquatic environment with hints of blurred green and brown vegetation or rocks. Fine particulate matter is visible suspended in the water, giving it a somewhat hazy appearance.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.9",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a fish, likely a rockfish, with distinct golden-orange and dark mottled coloration, accentuated by white speckles. Its vivid pattern and the contrast with the darker, blurry background ensure it is clearly visible and not camouflaged."
+}

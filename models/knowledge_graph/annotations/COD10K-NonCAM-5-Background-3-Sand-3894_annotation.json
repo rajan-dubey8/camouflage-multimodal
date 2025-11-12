@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky beach with forested hillside",
+  "background_description": "The scene features a sandy beach speckled with various dark and reddish-brown rocks, leading into clear, shallow ocean water with gentle white waves. Beyond the beach, a rocky shoreline with exposed reddish-brown and grey rock formations rises steeply, topped by a dense forest of lush green trees under a clear blue sky. In the far distance, a small rocky outcropping is visible in the ocean.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural coastal environment comprising a beach, ocean, rocky shore, and forested hillside. There are no discernible animals, insects, or fish present within the frame that could exhibit camouflage. Therefore, no camouflage is detected, as the subject of the image is the landscape itself rather than an organism attempting to blend in."
+}

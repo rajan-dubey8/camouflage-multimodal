@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion cub",
+  "background_description": "The background consists of a mix of dry, yellowish-brown grass and patches of greener grass. There are also areas of visible dry earth. The textures are fine and linear from the grass blades, creating a somewhat mottled appearance due to variations in color and light.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion cub's tawny, sandy-brown fur provides effective color blending with its environment, which is dominated by dry, yellowish-brown grass and earth. This coloration allows the lion to reduce its visibility by closely matching the prevalent colors of its natural habitat. The low contrast between the cub's fur and the background helps it to remain less conspicuous, aiding in stealth for hunting and evading detection."
+}

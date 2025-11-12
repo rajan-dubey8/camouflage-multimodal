@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Domestic cat",
+  "background_description": "The background consists of a textured, greyish-brown concrete or paved ground in the foreground and midground. In the upper background, there is dense, dark green foliage with visible leaves. A silver metallic structure (possibly a railing or frame) is partially visible on the bottom left.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The cat's predominantly white fur stands out significantly against the dark, grainy greyish-brown concrete and the dark green foliage in the background. The distinct color and texture difference between the cat and its surroundings result in a high contrast, making it very easily visible. There is no attempt at color blending, mimicry, or disruptive patterning to conceal itself in this environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giant Anteater",
+  "background_description": "The background consists of a uniformly bright green grassy field, with slightly taller, denser green vegetation visible further back. The overall impression is a vibrant grassland or savannah environment under natural light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Giant Anteater's dark, shaggy fur and distinct body shape provide a strong visual contrast against the uniformly bright green grassy background. Its coloration and texture do not blend with the environment, making it highly conspicuous and not effectively camouflaged in this specific scene."
+}

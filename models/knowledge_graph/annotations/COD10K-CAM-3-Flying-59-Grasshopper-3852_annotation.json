@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a ground covered densely with dry, fragmented wood chips, pieces of bark, and some dried plant debris. The dominant colors are various shades of brown, grey, and some earthy tones, creating a mottled, rough texture. There is a blurred light green stem in the foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper exhibits strong camouflage against its environment. Its body coloration, a mottled pattern of browns and greys, almost perfectly matches the hues and values of the dry wood chips and bark fragments that make up the ground cover. Furthermore, the rough, textured surface of the grasshopper's exoskeleton closely mimics the irregular, splintered textures of the surrounding debris. This high degree of color and texture similarity, combined with a low contrast difference, effectively disrupts the grasshopper's outline, making it blend in seamlessly and difficult to distinguish from its surroundings."
+}

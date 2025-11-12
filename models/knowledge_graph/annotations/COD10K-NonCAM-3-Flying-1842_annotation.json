@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Herons",
+  "background_description": "The background consists of a dense network of bare tree branches with muted brown and gray tones, suggesting winter or early spring foliage. Behind the branches, there is a soft, pale blue sky or distant water visible. The background is somewhat blurred, providing visual clutter.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.55",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The Great Blue Herons exhibit camouflage primarily through color blending. Their plumage, which includes shades of gray-blue and brownish-tan, allows them to somewhat merge with the muted tones of the bare tree branches and the distant soft blue background. The complex structure of the branches offers some visual disruption that aids in breaking up their outline. However, their distinct shapes, prominent bright yellow eyes, and beaks create areas of moderate contrast, making them noticeable despite the blending. While not perfectly hidden, their coloration provides functional concealment within their natural environment, particularly common nesting or roosting sites in trees near water."
+}

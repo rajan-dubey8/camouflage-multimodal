@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background consists of a dark, almost black, empty space behind the organism and the branch. The foreground environment is a rough, textured branch or stem, possibly covered in moss, lichen, or other dense plant growth. It features a mix of dark brown, reddish-brown, and olive-green hues, with numerous small, spiky protrusions and water droplets visible on its surface, indicating a moist environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Katydid demonstrates excellent camouflage, blending seamlessly with the rough, textured branch it is perched upon. Its body exhibits a mottled pattern of browns, tans, dark greens, and greys that perfectly match the colors and intricate textures of the mossy/lichen-covered surface of the branch. The irregular shape and patterned exoskeleton of the Katydid also serve as disruptive coloration, breaking up its outline and making it difficult to distinguish from the natural irregularities of its substrate. The presence of water droplets on its back further enhances its integration with the damp appearance of the branch, contributing to a high degree of both color and texture similarity with its immediate environment."
+}

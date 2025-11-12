@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Anthias fish",
+  "background_description": "The background is a blurred aquatic environment with various shades of blue and green, suggesting deep water or a distant coral reef, along with some indistinct orange and brown shapes that could be corals or rocks. The water appears clear.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "1.0",
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays a brightly colored Anthias fish, predominantly red-orange with golden scales. Its vibrant coloration makes it stand out distinctly against the blurred blues and greens of the aquatic background, indicating no presence of camouflage."
+}

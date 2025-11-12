@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Mongoose",
+  "background_description": "The background consists of muted brown, gray, and dark green earthy tones, resembling rough rock, soil, and possibly some dark vegetation or tree bark. The textures are irregular, mottled, and somewhat granular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The mongoose's speckled grayish-brown fur closely matches the earthy tones of the rocky, soil-like background. Both the animal and its environment share similar muted colors and rough, granular textures, leading to high color and texture similarity. The low contrast difference further aids in blending, making the animal less conspicuous. This is a clear example of color blending camouflage, helping the mongoose to remain hidden in its natural habitat."
+}

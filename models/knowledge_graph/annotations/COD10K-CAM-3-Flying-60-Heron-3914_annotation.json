@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Heron",
+  "background_description": "The background consists of a dense, tall wall of dried, golden-brown reeds (likely Phragmites) with some feathery tops visible. Below the reeds, there is a flat expanse of white snow covering the ground, which extends into the foreground. The scene is brightly lit, suggesting a sunny day.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.15,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Heron is clearly visible against its environment. Its bluish-grey body and head, along with its prominent white chest and belly, stand in stark contrast to the golden-brown vertical reeds. While the white belly shows some minimal color similarity to the snow, the overall coloration and distinct shape of the Heron do not blend with the dominant background of reeds. The vertical lines of the reeds do not effectively disrupt the Heron's form due to the significant difference in color and texture, making it easily detectable."
+}

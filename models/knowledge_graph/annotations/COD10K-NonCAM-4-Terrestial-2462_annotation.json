@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Prairie dog",
+  "background_description": "The background consists of dry, sparsely vegetated ground, possibly grass or stubble, covered with a light layer of frost or dew, giving it a muted grayish-brown and slightly textured appearance. The immediate foreground is a mound of dark brown, granular soil mixed with some dried plant matter and small pebbles.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The prairie dog displays effective color blending camouflage. Its fur is a sandy, light brown color that closely matches the dry, earthy tones of its natural grassland and prairie habitat. Although the immediate soil it is standing on is a darker brown, the overall coloration of its fur blends well with the general palette of the background, especially the distant frosted ground. This helps reduce its visibility against the ground and dry vegetation, making it harder for predators to spot."
+}

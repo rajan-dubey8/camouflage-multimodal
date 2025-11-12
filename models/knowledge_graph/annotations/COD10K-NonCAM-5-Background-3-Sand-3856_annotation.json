@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky beach at low tide",
+  "background_description": "The foreground features a wide expanse of dark, wet pebbles and rocks of various sizes, creating a rough and textured surface. Beyond this, there are tidal flats composed of dark, wet sand, interspersed with shallow pools of water that reflect the bright sky. In the far distance, the sparkling surface of the ocean meets a hazy horizon under a light blue sky with some cloud cover.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image predominantly displays a natural coastal environment at low tide, characterized by a rocky foreshore, sandy tidal flats, and the sea under a bright sky. While there are small, distant human figures visible, they are not the main subject of the image and are clearly identifiable against the environment, not exhibiting any form of camouflage. No other organisms (animals, insects, or fish) attempting to blend into the environment are discernible. Therefore, camouflage is not present in this scene."
+}

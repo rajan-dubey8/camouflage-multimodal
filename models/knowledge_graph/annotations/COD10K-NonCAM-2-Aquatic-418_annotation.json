@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Ornate Ghost Pipefish",
+  "background_description": "The background features a dense, intricate branching gorgonian coral or hydroid structure with many small, spiky polyps in shades of light brown, beige, and white. Behind this structure, the water is dark blue-green. Several small, slender fish with silvery bodies and hints of yellow are visible swimming in the mid-ground.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays an Ornate Ghost Pipefish (Solenostomus paradoxus) positioned vertically within a branching gorgonian coral. While its complex, frilly body shape and patterned coloration share characteristics with its environment, its distinct outline and visible features make it readily identifiable and not actively camouflaged within the context of this dataset."
+}

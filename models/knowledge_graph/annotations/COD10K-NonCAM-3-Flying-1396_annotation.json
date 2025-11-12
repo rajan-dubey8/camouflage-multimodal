@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Hawk",
+  "background_description": "The background consists of a soft-focus, light green grassy hillside or field. The bird is perched on a dark, weathered wooden post, which sits above a bright yellow triangular road sign with black lettering, partially visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The hawk is clearly visible against the blurred light green background and is perched on a distinct dark wooden post above a bright yellow sign. Its brown and white plumage does not effectively blend with the dominant green hues of the distant background or the stark colors of the artificial perch. The bird's form, color, and texture stand out distinctly, indicating no active camouflage is present in this specific scene."
+}

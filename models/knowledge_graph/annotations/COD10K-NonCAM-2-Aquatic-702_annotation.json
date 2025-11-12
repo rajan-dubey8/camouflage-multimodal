@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Discus Fish",
+  "background_description": "The background consists of clear green water with several vibrant green aquatic plants, some with feathery or leafy textures, suggesting a freshwater planted aquarium environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two Discus fish, one prominently in the foreground. They display vivid patterns of red-orange and light blue on a cream-colored body, with striking red eyes. These distinct colors and patterns stand out sharply against the uniform green aquatic plants and green water background, indicating no camouflage is present. The fish are highly visible."
+}

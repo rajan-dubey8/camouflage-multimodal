@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wildfire in a barren landscape",
+  "background_description": "The scene depicts a wildfire burning through dry vegetation on the ground. A large, dark-silhouetted deciduous tree with bare branches stands prominently in the center, extending towards a clear light blue sky. Smoke, light blue-grey, rises from the burning ground, partially obscuring the background foliage. Flames are visible at the base of the vegetation, creating a stark contrast against the dark trees and pale sky/smoke.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features an environmental scene depicting a wildfire. A large, bare tree and other sparse vegetation are visible, along with flames and smoke on the ground and a clear sky above. No animals, insects, or any other organisms are present in the image. Therefore, there is no camouflage to detect."
+}

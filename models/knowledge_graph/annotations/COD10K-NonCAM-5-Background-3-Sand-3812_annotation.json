@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Stormy beach landscape",
+  "background_description": "The scene depicts a wide, desolate sandy beach under a dark, heavy, overcast sky, characteristic of stormy weather. The ocean on the right shows grey-blue water with significant white-capped waves breaking towards the shore. The foreground and midground consist of light brown to tan sand, with visible tire tracks and scattered darker debris, possibly seaweed or small rocks. Low, vegetated sand dunes are visible along the distant left horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image primarily features a natural environment consisting of a beach, ocean, and sky. Although there are a few very small, distant human figures visible on the beach, they are not the main subject of the image for camouflage analysis and are clearly distinguishable against the sandy background. There is no visible organism attempting to blend into the environment or exhibiting any form of camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of a rough, mottled rock surface, likely granite or a similar igneous rock, characterized by a granular texture. It displays a variety of colors including light grey, dark grey, black, and subtle hints of reddish-brown or beige, creating an irregular, patchy pattern across the surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The butterfly exhibits excellent camouflage against the rock surface. Its wings display a complex pattern of white, various shades of grey, black, and reddish-brown accents, which remarkably mimic the granular texture and color variations of the granite-like rock. The intricate, wavy, and blotchy patterns on the wings break up the butterfly's outline, making it difficult to discern its true shape against the similarly patterned background. The overall color palette of the butterfly, dominated by greys and browns, blends seamlessly with the dominant colors of the rock. The 'eyespots' on the lower wings, while distinct, are also incorporated into the overall cryptic pattern and do not significantly compromise the camouflage. This combination of color matching, pattern imitation, and shape disruption makes the butterfly very well hidden in this environment."
+}

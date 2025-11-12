@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Green Heron",
+  "background_description": "The background consists of a dark, slightly murky body of water with subtle reflections, surrounded by dense green foliage and dark brown branches and vines. The environment suggests a shaded, wetland or riparian setting.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Green Heron exhibits effective camouflage primarily through color blending. Its dark greenish-grey back and wings, along with its reddish-brown neck, closely match the hues of the surrounding dark foliage, brown branches, and the muted tones of the water and shadows. The streaked white and brown patterns on its belly also help to break up its outline, blending with dappled light or varied textures. Although its bright yellow legs and beak provide some contrast, the overall plumage significantly reduces its visibility within its natural habitat of dense vegetation near water."
+}

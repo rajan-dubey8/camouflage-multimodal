@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Donkey",
+  "background_description": "The background consists of a uniformly blurred, vibrant green field, most likely short grass or pastureland, with no distinct textures or features visible.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a donkey with a predominantly brown and grey coat. The background is a stark, vibrant green. There is a significant color and luminance difference between the donkey's fur and the green background. The donkey's texture (fur) also contrasts sharply with the smooth, blurred texture of the grass. Therefore, the donkey is not camouflaged and stands out distinctly against its environment."
+}

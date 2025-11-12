@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists primarily of the cross-section of a wooden log, displaying prominent concentric tree rings and radial cracks. The wood surface is a light, somewhat yellowish-brown with various darker specks, possibly dirt or mold, and fine linear textures. Portions of other logs or cut wood with rougher textures and lighter areas are also visible around the main log.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits effective camouflage against the wooden log. Its small, round body is a light brown, very closely matching the dominant color of the cut wood surface. The most striking aspect of its camouflage is how its long, slender legs blend seamlessly with the fine lines, cracks, and tree rings on the log, creating an excellent example of pattern matching. The low contrast between the spider's coloration and the wood, combined with the way its body shape and thin appendages merge with the background textures, makes it quite difficult to spot at first glance."
+}

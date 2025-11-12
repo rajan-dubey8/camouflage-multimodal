@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Turtle",
+  "background_description": "The background consists of a shallow rocky seabed covered with varying amounts of dark brown and olive-green algae, interspersed with areas of bare rock and patches of yellowish sediment or sunlit algae. The water above is clear but rippled, creating distorting refractions and reflections that add visual complexity and texture to the environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The turtle demonstrates excellent camouflage by blending seamlessly with the rocky, algae-covered seabed. Its dark olive-brown and golden carapace colors closely match the shades of the surrounding rocks and the yellowish-green algae, particularly where sunlight creates bright patches. The mottled pattern on its shell further enhances this effect, making it difficult to distinguish from the varied textures of the underwater rocks. The water's surface ripples and refractions also contribute to breaking up the turtle's outline and creating visual noise, reducing contrast and making it less conspicuous. The combination of color matching, pattern blending, and environmental disruption results in a highly effective concealment."
+}

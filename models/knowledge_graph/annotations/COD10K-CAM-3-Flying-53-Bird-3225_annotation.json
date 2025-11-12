@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a muddy, shallow wetland environment with standing water in the foreground and mid-ground. The ground is covered with rich, dark brown mud, interspersed with patches of sparse green aquatic vegetation, dead leaves, twigs, and small pebbles or stones. The overall scene is one of natural clutter, varied textures, and earthy tones.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird's plumage exhibits an exceptional degree of camouflage. Its feathers are a complex mosaic of earthy browns, creams, dark grays, and black streaks, which perfectly match the colors and textures of the muddy ground, dead leaves, and sparse vegetation in its wetland habitat. The distinct cream-colored stripes running along its head and back contribute to shape disruption, breaking up the bird's outline and preventing it from appearing as a solid, identifiable form. The mottled patterns on its body mimic the irregular shapes and textures of the surrounding debris, while the overall low contrast difference between the bird and its environment allows it to blend seamlessly. This combination of color blending, pattern matching, and disruptive coloration makes the bird very difficult to spot."
+}

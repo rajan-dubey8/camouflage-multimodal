@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a dense tangle of dry, brittle reeds or tall grasses, varying in shades from light tan and golden-brown to darker browns and even some greenish-brown hues. The reeds are oriented in various directions, creating a chaotic, linear texture. Scattered among the reeds are small patches of white, crystalline snow or ice, indicating a cold environment.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bird exhibits exceptionally effective camouflage. Its plumage features a striking pattern of golden-yellow, dark brown, and lighter brown stripes that perfectly mimic the colors and linear textures of the surrounding dry reeds. The vertical and diagonal streaks on the bird's back and head align seamlessly with the orientation of the reed stalks, effectively breaking up its silhouette and making it incredibly difficult to distinguish from the environment. The overall low contrast difference between the bird and the background further enhances its blending capabilities. Even with patches of snow present, the bird's natural patterns integrate so well with the dominant vegetation that it becomes almost invisible."
+}

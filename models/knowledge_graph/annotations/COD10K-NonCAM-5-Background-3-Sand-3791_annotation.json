@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Beachfront town",
+  "background_description": "The foreground features a sandy beach with a small, shallow stream or inlet flowing across it, showing rippled water reflecting light. The sand is light brown with fine textures. In the mid-ground, there's a low sandy or rocky embankment. Behind this, a line of buildings including multi-story hotels and houses with light-colored facades and reddish-brown tiled roofs are visible. The background is a vast, clear, deep blue sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts a coastal environment with a sandy beach, a small body of water, and a line of buildings under a clear blue sky. There are no visible organisms (animals, insects, or fish) present in the image. Therefore, no camouflage is detected, as camouflage is a biological adaptation for organisms to blend into their surroundings."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is positioned on the textured bark of a tree. The bark is deeply furrowed and rugged, primarily in shades of dark brown, grayish-brown, and some lighter, earthy brown highlights. The overall environment appears dry, with some out-of-focus dried plant stalks (light brown/tan) visible in the foreground and background.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard exhibits excellent camouflage. Its body coloration, a mottled pattern of browns, grays, and darker spots, perfectly matches the earthy tones and varied shades of the tree bark. The highly textured, spiky scales of the lizard also remarkably mimic the rough, gnarled, and fissured surface of the bark, leading to high texture similarity. This combination of color blending and pattern matching, along with the disruption of its body shape by its spiky protrusions blending with the bark's ruggedness, results in very low contrast difference between the lizard and its environment, making it incredibly difficult to discern."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "White's Tree Frog",
+  "background_description": "A wet, dark brown and grey tiled surface with an ornate, repeating geometric pattern. There are numerous water droplets and small puddles reflecting light on the tiles, suggesting a damp, possibly artificial, aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a bright green White's Tree Frog (also known as a Dumpy Tree Frog or Australian Green Tree Frog) resting on a dark, wet tiled surface. Its vivid green coloration provides a strong contrast against the dark background, making it highly visible and indicating no camouflage is present."
+}

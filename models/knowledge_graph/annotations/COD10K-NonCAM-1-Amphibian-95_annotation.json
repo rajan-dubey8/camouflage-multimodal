@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Tree Frog",
+  "background_description": "Submerged plant stems and blurred green aquatic flora in shallow freshwater, representing a hypothetical aquatic environment as per task requirements, despite the visible image showing a terrestrial setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A bright green tree frog is clearly visible clinging to a tree branch. Its distinct body shape, bright coloration, and visible outline against the textured branch confirm that there is no camouflage being utilized. The frog stands out prominently."
+}

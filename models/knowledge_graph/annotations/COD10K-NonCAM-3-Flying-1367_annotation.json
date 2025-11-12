@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Egret",
+  "background_description": "The background consists of a calm body of water with subtle ripples reflecting a dull light, appearing greyish-blue. Beyond the water, there is a distant urban landscape featuring multi-story buildings with various colors (greens, blues, browns) and scattered trees, suggesting a city waterfront.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The subject is a Great Egret, characterized by its stark white plumage, bright yellow beak, and dark legs. It is positioned prominently in the foreground against a background of rippling grey-blue water and a distant, blurred urban environment. The bird's bright white color creates a very high contrast with its surroundings, making it highly visible and not blending in with the environmental colors or textures. Therefore, no camouflage is present."
+}

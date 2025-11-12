@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The lizard is resting on a large, gnarled piece of dark brown, highly textured driftwood or root structure. The wood displays deep grooves, ridges, and a rugged, fibrous surface, with varying shades of brown, beige, and dark shadows. In the background, there is a blurred, greyish, rough-textured wall or rock surface.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The lizard demonstrates excellent camouflage by meticulously blending with its immediate environment. Its skin features a base color of earthy brown and beige, complemented by irregular dark, almost black, bands and spots. These colors and patterns precisely match the varying shades of brown, dark crevices, and rugged textures of the gnarled wooden structure it is resting on. The rough, scaled texture of the lizard's skin also remarkably mimics the coarse, weathered texture of the wood. Furthermore, the lizard's posture, draped along the irregular contours of the wood, helps to disrupt its distinct outline, making it very difficult to distinguish from its surroundings. The overall low contrast difference between the lizard and the wood significantly contributes to its successful concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The background features a dark, heavily textured tree trunk, which is covered with patches of light green moss or lichen. Behind and to the left, there is blurred green foliage consisting of various leaves and branches.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel's gray and brownish-gray fur provides a moderate level of color blending with the dark, textured tree bark and areas of green moss/lichen. While its form is distinct, its muted coloration reduces its conspicuousness, contributing to camouflage by making it harder to spot against the natural tones of its arboreal habitat. The texture of its fur, however, does not highly mimic the rough bark."
+}

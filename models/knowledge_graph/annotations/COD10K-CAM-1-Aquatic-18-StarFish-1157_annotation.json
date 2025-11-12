@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Invertebrate",
+  "object_name": "StarFish",
+  "background_description": "The StarFish is resting on a large, irregularly shaped, light beige/yellow sponge with numerous pores and undulating surfaces. Surrounding the sponge are patches of dark greenish-brown algae, some purplish and pinkish encrustations, and a sandy ocean floor visible in the distance, all under a greenish-blue underwater ambient light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The StarFish is brightly colored in a vivid red-orange with distinct white patterns. This coloration creates a strong visual contrast against the pale yellow-beige sponge it is resting on, as well as the darker green/brown algae and the overall greenish-blue underwater environment. Its distinct star shape and prominent color make it highly conspicuous and it clearly stands out rather than blending with its surroundings. There is no attempt at color matching, pattern matching, or shape disruption to aid concealment."
+}

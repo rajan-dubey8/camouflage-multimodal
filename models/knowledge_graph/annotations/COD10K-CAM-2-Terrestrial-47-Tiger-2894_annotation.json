@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Tiger",
+  "background_description": "The background consists of a dense layer of dry, brownish-yellow vegetation, including numerous thin, upright stems and fallen dry leaves covering the ground. There are also scattered patches of green leaves and twigs, particularly in the foreground and interspersed throughout. The overall environment appears to be a dry forest floor or scrubland, with natural variations in light and shadow due to the overhead canopy and dense undergrowth.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The tiger exhibits strong camouflage in this image. Its orange-brown fur closely matches the color palette of the dry leaves and stems on the forest floor. The black stripes on its body are a prime example of disruptive coloration, breaking up the tiger's outline and mimicking the vertical lines and shadows created by the dense, reedy vegetation. This pattern effectively disrupts the perception of a continuous body shape. Although parts of the tiger are visible, its natural coloration and striped pattern, combined with its position low within the dense undergrowth, make it blend remarkably well with its environment, making it difficult to spot at first glance."
+}

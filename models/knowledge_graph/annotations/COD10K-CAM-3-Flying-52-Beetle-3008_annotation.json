@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Beetle",
+  "background_description": "The background consists primarily of various green leaves and stems. The foreground features a vibrant green leaf with visible veins, some surface texture (slight fuzziness), and a few small holes, indicating previous damage. The background foliage is largely out of focus, creating a blurred gradient of lighter and darker green hues, suggesting a dense plant environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Beetle exhibits strong camouflage through color blending. Its entire body is a vivid green, almost perfectly matching the primary hue of the surrounding leaves and the blurred green background. This high color similarity makes the organism blend seamlessly with the foliage. While its smooth texture differs slightly from the more textured leaf surface, and its outline is distinct, the overwhelming color match significantly reduces its visibility. The contrast difference is low due to the similar green tones, making it difficult to discern the beetle at first glance, especially from a distance or without close inspection. The primary mechanism of camouflage here is color matching the green vegetation."
+}

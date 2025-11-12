@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of a dark, roughly textured rocky terrain or wall, with the foreground composed of patches of dry, light-brown grass and vibrant green grass. Sunlight casts strong illumination on the foreground and the main lion, creating deep shadows behind them.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion's tawny and brownish coat provides natural camouflage through color blending, allowing it to merge with the dry grasses, earth, and rocky terrain of its typical habitat. While the foreground lion is illuminated by direct sunlight, increasing its visibility against the dark background, its natural coloration still aligns with environmental tones that would typically provide cover. The lions in the darker background demonstrate particularly effective blending with the shadows and dark rock, highlighting the inherent cryptic coloration of the species. This coloration is a key adaptation to reduce visibility to prey and competitors."
+}

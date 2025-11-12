@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Koi",
+  "background_description": "Dark, murky water with visible floating green water lily pads at the bottom and sides of the frame. The water appears to be still and somewhat reflective, suggesting a pond or shallow, calm aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a Koi fish with distinct bright orange and white markings. Its vibrant colors create a strong contrast against the dark water and green lily pads, making it highly visible and indicating no camouflage is present."
+}

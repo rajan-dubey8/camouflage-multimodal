@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a somewhat barren, rocky, and grassy landscape. The immediate foreground and midground are covered with dry, straw-colored grasses, dark brown and grey soil/moss patches, and scattered grey rocks. Further back, the vegetation becomes a blurred mix of golden-yellow and light green, with a bright, hazy, almost white sky or distant horizon. The overall palette is earthy and muted.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The organism, identified as a Bittern, demonstrates excellent camouflage in this image. Its plumage is a complex pattern of dark browns, blacks, and creamy whites, which perfectly matches the varied textures and colors of its immediate environment. The dry, golden-brown grasses, dark soil patches, and grey rocks in the background are closely mimicked by the bird's feathers. The mottled and speckled pattern of the bird's body effectively breaks up its outline (shape disruption), preventing it from standing out as a distinct form. The high similarity in both color and texture, combined with a low contrast difference between the bird and its surroundings, allows it to blend seamlessly into the rocky, grassy landscape."
+}

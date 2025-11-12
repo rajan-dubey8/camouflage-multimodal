@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of a tree trunk with rough, deeply fissured grey bark. It is largely covered by a dense growth of ivy, featuring vibrant green leaves, some slightly discolored or dried brown leaves, and woody tendrils. Several empty, light brown cicada nymphal exuviae are also visible clinging to the bark and ivy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The cicada in the image, particularly the newly emerged adult with its pale yellow body, transparent wings, and prominent red eyes, stands out significantly against the dark grey, textured tree bark and the green ivy leaves. There is a high contrast in both color and brightness between the organism and its surroundings. Its smooth body texture does not match the rough bark or the veined leaves, and its distinct shape is not disrupted by the environmental patterns. While other empty cicada exuviae (shells) in the image show some color resemblance to dried leaves and bark, the live cicada itself is clearly visible and not camouflaged."
+}

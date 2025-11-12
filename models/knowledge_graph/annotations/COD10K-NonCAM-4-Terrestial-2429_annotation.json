@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Red squirrel",
+  "background_description": "The background consists of a dark, possibly damp, ground surface with scattered autumn leaves in shades of yellow, brown, and dark red. The distant background is blurred, showing warm, muted tones consistent with foliage or a natural woodland environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.6,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The red squirrel's reddish-brown fur provides a medium degree of color blending with the surrounding autumn leaves and the earthy tones of the background. This natural coloration helps it to be less conspicuous in its woodland habitat, particularly during seasons when leaves change color. While its white belly creates some contrast and its fluffy texture is distinct from the smooth ground, the overall warm tones of its fur allow it to blend into the fall foliage, reducing its visibility against predators or prey."
+}

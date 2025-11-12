@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "GhostPipefish",
+  "background_description": "The background consists of a vibrant and complex coral reef environment. It features irregular structures, textures, and shapes of corals, sponges, and possibly rocky outcrops. The dominant colors are various shades of reddish-brown, orange, and yellowish-brown, creating a mottled and textured appearance. There are also darker areas indicating shadows or crevices, and some lighter, possibly encrusting organisms or sediment. Small specks are visible throughout, likely detritus or suspended particles in the water.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Shape disruption / Pattern matching / Color blending / Mimicry",
+  "explanation": "The GhostPipefish exhibits exceptional camouflage in this image. Its body is covered in a highly disruptive pattern of reddish-brown and bright yellow/orange blotches and spots, which perfectly mimics the mottled colors and textures of the surrounding corals and other reef structures. Beyond color and pattern, its physical shape is highly adapted for camouflage; it possesses numerous frilly and extended appendages that break up its outline, making it resemble a piece of coral, a frond of algae, or marine debris rather than a distinct fish. This morphological mimicry, combined with effective color blending and pattern matching, significantly reduces its visibility against the complex background, making it extremely difficult to detect."
+}

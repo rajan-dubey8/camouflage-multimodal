@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Arachnid",
+  "object_name": "Spider",
+  "background_description": "The background consists of a uniformly textured, light sandy-brown surface. It appears to be a dry, granular material, possibly concrete, rock, or compacted soil, with fine grains and subtle variations in light and shadow, and scattered darker specks that create a rough, speckled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The spider exhibits exceptional camouflage by perfectly matching the color and subtle patterns of its environment. Its body and legs are a pale, sandy-beige hue that is almost identical to the background's primary color. Furthermore, the spider's body has faint dark spots and mottling, and its legs show subtle banding, which mimic the scattered darker specks and granular texture of the substrate. This combination of color blending and pattern matching significantly reduces the contrast between the spider and its surroundings, making it very difficult to distinguish from the textured surface."
+}

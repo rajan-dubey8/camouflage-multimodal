@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Pelican",
+  "background_description": "The background consists of blurred dark green foliage, with several distinct thin, light greyish-green vertical branches covered in small, nascent green leaves. To the far right, there is a portion of a dark, textured tree stump or dead wood.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The pelican's predominantly white plumage and its strikingly bright orange-red beak create a high contrast against the dark green and brown background of foliage and branches. There is no significant color or texture matching between the bird and its surroundings, making it highly conspicuous rather than camouflaged. Pelicans typically blend with environments such as open water, sky, or sandy shores, not dense green vegetation."
+}

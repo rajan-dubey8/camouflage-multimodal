@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal water landscape",
+  "background_description": "The scene depicts a wide expanse of water, likely a lake or bay, under a vast sky at either sunrise or sunset. The foreground water is deep blue-green with distinct ripples and small waves. Further towards the horizon, the water's color becomes lighter and more subdued, reflecting the sky. On the left, a lush green coastline with dense trees and foliage is visible. The sky transitions from a soft turquoise blue at the top to warm pink and orange hues near the horizon, with delicate, wispy clouds scattered across it.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image is a landscape photograph primarily showcasing a large body of water, a distant shoreline with trees, and a gradient sky. There are no discernible animals, insects, or fish present in the image. Therefore, no organism is present, and consequently, no camouflage is detected."
+}

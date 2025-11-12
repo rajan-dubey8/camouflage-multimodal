@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban sky view with scattered clouds and city buildings",
+  "background_description": "The scene is dominated by a bright blue sky with numerous white clouds, ranging from wispy cirrus to more dense cumulus formations. The lower third of the image shows the rooftops and upper stories of various urban buildings, predominantly in shades of brown, grey, and white. In the distant background, hazy green hills or mountains are visible under the horizon.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts an urban environment with a cloudy sky and distant hills. No animals, insects, or fish are visible in the scene. Therefore, no camouflage is present or applicable for assessment."
+}

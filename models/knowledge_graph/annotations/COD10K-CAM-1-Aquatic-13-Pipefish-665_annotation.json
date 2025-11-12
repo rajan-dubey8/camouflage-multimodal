@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a seafloor composed of dark volcanic sand, scattered small pebbles, shell fragments, and various organic detritus. The overall environment is a sandy, rocky bottom with irregular textures and a mix of dark grays, browns, whites, and some reddish-orange specks. There are also a few blurry green plant-like structures visible in the foreground.",
+  "color_similarity": "medium",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Shape disruption / Texture matching / Color blending",
+  "explanation": "The Pipefish exhibits effective camouflage by strongly mimicking a piece of debris or a small twig on the seafloor. Its elongated, irregular body shape breaks up its outline (shape disruption), making it hard to distinguish from the surrounding detritus. The texture of its skin, which appears mottled and possibly encrusted with sediment or algae, closely matches the granular and uneven texture of the sand and pebbles (texture matching). While some parts of the Pipefish display vibrant colors like bright red and turquoise, which create some local contrast, the overall effect of its irregular form and varied coloration allows it to blend remarkably well with the complex background of the seabed."
+}

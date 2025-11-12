@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Rockfish",
+  "background_description": "The background consists primarily of dark blue/black water, suggesting depth or low light conditions. In the upper left, there are dimly visible, out-of-focus reddish-brown structures, likely rocks or coral. Numerous tiny white particulate specks or air bubbles are scattered throughout the water.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The fish exhibits strong camouflage features through a disruptive pattern of mottled greens, browns, and whites across its body. This coloration, combined with its rough, irregular scale texture, is designed to mimic the appearance of encrusted rocks or coral on a seafloor. The varying patches of color effectively break up its body outline, making it difficult for predators and prey to discern its true shape against a complex, textured marine background. While the immediate background in the image is largely dark water, the fish's morphology and patterning are clearly adapted for blending into a rocky or reef environment."
+}

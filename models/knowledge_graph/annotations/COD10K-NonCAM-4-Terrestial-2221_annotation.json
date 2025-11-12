@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lioness",
+  "background_description": "The background consists of dry, earthy ground covered with various shades of brown and beige leaf litter and sparse green foliage. There are distinct shadows and areas of sunlight, creating a dappled lighting effect.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "The lioness exhibits effective camouflage primarily through color blending. Her tawny, sandy-colored fur closely matches the dry leaf litter and earthy tones of the ground, making her blend seamlessly with her environment. The dappled light filtering through the overhead foliage also helps to break up her outline, contributing to a disruptive pattern effect and reducing her visibility, which is crucial for ambush predation and concealment."
+}

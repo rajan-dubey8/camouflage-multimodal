@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Person in ocean",
+  "background_description": "The background consists of a vast ocean with light blue and turquoise waters, showing multiple lines of breaking waves with white foam. In the foreground, there's a wet sandy beach leading to the water, also featuring foamy wave edges. The sky on the horizon is light and hazy.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image features a person standing in the ocean. The person is wearing dark clothing, which stands out starkly against the lighter blue and white colors of the ocean waves and the pale sky. There is a high contrast difference between the dark silhouette of the person and the brighter background, and no visual elements like color blending, disruptive patterns, or mimicry are used to conceal them. Therefore, no camouflage is present."
+}

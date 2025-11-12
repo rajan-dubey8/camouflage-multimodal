@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Black-headed Gull",
+  "background_description": "The background consists of a dense network of bare tree branches and trunks, characteristic of a forest or wooded area in winter or early spring. The dominant colors are shades of dark brown, grey, and muted yellow (from lichen/moss on trunks), creating a complex, textured backdrop. A hint of lighter blue sky is visible in the upper parts between the branches.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The two Black-headed Gulls are clearly visible and stand out against the background. Their plumage is predominantly white with dark (black/dark brown) heads and wingtips, which creates a high contrast with the dark brown and grey tones of the bare tree branches. The birds' smooth feathered texture and distinct shapes do not blend with the intricate, rough texture of the tree branches. They are actively in flight in open air, which does not provide any form of concealment or camouflage against the distant wooded background."
+}

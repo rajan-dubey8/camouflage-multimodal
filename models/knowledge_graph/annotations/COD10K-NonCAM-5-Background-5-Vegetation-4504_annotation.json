@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Small green insect on leaf",
+  "background_description": "Close-up view of vibrant light green plant leaves and stems against a bright, out-of-focus white background. The leaves show subtle vein patterns and the stems have fine white fuzz.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.98,
+  "camouflage_type": "Color blending",
+  "explanation": "A very small, pale green insect (likely an aphid) is visible on one of the plant's leaves. Its body color closely matches the light green hue of the leaf, making it blend seamlessly with its immediate surroundings. The low contrast and high color similarity between the insect and the leaf make it extremely difficult to spot, indicating effective camouflage primarily through color blending."
+}

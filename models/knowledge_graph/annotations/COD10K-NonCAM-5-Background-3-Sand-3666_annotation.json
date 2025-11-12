@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Rocky tidal beach",
+  "background_description": "The image depicts a vast expanse of a rocky tidal beach under a clear blue sky. The foreground and midground are covered with numerous rounded rocks and pebbles of varying sizes, interspersed with clear, shallow pools of water that reflect the blue sky. Many rocks exhibit natural hues of brown, grey, and reddish tones, with some patches of green moss or algae. The lighting is warm, creating strong contrasts between sunlit areas and shadows. In the distance, a calm sea meets the horizon, with faint outlines of a coastal town or structures visible.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively features a natural environment, specifically a rocky tidal beach. There are no visible animals, insects, or fish present in the scene. As such, there is no organism to evaluate for camouflage, and therefore, no camouflage is detected."
+}

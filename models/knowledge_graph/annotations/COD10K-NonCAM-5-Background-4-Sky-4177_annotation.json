@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Urban landscape at dusk",
+  "background_description": "The background features a cloudy sky at dusk, with varying shades of grey, white, and hints of soft pink and orange near the horizon. The upper part of the image is framed by the dark, silhouetted foliage of trees. Below the sky, an urban landscape is visible, including a multi-story concrete building on the left, numerous green trees, and other distant buildings and urban infrastructure.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts an urban environment with a cloudy sky at sunset/dusk, framed by tree leaves. There are no animals, insects, or fish visible within the scene. Therefore, no organism is present to exhibit camouflage, and the assessment for camouflage is negative."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of a dense, vibrant green layer of pond algae or duckweed covering the water's surface. Interspersed within this green mat are brownish, decaying plant leaves and other organic debris. Numerous small air bubbles are visible, adding to the irregular texture of the environment. The overall impression is a shallow, murky, and heavily vegetated aquatic habitat.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog exhibits excellent camouflage in this image. Its bright green body, adorned with darker green/black spots and stripes, perfectly matches the dominant green color of the dense pond algae and the varying shades of green and brown from the decaying leaves in the background. The irregular patterns on the frog's skin help to break up its distinct outline, causing it to blend seamlessly with the complex, textured, and clumpy surface of the algae and debris. This combination of color blending, pattern matching, and shape disruption makes it very difficult for an observer to distinguish the frog from its immediate environment."
+}

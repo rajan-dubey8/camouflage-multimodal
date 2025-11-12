@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Moth",
+  "background_description": "The moth is situated on a slender, dark brown woody stem or branch, which has small, light-colored specks (lenticels) and a somewhat textured surface. The background consists of very blurry, warm brown and tan earthy tones, suggesting soil or dried foliage, with indistinct dark shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.95,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The moth exhibits excellent camouflage by perfectly aligning its coloration, texture, and irregular shape with the woody stem it rests upon. Its greyish-brown body with mottled patterns closely matches the color and natural variations of the bark. The fuzzy, irregular outline of the moth disrupts its distinct shape, making it appear like a natural outgrowth, a piece of bark, or a rough patch on the branch rather than a separate living entity. The low contrast difference further enhances this blending, making it exceptionally difficult to spot against its immediate environment."
+}

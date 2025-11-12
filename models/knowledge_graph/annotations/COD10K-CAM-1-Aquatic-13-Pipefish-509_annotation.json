@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of numerous tubular and rounded structures, likely anemone tentacles or soft coral, in varying shades of brownish-orange and tan. Some of the bulbous tips are lighter yellow or cream, appearing slightly out of focus. The overall texture is relatively smooth, with some subtle organic mottling.",
+  "color_similarity": "low",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The pipefish, with its distinct light yellow/cream coloration, stands out against the predominantly brownish-orange and tan background elements. While its slender, elongated shape bears a superficial resemblance to the surrounding tentacles, the significant color difference creates a high contrast, making the organism easily detectable. The pipefish's body is notably brighter than most of the adjacent background, preventing effective color blending. Small dark markings on the pipefish's head further disrupt any potential blending."
+}

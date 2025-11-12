@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Stone-curlew",
+  "background_description": "The background consists of light, sandy-colored ground in the foreground and midground, providing a somewhat uniform, granular texture. Behind the bird, there's out-of-focus dark green foliage and leaves, with a large, vibrant green leaf prominently blurred in the lower left foreground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 0.95,
+  "camouflage_type": "Disruptive pattern",
+  "explanation": "The Stone-curlew exhibits excellent camouflage through its plumage. Its feathers are a mottled mix of browns, beiges, and black streaks and spots, creating a disruptive pattern. These colors and patterns closely match the sandy, somewhat irregular texture of the ground, which is its natural habitat. This high color and texture similarity, along with the disruptive markings, effectively breaks up the bird's outline, making it difficult to distinguish from its environment for potential predators or prey. The contrast between the bird's overall appearance and the sandy background is low, contributing significantly to its concealment."
+}

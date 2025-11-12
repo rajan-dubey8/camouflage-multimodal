@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bittern",
+  "background_description": "The background consists of a dry, reedy bank sloping down to water. The bank is densely covered with an intricate mix of straw-colored dried grasses, reeds, and plant debris, interspersed with patches of darker, damp soil and some sparse green shoots. The texture is varied and chaotic, dominated by muted browns, beiges, and greys. The water below is calm, reflecting the bank and the bird.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The Bittern exhibits excellent camouflage against the reedy bank. Its plumage features a complex pattern of mottled browns, beiges, and darker streaks that perfectly match the colors and intricate textures of the dried grasses, reeds, and earthy tones of the environment. This high degree of color and texture similarity, combined with a low contrast difference, effectively breaks up the bird's outline and makes it blend seamlessly with the chaotic natural background. The irregular patterning also contributes to shape disruption, making it difficult for a predator or observer to distinguish the bird's form from the surrounding vegetation."
+}

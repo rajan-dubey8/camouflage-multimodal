@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Shrimp",
+  "background_description": "The shrimp is perched on a delicate, branching marine invertebrate, likely a feather star or crinoid. This host organism consists of numerous white, feathery arms or pinnules that radiate outwards, displaying intricate patterns of white and subtle dark brown or black linear markings. The very background behind the host is blurred, appearing as a dark, granular seafloor.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.92,
+  "confidence": 1.0,
+  "camouflage_type": "Pattern matching / Color blending / Shape disruption",
+  "explanation": "The shrimp exhibits exceptional camouflage by perfectly matching the striped pattern and coloration of its host, a feather star or crinoid. Its body is adorned with alternating dark brown/black and white bands that seamlessly align with the alternating light and dark elements on the host's feathery pinnules. This pattern matching effectively breaks up the shrimp's outline (shape disruption) and integrates it visually into the intricate texture of the host, making it extremely difficult to distinguish from its surroundings. The overall color palette and textural complexity of the shrimp highly resemble that of the host, resulting in a very low contrast difference and superb blending."
+}

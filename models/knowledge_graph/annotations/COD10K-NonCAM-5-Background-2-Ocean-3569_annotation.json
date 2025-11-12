@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Sea Anemone",
+  "background_description": "Murky underwater sandy-muddy seafloor with small pebbles, scattered detritus, and a larger dark elongated object or debris. The water appears slightly turbid, reducing visibility.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The main subject is a sea anemone, which demonstrates effective camouflage. Its body and numerous tentacles are a muted dark brown, olive-green, and grey, perfectly blending with the colors of the sandy-muddy seafloor and surrounding detritus. The irregular, frilly texture of its tentacles further mimics the unevenness and granular nature of the sediment, breaking up its outline and making it difficult to distinguish from the background. The low contrast difference between the anemone and its surroundings enhances its concealment. Although the primary organism (sea anemone) does not fit into the provided `object_category` options, a small Goby fish, which is an 'Organism' and fits the 'Fish' category, is visible in the background, prompting the selection for strict adherence to the schema. The `object_name` refers to the main subject, the Sea Anemone."
+}

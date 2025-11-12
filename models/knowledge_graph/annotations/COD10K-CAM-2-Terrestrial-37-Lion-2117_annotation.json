@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Lion",
+  "background_description": "The background consists of dense, tall, dry, straw-colored grass with fine stalks and delicate seed heads. The overall tone is a warm brownish-yellow, creating a uniform, somewhat textured environment that dominates the frame.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The lion exhibits excellent camouflage in this image. Its tawny-colored fur is nearly identical in hue to the surrounding dry, golden-brown grass, resulting in a high color similarity. The tall, dense grass also serves to break up the lion's outline and obscure significant portions of its body, including its head and parts of its back, which contributes to shape disruption. This combination of color matching and physical concealment significantly reduces the contrast between the organism and its environment, making it very difficult to spot. The lion is clearly utilizing its natural coloration and the cover provided by the vegetation to blend in."
+}

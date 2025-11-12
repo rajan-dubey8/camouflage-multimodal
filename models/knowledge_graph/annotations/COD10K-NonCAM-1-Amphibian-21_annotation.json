@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of a dry, granular, sandy-earth surface, characteristic of a bank or shoreline environment. It is mostly uniform in light brown and tan hues.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a toad with mottled brown and grey skin. While its earthy tones offer some natural blending with the sandy-earth background, it is distinctly visible due to its shape, texture, and contrast, confirming the absence of active camouflage."
+}

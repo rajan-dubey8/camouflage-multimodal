@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Cod",
+  "background_description": "The background consists of dark, uniform blue water, suggesting open water or a deep aquarium environment with no visible substrate or complex structures.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a fish, identifiable as a Cod due to its distinctive barbel on the chin and mottled greenish-blue coloration. The fish is distinct against the dark blue water background, indicating no active camouflage is being used or present."
+}

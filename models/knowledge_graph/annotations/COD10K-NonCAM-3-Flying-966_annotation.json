@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of green foliage including various leaves and blades of grass, interspersed with patches of brown soil. A rough-textured, grey stone or concrete surface is prominent in the foreground and beneath the butterfly.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly's vibrant orange wings with distinct black spots create a high contrast against both the grey stone and the green foliage/brown soil of the background. Its bright coloration makes it highly visible and does not blend into the surroundings. This coloring is likely a form of aposematism or a visual display rather than camouflage for concealment."
+}

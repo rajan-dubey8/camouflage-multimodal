@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of two main parts: the immediate foreground is a flat, light greyish-beige surface with a slightly grainy or rough texture, likely concrete or stone. Above the butterfly, the background is out of focus and appears as a warm, dark brown/orange, suggesting an overhead surface or wall.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The butterfly is prominently displayed against a light greyish-beige surface. Its wings feature distinct patterns of brown, white, and striking orange/red, which stand out significantly against the uniform background. There is a low color similarity and texture similarity between the butterfly and the surface it is resting on. The prominent markings on its wings create a high contrast difference, making it easily visible rather than blending in."
+}

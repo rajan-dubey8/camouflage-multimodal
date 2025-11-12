@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Black-backed Butterflyfish",
+  "background_description": "A vibrant coral reef environment featuring dark, irregular rocky substrates covered with various corals and algae in the foreground and mid-ground. The background transitions to open, deep blue water with faint silhouettes of other fish.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows a school of Black-backed Butterflyfish. Their light grey bodies with distinct scale patterns, black and white facial markings, and orange fin accents stand out sharply against the darker blues of the water and the mottled greens/browns of the reef. There is no visual indication of camouflage."
+}

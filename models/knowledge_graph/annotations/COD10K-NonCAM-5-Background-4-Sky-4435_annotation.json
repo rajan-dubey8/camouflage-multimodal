@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Tropical island coastline with structures",
+  "background_description": "The background consists of a bright blue sky with scattered white cumulus clouds. Below the sky, a dense line of green foliage and palm trees stretches across the island. The midground features a rocky shoreline with varying shades of grey and brown rock, upon which several small, thatched huts and a distinct red and blue lighthouse structure are built. The foreground is dominated by clear, turquoise-blue ocean water with visible surface ripples.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image depicts an environmental scene featuring a tropical island coastline. There are no visible organisms (animals, insects, or fish) present that are attempting to camouflage. The various elements within the scene, such as the rocky shore, palm trees, huts, lighthouse, and ocean, are all clearly distinct from each other and from their surroundings, exhibiting high contrast and no intentional blending or mimicry for concealment."
+}

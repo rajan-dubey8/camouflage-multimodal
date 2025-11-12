@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Mantis",
+  "background_description": "The background consists of a dry, coarse, granular surface composed of small pebbles, gravel, and dirt. The colors are predominantly light tan, beige, various shades of grey, and some muted brown, creating a varied but generally light-toned texture with individual stones casting tiny shadows.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Mantis in this image is predominantly green with some brown and white longitudinal stripes. This coloration, typical of vegetation, creates a strong and obvious contrast against the dry, light-colored, gravelly ground. The organism's smooth, elongated body and distinct limbs, including its long antennae, are clearly visible and do not blend with the rough, granular texture of the background. There is no effective color blending, pattern matching, or shape disruption to conceal it within this specific environment, causing it to stand out prominently."
+}

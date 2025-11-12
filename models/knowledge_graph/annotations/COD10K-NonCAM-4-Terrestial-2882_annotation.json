@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Roe deer",
+  "background_description": "The background consists of a field of vibrant green, leafy vegetation in the foreground, indicating a grassy or cultivated area. Beyond this, the midground and distant background are a soft-focus blur of muted greens and browns, suggesting a woodland or forested edge, possibly with bare trees or dense foliage in the distance.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.55,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Roe deer exhibits natural camouflage through color blending. Its brownish-grey fur provides a moderate color match with the muted greens and browns of the distant woodland background, helping it to blend into forest or field edges. While the deer's color contrasts somewhat with the bright green foreground, its overall coloration is typical for its habitat, offering a degree of concealment. The rough, brown texture of its antlers (still in velvet) also blends somewhat with the natural textures of branches or dry foliage found in such environments, though its distinct outline and the contrast with the immediate green foreground prevent it from being highly camouflaged."
+}

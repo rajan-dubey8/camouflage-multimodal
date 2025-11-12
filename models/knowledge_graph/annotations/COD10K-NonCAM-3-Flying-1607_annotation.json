@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Golden Pheasant",
+  "background_description": "The background is out of focus, appearing as a blurred mix of muted greens, browns, and grays, suggesting a natural, possibly vegetated or rocky outdoor setting. It has an indistinct, soft texture.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The Golden Pheasant in the image displays extremely bright and contrasting plumage, featuring vibrant yellow on its head, a bold orange ruff with distinct black stripes, and vivid red body feathers. These striking colors create a high contrast against the blurry, desaturated, earthy-toned background. This conspicuous coloration is characteristic of a display, often for attracting mates, and is not designed for blending into the environment for concealment, thus indicating a complete absence of camouflage."
+}

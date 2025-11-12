@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a rough, uneven rock surface. It is primarily composed of light grey, white, and dark grey/black patches, giving it a mottled, granular texture. There are visible crevices, indentations, and raised areas, with some small flecks of yellowish-brown material interspersed.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The grasshopper exhibits excellent camouflage against the rock surface. Its body is mottled with a combination of light gray, white, and dark gray/black patterns that perfectly mimic the coloration and granular texture of the surrounding rock. The disruptive patterns on its body break up its outline, making it incredibly difficult to distinguish from the uneven, speckled surface. Both the overall hue and the distribution of lighter and darker areas on the grasshopper's body blend seamlessly with the complex visual noise of the rock, resulting in very low contrast and high visual integration."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Flounder",
+  "background_description": "The background consists of a seafloor covered in granular sediment, appearing as a mixture of sand and small pebbles. The particles vary in color from light beige and off-white to various shades of brown and dark grey, creating a speckled, heterogeneous texture. The lighting appears to come from above, with a slightly darker area towards the top of the image.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "0.95",
+  "camouflage_type": "Pattern matching",
+  "explanation": "The Flounder in the image demonstrates excellent camouflage. Its body coloration and speckled pattern closely mimic the granular texture and varied hues of the sandy and pebbly seafloor. The fish's flat shape allows it to lie almost flush with the substrate, minimizing shadows and disrupting its outline. The light brown and beige tones, combined with numerous dark specks on its skin, create a visual texture that is virtually indistinguishable from the surrounding sediment, making it incredibly difficult to spot."
+}

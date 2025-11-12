@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of moist, dark brown mud, dry lighter brown soil, scattered dry twigs, a prominent fallen branch (likely wood or bark) covered in mud, and a shallow body of water (puddle or pond edge) in the upper left. The textures are rough, granular, and irregular.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.88",
+  "confidence": "0.98",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The two toads exhibit exceptional camouflage in this image. Their skin coloration, a mottled mix of browns, olive-greens, and grayish-tan, perfectly matches the varying hues of the wet mud, dry soil, and decaying wood in their immediate environment. The bumpy, warty texture of their skin closely mimics the rough, granular surface of the ground and the irregular textures of the twigs and mud, effectively breaking up their outline. The dark blotches and patterns on their bodies further blend with the shadows and irregularities in the background, making it very difficult to distinguish them from the natural debris. The overall low contrast between the toads and their surroundings, coupled with the textural and color matching, makes them highly camouflaged."
+}

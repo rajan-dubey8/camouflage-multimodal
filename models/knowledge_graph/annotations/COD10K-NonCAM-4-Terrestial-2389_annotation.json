@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Otter",
+  "background_description": "The background consists of dark, murky river water with subtle ripples and reflections on the surface, suggesting a flowing or disturbed aquatic environment.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The image features an otter with its head and upper body clearly visible above the surface of murky water. While the otter's dark fur color shares some general tonal qualities with the dark water, its distinct form, prominent facial features, and the way light catches its wet fur make it stand out. The otter is not actively attempting to blend into its surroundings, and its presence is readily apparent rather than concealed."
+}

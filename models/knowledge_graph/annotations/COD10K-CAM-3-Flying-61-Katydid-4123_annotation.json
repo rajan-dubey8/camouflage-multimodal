@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Katydid",
+  "background_description": "The background environment is a complex and highly textured surface, predominantly covered in various shades of green moss and light green/yellowish lichen, interspersed with patches of rough, light brown or greyish bark/rock. The textures are irregular and fragmented, creating a mottled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Katydid exhibits exceptional camouflage. Its body and wings are a mosaic of mottled greens, yellowish-greens, and browns that perfectly match the various shades of moss and lichen in the background. The intricate veining and irregular, bumpy texture of its body and wings mimic the rough, fragmented textures of the plant matter and bark/rock it rests upon. The patterns on its legs and body further break up its outline, making it extremely difficult to distinguish from the surrounding environment. The overall effect is a seamless blend of color, pattern, and texture, resulting in a very low contrast difference with its surroundings."
+}

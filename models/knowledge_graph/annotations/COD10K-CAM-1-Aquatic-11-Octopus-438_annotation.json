@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mollusc",
+  "object_name": "Octopus",
+  "background_description": "The background consists of a complex underwater rocky and coral environment. It features various encrusting organisms, algae, and rough textures in shades of brown, green, and grayish-purple. A prominent patch of bright red, globular, coral-like organisms is visible on the right, providing a contrasting color. The overall environment is heterogeneous with irregular shapes and a mottled appearance.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The octopus exhibits exceptional camouflage by perfectly blending with its complex marine environment. Its skin displays a mottled pattern of browns, greens, whites, and purplish-grey tones that precisely match the colors of the surrounding rocks and algae. The texture of its skin, with numerous raised papillae, mimics the rough, irregular surfaces and textures of the encrusting organisms and rocks, making its body contours difficult to discern. The octopus's overall body shape also appears to conform to the substrate, further contributing to its cryptic appearance. Only its eye is clearly visible, otherwise, it is almost indistinguishable from the background due to remarkable color, pattern, and texture matching, combined with shape disruption."
+}

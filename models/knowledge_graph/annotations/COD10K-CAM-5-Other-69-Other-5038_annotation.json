@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Gorilla",
+  "background_description": "The background consists of large, irregular dark grey rock formations and a dark brown tree trunk. The overall lighting is dim, creating deep shadows. Blurred green foliage is prominently visible in the foreground, and some muted green vegetation is in the distant background.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending",
+  "explanation": "The gorilla's dark grey/black fur provides a degree of camouflage through color blending with the dim, shadowed background, which is composed of dark grey rocks and a dark brown tree trunk. While its outline and fur texture are distinct upon closer inspection, the overall dark coloration helps it to merge tonally with the low-light conditions of its natural-looking habitat. The prominent green foliage in the immediate foreground further aids in obscuring parts of the gorilla, contributing to its concealment, although this is environmental occlusion rather than the organism's intrinsic camouflage features matching the foreground."
+}

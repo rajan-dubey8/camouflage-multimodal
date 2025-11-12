@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Golden Trevally",
+  "background_description": "The background consists of deep blue water, characteristic of an aquarium setting. Out-of-focus green and dark shapes suggest distant artificial coral or plant structures. Multiple light orbs (bokeh) are visible throughout the background, indicating reflections or artificial lighting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two Golden Trevally fish, easily identifiable by their bright yellow bodies and distinct vertical black stripes. They stand out significantly against the deep blue aquatic background, indicating a complete absence of camouflage."
+}

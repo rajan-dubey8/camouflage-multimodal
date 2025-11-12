@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Tricolored Heron",
+  "background_description": "The background consists of a shallow body of water covered with patches of green algae. The foreground is dominated by dense, tall green reeds or marsh grasses, some appearing darker and submerged, others brighter and emergent. The water has a murky blue-green hue under natural light.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Tricolored Heron in this image is highly visible and not camouflaged. Its prominent white belly and underwings create a strong contrast against the darker water and green reeds. Although the bird possesses countershading (darker upperparts, lighter underparts) which can serve as a form of camouflage, its dynamic pose with outstretched wings, coupled with the distinct color differences between its plumage (white, dark grey, reddish-brown) and the predominantly green and blue-green environment, makes it stand out rather than blend in. The small fish in its beak does appear to blend with the dark water/algae, but the main subject (the bird) is not camouflaged."
+}

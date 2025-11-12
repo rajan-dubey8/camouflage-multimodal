@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal ocean landscape",
+  "background_description": "The image shows a broad coastal scene. The main feature is the deep blue ocean, which appears lighter turquoise closer to the shore. In the distance, a long stretch of coastline is visible, featuring a sandy beach, rolling hills covered with sparse green and brown vegetation, and numerous residential buildings. A distinct rocky headland extends into the sea on the right side of the horizon. The sky is a light, hazy blue. In the immediate foreground, blurred dry, light brown grasses and several large, dark rocks along the waterline are present, where small waves are breaking.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a natural coastal environment comprising ocean, land, and sky. There are no visible animals, insects, or fish present in the frame that could be evaluated for camouflage. As such, camouflage is not applicable."
+}

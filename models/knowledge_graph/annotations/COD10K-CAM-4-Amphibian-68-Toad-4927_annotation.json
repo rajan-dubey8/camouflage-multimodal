@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists of dark brown forest floor, primarily composed of loose soil, decaying leaves, small twigs, pieces of bark, and sparse patches of green moss. The texture is rough, uneven, and granular, with varying shades of earthy browns, dark greys, and some dark greens. There are also slender, dark brown plant stems or roots scattered throughout.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage against its natural environment. Its dorsal surface features a mottled pattern of dark browns, reddish-brown spots, and greyish-brown blotches, which perfectly match the colors of the damp soil, decaying leaves, and bark pieces in the background. The warty, irregular texture of its skin also mimics the rough, uneven texture of the forest floor debris. The varying shades and patterns on its body effectively break up its outline, making it difficult to discern its true shape from the surrounding elements. The low contrast difference between the toad and its immediate surroundings further enhances its ability to blend in, making it an excellent example of crypsis."
+}

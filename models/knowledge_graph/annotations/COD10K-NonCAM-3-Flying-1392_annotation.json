@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Predatory bug",
+  "background_description": "The background consists of a vibrant green leaf with fine surface textures and tiny white specks, suggesting either dust, pollen, or glandular hairs. The deeper background appears as a blurred, lighter green, suggesting other foliage.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.98,
+  "camouflage_type": "None",
+  "explanation": "The predatory bug exhibits distinct and vivid coloration, primarily bright orange and black patterns on its head and thorax, which stand in stark contrast to the lush green leaf it is perched upon. Its dark legs also contrast sharply with the background. This high color and pattern difference suggests a lack of camouflage, and the prominent colors might even serve as a form of aposematic (warning) coloration rather than concealment."
+}

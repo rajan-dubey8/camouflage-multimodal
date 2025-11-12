@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Wildebeest",
+  "background_description": "The background consists of dry, light brown to greyish-tan soil with sparse, short patches of green grass. In the mid-ground, there are dry, woody bushes with minimal foliage. Further in the background, other wildebeest and zebras are visible, blending into the savanna landscape. The overall environment suggests a dry, grassy plain.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The wildebeest exhibits effective camouflage through color blending. Its dusty grey body color closely matches the dry, sandy-colored ground and light, dry vegetation of its savanna habitat. The overall muted tones of its fur help it to blend seamlessly with the environment, reducing its visibility to predators or for stealth when approaching watering holes. While the black mane, tail, and facial markings provide some contrast, the large body mass's color similarity is the dominant factor in its camouflage."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clown Triggerfish",
+  "background_description": "The background consists of a dimly lit aquatic environment with blurred rocky structures or coarse substrate visible in the distance. The water appears dark and indistinct, suggesting a deeper part of a reef or an aquarium setting.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly depicts a Clown Triggerfish (Balistoides conspicillum) with striking and highly contrasting black, bright yellow, and light-colored patterns. These bold colors and distinct patterns make the fish extremely conspicuous against the dark, muted, and indistinct background, unequivocally demonstrating the absence of camouflage."
+}

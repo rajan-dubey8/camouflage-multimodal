@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Cheetah",
+  "background_description": "The background consists of a grassy hill with a diverse mix of vegetation. There are prominent patches of tall, dry, straw-colored grass intermingled with areas of greener, less dry grass. In the foreground, small white and yellow wildflowers are scattered among the green grass. The top of the hill and the distant background are densely covered with dark green bushes and trees, suggesting a woodland edge. The lighting is bright, creating a somewhat dappled appearance on the ground.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "medium",
+  "camouflage_score": "0.75",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The cheetahs in this image demonstrate effective camouflage. Their tawny, yellowish-brown fur color closely matches the dominant dry, straw-colored grass patches prevalent across the hill, providing high color similarity. The distinctive black spots on their coats are crucial for camouflage, acting as a form of pattern matching and shape disruption. These spots break up the cheetah's outline, making it difficult for an observer to perceive a continuous body shape. Instead, the pattern mimics the irregular textures, shadows, and clumps of the surrounding grass and vegetation. While the individual spots create high internal contrast, the overall contrast of the cheetah against the busy, textured background is medium, as the disruptive pattern prevents it from standing out as a solid form. Their low-lying posture further aids in blending them into the environment, making them quite difficult to spot at first glance."
+}

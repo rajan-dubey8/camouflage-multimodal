@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Sambar deer",
+  "background_description": "The background consists of a dry, grassy savanna-like terrain with patches of golden-brown and lighter tan grass. Sparse deciduous trees with thin, mostly bare branches or light green foliage are scattered throughout, and denser, greener trees are visible in the distant background, indicating a forest edge. The ground also has some rocky or dry soil patches.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Sambar deer exhibits effective color blending camouflage. Its fur, a dusty brown-grey, closely matches the muted tones of the dry, golden-brown grass and the light-barked, sparse trees in its environment. This high color similarity and low contrast difference make it blend well with its surroundings, particularly under the harsh sunlight which further mutes colors. While its texture is not identical to the rough ground or bark, the overall color matching is strong enough to provide good concealment against potential predators."
+}

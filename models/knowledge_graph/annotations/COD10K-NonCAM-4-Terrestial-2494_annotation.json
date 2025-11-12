@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Roan Antelope",
+  "background_description": "Blurred natural landscape with soft green and blue hues, suggesting distant foliage or hills. The texture is uniform and indistinct due to the shallow depth of field.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Roan Antelope naturally exhibits 'Color blending' camouflage with its reddish-brown coat, which is adapted for blending into dry savanna environments. However, in this particular image, the animal is clearly visible and stands out with 'high' contrast against the blurred, cool-toned green and blue background. Both the color and texture similarities between the antelope and the background are 'low', indicating that its natural camouflage is not effectively obscuring it within this specific scene."
+}

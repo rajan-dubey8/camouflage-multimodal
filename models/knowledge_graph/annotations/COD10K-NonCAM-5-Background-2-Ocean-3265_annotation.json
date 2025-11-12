@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Coastal sunset scene with boat",
+  "background_description": "The background consists of a vast, calm ocean surface reflecting the intense golden and orange hues of the setting sun. Distant mountain ranges appear as dark, hazy silhouettes stretching across the horizon. The sky above is a gradient of soft oranges, yellows, and grays, with scattered clouds partially obscuring the bright sun.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image predominantly features an environmental scene, specifically a coastal landscape during sunset. While a small boat with a human figure is visible in the foreground, they are minor elements within the vast environmental context and not the main subject for camouflage analysis. The human is not camouflaged; the boat and person appear as clear silhouettes against the bright reflection of the sun on the water, indicating high contrast rather than blending. As the main subject is the environment and no organism is primarily depicted or attempting to camouflage, no camouflage is detected."
+}

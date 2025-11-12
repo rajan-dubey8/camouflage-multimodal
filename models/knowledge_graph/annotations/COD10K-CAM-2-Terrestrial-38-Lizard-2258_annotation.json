@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Lizard",
+  "background_description": "The background is a soft-focus, light yellowish-green blur, suggesting distant foliage or an open sky. The immediate environment the lizard is on is a dark, rough, gnarled tree branch with textured bark, appearing somewhat mossy or covered in lichen in places.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The lizard exhibits good camouflage by blending with the tree branch it is resting on. Its dark green and gray-brown scales closely match the color of the gnarled, textured bark, which also has dark green and brown tones, possibly from moss or lichen. The textured skin of the lizard also shares a visual similarity with the rough bark. This color and pattern matching significantly reduces its contrast and visibility against the branch, making it difficult to spot at a glance despite its distinct shape. The light, blurry background, however, contrasts sharply with both the lizard and the branch."
+}

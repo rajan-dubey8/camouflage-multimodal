@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Giraffe",
+  "background_description": "The background consists of a dense arrangement of acacia-like trees with reddish-brown, often thorny, branches and sparse green foliage. The ground is dry, light brown, sandy earth with some scattered dry leaves and patches of small green shrubs. There are also darker tree trunks and significant areas of dappled light and shadow created by the tree canopy. An ostrich is visible in the mid-ground.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.75",
+  "confidence": "0.9",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The giraffes in this image demonstrate effective camouflage. Their distinctive spotted pattern, consisting of tan and various shades of brown, closely matches the dappled light and shadow patterns created by the dense tree canopy and the irregular shapes of leaves and branches. The overall coloration blends well with the dry, light brown ground and the reddish-brown tones of the tree bark and branches. This combination of color blending and pattern matching helps to break up the giraffes' large outlines (shape disruption), making them less conspicuous against the busy, textured background of the savanna woodland. They are not immediately obvious and blend in quite effectively with their surroundings."
+}

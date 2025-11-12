@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Stilt",
+  "background_description": "The background consists of shallow, vibrantly blue-tinted water, possibly reflecting the sky or due to specific lighting/water conditions. Scattered green aquatic plants, resembling reeds or grass, emerge from and float on the water's surface. There are also reflections of the bird and vegetation in the water.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird's plumage is predominantly stark white on its head and underparts, with a contrasting black back and wings. Its legs are a distinct bright pink/red. These colors stand out significantly against the vibrant blue water and the green aquatic vegetation. There is no color blending with the environment, nor does its pattern or form mimic any elements of the background. The high contrast between the bird's features and its surroundings makes it highly conspicuous, indicating an absence of camouflage."
+}

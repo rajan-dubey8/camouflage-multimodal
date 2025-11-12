@@ -1,0 +1,41 @@
+# Multimodal Camouflage Detection Configuration
+
+# Paths
+rg_embeddings_path: "C:/Users/rajan/Desktop/camouflage-multimodal/models/region_graph/rg_embeddings/all_rg_embeddings.pt"
+kg_embeddings_path: "C:/Users/rajan/Desktop/camouflage-multimodal/models/models/knowledge_graph/kg_embeddings/all_embeddings.pt"
+
+mask_dir: "data/COD10K/gt_object"
+instance_dir: "data/COD10K/gt_instance"
+edge_dir: "data/COD10K/gt_edge"
+
+checkpoint_dir: "models/multimodal/checkpoints"
+
+# Model Configuration
+model:
+  rg_dim: 128
+  kg_dim: 128
+  hidden_dim: 256
+  num_heads: 8
+  fusion_type: "cross_attention" # Options: "cross_attention", "late"
+  num_classes: 2
+  dropout: 0.3
+
+# Training Configuration
+epochs: 30
+batch_size: 4
+learning_rate: 0.0005
+weight_decay: 0.0001
+
+# Whether to use all KG categories (True) or matched only (False)
+use_all_kg_categories: true
+
+# Task Weights for Multi-Task Learning
+task_weights:
+  mask: 2.0
+  instance: 1.0
+  edge: 0.5
+  score: 0.3
+
+# Data Split
+train_split: 0.8
+val_split: 0.2

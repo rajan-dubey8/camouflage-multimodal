@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Seahorse",
+  "background_description": "The aquatic environment features a densely vegetated seabed or rocky reef with various marine growths. Dominant elements include vibrant green leafy algae and darker, possibly red or brown, encrusting organisms or sponges. The substrate is rugged and covered with biological textures.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly displays an orange-yellow seahorse with a distinctive ridged body texture and frilly appendages on its head. Its bright coloration and unique form make it highly conspicuous against the green and brown marine plant and rock background, indicating no camouflage is present."
+}

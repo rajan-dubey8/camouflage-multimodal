@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Tilapia fish",
+  "background_description": "The background consists of dark, shadowy rocks or submerged debris in the upper and left parts of the image, and a lighter, sandy or fine gravel bottom in the lower part. The water appears slightly turbid, contributing to a muted overall scene.",
+  "color_similarity": "medium",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The fish exhibits effective camouflage through color blending with its aquatic environment. Its light grey/silver ventral side closely matches the pale sandy bottom, while the irregular dark grey/black blotches on its body integrate with the darker, shadowy rocks and submerged debris in the background. These blotches also provide a degree of disruptive coloration, breaking up the fish's outline and making it harder to discern its complete form against the varied textures and shades of the underwater environment. The overall low contrast between the fish and its surroundings contributes significantly to its concealment."
+}

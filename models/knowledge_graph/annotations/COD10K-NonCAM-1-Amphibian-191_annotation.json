@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "Dense green foliage composed of broad leaves and blades of grass, characteristic of a terrestrial or semi-aquatic riparian environment, though no open water is explicitly visible in the frame.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "A clearly visible toad, identifiable by its warty skin and large eyes, is resting on green leaves and grass. Its mottled brown and earthy coloration, while natural for a toad, provides a low color and texture similarity against the vibrant green foliage, making it stand out clearly. No camouflage behavior or appearance is present."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Kangaroo",
+  "background_description": "The background features a dense, natural Australian bushland setting. Tall eucalyptus trees with pale, smooth, and some reddish-brown bark stand in the mid-ground. There is abundant foliage from various shrubs and trees, predominantly in shades of green, with some lighter green and golden-brown leaves from bushes in the foreground. The ground is covered with dry leaves, dirt, and some green grass, suggesting a dry understory. Dappled lighting creates areas of bright light on tree trunks and shadowed spots under the canopy and within the bushes.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.3,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The kangaroo is partially obscured by the dense golden-brown and green foliage in the foreground, which provides physical cover and breaks up its silhouette. However, its light grey-brown fur, particularly its face and the distinct white fur on its lower legs, creates a medium contrast against the darker, shadowed background and the vibrant green and golden-brown hues of the surrounding vegetation. While the bush offers some concealment by obstruction, the kangaroo's inherent coloration and texture do not significantly blend with its immediate environment, making it clearly discernible rather than truly camouflaged."
+}

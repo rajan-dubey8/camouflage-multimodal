@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Squirrel",
+  "background_description": "The background consists of dry, patchy grass interspersed with bare earth. The ground is covered with dark brown soil, small pebbles, and scattered bits of organic detritus. There are areas of yellowish-green dry grass and darker brown soil.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.65,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The squirrel exhibits color blending camouflage. Its fur is a mix of mottled grayish-brown and reddish-tan on its belly and sides, which closely matches the earthy tones of the dry ground and the patches of dry grass in the background. While the squirrel's distinct upright posture makes it somewhat visible, its coloration helps it blend into its natural habitat by minimizing color contrast with the surrounding environment. The texture of its fur, while not identical to the granular ground, does not significantly stand out. The primary mechanism is matching the overall color palette of its fur to the environment."
+}

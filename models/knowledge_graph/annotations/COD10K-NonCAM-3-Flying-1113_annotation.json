@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Butterfly",
+  "background_description": "The background consists of out-of-focus green foliage, characterized by soft, blurred textures and varying shades of green, suggesting a dense, natural leafy environment. The butterfly is perched on a small white flower with a yellow center, which itself stands out against the green.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The butterfly exhibits bright and contrasting colors including black, vibrant yellow, prominent red, and white spots. These striking patterns stand out distinctly against the predominantly blurred green foliage of the background. There is no blending of colors or textures, nor any disruptive patterning or mimicry to conceal the insect. Its highly visible coloration suggests it is employing aposematic (warning) coloration, signaling to potential predators that it may be toxic or unpalatable, rather than attempting to hide."
+}

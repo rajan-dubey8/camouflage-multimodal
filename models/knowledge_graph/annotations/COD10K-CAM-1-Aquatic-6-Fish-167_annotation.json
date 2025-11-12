@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of an underwater environment, likely a shallow rocky area or stream bed. It is composed of various sizes of rocks and pebbles, ranging from light grey and brown to darker, possibly algae-covered, stones and sediment. The overall texture is granular and uneven, with some larger, smoother rock surfaces visible.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The fish exhibits excellent camouflage against its rocky, granular environment. Its body is covered in a mottled pattern of various shades of brown, green, and off-white/grey, which closely matches the colors of the surrounding rocks, pebbles, and sediment. The irregular blotchy pattern on the fish's skin effectively mimics the uneven texture and dappled appearance of the streambed, contributing to both color and texture similarity. This disruptive coloration breaks up the fish's outline, making it difficult to distinguish its form from the background, resulting in a low contrast difference and strong blending."
+}

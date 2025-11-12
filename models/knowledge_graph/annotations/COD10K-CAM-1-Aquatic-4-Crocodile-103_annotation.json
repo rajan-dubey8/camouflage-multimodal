@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Reptile",
+  "object_name": "Crocodile",
+  "background_description": "The background consists primarily of still, murky, greenish-gray water, which appears shallow in the foreground. Along the very bottom edge and right side, there are hints of a muddy bank with green grass and small aquatic plants growing, some reflecting on the water surface.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending",
+  "explanation": "The crocodile demonstrates effective camouflage in this image. Its rough, scaly back, visible just beneath or at the surface of the water, exhibits a muted brownish-green/gray coloration that highly matches the murky, greenish-gray tone of the water. This strong color similarity makes its form difficult to discern. The water itself acts as a medium for 'shadow hiding' and 'shape disruption', as the crocodile's outline is diffused and softened by the water, further reducing contrast and making it blend with the submerged environment. The texture of its back, while distinct, is somewhat obscured by the water, giving it a less defined appearance that doesn't starkly contrast with the liquid environment. Overall, the combination of matching colors and the obscuring effect of the murky water provides excellent concealment."
+}

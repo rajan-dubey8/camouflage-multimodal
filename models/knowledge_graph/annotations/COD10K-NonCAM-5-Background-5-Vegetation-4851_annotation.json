@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Wildfire scene",
+  "background_description": "The scene depicts a dry landscape with a large, dark tree trunk and bare branches silhouetted against a pale blue sky, which transitions into a hazy, smoke-filled midground. The foreground is dominated by dry, brownish-yellow grasses and low vegetation engulfed in bright orange and red flames. Dense grey smoke billows upwards, partially obscuring the distant trees and sky.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "low",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows an environmental scene dominated by a wildfire in a dry, grassy landscape with trees. There are no visible organisms (animals, insects, or fish) present in the image. Therefore, the concept of camouflage does not apply."
+}

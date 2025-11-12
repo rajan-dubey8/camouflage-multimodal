@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Clownfish",
+  "background_description": "The background consists primarily of a large, pale, long-tentacled sea anemone, providing a textured, wavy environment. Behind the anemone, there are darker, rocky or coral structures with some visible algae, and open water with floating particles. Another fish (possibly a Moorish Idol or Bannerfish) is visible in the upper background.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": "0.98",
+  "camouflage_type": "None",
+  "explanation": "The image clearly shows two vibrantly colored Clownfish with distinct orange, white, and black markings. These bright colors strongly contrast with the pale anemone and darker background, making the fish highly visible. There is no evidence of camouflage being used by the fish to blend into their surroundings."
+}

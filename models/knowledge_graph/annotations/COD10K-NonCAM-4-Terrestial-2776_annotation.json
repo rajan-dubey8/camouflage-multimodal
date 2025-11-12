@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Llama",
+  "background_description": "The background consists of a blurred field of light green and pale yellowish-tan hues, suggesting grass or dry vegetation in bright sunlight. It is out of focus, creating a soft, uniform backdrop.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The llama's fur displays distinct patches of black, dark grey, and white. This pattern and coloration do not blend with the light green and pale yellowish-tan blurred background. The animal stands out clearly against its environment due to the significant contrast in both color and pattern, indicating a complete absence of camouflage."
+}

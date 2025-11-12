@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Moorhen",
+  "background_description": "The background consists of patchy ground with green grass, areas of exposed brown soil, scattered dry brown leaves, and some small green herbaceous plants. The overall color palette of the background is muted greens and browns, with varying textures from the grass and soil.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.1,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "The Moorhen exhibits distinct, contrasting colors that do not blend with its environment. Its dark gray body, bright red frontal shield, yellow-tipped red beak, and vivid yellow-green legs stand out prominently against the muted green grass and brown soil background. Additionally, the white stripe on its flank and white undertail coverts create high contrast. These features make the bird easily visible, indicating a lack of camouflage."
+}

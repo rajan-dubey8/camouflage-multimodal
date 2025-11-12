@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Insect",
+  "object_name": "Cicada",
+  "background_description": "The background consists of the deeply textured bark of a tree, characterized by numerous overlapping, peeling, and irregular scales or plates. The colors are predominantly muted greens, dark grays, and earthy browns, with varying shades creating depth and shadows among the bark segments.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": "0.1",
+  "confidence": "0.95",
+  "camouflage_type": "None",
+  "explanation": "The cicada exuvia (molted shell) is clearly visible against the tree bark. Its light, somewhat yellowish-brown coloration provides a strong contrast against the darker, muted green-grey and brown tones of the bark. Furthermore, the smooth, segmented texture of the exuvia is distinctly different from the rough, flaky, and irregular texture of the surrounding bark, making it stand out significantly rather than blending in. There is no effective color blending or pattern matching occurring."
+}

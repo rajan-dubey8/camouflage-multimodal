@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Great Blue Heron",
+  "background_description": "The background consists of calm, blue water reflecting the sky, with areas of green aquatic vegetation including reeds/grasses and lily pads. The water's surface shows ripples and reflections, creating a mottled texture with varying shades of blue, green, and dark brown.",
+  "color_similarity": "medium",
+  "texture_similarity": "low",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.45,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Great Blue Heron exhibits a degree of camouflage through color blending. Its grey-blue plumage on its back and wings shares similar tones with the water and reflections of the sky, helping it to blend into its wetland environment. The white underside might also blend with bright sky reflections on the water. While its distinct form is visible, especially due to direct sunlight highlighting its features, its overall coloration is adapted to reduce its prominence against the natural backdrop of water and vegetation, making it less conspicuous to both prey and predators in its natural habitat."
+}

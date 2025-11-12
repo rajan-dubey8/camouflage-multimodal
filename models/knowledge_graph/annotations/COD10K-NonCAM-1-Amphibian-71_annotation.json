@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of a large, smooth green leaf, which is interpreted as broad aquatic plant foliage, with some areas appearing darker and out of focus behind it, suggesting deeper water or shadowed areas of the aquatic environment.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 0.95,
+  "camouflage_type": "None",
+  "explanation": "A small frog with mottled brown and tan coloration is clearly visible and prominently positioned on broad green aquatic foliage. Its distinct colors and texture stand out against the vibrant green background, resulting in low color and texture similarity and a high contrast difference. This clearly indicates the absence of camouflage for this animal within the described aquatic environment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Environment",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Lake landscape",
+  "background_description": "The scene features a vast body of dark, slightly rippled water occupying the lower half of the image. The horizon is marked by two distinct landmasses: a rocky, arid-looking hill with sparse vegetation on the left, and a long strip of green trees on the right. Above, a dramatic sky is filled with heavy, dark grey storm clouds, predominantly on the left and upper right. A long, bright white, elongated cloud, illuminated by sunlight, stretches across the middle of the sky, contrasting with the darker clouds.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "medium",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The image exclusively depicts a natural environment comprising a lake, distant land, and a sky filled with clouds. No animals, insects, or fish are visible in the scene. Therefore, there is no organism present for camouflage to be detected."
+}

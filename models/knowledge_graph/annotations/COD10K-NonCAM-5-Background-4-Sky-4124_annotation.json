@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Bird",
+  "object_name": "Bird",
+  "background_description": "The background consists of a gradient sky transitioning from a light blue at the top to a warm orange and pink hue near the horizon, indicative of sunset or dusk. Scattered clouds are visible, with some dark grey clouds at the top and more voluminous, white and pink-tinged clouds lower down, illuminated by the setting sun. A dark, distant land or cityscape silhouette is visible at the very bottom.",
+  "color_similarity": "none",
+  "texture_similarity": "none",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The bird is visible as a small, dark silhouette against a bright and varied sky. Its dark coloration and distinct shape create a high contrast with the lighter background, making it easily distinguishable. This is not an instance of camouflage; instead, the bird stands out clearly against the sky."
+}

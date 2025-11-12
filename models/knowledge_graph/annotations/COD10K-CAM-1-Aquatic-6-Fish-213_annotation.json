@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Fish",
+  "background_description": "The background consists of dense, branching hard coral structures. The coral displays a range of light brown, beige, and off-white colors, with intricate, polyp-covered textures. There are darker shadowy areas between the coral branches, creating depth. Some small green patches, possibly algae, are visible on the coral and the fish.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Mimicry",
+  "explanation": "The fish exhibits excellent camouflage by mimicking the surrounding coral environment. Its body coloration perfectly matches the beige, off-white, and light brown hues of the coral. More importantly, its highly irregular body shape, covered with numerous dermal flaps and projections, precisely emulates the intricate, bumpy, and branching texture of the hard coral. This shape disruption and textural mimicry effectively break up its outline, making it exceptionally difficult to distinguish the fish from the coral branches. The low contrast difference further enhances its blending, making it almost invisible within its habitat."
+}

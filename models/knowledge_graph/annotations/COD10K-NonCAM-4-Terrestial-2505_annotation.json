@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Hartebeest and Gazelles",
+  "background_description": "The background consists of an open savanna or grassland environment. The ground is covered with mostly dry, light brown and tan grasses, interspersed with patches of slightly greener, shorter vegetation. In the distance, there are subtle rolling hills, also covered in similar dry grasses. The sky above is a clear, pale blue.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.75,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The Hartebeest and Gazelles demonstrate camouflage through color blending. Their coats, predominantly reddish-brown for the Hartebeest and fawn for the gazelles, closely match the hues of the dry, golden-brown grasses that dominate their savanna habitat. This high color similarity helps them blend seamlessly with the environment, reducing their visibility to predators. While their outlines are still somewhat discernible in the open field, their coloration significantly aids in concealment, especially when standing still or against more varied vegetation."
+}

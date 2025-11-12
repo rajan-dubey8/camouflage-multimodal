@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Bird",
+  "object_name": "Snowy Owl",
+  "background_description": "The background consists of a snow-covered ground with scattered patches of dry, light brown grass and small dormant shrubs in the foreground and mid-ground. Behind this, there is a large body of deep blue water (likely an ocean or large lake) under a clear, lighter blue sky.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.88,
+  "confidence": 0.95,
+  "camouflage_type": "Color blending",
+  "explanation": "The Snowy Owl's white plumage provides excellent camouflage against the snowy ground where it is standing. The white feathers blend seamlessly with the snow, making it difficult to discern the owl's outline. While the owl has black barring, which acts as a disruptive pattern to break up its form, the dominant camouflage mechanism in this snowy environment is color blending. The overall low contrast between the owl and its immediate snowy surroundings significantly aids its concealment. The blue water in the background provides a contrasting element, but the owl's primary camouflage is effective against the snowy foreground."
+}

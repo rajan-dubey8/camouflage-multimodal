@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Crustacean",
+  "object_name": "Crab",
+  "background_description": "The background consists of a rocky and sandy intertidal zone, likely a beach or shoreline. There are numerous small, wet pebbles and coarse sand in varying shades of tan, brown, white, and yellowish-orange. Larger, darker rocks, some partially covered with green algae or moss, are scattered throughout, casting distinct shadows. The scene is brightly lit by sunlight, creating strong contrasts between highlights on wet surfaces and deep shadows.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shadow hiding",
+  "explanation": "The crab is well camouflaged within its environment. Its carapace exhibits a mottled brown and tan coloration with irregular darker spots, which closely matches the varied tones and granular texture of the wet pebbles and coarse sand surrounding it. The crab's dark patterns effectively blend with the natural shadows cast by the uneven terrain and rocks, while its lighter areas reflect light similarly to the wet stones, aiding in color blending. This combination of color blending, pattern matching, and utilizing shadows makes the crab's outline and form difficult to distinguish from the visually cluttered and textured background, requiring close inspection to locate it."
+}

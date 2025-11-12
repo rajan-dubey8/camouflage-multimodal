@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists primarily of dark, wet, and decaying leaves, some showing hints of green moss or algae. The surfaces are highly reflective due to moisture, creating varied patches of light and shadow, and a glossy texture. There are also darker, shadowy areas within the dense leaf litter.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.9,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The frog exhibits exceptional camouflage, blending almost perfectly with the forest floor environment. Its coloration, featuring mottled browns, greens, and dark patches, precisely matches the wet, decaying leaves and moss that make up its immediate surroundings. The irregular, bumpy texture of its skin further mimics the rough surfaces and contours of the leaf litter. Additionally, the prominent 'horns' and jagged outline of its head and body effectively disrupt its silhouette, making it difficult to discern its true shape amidst the varied forms of the leaves. The reflective sheen on parts of its body also mirrors the wet surfaces of the leaves, enhancing its integration into the scene. The low contrast between the frog and its background, combined with its excellent color and texture mimicry, results in very effective concealment."
+}

@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background consists of a mixture of vibrant green grass blades and a substantial amount of dry, yellowish-brown, and greyish dead grass and plant debris. Patches of dark soil and granular dirt are visible underneath. The overall texture is varied and complex, with fine blades, thicker dried stems, and small clumps of earth. The lighting is bright, creating highlights and shadows within the dense ground cover.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.8",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The grasshopper is exceptionally well camouflaged in this image. Its dull brown, grey, and mottled coloration perfectly matches the dry, dead grass and soil that form the majority of its immediate surroundings. The rough, segmented texture of its body also blends seamlessly with the broken, brittle textures of the dried plant debris. This combination of high color and texture similarity, along with its posture amongst the dense vegetation, results in a very low contrast difference, making it difficult to spot. The intricate patterns on its body help to disrupt its outline against the complex, cluttered background."
+}

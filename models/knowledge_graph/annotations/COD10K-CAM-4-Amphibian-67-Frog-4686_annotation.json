@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Frog",
+  "background_description": "The background consists of shallow, clear water over a sandy and silty riverbed or puddle bottom. The bottom is predominantly light tan and brown with granular textures, showing slight variations in color and depth. A large, dark brown, rough-textured rock is partially submerged to the right of the frog, providing a solid, textured element in the environment.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": 0.8,
+  "confidence": 1.0,
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The frog exhibits excellent camouflage through a combination of color blending and pattern matching. Its skin displays various shades of brown and tan, with darker mottled patterns and lighter stripes, which remarkably mimic the colors and textures of the sandy/silty bottom and the adjacent wet rock. The overall low contrast between the frog and its immediate surroundings, combined with the disruptive patterns on its body, makes it blend seamlessly into the aquatic environment. The reflection on its back and the slight sheen from the water further integrate it visually, making it difficult to discern at first glance."
+}

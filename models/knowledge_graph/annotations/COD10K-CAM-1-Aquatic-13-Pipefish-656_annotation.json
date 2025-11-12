@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a vibrant and complex underwater reef environment. It features various encrusting corals and rocks with rough, lumpy, and uneven textures. The dominant colors include reddish-browns, dull oranges, patches of white and light greenish-blue algae or sponges, and some dark, shadowy areas indicating depth or crevices.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.2,
+  "confidence": 0.9,
+  "camouflage_type": "None",
+  "explanation": "The Pipefish is clearly visible against the coral reef background. Its elongated, relatively smooth and pale body, marked with faint dark lines and small orange speckles, contrasts significantly with the rugged, lumpy textures and darker, more saturated reddish-brown and greenish hues of the surrounding coral and rock. The overall shape of the pipefish, while slender, does not mimic any specific structure in the immediate lumpy background. The lighter coloration of the pipefish creates a high contrast against the generally darker environment, making it stand out rather than blend in."
+}

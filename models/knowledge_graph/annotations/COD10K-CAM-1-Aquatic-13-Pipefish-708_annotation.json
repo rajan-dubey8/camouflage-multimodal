@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Fish",
+  "object_name": "Pipefish",
+  "background_description": "The background consists of a dense, irregular marine substrate, predominantly reddish-brown to dark red, appearing like a rocky or coral surface heavily encrusted with various marine growths. It features mottled textures, granular patches, small dark holes, and scattered lighter white/pale areas. There is also a significant amount of greenish-brown detritus, sediment, and small algal tufts clinging to the surface, creating a very complex and varied texture and color palette.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.9",
+  "confidence": "1.0",
+  "camouflage_type": "Color blending / Pattern matching",
+  "explanation": "The Pipefish exhibits excellent camouflage, making it very difficult to spot against its complex marine background. Its elongated, slender body shape and mottled reddish-brown coloration with lighter bands closely match the dominant reddish-brown substrate and the scattered detritus and pale patches. The irregular, segmented pattern on its body effectively breaks up its outline and mimics the varied textures, granular growths, and sediment present on the marine surface. This combination of color and pattern matching results in very low contrast and high similarity with its environment, allowing it to seamlessly blend into the complex natural textures and evade detection."
+}

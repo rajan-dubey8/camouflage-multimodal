@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Amphibian",
+  "object_name": "Toad",
+  "background_description": "The background consists primarily of dry, dark soil mixed with a dense layer of light brown, straw-like dry grass and plant debris. There are also sparse green blades of grass emerging, particularly in the foreground and some visible near the toad. The lighting is bright, casting distinct shadows and highlighting textures.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The toad exhibits excellent camouflage against its environment. Its skin coloration, a mottled mix of dark browns, grays, and subtle lighter spots, precisely matches the dry, dark soil and the light brown, dried grass and debris surrounding it. The rough, warty texture of its skin also closely mimics the irregular textures of the soil clumps and the tangled plant material. The overall contrast between the toad and its immediate background is low, further aiding its concealment. The irregular shape of the toad is also effectively broken up by the surrounding vegetation and the play of light and shadow, making it very difficult to distinguish from the natural ground cover."
+}

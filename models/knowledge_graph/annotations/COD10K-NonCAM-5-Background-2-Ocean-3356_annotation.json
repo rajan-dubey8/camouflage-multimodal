@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "No Camouflage",
+  "object_category": "Environment",
+  "object_name": "Cultivated marine corals",
+  "background_description": "The immediate background consists of a dark blue hexagonal plastic grid, likely used for cultivation or display in an aquarium. Beneath and around the grid, a light blue-grey textured surface is visible, possibly the tank bottom or substrate, with some darker patches. Other corals of varying shapes and colors (whitish-yellow and purplish-pink) are also present on the grid.",
+  "color_similarity": "low",
+  "texture_similarity": "low",
+  "contrast_difference": "high",
+  "camouflage_score": 0.0,
+  "confidence": 1.0,
+  "camouflage_type": "None",
+  "explanation": "The main coral displays vibrant red and pink coloration with a distinct, lobed texture and a lighter blue-grey center. These colors and patterns stand out significantly against the dark blue geometric grid and the muted blue-grey substrate of its environment. The coral does not blend in with its surroundings in terms of color, texture, or pattern, making it highly conspicuous rather than camouflaged. Therefore, no form of camouflage (color blending, mimicry, or disruptive pattern) is present."
+}

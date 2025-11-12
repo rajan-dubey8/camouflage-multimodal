@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Insect",
+  "object_name": "Grasshopper",
+  "background_description": "The background is composed of a dense cluster of green plant foliage, likely a rose bush, featuring numerous broad leaves and stems. The stems are green with reddish-brown tinges and prominent thorns. There is a light green, somewhat spherical plant structure (possibly a bud or fruit) near the center, surrounded by smaller, more pointed leaf-like structures. The overall color palette is dominated by various shades of green, with some darker, out-of-focus areas hinting at deeper shadows or more distant foliage.",
+  "color_similarity": "high",
+  "texture_similarity": "high",
+  "contrast_difference": "low",
+  "camouflage_score": 0.85,
+  "confidence": 0.9,
+  "camouflage_type": "Color blending",
+  "explanation": "The grasshopper exhibits strong camouflage due to its remarkable color matching with the surrounding plant. Its vibrant green body perfectly blends with the fresh leaves and stems, making it very difficult to distinguish from the foliage. The insect's texture and somewhat angular shape also integrate well with the plant's natural irregularities, including the thorny stems and jagged leaf edges, further disrupting its outline. This excellent color similarity and low contrast difference between the grasshopper and its immediate environment provide effective visual concealment."
+}

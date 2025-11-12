@@ -1,0 +1,14 @@
+{
+  "entity_type": "Organism",
+  "camouflage_presence": "Camouflage",
+  "object_category": "Mammal",
+  "object_name": "Bat",
+  "background_description": "The background consists of a highly textured surface, likely tree bark or rock, characterized by deep crevices, ridges, and irregular patterns. The colors range from dark reddish-browns and grays to lighter, almost white or pale yellow patches, with some areas showing a greenish tinge, possibly moss or algae. The surface appears rugged and uneven, casting natural shadows in the depressions.",
+  "color_similarity": "high",
+  "texture_similarity": "medium",
+  "contrast_difference": "low",
+  "camouflage_score": "0.85",
+  "confidence": "0.95",
+  "camouflage_type": "Color blending / Pattern matching / Shape disruption",
+  "explanation": "The bat exhibits excellent camouflage against the bark/rock surface. Its fur coloration, a mosaic of dark browns, greys, and lighter yellowish-tan, closely matches the diverse color palette of the background. The most striking aspect is the wavy, irregular patterns on its back which effectively mimic the cracks, fissures, and varying textures of the bark, disrupting the bat's outline and making it blend seamlessly. The overall low contrast between the bat and its environment, combined with its patterns, makes it very difficult to distinguish from the background at first glance."
+}
