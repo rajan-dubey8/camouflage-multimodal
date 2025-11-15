@@ -1,6 +1,7 @@
 # ==================== SIMPLE CAMOUFLAGE DETECTION TEST ====================
 # This script tests ONLY the mask prediction (camouflage detection)
-# Usage: python simple_test.py --image path/to/image.jpg --model best_model.pth
+# Usage: python analyze_predictions.py --image ../../test_images/img15.jpg --model region_graph_model.pth
+# Run Test : python test.py --image ../../test_images/img15.jpg --model region_graph_model.pth
 
 import torch
 import torch.nn as nn
