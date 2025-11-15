@@ -1,5 +1,5 @@
 # Ignore large model/data files
-*.pt
+# *.pt
 *.pth
 *.bin
 *.h5
@@ -13,8 +13,8 @@
 .env
 
 # Ignore cache and environment folders
-__pycache__/
-.ipynb_checkpoints/
+# __pycache__/
+# .ipynb_checkpoints/
 .venv/
 venv/
 env/
