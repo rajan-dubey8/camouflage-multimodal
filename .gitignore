@@ -12,6 +12,9 @@
 *.onnx
 .env
 
+check.py
+fix_names.py
+
 # Ignore cache and environment folders
 __pycache__/
 .ipynb_checkpoints/
