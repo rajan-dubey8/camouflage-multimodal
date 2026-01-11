@@ -1,5 +1,5 @@
 """
-Knowledge Graph GNN Training - V2
+Knowledge Graph GNN Training 
 Updated for new graph structure where camouflage belongs to Environment
 """
 
@@ -22,7 +22,7 @@ NEO4J_PASS = os.getenv("NEO4J_PASS")
 TARGET_DB = os.getenv("TARGET_DB")
 
 # ============================================================
-#           MODEL (Same architecture)
+#           MODEL 
 # ============================================================
 
 class KnowledgeGraphGNN(nn.Module):
@@ -87,11 +87,11 @@ class KnowledgeGraphGNN(nn.Module):
         return self.forward(data, return_embedding=True)
 
 # ============================================================
-#           DATA EXTRACTION V2
+#           DATA EXTRACTION
 # ============================================================
 
 class Neo4jGraphExtractorV2:
-    """Extract subgraphs from V2 structure"""
+    """Extract subgraphs """
     
     def __init__(self, uri, user, password, database):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
@@ -115,7 +115,7 @@ class Neo4jGraphExtractorV2:
         """
         Extract subgraphs for organisms of given category
         
-        New query follows V2 structure:
+        New query follows:
         Organism -> ObservationContext -> Environment -> CamouflageAssessment
         """
         with self.driver.session(database=self.database) as session:
@@ -152,7 +152,7 @@ class Neo4jGraphExtractorV2:
             return subgraphs
     
     def _build_subgraph_from_record(self, record):
-        """Convert Neo4j record to PyG Data - V2 structure"""
+        """Convert Neo4j record to PyG Data"""
         nodes = {}
         edges = []
         node_id_counter = 0

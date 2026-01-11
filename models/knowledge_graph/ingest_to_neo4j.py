@@ -37,7 +37,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # ============================================================
-#           NORMALIZATION (Same as before)
+#           NORMALIZATION 
 # ============================================================
 
 COLOR_MAPPING = {
@@ -177,7 +177,7 @@ def extract_structured(json_obj: Dict[str, Any], source_file: str) -> Dict[str, 
     }
 
 # ============================================================
-#           NEO4J V2 STRUCTURE
+#           NEO4J STRUCTURE
 # ============================================================
 
 class CamouflageKnowledgeGraphV2:

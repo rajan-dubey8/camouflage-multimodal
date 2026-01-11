@@ -92,7 +92,7 @@ def extract_label_from_mask(mask_path, threshold=0.1):
     return label, confidence
 
 
-# ==================== IMPROVED DATASET ====================
+# ====================  DATASET ====================
 
 class SmartMultimodalDataset(Dataset):
     """Dataset with smart label extraction"""

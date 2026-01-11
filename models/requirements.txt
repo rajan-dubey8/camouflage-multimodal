@@ -1,0 +1,42 @@
+# --- Deep Learning ---
+torch
+torchvision
+torchaudio
+
+# --- PyTorch Geometric ---
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+
+# --- Multimodal Fusion / Transformers ---
+transformers
+
+# --- Image Processing ---
+numpy
+scikit-image
+scipy
+opencv-python
+matplotlib
+Pillow
+
+# --- Knowledge Graph ---
+owlready2
+rdflib
+neo4j
+py2neo
+networkx
+
+# --- Utilities ---
+pandas
+tqdm
+argparse
+json5
+PyYAML
+seaborn
+psutil
+
+
+# pip install torch torch_geometric opencv-python pillow matplotlib numpy tqdm pyyaml scikit-image
+# pip install torch torchvision torchaudio torch-geometric torch-scatter torch-sparse torch-cluster torch-spline-conv transformers numpy scikit-image scipy opencv-python matplotlib pillow owlready2 rdflib neo4j py2neo networkx pandas tqdm json5 pyyaml seaborn psutil

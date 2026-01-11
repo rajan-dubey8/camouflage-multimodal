@@ -1,5 +1,5 @@
 """
-Extract KG embeddings for fusion - V2
+Extract KG embeddings for fusion 
 Works with restructured graph where camouflage is on Environment
 """
 

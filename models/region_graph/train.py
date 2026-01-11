@@ -2,7 +2,7 @@
 # 1. Better loss weighting for multi-task learning
 # 2. Enhanced feature extraction with edge-aware features
 # 3. Attention mechanism to focus on camouflaged regions
-# 4. Improved ground truth labeling threshold
+# 4.  ground truth labeling threshold
 # 5. Better edge weight computation
 
 import torch
@@ -19,7 +19,7 @@ import os
 from torch_geometric.data import Data, Batch
 from torch_geometric.nn import GCNConv, GATConv, global_mean_pool
 
-# ==================== IMPROVED DATASET ====================
+# ====================  DATASET ====================
 class CODDataset(Dataset):
     def __init__(self, img_dir, mask_dir, instance_dir, edge_dir, transform=None, n_segments=500):
         self.img_dir = img_dir
@@ -88,7 +88,7 @@ class CODDataset(Dataset):
     
     def create_region_graph(self, image, mask, instance_mask, edge_mask):
         """
-        IMPROVED: Enhanced feature extraction with edge-aware features
+         Standard feature extraction with edge-aware features
         """
         mask = np.array(mask).squeeze()
         instance_mask = np.array(instance_mask).squeeze()
@@ -105,7 +105,7 @@ class CODDataset(Dataset):
         region_id_map = {}
         valid_region_count = 0
         
-        # IMPROVED: Compute edge-aware features
+        #  Compute edge-aware features
         gray_image = np.dot(image[..., :3], [0.2989, 0.5870, 0.1140])
         edges_canny = feature.canny(gray_image, sigma=2)
         
@@ -136,10 +136,10 @@ class CODDataset(Dataset):
             area = region_mask_bool.sum()
             compactness = (perimeter ** 2) / (4 * np.pi * area + 1e-10)
             
-            # IMPROVED: Edge-aware features
+            #  Edge-aware features
             edge_density = edges_canny[region_mask_bool].mean()
             
-            # IMPROVED: Boundary contrast with edge information
+            #  Boundary contrast with edge information
             dilated = ndimage.binary_dilation(region_mask_bool, iterations=2)
             neighbor_mask = dilated & ~region_mask_bool
             contrast = 0.0
@@ -147,7 +147,7 @@ class CODDataset(Dataset):
                 neighbor_colors = image[neighbor_mask]
                 contrast = np.linalg.norm(mean_color - neighbor_colors.mean(axis=0))
             
-            # IMPROVED: Local texture variation
+            #  Local texture variation
             local_variance = np.var(gray_pixels)
             
             features = np.concatenate([
@@ -165,7 +165,7 @@ class CODDataset(Dataset):
             features = np.nan_to_num(features, nan=0.0)
             node_features.append(features)
             
-            # IMPROVED: Better ground truth labeling (threshold increased to 0.5)
+            #  Better ground truth labeling (threshold increased to 0.5)
             mask_pixels = mask[region_mask_bool]
             node_labels.append(1 if mask_pixels.mean() > 0.5 else 0)
             
@@ -183,7 +183,7 @@ class CODDataset(Dataset):
         instance_labels = torch.LongTensor(instance_labels)
         edge_labels = torch.FloatTensor(edge_labels)
         
-        # IMPROVED: Adaptive edge weight computation
+        #  Adaptive edge weight computation
         rag = graph.rag_mean_color(image_for_slic, segments)
         edge_index = []
         edge_weight = []
@@ -195,7 +195,7 @@ class CODDataset(Dataset):
                 new_j = region_id_map[j]
                 edge_index.extend([[new_i, new_j], [new_j, new_i]])
                 
-                # IMPROVED: Multi-feature edge weight
+                #  Multi-feature edge weight
                 color_diff = np.linalg.norm(node_features[new_i][:3] - node_features[new_j][:3])
                 texture_diff = abs(node_features[new_i][6] - node_features[new_j][6])
                 edge_diff = abs(node_features[new_i][12] - node_features[new_j][12])  # NEW
@@ -231,12 +231,12 @@ def custom_collate(batch):
     graph_batch = Batch.from_data_list(graph_data_list)
     return images, masks, instance_masks, edge_masks, graph_batch, names
 
-# ==================== IMPROVED GNN MODEL ====================
+# ====================  GNN MODEL ====================
 class RegionGraphGNN(nn.Module):
     def __init__(self, in_channels=15, hidden_channels=128, num_classes=2):  # 15 features now
         super(RegionGraphGNN, self).__init__()
         
-        # IMPROVED: Use GAT (Graph Attention) for first layer to learn important features
+        #  Use GAT (Graph Attention) for first layer to learn important features
         self.conv1 = GATConv(in_channels, hidden_channels, heads=4, concat=False)
         self.bn1 = nn.BatchNorm1d(hidden_channels)
         
@@ -249,7 +249,7 @@ class RegionGraphGNN(nn.Module):
         self.conv4 = GCNConv(hidden_channels, hidden_channels)
         self.bn4 = nn.BatchNorm1d(hidden_channels)
         
-        # IMPROVED: Separate feature extraction for each task
+        #  Separate feature extraction for each task
         self.fc_shared = nn.Linear(hidden_channels, hidden_channels)
         
         # Task-specific heads
@@ -293,7 +293,7 @@ class RegionGraphGNN(nn.Module):
         x_shared = F.relu(self.fc_shared(x))
         x_shared = F.dropout(x_shared, p=0.2, training=self.training)
         
-        # IMPROVED: Task-specific branches
+        #  Task-specific branches
         # Mask prediction (main task)
         x_mask = F.relu(self.fc_mask_1(x_shared))
         x_mask = F.dropout(x_mask, p=0.2, training=self.training)
@@ -311,22 +311,22 @@ class RegionGraphGNN(nn.Module):
         
         return mask_out, instance_out, edge_out
 
-# ==================== IMPROVED TRAINING ====================
+# ====================  TRAINING ====================
 def train_model(model, dataloader, val_loader=None, epochs=30, lr=0.001):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = model.to(device)
     optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=1e-4)
     
-    # IMPROVED: Better learning rate schedule
+    #  Better learning rate schedule
     scheduler = torch.optim.lr_scheduler.CosineAnnealingWarmRestarts(optimizer, T_0=10, T_mult=2)
     
-    # IMPROVED: Weighted multi-task loss
+    #  Weighted multi-task loss
     # Weights: mask (most important) > instance > edge
     criterion_mask = nn.CrossEntropyLoss(weight=torch.tensor([1.0, 5.0]).to(device))
     criterion_instance = nn.CrossEntropyLoss(weight=torch.tensor([1.0, 4.0]).to(device))
     criterion_edge = nn.BCEWithLogitsLoss(pos_weight=torch.tensor([3.0]).to(device))
     
-    # IMPROVED: Task weights for multi-task learning
+    #  Task weights for multi-task learning
     task_weights = {'mask': 2.0, 'instance': 1.0, 'edge': 0.5}
     
     best_loss = float('inf')
@@ -345,7 +345,7 @@ def train_model(model, dataloader, val_loader=None, epochs=30, lr=0.001):
             optimizer.zero_grad()
             mask_out, instance_out, edge_out = model(graph_data)
             
-            # IMPROVED: Weighted multi-task loss
+            #  Weighted multi-task loss
             loss_mask = criterion_mask(mask_out, graph_data.y) * task_weights['mask']
             loss_instance = criterion_instance(instance_out, graph_data.instance_y) * task_weights['instance']
             loss_edge = criterion_edge(edge_out.squeeze(), graph_data.edge_y.to(device)) * task_weights['edge']
@@ -418,7 +418,7 @@ def validate_model(model, dataloader, criterion_mask, criterion_instance, criter
 # ==================== MAIN ====================
 if __name__ == "__main__":
     print("="*70)
-    print("IMPROVED CAMOUFLAGE OBJECT DETECTION - MULTI-TASK TRAINING")
+    print(" CAMOUFLAGE OBJECT DETECTION - MULTI-TASK TRAINING")
     print("="*70)
     
     img_dir = "COD10K/images"
@@ -450,7 +450,7 @@ if __name__ == "__main__":
     print(f"  ✓ Features: 15 (added edge density + local variance)")
     print(f"  ✓ Multi-task weights: Mask=2.0, Instance=1.0, Edge=0.5")
     
-    print("\n[2/5] Initializing improved model...")
+    print("\n[2/5] Initializing  model...")
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = RegionGraphGNN(in_channels=15, hidden_channels=128, num_classes=2)
     total_params = sum(p.numel() for p in model.parameters())

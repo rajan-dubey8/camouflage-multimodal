@@ -18,6 +18,7 @@ import argparse
 import json
 from tqdm import tqdm
 from collections import OrderedDict
+from matplotlib import gridspec
 
 # Local imports (run from repo root)
 from models.multimodal.fusion_model import MultimodalCamouflageDetector, build_multimodal_model
@@ -279,29 +280,25 @@ def visualize_prediction(image_path, predictions, attention_weights, kg_categori
     ax6.axvline(x=0.5, color='black', linestyle='--', alpha=0.3)
     ax6.axvline(x=0.8, color='black', linestyle='--', alpha=0.3)
 
-    # 7. Edge prediction
-    ax7 = plt.subplot(2, 4, 7)
-    edge_prob = predictions.get('edge_prob', 0.0)
-    ax7.bar(['No Edge', 'Edge'], [1-edge_prob, edge_prob], color=['gray', 'blue'], alpha=0.7)
-    ax7.set_ylabel('Probability')
-    ax7.set_ylim([0, 1])
-    ax7.set_title('Edge Detection', fontweight='bold')
-
-    # 8. Statistics panel
-    ax8 = plt.subplot(2, 4, 8)
+    # 7. Statistics Panel 
+    gs = gridspec.GridSpec(2, 4, figure=fig)
+    ax_stats = plt.subplot(gs[1, 2:4])   # <-- This makes it DOUBLE size
     stats_text = "STATISTICS\n\n"
     stats_text += f"Prediction: {'Camouflaged' if pred_label==camo_index else 'Not Camouflaged'}\n"
     stats_text += f"Camo Prob: {camo_prob:.2%}\n"
     stats_text += f"Not Camo Prob: {not_camo_prob:.2%}\n\n"
     stats_text += f"Instance Pred: {predictions.get('instance_pred', 0)}\n"
-    stats_text += f"Edge Prob: {edge_prob:.2%}\n\n"
     stats_text += f"Score: {score:.3f}\n\n"
     stats_text += f"Regions: {predictions['segments'].max()+1}\n"
 
-    ax8.text(0.1, 0.5, stats_text, ha='left', va='center', fontsize=10,
-             fontfamily='monospace',
-             bbox=dict(boxstyle='round', facecolor='lightblue', alpha=0.8))
-    ax8.axis('off')
+    ax_stats.text(
+        0.02, 0.5, stats_text,
+        ha='left', va='center',
+        fontsize=15, fontfamily='monospace',
+        bbox=dict(boxstyle='round', facecolor='lightblue', alpha=0.8,pad=1)
+    )
+    ax_stats.axis('off')
+    
 
     plt.tight_layout()
     os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
