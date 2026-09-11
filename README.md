@@ -233,5 +233,4 @@ These show output format only; corresponding quantitative results are not record
 ## References
 
 - COD10K source/license: not determined from the repository.
-- No paper, DOI, or external methodological reference is included.
 
